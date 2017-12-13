@@ -24,3 +24,18 @@
 .heading span {
   font-size: 7.3pt;
 }
+
+.showMore {
+  color: map(colors, primary, base);
+  font-weight: bold;
+  border: 1px solid currentColor;
+  background-color: transparent;
+  border-radius: 5px;
+  margin: 1em auto;
+  display: block;
+}
+
+.items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+}

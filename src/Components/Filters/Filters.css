@@ -4,3 +4,29 @@
   grid-gap: 1em;
   margin-bottom: 1em;
 }
+
+.form {
+  position: relative;
+}
+
+.nameInput {
+  border: 0;
+  width: 100%;
+  border-bottom: 1px solid map(colors, primary, dark);
+}
+
+.label {
+  color: map(colors, primary, dark);
+  position: absolute;
+  font-weight: normal;
+  pointer-events: none;
+  left: 0;
+  bottom: 0;
+  transition: .4s;
+}
+
+.nameInput:focus ~ .label,
+.nameInput:valid ~ .label {
+  bottom: 80%;
+  font-size: .75em;
+}

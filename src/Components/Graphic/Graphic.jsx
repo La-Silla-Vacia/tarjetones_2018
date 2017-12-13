@@ -9,22 +9,33 @@ export default class Graphic extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      filter: []
+      filter: [],
+      nameFilter: '',
+      show: 14
     }
   }
 
   getPeople() {
     // Get the data from the attribute
-    const { filter } = this.state;
+    const { filter, nameFilter, show } = this.state;
     const { data } = this.props;
 
     // Loop through the data
+    let i = 0;
     return data.map((item, key) => {
-        for (let i = 0; i < filter.length; i += 1) {
-          const filterItem = filter[i];
-          if (filterItem.which === null) continue;
-          if (item[filterItem.column] !== filterItem.which) return;
+        if (nameFilter) {
+          const name = `${item.nombres} ${item.apellido1} ${item.apellido2}`;
+          if (!name.toLowerCase().includes(nameFilter.toLowerCase())) return;
+        } else {
+          for (let j = 0; j < filter.length; j += 1) {
+            const filterItem = filter[i];
+            if (filterItem.which === null) continue;
+            if (item[filterItem.column] !== filterItem.which) return;
+          }
         }
+
+        if (i > show) return;
+        i += 1;
 
         // Return the element. If you click on it run the handleClick function
         return (
@@ -38,9 +49,22 @@ export default class Graphic extends Component {
     this.setState({ filter: newFilters });
   };
 
+  handleNameUpdate = newName => {
+    this.setState({ nameFilter: newName });
+  };
+
+  handleShowMore = () => {
+    const { show } = this.state;
+    if (show < this.props.data.length) {
+      this.setState({ show: show + 15 });
+    }
+  };
+
   render() {
+    const { show } = this.state;
     const { data } = this.props;
     const people = this.getPeople();
+
     return (
       <div className={s.root}>
 
@@ -73,6 +97,7 @@ export default class Graphic extends Component {
             }
           ]}
           onFilterUpdate={this.handleFilterUpdate}
+          onNameUpdate={this.handleNameUpdate}
         />
 
         <header className={cN(r.root, s.heading)}>
@@ -80,7 +105,12 @@ export default class Graphic extends Component {
           <div><span>Cámara</span></div>
           <div><span>Partido</span></div>
         </header>
-        {people}
+
+        <div className={s.items}>
+          {people}
+        </div>
+
+        <button className={s.showMore} onClick={this.handleShowMore}>Mostrar más</button>
       </div>
     )
   }

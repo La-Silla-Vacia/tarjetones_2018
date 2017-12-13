@@ -257,7 +257,33 @@
                 <!-- START OF OUR INTERACTIVE -->
                 <script type="text/javascript">
                   window.tarjetones_2018_data = {
-                    "dataUri": "https://lsv-candidatos-congreso-2018.firebaseio.com/data.json"
+                    "dataUri": "https://lsv-candidatos-congreso-2018.firebaseio.com/data.json",
+                    "filters": [
+                      {
+                        title: 'Género',
+                        column: 'genero'
+                      },
+                      {
+                        title: 'Profesión u oficio',
+                        column: 'profesionUOficio'
+                      },
+                      {
+                        title: 'Nivel de estudios',
+                        column: 'nivelDeEstudios'
+                      },
+                      {
+                        title: 'Sector del que viene',
+                        column: 'sectorDelQueViene'
+                      },
+                      {
+                        title: 'Experto en',
+                        column: 'expertoEn'
+                      },
+                      {
+                        title: 'Ha sido congresista',
+                        column: 'haSidoCongresista'
+                      }
+                    ]
                   }
                 </script>
                 <div class="lsv-interactive" id="tarjetones_2018">

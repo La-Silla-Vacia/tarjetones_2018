@@ -1,12 +1,9 @@
-import { h, render, Component } from 'preact';
+import React, { Component } from 'react';
 import cN from 'classnames';
+import Select from '../Select';
 import s from './Graphic.css';
 
 export default class Graphic extends Component {
-  handleClick(name) {
-    alert(`Just clicked on ${name}!`);
-  }
-
   getCircles() {
     // Get the data from the attribute
     const { data } = this.props;
@@ -33,11 +30,14 @@ export default class Graphic extends Component {
     );
   }
 
-  render(props, state) {
+  render() {
     const circles = this.getCircles();
 
     return (
-      <div className={s.container}>
+      <div className={s.root}>
+
+        <Select />
+
         <header className={cN(s.person, s.heading)}>
           <div className={s.extraIndent}><span>Nombre</span></div>
           <div><span>Cámara</span></div>

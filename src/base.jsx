@@ -1,4 +1,4 @@
-import { h, render, Component } from 'preact';
+import React, { Component } from 'react';
 import cn from 'classnames';
 
 import getData from './Scripts/getData';
@@ -28,8 +28,8 @@ export default class Base extends Component {
     getData(this.setData);
   }
 
-  render(props, state) {
-    const { loading, data } = state;
+  render() {
+    const { loading, data } = this.state;
 
     // If it's still downloading the data, show the loadscreen
     let content = (loading) ? (<LoadScreen />) : (

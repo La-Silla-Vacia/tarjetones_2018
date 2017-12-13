@@ -1,6 +1,7 @@
 /*global require,console*/
 var lsv = require('lsv-interactive');
-import { h, render } from 'preact';
+import React from 'react';
+import ReactDOM from 'react-dom';
 import Base from './src/base.jsx';
 
 require("./src/base.css"); // this goes outside the callback since otherwise the interactive sometimes fires before the CSS is fully loaded
@@ -14,9 +15,6 @@ lsv("tarjetones_2018", function (interactive) {
     return;
   }
 
-  //MARKUP
-  render((
-    <Base {...interactive} />
-  ), interactive.el);
+  ReactDOM.render( <Base {...interactive} />, interactive.el);
 
 }, true); // change this last param to true if you want to skip the DOM checks

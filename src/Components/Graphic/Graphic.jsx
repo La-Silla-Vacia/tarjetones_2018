@@ -70,32 +70,6 @@ export default class Graphic extends Component {
 
         <Filters
           data={data}
-          items={[
-            {
-              title: "Género",
-              column: 'genero'
-            },
-            {
-              title: 'Profesión u oficio',
-              column: 'profesionUOficio'
-            },
-            {
-              title: 'Nivel de estudios',
-              column: 'nivelDeEstudios'
-            },
-            {
-              title: 'Sector del que viene',
-              column: 'sectorDelQueViene'
-            },
-            {
-              title: 'Experto en',
-              column: 'expertoEn'
-            },
-            {
-              title: 'Ha sido congresista',
-              column: 'haSidoCongresista'
-            }
-          ]}
           onFilterUpdate={this.handleFilterUpdate}
           onNameUpdate={this.handleNameUpdate}
         />

@@ -25,12 +25,12 @@
   pointer-events: none;
   transition: .4s;
   transform-origin: center;
-  z-index: 11;
 }
 
 .arrowOpen {
   transform: rotate(225deg);
   top: 0.625em;
+  z-index: 11;
 }
 
 .options {

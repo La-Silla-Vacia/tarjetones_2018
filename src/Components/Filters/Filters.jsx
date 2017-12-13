@@ -81,7 +81,8 @@ export default class Filters extends Component {
   }
 
   getSelects() {
-    const { items } = this.props;
+    const items = tarjetones_2018_data.filters;
+    if (!items) return;
     return items.map((item) => {
       return (
         <Select
@@ -101,24 +102,24 @@ export default class Filters extends Component {
   };
 
   render() {
-    const { nameValue } = this.state;
+    // const { nameValue } = this.state;
     const selects = this.getSelects();
     return (
       <div className={s.root}>
         {selects}
 
-        <form className={s.form}>
-          <input
-            id={`input-${s.nameInput}`}
-            required={true}
-            className={s.nameInput}
-            value={nameValue}
-            onChange={this.handleFormInput}
-            autoComplete={'off'}
-            type="text"
-          />
-          <label className={s.label} htmlFor={`input-${s.nameInput}`}>Busca a una persona</label>
-        </form>
+        {/*<form className={s.form}>*/}
+           {/*<input*/}
+             {/*id={`input-${s.nameInput}`}*/}
+             {/*required={true}*/}
+             {/*className={s.nameInput}*/}
+             {/*value={nameValue}*/}
+             {/*onChange={this.handleFormInput}*/}
+             {/*autoComplete={'off'}*/}
+             {/*type="text"*/}
+           {/*/>*/}
+           {/*<label className={s.label} htmlFor={`input-${s.nameInput}`}>Busca a una persona</label>*/}
+         {/*</form>*/}
       </div>
     )
   }

@@ -36,7 +36,33 @@ To embed on a webpage use this code:
 <!-- START OF OUR INTERACTIVE -->
 <script type="text/javascript">
 window.tarjetones_2018_data = {
-  "dataUri": "https://lsv-data-visualizations.firebaseio.com/tarjetones_2018.json"
+  "dataUri": "https://lsv-data-visualizations.firebaseio.com/tarjetones_2018.json",
+  "filters": [
+               {
+                 title: "Género",
+                 column: 'genero'
+               },
+               {
+                 title: 'Profesión u oficio',
+                 column: 'profesionUOficio'
+               },
+               {
+                 title: 'Nivel de estudios',
+                 column: 'nivelDeEstudios'
+               },
+               {
+                 title: 'Sector del que viene',
+                 column: 'sectorDelQueViene'
+               },
+               {
+                 title: 'Experto en',
+                 column: 'expertoEn'
+               },
+               {
+                 title: 'Ha sido congresista',
+                 column: 'haSidoCongresista'
+               }
+             ]
 }
 </script>
 <div class="lsv-interactive" id="tarjetones_2018">
@@ -46,3 +72,5 @@ window.tarjetones_2018_data = {
 <script defer type="text/javascript" src="https://la-silla-vacia.github.io/tarjetones_2018/script.js"></script>
 <!-- END OF OUR INTERACTIE -->
 ```
+
+You can remove the filters if you want, or add more columns. Make sure to 'camelcaze' the column title from the spreadsheet.

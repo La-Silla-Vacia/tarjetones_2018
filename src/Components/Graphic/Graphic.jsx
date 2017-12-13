@@ -56,8 +56,11 @@ export default class Graphic extends Component {
           if (!filterItem) continue;
           if (!filterItem.hasOwnProperty("only")) continue;
 
-          console.log(filterItem.only, item[filterItem.column]);
-          if (item[filterItem.column] !== filterItem.only) return;
+          if (typeof filterItem.only === 'object') {
+            if (filterItem.only.indexOf(item[filterItem.column]) === -1) return;
+          } else {
+            if (item[filterItem.column] !== filterItem.only) return;
+          }
         }
       }
       return item;

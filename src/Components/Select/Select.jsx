@@ -39,7 +39,7 @@ export default class Select extends Component {
       <div className={s.root}>
         <div className={s.title}>{title}</div>
         <div className={s.box}>
-          <div className={s.options}>
+          <div className={cN(s.options, {[s.open]: open})}>
             {options.map((item, i) => {
               if (open || i === selected) {
                 return (

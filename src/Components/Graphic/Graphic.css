@@ -11,33 +11,7 @@
   grid-column: span 2;
 }
 
-.person {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(130px, 1fr));
-  grid-column-gap: 1em;
-  align-items: center;
-  transition: .4s;
-  padding: 0.5em;
-}
-
-.person:nth-child(2n) {
-  background-color: rgba(199, 199, 199, 0.2);
-}
-
-.photo {
-  border-radius: 50%;
-  width: 2em;
-  margin-right: 1em;
-  display: inline-block;
-}
-
-.name {
-  font-family: map(fonts, family-serif);
-  font-weight: bold;
-  grid-column: span 2;
-}
-
-.person.heading {
+.heading {
   background-color: map(colors, espaciales, elecciones2015);
   color: #fff;
   font-family: Lato, Roboto, Helvetica, sans-serif;

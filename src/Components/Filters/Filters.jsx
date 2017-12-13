@@ -42,8 +42,30 @@ export default class Filters extends Component {
     if (onFilterUpdate) onFilterUpdate(filter);
   }
 
+  isFilterWorthIt(column, value) {
+    // Get the data from the attribute
+    const { filter } = this.state;
+    const { data } = this.props;
+
+    // Loop through the data
+    const people = data.map((item, key) => {
+        const { nombres } = item;
+
+        for (let i = 0; i < filter.length; i += 1) {
+          const filterItem = filter[i];
+          if (filterItem.which === null) continue;
+          if (item[filterItem.column] !== filterItem.which) return;
+        }
+
+        if (item[column] !== value) return;
+
+        return nombres;
+      }
+    );
+    return people.clean(undefined).length;
+  }
+
   generateOptions(column) {
-    console.log('generating');
     const { data } = this.props;
 
     const array = [];
@@ -53,6 +75,8 @@ export default class Filters extends Component {
       for (let i = 0; i < array.length; i += 1) {
         if (array[i] === item[column]) return;
       }
+
+      // if (!this.isFilterWorthIt(column, item[column])) return;
 
       array.push(item[column]);
       return {
@@ -70,6 +94,7 @@ export default class Filters extends Component {
     return items.map((item) => {
       return (
         <Select
+          key={item.title}
           title={item.title}
           options={this.generateOptions(item.column)}
           callback={this.handleFilterChange.bind(this, item.column)}

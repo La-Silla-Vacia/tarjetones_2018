@@ -25,6 +25,7 @@
   pointer-events: none;
   transition: .4s;
   transform-origin: center;
+  z-index: 11;
 }
 
 .arrowOpen {
@@ -39,6 +40,10 @@
   width: 100%;
 }
 
+.open {
+  z-index: 10;
+}
+
 .option {
   padding: 0.5em;
   border: 0;
@@ -46,8 +51,11 @@
   width: 100%;
   text-align: left;
   border-radius: 0;
-  box-shadow: 0 -1px 0 currentColor;
   background-color: #fff;
+}
+
+.open .option {
+  box-shadow: 0 -1px 0 currentColor;
 }
 
 .option:first-child {

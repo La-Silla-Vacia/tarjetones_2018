@@ -2,23 +2,48 @@
   width: 100%;
   height: 100%;
   position: relative;
-  display: flex;
-  align-items: center;
   justify-content: space-around;
   padding-bottom: 2em;
 }
 
-.circle {
-  border-radius: 50%;
-  background-color: map(colors, red, santander);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: .4s;
-  border: 0;
+.heading {
+  background-color: map(colors, espaciales, elecciones2015);
+  color: #fff;
+  font-family: Lato,Roboto,Helvetica,sans-serif;
+  margin: 0;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
 
-  &:hover {
-    background-color: map(colors, red, lider);
-    color: #fff;
-  }
+.heading span {
+  font-size: 7.3pt;
+}
+
+.extraIndent {
+  margin-left: 3em;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-column-gap: 1em;
+  align-items: center;
+  transition: .4s;
+  padding: 0.5em;
+}
+
+.person:nth-child(2n) {
+  background-color: rgba(199, 199, 199, 0.2);
+}
+
+.photo {
+  border-radius: 50%;
+  width: 2em;
+  margin-right: 1em;
+}
+
+.name {
+  font-family: map(fonts, family-serif);
+  font-weight: bold;
 }

@@ -104,7 +104,6 @@ export default class Filters extends Component {
   };
 
   render() {
-    // const { nameValue } = this.state;
     const selects = this.getSelects();
     return (
       <div className={s.root}>

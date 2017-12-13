@@ -52,6 +52,18 @@ export default class Row extends Component {
         {(open) ?
           <div className={s.popup}>
             <div className={s.popup__inner}>
+
+              <button className={s.close_btn}>
+                <svg width="41px" height="41px" viewBox="0 0 41 41">
+                  <rect transform="translate(21.500000, 21.500000) rotate(45.000000) translate(-21.500000, -21.500000) "
+                        x="-6" y="20" width="55" height="3" />
+                  <rect
+                    transform="translate(21.500000, 21.500000) rotate(135.000000) translate(-21.500000, -21.500000) "
+                    x="-6" y="20" width="55" height="3" />
+
+                </svg>
+              </button>
+
               <header className={s.popup__header}>
                 <img className={s.photo} src={photo} alt='' />
                 <div className={s.name}>

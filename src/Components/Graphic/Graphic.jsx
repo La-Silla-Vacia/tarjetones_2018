@@ -22,13 +22,10 @@ export default class Graphic extends Component {
   getPeople() {
     // Get the data from the attribute
     const { items, show } = this.state;
-    const { data } = this.props;
 
     // Loop through the data
     let i = 0;
     return items.map((item, key) => {
-
-
         i += 1;
         if (i > show) return;
 
@@ -71,7 +68,6 @@ export default class Graphic extends Component {
 
   handleFilterUpdate = newFilters => {
     this.filterItems(newFilters);
-    console.log('hoi');
   };
 
   handleNameUpdate = newName => {
@@ -89,10 +85,8 @@ export default class Graphic extends Component {
     const { availableItems, show } = this.state;
     const { data } = this.props;
     const people = this.getPeople();
-    console.log(availableItems);
     return (
       <div className={s.root}>
-
         <Filters
           data={data}
           onFilterUpdate={this.handleFilterUpdate}

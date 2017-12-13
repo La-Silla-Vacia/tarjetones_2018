@@ -1,14 +1,9 @@
 .root {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(130px, 1fr));
-  grid-column-gap: 1em;
   align-items: center;
   transition: .4s;
-  padding: 0.5em;
-}
-
-.root:nth-child(2n):not(header) {
-  background-color: rgba(199, 199, 199, 0.2);
+  padding: 0.5em 0 0;
+  border: 1px solid map(colors, primary, base);
+  text-align: center;
 }
 
 .name {
@@ -19,7 +14,26 @@
 
 .photo {
   border-radius: 50%;
-  width: 2em;
-  margin-right: 1em;
+  width: 6em;
+  margin-bottom: 1em;
   display: inline-block;
+}
+
+.footer{
+  background-color: map(colors, secondary, light);
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5em;
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+.headline {
+  text-transform: uppercase;
+  font-size: 0.7em;
+  font-weight: normal;
+}
+
+.social {
+  font-size: .8em;
 }

@@ -11,7 +11,7 @@ export default class Graphic extends Component {
     this.state = {
       filter: [],
       nameFilter: '',
-      show: 14
+      show: 11
     }
   }
 
@@ -100,11 +100,11 @@ export default class Graphic extends Component {
           onNameUpdate={this.handleNameUpdate}
         />
 
-        <header className={cN(r.root, s.heading)}>
-          <div className={s.extraIndent}><span>Nombre</span></div>
-          <div><span>Cámara</span></div>
-          <div><span>Partido</span></div>
-        </header>
+        {/*<header className={cN(r.root, s.heading)}>*/}
+          {/*<div className={s.extraIndent}><span>Nombre</span></div>*/}
+          {/*<div><span>Cámara</span></div>*/}
+          {/*<div><span>Partido</span></div>*/}
+        {/*</header>*/}
 
         <div className={s.items}>
           {people}

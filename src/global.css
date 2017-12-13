@@ -1,0 +1,21 @@
+/* Hide the sidebar in historias */
+.article-sidebar.col-md-4.col-lg-3 {
+  display: none;
+}
+
+.field-item > p,
+.img-container {
+  max-width: 713px;
+}
+
+@media (min-width: 1200px) {
+  .article-content.col-sm-12.col-md-8 {
+    width: 85%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .article-content.col-md-8 {
+    width: calc(100% - 20px) !important;
+  }
+}

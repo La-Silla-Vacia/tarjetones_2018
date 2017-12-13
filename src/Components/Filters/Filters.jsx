@@ -84,6 +84,8 @@ export default class Filters extends Component {
     const items = tarjetones_2018_data.filters;
     if (!items) return;
     return items.map((item) => {
+      if (item.hasOwnProperty("only")) return;
+
       return (
         <Select
           key={item.title}

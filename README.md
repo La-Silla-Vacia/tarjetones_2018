@@ -39,8 +39,9 @@ window.tarjetones_2018_data = {
   "dataUri": "https://lsv-data-visualizations.firebaseio.com/tarjetones_2018.json",
   "filters": [
                {
-                 title: "Género",
-                 column: 'genero'
+                 title: 'Género',
+                 column: 'genero',
+                 only: 'Mujer'
                },
                {
                  title: 'Profesión u oficio',
@@ -73,4 +74,4 @@ window.tarjetones_2018_data = {
 <!-- END OF OUR INTERACTIE -->
 ```
 
-You can remove the filters if you want, or add more columns. Make sure to 'camelcaze' the column title from the spreadsheet.
+You can remove the filters if you want, or add more columns. Make sure to 'camelcase' the column title from the spreadsheet. Optional is the `only` key. There you can say for example, only rows where the value is 'Mujer'. If you pass the only key, then the filter will also be hidden.

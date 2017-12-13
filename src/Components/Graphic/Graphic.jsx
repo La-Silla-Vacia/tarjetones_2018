@@ -34,6 +34,18 @@ export default class Graphic extends Component {
           }
         }
 
+        const customFilters = tarjetones_2018_data.filters;
+        if (typeof customFilters) {
+          for (let j = 0; j < customFilters.length; j += 1) {
+            const filterItem = customFilters[i];
+            if (!filterItem) continue;
+            if (!filterItem.hasOwnProperty("only")) continue;
+
+            console.log(filterItem.only, item[filterItem.column]);
+            if (item[filterItem.column] !== filterItem.only) return;
+          }
+        }
+
         if (i > show) return;
         i += 1;
 
@@ -75,9 +87,9 @@ export default class Graphic extends Component {
         />
 
         {/*<header className={cN(r.root, s.heading)}>*/}
-          {/*<div className={s.extraIndent}><span>Nombre</span></div>*/}
-          {/*<div><span>Cámara</span></div>*/}
-          {/*<div><span>Partido</span></div>*/}
+        {/*<div className={s.extraIndent}><span>Nombre</span></div>*/}
+        {/*<div><span>Cámara</span></div>*/}
+        {/*<div><span>Partido</span></div>*/}
         {/*</header>*/}
 
         <div className={s.items}>

@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import cN from 'classnames';
 import Filters from '../Filters';
-import r from '../Row/Row.css';
 import s from './Graphic.css';
 import Row from "../Row";
 
@@ -11,43 +9,28 @@ export default class Graphic extends Component {
     this.state = {
       filter: [],
       nameFilter: '',
-      show: 11
+      show: 9,
+      availableItems: 0,
+      items: []
     }
+  }
+
+  componentDidMount() {
+    this.filterItems(this.state.filter);
   }
 
   getPeople() {
     // Get the data from the attribute
-    const { filter, nameFilter, show } = this.state;
+    const { items, show } = this.state;
     const { data } = this.props;
 
     // Loop through the data
     let i = 0;
-    return data.map((item, key) => {
-        if (nameFilter) {
-          const name = `${item.nombres} ${item.apellido1} ${item.apellido2}`;
-          if (!name.toLowerCase().includes(nameFilter.toLowerCase())) return;
-        } else {
-          for (let j = 0; j < filter.length; j += 1) {
-            const filterItem = filter[i];
-            if (filterItem.which === null) continue;
-            if (item[filterItem.column] !== filterItem.which) return;
-          }
-        }
+    return items.map((item, key) => {
 
-        const customFilters = tarjetones_2018_data.filters;
-        if (typeof customFilters) {
-          for (let j = 0; j < customFilters.length; j += 1) {
-            const filterItem = customFilters[i];
-            if (!filterItem) continue;
-            if (!filterItem.hasOwnProperty("only")) continue;
 
-            console.log(filterItem.only, item[filterItem.column]);
-            if (item[filterItem.column] !== filterItem.only) return;
-          }
-        }
-
-        if (i > show) return;
         i += 1;
+        if (i > show) return;
 
         // Return the element. If you click on it run the handleClick function
         return (
@@ -57,8 +40,38 @@ export default class Graphic extends Component {
     );
   }
 
+  filterItems(filter) {
+    const { data } = this.props;
+
+    const items = data.map((item) => {
+
+      for (let j = 0; j < filter.length; j += 1) {
+        const filterItem = filter[j];
+        if (!filterItem) continue;
+        if (filterItem.which === null) continue;
+        if (item[filterItem.column] !== filterItem.which) return;
+      }
+
+      const customFilters = tarjetones_2018_data.filters;
+      if (typeof customFilters) {
+        for (let j = 0; j < customFilters.length; j += 1) {
+          const filterItem = customFilters[j];
+          if (!filterItem) continue;
+          if (!filterItem.hasOwnProperty("only")) continue;
+
+          console.log(filterItem.only, item[filterItem.column]);
+          if (item[filterItem.column] !== filterItem.only) return;
+        }
+      }
+      return item;
+    });
+
+    this.setState({ items: items.clean(undefined), availableItems: items.clean(undefined).length });
+  }
+
   handleFilterUpdate = newFilters => {
-    this.setState({ filter: newFilters });
+    this.filterItems(newFilters);
+    console.log('hoi');
   };
 
   handleNameUpdate = newName => {
@@ -73,10 +86,10 @@ export default class Graphic extends Component {
   };
 
   render() {
-    const { show } = this.state;
+    const { availableItems, show } = this.state;
     const { data } = this.props;
     const people = this.getPeople();
-
+    console.log(availableItems);
     return (
       <div className={s.root}>
 
@@ -86,17 +99,13 @@ export default class Graphic extends Component {
           onNameUpdate={this.handleNameUpdate}
         />
 
-        {/*<header className={cN(r.root, s.heading)}>*/}
-        {/*<div className={s.extraIndent}><span>Nombre</span></div>*/}
-        {/*<div><span>Cámara</span></div>*/}
-        {/*<div><span>Partido</span></div>*/}
-        {/*</header>*/}
-
         <div className={s.items}>
           {people}
         </div>
 
-        <button className={s.showMore} onClick={this.handleShowMore}>Mostrar más</button>
+        {(show <= availableItems) ?
+          <button className={s.showMore} onClick={this.handleShowMore}>Mostrar más</button>
+          : false}
       </div>
     )
   }

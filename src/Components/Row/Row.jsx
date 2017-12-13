@@ -25,31 +25,29 @@ export default class Row extends Component {
     return (
       <div tabIndex={0} className={cN(s.root, { [s.open]: open })} onClick={this.handleClick}>
         <div className={s.inner}>
-          <img className={s.photo} src={photo} alt='' />
-          <div>
-            <div className={s.name}>
-              {nombres} {apellido1} {apellido2}
-            </div>
-            <div className={s.social}>
-              {(twitter) ?
-                <a href={`https://twitter.com/${twitter}`} target='_blank' rel={'noreferer'}>{twitter}</a>
-                : false}
-              {(twitter && perfilDeQuienEsQuien) ? ' - ' : false}
-              {(perfilDeQuienEsQuien) ?
-                <a href={perfilDeQuienEsQuien}>Quien es quien</a>
-                : false}
-            </div>
-            <footer className={s.footer}>
-              <div className={s.camara}>
-                <div className={s.headline}>Cámara</div>
-                {camara}
-              </div>
-              <div className={s.partido}>
-                <div className={s.headline}>Partido</div>
-                {partido}
-              </div>
-            </footer>
+          <div className={s.photo} style={{ backgroundImage: `url('${photo}')` }} />
+          <div className={s.name}>
+            {nombres} {apellido1} {apellido2}
           </div>
+          <div className={s.social}>
+            {(twitter) ?
+              <a href={`https://twitter.com/${twitter}`} target='_blank' rel={'noreferer'}>{twitter}</a>
+              : false}
+            {(twitter && perfilDeQuienEsQuien) ? ' - ' : false}
+            {(perfilDeQuienEsQuien) ?
+              <a href={perfilDeQuienEsQuien}>Quien es quien</a>
+              : false}
+          </div>
+          <footer className={s.footer}>
+            <div className={s.camara}>
+              <div className={s.headline}>Cámara</div>
+              {camara}
+            </div>
+            <div className={s.partido}>
+              <div className={s.headline}>Partido</div>
+              {partido}
+            </div>
+          </footer>
         </div>
         {(open) ?
           <div className={s.popup}>

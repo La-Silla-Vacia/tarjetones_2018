@@ -58,7 +58,6 @@
     "postcss-responsive-type": "latest",
     "postcss-simple-vars": "latest",
     "postcss-smart-import": "^0.6.10",
-    "preact": "^7.2.1",
     "precss": "^1.4.0",
     "sass-loader": "6.0.3",
     "style-loader": "0.13.2",

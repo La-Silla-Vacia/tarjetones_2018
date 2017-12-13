@@ -46,7 +46,7 @@
   width: 100%;
   text-align: left;
   border-radius: 0;
-  box-shadow: 0 1px 0 currentColor;
+  box-shadow: 0 -1px 0 currentColor;
   background-color: #fff;
 }
 

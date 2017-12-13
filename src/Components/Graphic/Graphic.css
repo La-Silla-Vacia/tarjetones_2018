@@ -8,11 +8,12 @@
 
 .extraIndent {
   margin-left: 3em;
+  grid-column: span 2;
 }
 
 .person {
   display: grid;
-  grid-template-columns: minmax(280px, 1fr) repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(4, minmax(130px, 1fr));
   grid-column-gap: 1em;
   align-items: center;
   transition: .4s;
@@ -33,6 +34,7 @@
 .name {
   font-family: map(fonts, family-serif);
   font-weight: bold;
+  grid-column: span 2;
 }
 
 .person.heading {

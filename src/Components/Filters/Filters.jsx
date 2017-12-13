@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import cN from 'classnames';
 import Select from '../Select';
 import s from './Filters.css';
 
 Array.prototype.clean = function (deleteValue) {
-  for (var i = 0; i < this.length; i++) {
-    if (this[i] == deleteValue) {
+  for (let i = 0; i < this.length; i++) {
+    if (this[i] === deleteValue) {
       this.splice(i, 1);
       i--;
     }
@@ -67,33 +66,8 @@ export default class Filters extends Component {
   }
 
   getSelects() {
-    const which = [
-      {
-        title: "Género",
-        column: 'genero'
-      },
-      {
-        title: 'Profesión u oficio',
-        column: 'profesionUOficio'
-      },
-      {
-        title: 'Nivel de estudios',
-        column: 'nivelDeEstudios'
-      },
-      {
-        title: 'Sector del que viene',
-        column: 'sectorDelQueViene'
-      },
-      {
-        title: 'Experto en',
-        column: 'expertoEn'
-      },
-      {
-        title: 'Ha sido congresista',
-        column: 'haSidoCongresista'
-      }
-    ];
-    return which.map((item) => {
+    const {items} = this.props;
+    return items.map((item) => {
       return (
         <Select
           title={item.title}

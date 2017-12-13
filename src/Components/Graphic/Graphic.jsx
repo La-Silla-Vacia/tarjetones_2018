@@ -53,7 +53,36 @@ export default class Graphic extends Component {
     return (
       <div className={s.root}>
 
-        <Filters data={data} onFilterUpdate={this.handleFilterUpdate} />
+        <Filters
+          data={data}
+          items={[
+            {
+              title: "Género",
+              column: 'genero'
+            },
+            {
+              title: 'Profesión u oficio',
+              column: 'profesionUOficio'
+            },
+            {
+              title: 'Nivel de estudios',
+              column: 'nivelDeEstudios'
+            },
+            {
+              title: 'Sector del que viene',
+              column: 'sectorDelQueViene'
+            },
+            {
+              title: 'Experto en',
+              column: 'expertoEn'
+            },
+            {
+              title: 'Ha sido congresista',
+              column: 'haSidoCongresista'
+            }
+          ]}
+          onFilterUpdate={this.handleFilterUpdate}
+        />
 
         <header className={cN(s.person, s.heading)}>
           <div className={s.extraIndent}><span>Nombre</span></div>

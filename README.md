@@ -36,7 +36,7 @@ To embed on a webpage use this code:
 <!-- START OF OUR INTERACTIVE -->
 <script type="text/javascript">
 window.tarjetones_2018_data = {
-  "dataUri": "https://lsv-data-visualizations.firebaseio.com/tarjetones_2018.json",
+  "dataUri": "https://lsv-candidatos-congreso-2018.firebaseio.com/data.json",
   "filters": [
                {
                  title: 'Género',

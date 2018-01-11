@@ -38,8 +38,12 @@ export default class Filters extends Component {
     const { filter } = this.state;
     const { data } = this.props;
 
+    for (let i = 0; i< filter.length; i += 1) {
+      if (filter[i].column === column) return true;
+    }
+
     // Loop through the data
-    const people = data.map((item, key) => {
+    const people = data.map((item) => {
         const { nombres } = item;
 
         for (let i = 0; i < filter.length; i += 1) {
@@ -53,6 +57,7 @@ export default class Filters extends Component {
         return nombres;
       }
     );
+
     return people.clean(undefined).length;
   }
 
@@ -67,7 +72,7 @@ export default class Filters extends Component {
         if (array[i] === item[column]) return;
       }
 
-      // if (!this.isFilterWorthIt(column, item[column])) return;
+      if (!this.isFilterWorthIt(column, item[column])) return;
 
       array.push(item[column]);
       return {

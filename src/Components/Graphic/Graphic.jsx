@@ -95,7 +95,9 @@ export default class Graphic extends Component {
           onFilterUpdate={this.handleFilterUpdate}
           onNameUpdate={this.handleNameUpdate}
         />
-
+        {(!people.length) ?
+          <em>Sus opciones de filtro no dan resultado. Por favor cámbialos.</em>
+          : false}
         <div className={s.items}>
           {people}
         </div>

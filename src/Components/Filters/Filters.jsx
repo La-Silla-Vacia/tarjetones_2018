@@ -38,13 +38,31 @@ export default class Filters extends Component {
     const { filter } = this.state;
     const { data } = this.props;
 
-    for (let i = 0; i< filter.length; i += 1) {
-      if (filter[i].column === column) return true;
+    const items = tarjetones_2018_data.filters;
+
+    for (let i = 0; i < filter.length; i += 1) {
+      if (filter[i].column === column) return data.filter((item) => {
+        if (items) {
+          for (let i = 0; i < items.length; i += 1) {
+            if (items[i].hasOwnProperty("only")) {
+              if (item[items[i].column] === items[i].only) return true;
+            }
+          }
+        }
+      });
     }
 
     // Loop through the data
     const people = data.map((item) => {
         const { nombres } = item;
+
+        if (items) {
+          for (let i = 0; i < items.length; i += 1) {
+            if (items[i].hasOwnProperty("only")) {
+              if (item[items[i].column] !== items[i].only) return;
+            }
+          }
+        }
 
         for (let i = 0; i < filter.length; i += 1) {
           const filterItem = filter[i];
@@ -115,17 +133,17 @@ export default class Filters extends Component {
         {selects}
 
         {/*<form className={s.form}>*/}
-           {/*<input*/}
-             {/*id={`input-${s.nameInput}`}*/}
-             {/*required={true}*/}
-             {/*className={s.nameInput}*/}
-             {/*value={nameValue}*/}
-             {/*onChange={this.handleFormInput}*/}
-             {/*autoComplete={'off'}*/}
-             {/*type="text"*/}
-           {/*/>*/}
-           {/*<label className={s.label} htmlFor={`input-${s.nameInput}`}>Busca a una persona</label>*/}
-         {/*</form>*/}
+        {/*<input*/}
+        {/*id={`input-${s.nameInput}`}*/}
+        {/*required={true}*/}
+        {/*className={s.nameInput}*/}
+        {/*value={nameValue}*/}
+        {/*onChange={this.handleFormInput}*/}
+        {/*autoComplete={'off'}*/}
+        {/*type="text"*/}
+        {/*/>*/}
+        {/*<label className={s.label} htmlFor={`input-${s.nameInput}`}>Busca a una persona</label>*/}
+        {/*</form>*/}
       </div>
     )
   }

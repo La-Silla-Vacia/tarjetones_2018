@@ -8,7 +8,9 @@ export default class Filters extends Component {
     this.state = {
       filter: [],
       nameValue: ''
-    }
+    };
+
+    this.options = [];
   }
 
   handleFilterChange(column, a) {
@@ -31,6 +33,35 @@ export default class Filters extends Component {
     }
 
     if (onFilterUpdate) onFilterUpdate(filter);
+  }
+
+  componentWillMount() {
+    const items = tarjetones_2018_data.filters;
+    if (!items) return;
+    this.options = items.map((item) => {
+      if (item.hasOwnProperty("only")) return;
+      let options;
+
+      if (item.hasOwnProperty("options")) {
+        options = item.options.map((option) => {
+          return {
+            label: option,
+            value: option
+          };
+        });
+      } else {
+        options = this.generateOptions(item.column);
+      }
+
+      options.unshift({ label: "Todos", value: null });
+
+      return {
+        column: item.column,
+        title: item.title,
+        options: options
+      }
+    });
+    this.options.clean(undefined);
   }
 
   isFilterWorthIt(column, value) {
@@ -81,7 +112,6 @@ export default class Filters extends Component {
 
   generateOptions(column) {
     const { data } = this.props;
-
     const array = [];
     const items = data.map((item) => {
       if (item[column] === '') return;
@@ -99,21 +129,19 @@ export default class Filters extends Component {
       };
     });
 
-    items.unshift({ label: "Todos", value: null });
     return items.clean(undefined);
   }
 
   getSelects() {
     const items = tarjetones_2018_data.filters;
     if (!items) return;
-    return items.map((item) => {
-      if (item.hasOwnProperty("only")) return;
+    return this.options.map((item) => {
 
       return (
         <Select
           key={item.title}
           title={item.title}
-          options={this.generateOptions(item.column)}
+          options={item.options}
           callback={this.handleFilterChange.bind(this, item.column)}
         />
       );

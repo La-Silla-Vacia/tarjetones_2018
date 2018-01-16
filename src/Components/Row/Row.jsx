@@ -65,7 +65,7 @@ export default class Row extends Component {
               </button>
 
               <header className={s.popup__header}>
-                <img className={s.photo} src={photo} alt='' />
+                <div className={s.photo} style={{ backgroundImage: `url('${photo}')` }} />
                 <div className={s.name}>
                   {nombres} {apellido1} {apellido2}
                 </div>

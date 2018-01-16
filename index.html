@@ -6,8 +6,8 @@
   <meta name="robots" content="noindex, nofollow">
   <title>tarjetones_2018</title>
   <link
-    href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto+Slab:100,300,400,700|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
-    rel="stylesheet">
+      href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto+Slab:100,300,400,700|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
+      rel="stylesheet">
   <link type="text/css" rel="stylesheet"
         href="https://cdn.rawgit.com/La-Silla-Vacia/lsv-interactive/master/misc/lsv-before-bootstrap.css" />
   <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.css" media="all" />
@@ -189,29 +189,29 @@
                 <li class="twitter">
                   <a href="#">
                     <img
-                      src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/iconos/iconos_twitter-header.svg"
-                      alt="Tweet">
+                        src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/iconos/iconos_twitter-header.svg"
+                        alt="Tweet">
                   </a>
                 </li>
                 <li class="facebook">
                   <a href="#">
                     <img
-                      src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/iconos/iconos_facebook-header.svg"
-                      alt="">
+                        src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/iconos/iconos_facebook-header.svg"
+                        alt="">
                   </a>
                 </li>
                 <li class="whatsapp visible-xs">
                   <a href="#">
                     <img
-                      src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/iconos/iconos_watsup-header.svg"
-                      alt="">
+                        src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/iconos/iconos_watsup-header.svg"
+                        alt="">
                   </a>
                 </li>
                 <li class="email">
                   <a href="#">
                     <img
-                      src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/iconos/iconos_mail-header.svg"
-                      alt="">
+                        src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/iconos/iconos_mail-header.svg"
+                        alt="">
                   </a>
                 </li>
               </ul>
@@ -260,36 +260,51 @@
                     "dataUri": "https://lsv-candidatos-congreso-2018.firebaseio.com/data.json",
                     "filters": [
                       {
+                        title: 'Partido',
+                        column: 'partido',
+                        only: 'Centro Democrático'
+                      },
+                      {
+                        title: 'Cámara',
+                        column: 'camara',
+                        only: 'Senado'
+                      },
+                      {
                         title: 'Género',
                         column: 'genero',
-                        only: 'Mujer'
-                      },
-                      {
-                        title: 'Profesión u oficio',
-                        column: 'profesionUOficio'
-                      },
-                      {
+                        options: [
+                          'Hombre',
+                          'Mujer'
+                        ]
+                      }, {
+                        title: 'Departamento',
+                        column: 'departamento'
+                      }, {
+                        title: 'Heredero político',
+                        column: 'esHerederoPolitico'
+                      }, {
+                        title: 'Cuestionado',
+                        column: 'cuestionado'
+                      }, {
                         title: 'Nivel de estudios',
                         column: 'nivelDeEstudios'
-                      },
-                      {
+                      }, {
                         title: 'Sector del que viene',
                         column: 'sectorDelQueViene'
-                      },
-                      {
-                        title: 'Experto en',
-                        column: 'expertoEn'
-                      },
-                      {
+                      }, {
                         title: 'Ha sido congresista',
                         column: 'haSidoCongresista'
+                      }, {
+                        title: 'Precandidato que apoyaba',
+                        column: 'precandidatoQueApoyaba'
                       }
                     ]
                   }
                 </script>
                 <div class="lsv-interactive" id="tarjetones_2018">
-                  <img src="https://raw.githubusercontent.com/la-silla-vacia/lsv-interactive/master/misc/lsvi-loading.gif"
-                       alt="Interactive is loading" style="width:100%;max-width: 320px;margin: 4em auto;display: block;">
+                  <img
+                      src="https://raw.githubusercontent.com/la-silla-vacia/lsv-interactive/master/misc/lsvi-loading.gif"
+                      alt="Interactive is loading" style="width:100%;max-width: 320px;margin: 4em auto;display: block;">
                 </div>
                 <script defer type="text/javascript" src="script.js"></script>
                 <!-- END OF OUR INTERACTIE -->
@@ -355,7 +370,8 @@
     </div>
     <div class="lower-footer row">
       <div class="col left col-md-4">
-        <img src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/logo/logo_silla_logosimbolo-footer.svg" alt=""
+        <img src="http://lasillavacia.com/sites/all/themes/lasillavacia/images/logo/logo_silla_logosimbolo-footer.svg"
+             alt=""
              class="logoFooter">
       </div>
       <div class="col center col-md-8">

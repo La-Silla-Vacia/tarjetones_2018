@@ -102,7 +102,6 @@ export default class Filters extends Component {
         }
 
         if (item[column] !== value) return;
-
         return nombres;
       }
     );

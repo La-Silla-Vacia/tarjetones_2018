@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Filters from '../Filters';
+import Filters from '../../../../elections_2018/shared/Components/Filters';
 import s from './Graphic.css';
 import Row from "../Row";
 
@@ -66,7 +66,7 @@ export default class Graphic extends Component {
       return item;
     });
 
-    this.setState({ items: items.clean(undefined), availableItems: items.clean(undefined).length });
+    this.setState({ items: items.clean(undefined), filter, availableItems: items.clean(undefined).length });
   }
 
   handleFilterUpdate = newFilters => {
@@ -92,6 +92,8 @@ export default class Graphic extends Component {
       <div className={s.root}>
         <Filters
           data={data}
+          grid={true}
+          filter={this.state.filter}
           onFilterUpdate={this.handleFilterUpdate}
           onNameUpdate={this.handleNameUpdate}
         />

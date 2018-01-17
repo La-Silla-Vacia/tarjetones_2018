@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import cn from 'classnames';
 
-import getData from './Scripts/getData';
-import LoadScreen from './Components/LoadScreen';
+import getData from '../../elections_2018/shared/data/getData';
+import LoadScreen from '../../elections_2018/shared/Components/LoadScreen';
 import Graphic from './Components/Graphic';
 
 import s from './base.css';

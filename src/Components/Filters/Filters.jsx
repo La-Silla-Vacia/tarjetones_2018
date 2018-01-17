@@ -160,16 +160,16 @@ export default class Filters extends Component {
         {selects}
 
         {/*<form className={s.form}>*/}
-        {/*<input*/}
-        {/*id={`input-${s.nameInput}`}*/}
-        {/*required={true}*/}
-        {/*className={s.nameInput}*/}
-        {/*value={nameValue}*/}
-        {/*onChange={this.handleFormInput}*/}
-        {/*autoComplete={'off'}*/}
-        {/*type="text"*/}
-        {/*/>*/}
-        {/*<label className={s.label} htmlFor={`input-${s.nameInput}`}>Busca a una persona</label>*/}
+          {/*<input*/}
+            {/*id={`input-${s.nameInput}`}*/}
+            {/*required={true}*/}
+            {/*className={s.nameInput}*/}
+            {/*value={this.state.nameValue}*/}
+            {/*onChange={this.handleFormInput}*/}
+            {/*autoComplete={'off'}*/}
+            {/*type="text"*/}
+          {/*/>*/}
+          {/*<label className={s.label} htmlFor={`input-${s.nameInput}`}>Busca a una persona</label>*/}
         {/*</form>*/}
       </div>
     )

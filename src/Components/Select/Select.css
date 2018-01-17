@@ -13,37 +13,39 @@
 }
 
 .arrow {
-  width: 0.75em;
-  height: 0.75em;
-  border: 1px solid currentColor;
-  border-bottom: 0;
-  border-right: 0;
-  transform: rotate(45deg);
   position: absolute;
-  right: 1em;
-  top: 1.125em;
+  right: 0.5em;
+  top: 0.75em;
   pointer-events: none;
   transition: .4s;
   transform-origin: center;
+
+  width: 0;
+  height: 0;
+  border-left: 0.35em solid transparent;
+  border-right: 0.35em solid transparent;
+  border-top: 0.5em solid currentColor;
 }
 
 .arrowOpen {
-  transform: rotate(225deg);
-  top: 0.625em;
+  transform: rotate(180deg);
   z-index: 11;
 }
 
 .options {
-  border: 1px solid currentColor;
-  border-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
   position: absolute;
   width: 100%;
-  max-height: 22em;
+  max-height: 25em;
   overflow: auto;
+
 }
 
 .open {
   z-index: 10;
+  border: 1px solid currentColor;
+  border-top: 0;
 }
 
 .option {
@@ -60,12 +62,26 @@
   box-shadow: 0 -1px 0 currentColor;
 }
 
-.option:first-child {
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-}
-
 .option:last-child {
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
+}
+
+.toggle {
+  position: relative;
+  width: 100%;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-right: 1em;
+  background-color: transparent;
+  margin-right: 1em;
+  border: 1px solid transparent;
+}
+
+.toggle.open,
+.toggle.open:focus {
+  outline: none;
+  border-color: currentColor;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }

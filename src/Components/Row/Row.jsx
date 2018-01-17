@@ -20,14 +20,14 @@ export default class Row extends Component {
 
   render() {
     const { open } = this.state;
-    const { nombres, apellido1, apellido2, camara, partido, foto, twitter, perfilDeQuienEsQuien, perfilito } = this.props;
+    const { name, camara, partido, foto, twitter, perfilDeQuienEsQuien, perfilito } = this.props;
     const photo = (foto) ? foto : 'http://archivo.lasillavacia.com/archivos/historias/odebrecht/15.jpg';
     return (
       <div tabIndex={0} className={cN(s.root, { [s.open]: open })} onClick={this.handleClick}>
         <div className={s.inner}>
           <div className={s.photo} style={{ backgroundImage: `url('${photo}')` }} />
           <div className={s.name}>
-            {nombres} {apellido1} {apellido2}
+            {name}
           </div>
           <div className={s.social}>
             {(twitter) ?
@@ -67,7 +67,7 @@ export default class Row extends Component {
               <header className={s.popup__header}>
                 <div className={s.photo} style={{ backgroundImage: `url('${photo}')` }} />
                 <div className={s.name}>
-                  {nombres} {apellido1} {apellido2}
+                  {name}
                 </div>
               </header>
               <article className={s.content} dangerouslySetInnerHTML={{ __html: converter.makeHtml(perfilito) }} />

@@ -31,8 +31,13 @@
   height: 6em;
   background-size: cover;
   background-position: center;
-  margin-right: 1em;
+  margin-bottom: 1em;
   display: inline-block;
+}
+
+.popup .photo {
+  margin-right: 1em;
+  margin-bottom: 0;
 }
 
 .footer {
@@ -68,6 +73,7 @@
 }
 
 .popup__inner {
+  width: 90%;
   max-width: 30em;
   background-color: #fff;
   margin: 6em auto 4em;
@@ -86,7 +92,7 @@
 }
 
 .content p {
-  font-size: 16px;
+  font-size: 16px !important;
   margin-right: 0;
   text-align: left;
 }

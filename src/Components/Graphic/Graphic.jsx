@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Filters from '../../../../elections_2018/shared/Components/Filters';
+import Filters from '../Filters';
 import s from './Graphic.css';
 import Row from "../Row";
 

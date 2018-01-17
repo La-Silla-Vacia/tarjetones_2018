@@ -31,24 +31,17 @@ export default class Select extends Component {
     if (selected !== i && callback) callback(options[i].value);
   };
 
-  toggle = () => {
-    this.setState({ open: !this.state.open });
-  };
-
   render() {
-    const { open } = this.state;
+    const { open, selected } = this.state;
     const { title, options } = this.props;
 
     return (
       <div className={s.root}>
+        <div className={s.title}>{title}</div>
         <div className={s.box}>
-          <button className={cN(s.toggle, s.option, { [s.open]: open })} onClick={this.toggle}>
-            <div className={s.title}>{title}</div>
-            <div className={cN(s.arrow, { [s.arrowOpen]: open })} />
-          </button>
-          <div className={cN(s.options, { [s.open]: open })}>
+          <div className={cN(s.options, {[s.open]: open})}>
             {options.map((item, i) => {
-              if (open) {
+              if (open || i === selected) {
                 return (
                   <Option onClick={this.handleClick.bind(this, i)} key={i}>
                     {item.label}
@@ -57,6 +50,7 @@ export default class Select extends Component {
               }
             })}
           </div>
+          <div className={cN(s.arrow, { [s.arrowOpen]: open })} />
         </div>
       </div>
     )

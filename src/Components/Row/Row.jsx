@@ -35,16 +35,14 @@ export default class Row extends Component {
               : false}
             {(twitter && perfilDeQuienEsQuien) ? ' - ' : false}
             {(perfilDeQuienEsQuien) ?
-              <a href={perfilDeQuienEsQuien}>Quien es quien</a>
+              <a href={perfilDeQuienEsQuien} target='_blank' rel={'noreferer'}>Quien es quien</a>
               : false}
           </div>
           <footer className={s.footer}>
             <div className={s.camara}>
-              <div className={s.headline}>Cámara</div>
               {camara}
             </div>
             <div className={s.partido}>
-              <div className={s.headline}>Partido</div>
               {partido}
             </div>
           </footer>

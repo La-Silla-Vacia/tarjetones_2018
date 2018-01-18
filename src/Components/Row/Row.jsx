@@ -38,7 +38,7 @@ export default class Row extends Component {
               <a href={perfilDeQuienEsQuien} target='_blank' rel={'noreferer'}>Quien es quien</a>
               : false}
           </div>
-          <footer className={s.footer}>
+          <footer className={s.footer} data-partido={partido}>
             <div className={s.camara}>
               {camara}
             </div>

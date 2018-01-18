@@ -2,7 +2,7 @@
   align-items: center;
   transition: .4s;
   padding: 0.5em 0 0;
-  border: 1px solid map(colors, primary, base);
+  border: 1px solid map(colors, partidos, otros);
   text-align: center;
   cursor: pointer;
 }
@@ -41,13 +41,70 @@
 }
 
 .footer {
-  background-color: map(colors, secondary, light);
+  background-color: map(colors, partidos, otros);
+  color: #fff;
   display: flex;
   justify-content: space-between;
   padding: 0.5em;
   font-weight: bold;
   margin-top: 1em;
   width: 100%;
+}
+
+.footer[data-partido="Afros"] {
+  background-color: map(colors, partidos, afros);
+}
+
+.footer[data-partido="Indígenas"] {
+  background-color: map(colors, partidos, indigenas);
+}
+
+.footer[data-partido="Farc"] {
+  background-color: map(colors, partidos, farc);
+}
+
+.footer[data-partido="Opción ciudadana"] {
+  background-color: map(colors, partidos, opcionCiudadana);
+}
+
+.footer[data-partido="Polo"] {
+  background-color: map(colors, partidos, polo);
+}
+
+.footer[data-partido="Coalición Colombia"] {
+  background-color: map(colors, partidos, coalicionColombia);
+}
+
+.footer[data-partido="Alianza Verde"] {
+  background-color: map(colors, partidos, alianzaVerde);
+}
+
+.footer[data-partido="Lista De La Decencia"] {
+  background-color: map(colors, partidos, listaDeLaDecencia);
+}
+
+.footer[data-partido="Liberal"] {
+  background-color: map(colors, partidos, liberal);
+}
+
+.footer[data-partido="La U"] {
+  background-color: map(colors, partidos, laU);
+}
+
+.footer[data-partido="Cambio Radical"] {
+  background-color: map(colors, partidos, cambioRadical);
+}
+
+.footer[data-partido="Mira"] {
+  background-color: map(colors, partidos, mira);
+}
+
+.footer[data-partido="Conservador"] {
+  background-color: map(colors, partidos, conservador);
+}
+
+.footer[data-partido="Centro Democrático"] {
+  background-color: map(colors, partidos, centroDemocratico);
 }
 
 .headline {

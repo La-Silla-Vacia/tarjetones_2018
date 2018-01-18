@@ -7,7 +7,7 @@
     "url": "https://github.com/La-Silla-Vacia/tarjetones_2018.git"
   },
   "dependencies": {
-    "lsv-components": "latest",
+    "lsv-components": "1.0.9",
     "lsv-interactive": "latest",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",

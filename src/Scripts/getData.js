@@ -47,6 +47,7 @@ function formatData(data) {
       numeroEnElTarjeton: item.Q,
       posicionIz_der1A100: item.R,
       departamento: item.S,
+      subregionProvinciaOLocalidad: item.T,
       profesionUOficio: item.U,
       nivelDeEstudios: item.V,
       sectorDelQueViene: item.W,

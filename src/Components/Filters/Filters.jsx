@@ -101,10 +101,6 @@ export default class Filters extends Component {
               if (!filterItem.only.includes(person[filterItem.column])) {
                 return true
               }
-              if (value === 'Técnico' && person.id === 'p24') {
-                console.log(column, value);
-                console.log(filterItem.only, person[filterItem.column])
-              }
             } else if (person[filterItem.column] !== filterItem.only) {
               return true;
             }

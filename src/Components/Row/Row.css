@@ -2,8 +2,7 @@
   align-items: center;
   transition: .4s;
   padding: 0.5em 0 0;
-  border: 1px solid map(colors, partidos, otros);
-  text-align: center;
+  border: 1px solid #3d3d3d;
   cursor: pointer;
 }
 
@@ -14,15 +13,15 @@
 .inner {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: space-between;
   height: 100%;
 }
 
-.name {
-  font-family: map(fonts, family-serif);
-  font-weight: bold;
+.root .inner > .name,
+.root > .popup .name {
+  font-weight: bold !important;
   grid-column: span 2;
+  padding: 0 0.5em;
 }
 
 .photo {
@@ -31,29 +30,45 @@
   height: 6em;
   background-size: cover;
   background-position: center;
-  margin-bottom: 1em;
   display: inline-block;
+  margin: 0 auto 1em;
 }
 
 .popup .photo {
-  margin-right: 1em;
+  /*margin-right: 1em;*/
   margin-bottom: 0;
 }
 
 .footer {
-  background-color: map(colors, partidos, otros);
+  background-color:  #3d3d3d;
   color: #fff;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  /*justify-content: space-between;*/
   padding: 0.5em;
   font-weight: bold;
   margin-top: 1em;
+  text-align: left;
+  text-transform: uppercase;
   width: 100%;
 }
 
+.footer > .camara,
+.footer > .partido {
+  letter-spacing: 0.4px;
+  font-size: 19px;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer > .camara,
+  .footer > .partido {
+    font-size: 28px !important;
+  }
+}
+
 [data-partido="Otros"] {
-  fill: map(colors, partidos, otros);
-  background-color: map(colors, partidos, otros);
+  fill: #3d3d3d;
+  background-color: #3d3d3d;
 }
 
 [data-partido="Afros"] {
@@ -93,8 +108,8 @@
 }
 
 [data-partido="Alianza Verde"] {
-  fill: map(colors, partidos, alianzaVerde);
-  background-color: map(colors, partidos, alianzaVerde);
+  fill: #03a855;
+  background-color: #03a855;
 }
 
 [data-partido="Lista De La Decencia"] {
@@ -103,38 +118,64 @@
 }
 
 [data-partido="Liberal"] {
-  fill: map(colors, partidos, liberal);
-  background-color: map(colors, partidos, liberal);
+  fill: #cf2a24;
+  background-color: #cf2a24;
 }
 
 [data-partido="La U"] {
-  fill: map(colors, partidos, laU);
-  background-color: map(colors, partidos, laU);
+  fill: #ff9900;
+  background-color: #ff9900;
 }
 
 [data-partido="Cambio Radical"] {
-  fill: map(colors, partidos, cambioRadical);
-  background-color: map(colors, partidos, cambioRadical);
+  fill: #4a4297;
+  background-color: #4a4297;
 }
 
 [data-partido="Mira"] {
-  fill: map(colors, partidos, mira);
-  background-color: map(colors, partidos, mira);
+  fill: #202c54;
+  background-color: #202c54;
 }
 
 [data-partido="Conservador"] {
-  fill: map(colors, partidos, conservador);
-  background-color: map(colors, partidos, conservador);
+  fill: #012bb3;
+  background-color: #012bb3;
 }
 
 [data-partido="Centro Democrático"] {
-  fill: map(colors, partidos, centroDemocratico);
-  background-color: map(colors, partidos, centroDemocratico);
+  fill: #2a94ff;
+  background-color: #2a94ff;
+}
+
+[data-partido="Centro Esperanza"] {
+  fill: #a7ce00;
+  background-color: #a7ce00;
 }
 
 [data-partido="Mais"] {
   fill: map(colors, partidos, mais);
   background-color: map(colors, partidos, mais);
+}
+
+[data-partido="Nuevo Liberalismo"] {
+  fill: #aa1a1a;
+  background-color: #aa1a1a;
+}
+
+[data-partido="Comunes"] {
+  fill: #300202;
+  background-color: #300202;
+}
+
+[data-partido="Estamos Listas"] {
+  fill: #590080;
+  background-color: #590080;
+}
+
+[data-partido="Pacto Historico"],
+[data-partido="Pacto Histórico"]{
+  fill: #fc00bb;
+  background-color: #fc00bb;
 }
 
 .headline {
@@ -145,6 +186,7 @@
 
 .social {
   font-size: .8em;
+  padding: 0 0.5em;
 }
 
 .popup {
@@ -170,6 +212,7 @@
 
 .popup__header {
   display: flex;
+  flex-direction: column;
   align-items: center;
   margin-bottom: 1em;
 }

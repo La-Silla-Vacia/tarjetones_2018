@@ -14,7 +14,7 @@
 .heading {
   background-color: map(colors, espaciales, elecciones2015);
   color: #fff;
-  font-family: Lato, Roboto, Helvetica, sans-serif;
+  /*font-family: Lato, Roboto, Helvetica, sans-serif;*/
   margin: 0;
   letter-spacing: 1px;
   text-decoration: none;
@@ -37,6 +37,7 @@
 
 .items {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  grid-gap: 2em;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+  gap: 10px;
 }

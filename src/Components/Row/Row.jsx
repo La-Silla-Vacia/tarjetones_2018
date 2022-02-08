@@ -38,11 +38,11 @@ export default class Row extends Component {
               <a href={perfilDeQuienEsQuien} target='_blank' rel={'noreferer'}>Quien es quien</a>
               : false}
           </div>
-          <footer className={s.footer} data-partido={partido}>
-            <div className={s.camara}>
+          <footer className={cN(s.footer, 'font-martin')} data-partido={partido}>
+            <h3 data-adaptacion-texto="32-26" className={cN(s.camara, 'h3')}>
               {camara}
-            </div>
-            <div className={s.partido}>
+            </h3>
+            <div data-adaptacion-texto="32-26" className={s.partido}>
               {partido}
             </div>
           </footer>

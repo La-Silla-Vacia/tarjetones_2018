@@ -1,5 +1,7 @@
 .root {
   color: map(colors, primary, dark);
+  display: flex;
+  flex-direction: column;
   max-width: 25em;
 }
 
@@ -8,8 +10,10 @@
 }
 
 .box {
+  color: map(colors, primary, base);
   position: relative;
   height: 3em;
+  margin-top: auto;
 }
 
 .arrow {
@@ -47,6 +51,7 @@
 }
 
 .option {
+  color: currentColor;
   padding: 0.35em 0.5em;
   border: 0;
   display: block;

@@ -38,8 +38,9 @@ export default class Filters extends Component {
   componentWillMount() {
     const items = tarjetones_2018_data.filters;
     if (!items) return;
+
     this.options = items.map((item) => {
-      if (item.hasOwnProperty("only")) return;
+      if (item.hasOwnProperty("only") && typeof item.only === 'string') return;
       let options;
 
       if (item.hasOwnProperty("options")) {
@@ -76,7 +77,14 @@ export default class Filters extends Component {
         if (items) {
           for (let i = 0; i < items.length; i += 1) {
             if (items[i].hasOwnProperty("only")) {
-              if (item[items[i].column] === items[i].only) return true;
+              if (Array.isArray(items[i].only)) {
+                if (items[i].only.includes(item[items[i].column])) {
+                  return true
+                }
+                return;
+              } else if (item[items[i].column] === items[i].only) {
+                return true;
+              }
             }
           }
         }
@@ -84,29 +92,39 @@ export default class Filters extends Component {
     }
 
     // Loop through the data
-    const people = data.map((item) => {
-        const { nombres } = item;
-
-        if (items) {
-          for (let i = 0; i < items.length; i += 1) {
-            if (items[i].hasOwnProperty("only")) {
-              if (item[items[i].column] !== items[i].only) return;
+    const people = data.filter((person) => {
+      if (items) {
+        // there are filters
+        const blockedByDefaultFilter = items.reduce((isBlocked, filterItem) => {
+          if (filterItem.hasOwnProperty('only')) {
+            if (Array.isArray(filterItem.only)) {
+              if (!filterItem.only.includes(person[filterItem.column])) {
+                return true
+              }
+              if (value === 'Técnico' && person.id === 'p24') {
+                console.log(column, value);
+                console.log(filterItem.only, person[filterItem.column])
+              }
+            } else if (person[filterItem.column] !== filterItem.only) {
+              return true;
             }
           }
-        }
+          return isBlocked;
+        }, false);
 
-        for (let i = 0; i < filter.length; i += 1) {
-          const filterItem = filter[i];
-          if (filterItem.which === null) continue;
-          if (item[filterItem.column] !== filterItem.which) return;
-        }
-
-        if (item[column] !== value) return;
-        return nombres;
+        if (blockedByDefaultFilter) return false;
       }
-    );
 
-    return people.clean(undefined).length;
+      for (let i = 0; i < filter.length; i += 1) {
+        const filterItem = filter[i];
+        if (filterItem.which === null) continue;
+        if (person[filterItem.column] !== filterItem.which) return;
+      }
+
+      return person[column] === value;
+    });
+
+    return people.length;
   }
 
   generateOptions(column) {

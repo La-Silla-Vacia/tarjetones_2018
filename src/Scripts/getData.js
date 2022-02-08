@@ -78,7 +78,10 @@ function formatData(data) {
       bandera1: item.AV,
       bandera2: item.AW,
       bandera3: item.AX,
-      esAfro: item.AY
+      esAfro: item.AY,
+      circunscripcion: item.bj,
+      haRecibidoAmenazas: item.bk,
+      tipoDeCircunscripcion: item.bl,
     }
   });
 }

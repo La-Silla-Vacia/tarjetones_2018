@@ -301,15 +301,15 @@
     "AV": "Inclusión",
     "AW": "",
     "AX": "",
-    "BD": "",
-    "BE": "Maestría",
-    "BF": "Sí",
-    "BG": "No",
+    "BD": "Mayor de 80 años",
+    "BE": "Maestría o más",
+    "BF": "Ha sido destituido",
+    "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "Char",
     "BJ": "",
     "BK": "",
-    "BL": ""
+    "BL": "Normal"
   },
   {
     "A": "Fortich",
@@ -353,15 +353,15 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": 36,
-    "BE": "Maestría",
-    "BF": "Sï",
-    "BG": "Sí",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Maestría o más",
+    "BF": "Hereda votos de personas investigadas penalmente",
+    "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ashton",
     "BJ": "",
     "BK": "",
-    "BL": ""
+    "BL": "Normal"
   },
   {
     "A": "Mauricio",
@@ -405,14 +405,14 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": 40,
-    "BE": "Especialización",
-    "BF": "Sí",
-    "BG": "Sí",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Universitarios",
+    "BF": "Ha sido destituido",
+    "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
     "BJ": "",
     "BK": "",
-    "BL": ""
+    "BL": "Normal"
   }
 ]

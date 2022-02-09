@@ -1081,15 +1081,15 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": 51,
-    "BE": "Especialización",
-    "BF": "Sí",
-    "BG": "Sí",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Universitarios",
+    "BF": "Ha sido destituido",
+    "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
     "BJ": "",
     "BK": "",
-    "BL": ""
+    "BL": "Normal"
   },
   {
     "A": "Correa",
@@ -1133,14 +1133,14 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": 31,
-    "BE": "Especialización",
-    "BF": "No",
-    "BG": "Sí",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
     "BJ": "",
     "BK": "",
-    "BL": ""
+    "BL": "Normal"
   }
 ]

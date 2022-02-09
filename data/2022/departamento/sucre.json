@@ -405,15 +405,15 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
-    "BE": "Especialización",
-    "BF": "No",
-    "BG": "Sí",
+    "BD": "Mayor de 80 años",
+    "BE": "Universitarios",
+    "BF": "Hereda votos de personas investigadas penalmente",
+    "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Espinosa",
     "BJ": "",
     "BK": "",
-    "BL": ""
+    "BL": "Normal"
   },
   {
     "A": "Suárez",
@@ -457,14 +457,14 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "SIn datos",
-    "BE": "Bachiller",
-    "BF": "No",
-    "BG": "No",
+    "BD": "Sin datos",
+    "BE": "Menos de pregrado",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
     "BH": "Sí",
     "BI": "Trabajadoras sexuales",
     "BJ": "",
     "BK": "",
-    "BL": ""
+    "BL": "Normal"
   }
 ]

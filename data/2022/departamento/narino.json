@@ -99,8 +99,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -463,8 +463,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   }
 ]

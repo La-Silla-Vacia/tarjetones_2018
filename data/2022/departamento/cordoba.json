@@ -137,7 +137,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "\"La tati\", como se le conoce en Montería, es la heredera política de la curul que dejará su tía, la senadora María del Rosario Guerra y es hija del político Joselito Guerra de La Espriella, condenado por el Proceso 8000. Arquitecta de la Javeriana con maestría en diseño de interiores, siempre ha trabajado en el sector privado. Tratará de llegar al Senado con la fuerza de su familia en Sucre. ",
+    "AP": "\"La tati\", como se le conoce en Montería, es la heredera política de la curul que dejará su tía, la senadora María del Rosario Guerra y es hija del político Joselito Guerra de La Espriella, condenado por el Proceso 8000. Arquitecta de la Javeriana con maestría en diseño de interiores, siempre ha trabajado en el sector privado. Tratará de llegar al Senado con la fuerza de su familia en Sucre.",
     "AQ": "https://www.lasillavacia.com/media/26_GUERRA-LOPEZ.jpg",
     "AR": "No",
     "AT": "Óscar Iván Zuluaga",
@@ -255,8 +255,8 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -302,7 +302,7 @@
     "AW": "Somos la E de la esperanza",
     "AX": "",
     "BD": "Entre 25 y 40 años",
-    "BE": "#N/A",
+    "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -359,8 +359,8 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -411,8 +411,8 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -421,7 +421,7 @@
     "C": "Fabio",
     "D": "Córdoba",
     "G": "https://www.lasillavacia.com/quien-es-quien/fabio-amin-saleme",
-    "H": "@fabioaminsaleme\r",
+    "H": "@fabioaminsaleme",
     "K": 83725,
     "L": "Senado 2018",
     "N": "Senado",
@@ -432,7 +432,7 @@
     "T": "Córdoba",
     "U": "Economista",
     "V": "Pregrado",
-    "W": "Político",
+    "W": "Política",
     "X": "Economía",
     "Y": "No",
     "AA": "No",
@@ -449,7 +449,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Este político cordobés de Lorica lleva cuatro períodos consecutivos en el Congreso (tres como representante y uno como senador). Es miembro de una dinastía política liberal que ha dado tres gobernadores: José Miguel Amín Araque en 1962, José Gabriel Amín Manzur en 1987 y Javier Jiménez Amín en 1994. Además, su padre Fabio Raúl Amín Manzur fue alcalde de Lorica en la década de los 80.\nLa primera experiencia política de Amín Saleme, economista de la Universidad Javeriana de Bogotá, fue ser secretario general de Lorica durante la alcaldía del liberal Juan de Dios Gari Sánchez, en 1999. Para las elecciones de 2004 se presentó a la Asamblea de Córdoba, curul que ganó con el apoyo del movimiento Mayorías Liberales del hoy condenado por parapolítica Juan Manuel “Juancho” López, de otra dinastía política cordobesa y esposo de la exsenadora roja Arleth Casado. En 2006 saltó a la Cámara como fórmula de Juancho López. Después de que Juancho López perdió su curul por parapolítica, Amín fue fórmula de Casado, quien logró hacerse elegir en 2010 con 111.752 votos. Fabio obtuvo en esas legislativas 61.333 apoyos, la votación a Cámara más alta ese año en el departamento.\nRepitió Cámara en 2014 con 49.582 votos, que le permitieron llegar a la Presidencia de la Cámara en el inicio del segundo gobierno de Juan Manuel Santos. Dio el salto al Senado en 2018 con 83.725 votos. En este periodo se ha mostrado cercano al gobierno Duque, pues desde la Comisión Primera impulsó iniciativas pro gobierno como la eliminación parcial de la Ley de Garantías o la reforma que le dio superpoderes a la procuradora Margarita Cabello. ",
+    "AP": "Este político cordobés de Lorica lleva cuatro períodos consecutivos en el Congreso (tres como representante y uno como senador). Es miembro de una dinastía política liberal que ha dado tres gobernadores: José Miguel Amín Araque en 1962, José Gabriel Amín Manzur en 1987 y Javier Jiménez Amín en 1994. Además, su padre Fabio Raúl Amín Manzur fue alcalde de Lorica en la década de los 80.\nLa primera experiencia política de Amín Saleme, economista de la Universidad Javeriana de Bogotá, fue ser secretario general de Lorica durante la alcaldía del liberal Juan de Dios Gari Sánchez, en 1999. Para las elecciones de 2004 se presentó a la Asamblea de Córdoba, curul que ganó con el apoyo del movimiento Mayorías Liberales del hoy condenado por parapolítica Juan Manuel “Juancho” López, de otra dinastía política cordobesa y esposo de la exsenadora roja Arleth Casado. En 2006 saltó a la Cámara como fórmula de Juancho López. Después de que Juancho López perdió su curul por parapolítica, Amín fue fórmula de Casado, quien logró hacerse elegir en 2010 con 111.752 votos. Fabio obtuvo en esas legislativas 61.333 apoyos, la votación a Cámara más alta ese año en el departamento.\nRepitió Cámara en 2014 con 49.582 votos, que le permitieron llegar a la Presidencia de la Cámara en el inicio del segundo gobierno de Juan Manuel Santos. Dio el salto al Senado en 2018 con 83.725 votos. En este periodo se ha mostrado cercano al gobierno Duque, pues desde la Comisión Primera impulsó iniciativas pro gobierno como la eliminación parcial de la Ley de Garantías o la reforma que le dio superpoderes a la procuradora Margarita Cabello.",
     "AQ": "https://www.lasillavacia.com/media/04_FabioAmin.jpg",
     "AR": "Sí",
     "AT": "Sin datos",
@@ -463,8 +463,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   }
 ]

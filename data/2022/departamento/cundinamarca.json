@@ -47,8 +47,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Sindicalistas",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -99,8 +99,8 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   }
 ]

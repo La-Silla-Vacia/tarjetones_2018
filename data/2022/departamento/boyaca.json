@@ -47,8 +47,8 @@
     "BG": "Ha sido gobernador",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -99,8 +99,8 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Sindicalistas",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -151,8 +151,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -189,7 +189,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Abogado especializado en derecho minero y actual senador, es hijo del parapolítico Ciro Ramírez Pinzón, quien era el principal cacique conservador de Boyacá. Llegó en 2014 a la Cámara sin trayectoria previa en la política para retomar las banderas de su padre, con el aval del uribismo. En 2018 dio el salto al Senado con 36,677 votos. Ahora tratará de reelegirse. ",
+    "AP": "Abogado especializado en derecho minero y actual senador, es hijo del parapolítico Ciro Ramírez Pinzón, quien era el principal cacique conservador de Boyacá. Llegó en 2014 a la Cámara sin trayectoria previa en la política para retomar las banderas de su padre, con el aval del uribismo. En 2018 dio el salto al Senado con 36,677 votos. Ahora tratará de reelegirse.",
     "AQ": "https://www.lasillavacia.com/media/33_RAMIREZ-CORTEZ.jpg",
     "AR": "Sí",
     "AT": "Óscar Iván Zuluaga",
@@ -255,8 +255,8 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -280,7 +280,7 @@
     "X": "Sin datos",
     "Y": "No",
     "AA": "No",
-    "AB": "No",
+    "AB": "Sí",
     "AC": 1,
     "AD": "No",
     "AE": "No",
@@ -307,8 +307,8 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   }
 ]

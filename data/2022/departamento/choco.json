@@ -47,8 +47,8 @@
     "BG": "Ha sido alcalde",
     "BH": "Afro",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -99,8 +99,8 @@
     "BG": "Ha sido alcalde",
     "BH": "Afro",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -151,8 +151,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -203,8 +203,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -567,8 +567,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "Afro",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -619,8 +619,8 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "Afro",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -671,8 +671,8 @@
     "BG": "Ha sido alcalde",
     "BH": "Afro",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -723,8 +723,8 @@
     "BG": "Ha sido gobernador",
     "BH": "Afro",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -775,8 +775,8 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -827,8 +827,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -879,8 +879,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "Afro",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -931,8 +931,8 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "Sí",
     "BI": "Víctimas de Farc",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -983,8 +983,8 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   },
   {
@@ -1004,7 +1004,7 @@
     "T": "Chocó",
     "U": "Abogado",
     "V": "Especialización",
-    "W": "Político",
+    "W": "Política",
     "X": "Política",
     "Y": "No",
     "AA": "No",
@@ -1021,7 +1021,7 @@
     "AM": "Sí",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado de la Universidad Tecnológica del Chocó y especialista en derecho público del Externado, es un político de carrera. Fue concejal, tesorero y Alcalde de Medio Baudó, donde tiene su fortín electoral, y llegó a la Cámara en 2014.\nTiene cinco procesos abiertos en la Corte Suprema de Justicia, entre ellos uno por irregularidades en contratación cuando fue alcalde de Medio Baudó en 2007, otra por presunto lavado de activos y otro por parapolítica. En 2017 la Corte Suprema le abrió una más por el supuesto pago de 200 millones de pesos al magistrado auxiliar Camilo Ruíz para evitar una orden de captura, en el marco del escándalo del cartel de la toga. ",
+    "AP": "Abogado de la Universidad Tecnológica del Chocó y especialista en derecho público del Externado, es un político de carrera. Fue concejal, tesorero y Alcalde de Medio Baudó, donde tiene su fortín electoral, y llegó a la Cámara en 2014.\nTiene cinco procesos abiertos en la Corte Suprema de Justicia, entre ellos uno por irregularidades en contratación cuando fue alcalde de Medio Baudó en 2007, otra por presunto lavado de activos y otro por parapolítica. En 2017 la Corte Suprema le abrió una más por el supuesto pago de 200 millones de pesos al magistrado auxiliar Camilo Ruíz para evitar una orden de captura, en el marco del escándalo del cartel de la toga.",
     "AQ": "https://www.lasillavacia.com/media/19_NiltonCordoba.jpg",
     "AR": "Sí",
     "AT": "Sin datos",
@@ -1035,8 +1035,8 @@
     "BG": "Ha sido alcalde",
     "BH": "Sí",
     "BI": "",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   }
 ]

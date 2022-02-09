@@ -66,7 +66,7 @@
     "R": 22,
     "S": "Derecha",
     "T": "Ibagué",
-    "U": "Derecho ",
+    "U": "Derecho",
     "V": "Maestría",
     "W": "Política",
     "X": "Urbanismo",
@@ -85,7 +85,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Político de carrera, en 2018 llegó al uribismo, donde ya tenía buenas relaciones, como candidato a la Cámara en Tolima. Fue elegido con 32,770 votos y ahora tratará de dar el salto al Senado. \n\nArrancó en política como concejal de Carmen de Apicalá a los 18 años y en 1997 aspiró a ser edil en Suba pero fracasó. Fue asesor de la Presidencia en el primer gobierno de Álvaro Uribe y luego secretario general de Juan Lozano en el Ministerio de Ambiente. \n\nEn 2010 se lanzó a la Cámara por La U y se quemó con 11 mil votos; en 2011 a la Alcaldía de Ibagué, cuando perdió por sólo 13 mil votos con el liberal Luis H. Rodríguez, a pesar de tener el apoyo del ex presidente Uribe - cuyas tesis defendió en público- y del conservador uribista Luis Fernando Caicedo, quien perdió ese mismo año las elecciones a gobernador con el liberal Luis Carlos Delgado. En 2015 intentó de nuevo, esta vez por firmas,  con el el apoyo del ex senador Carlos García Orjuela (otro uribista que se lanzó por firmas ese año, pero a la Gobernación, y cuyo hijo Pierre fue congresista uribista), el ex representante uribista Gustavo Ramos , el ex congresista de La U Pedro Pablo Trujillo y el difunto senador conservador Juan Mario Laserna. Lo derrotó Guillermo Alfonso Jaramillo.",
+    "AP": "Político de carrera, en 2018 llegó al uribismo, donde ya tenía buenas relaciones, como candidato a la Cámara en Tolima. Fue elegido con 32,770 votos y ahora tratará de dar el salto al Senado. Arrancó en política como concejal de Carmen de Apicalá a los 18 años y en 1997 aspiró a ser edil en Suba pero fracasó. Fue asesor de la Presidencia en el primer gobierno de Álvaro Uribe y luego secretario general de Juan Lozano en el Ministerio de Ambiente. En 2010 se lanzó a la Cámara por La U y se quemó con 11 mil votos; en 2011 a la Alcaldía de Ibagué, cuando perdió por sólo 13 mil votos con el liberal Luis H. Rodríguez, a pesar de tener el apoyo del ex presidente Uribe - cuyas tesis defendió en público- y del conservador uribista Luis Fernando Caicedo, quien perdió ese mismo año las elecciones a gobernador con el liberal Luis Carlos Delgado. En 2015 intentó de nuevo, esta vez por firmas, con el el apoyo del ex senador Carlos García Orjuela (otro uribista que se lanzó por firmas ese año, pero a la Gobernación, y cuyo hijo Pierre fue congresista uribista), el ex representante uribista Gustavo Ramos , el ex congresista de La U Pedro Pablo Trujillo y el difunto senador conservador Juan Mario Laserna. Lo derrotó Guillermo Alfonso Jaramillo.",
     "AQ": "https://www.lasillavacia.com/media/09_FERRO-LOZANO.jpg",
     "AR": "Sí",
     "AT": "Óscar Iván Zuluaga",
@@ -137,7 +137,7 @@
     "AM": "Sí",
     "AN": "No",
     "AO": "No",
-    "AP": "Fue coordinadora y presidenta del directorio departamental de Alianza Democrática Afrocolombiana (ADA), nombrada por Juan José Palacios, excandidato a la Cámara de Representantes por el Centro Democrático. Según varios medios de comunicación como El Cronista https://www.elcronista.co/politica/escandalo-por-venta-anticipada-de-votos-del-ada-en-el-tolima o Cambioin, habría tenido conversaciones con políticos como Daira Galvis, senadora cartagenera de Cambio Radical; Antonio Zabaraín, senador magdalenense de Cambio Radical; Ricardo Ferro, congresista uribista del Tolima; y Rodrigo Villalba, senador liberal del Huila. Todo con el fin de ofrecer supuestos votos de concejales por fuera de Ibagué, así como Aquileo Medina, Jaime Yepes y Leidy Gómez, candidatos a la càmara.  Por eso es cuestionada. En enero de 2022 informó de una amenaza en su contra si seguía con esta candidatura.",
+    "AP": "Fue coordinadora y presidenta del directorio departamental de Alianza Democrática Afrocolombiana (ADA), nombrada por Juan José Palacios, excandidato a la Cámara de Representantes por el Centro Democrático. Según varios medios de comunicación como El Cronista https://www.elcronista.co/politica/escandalo-por-venta-anticipada-de-votos-del-ada-en-el-tolima o Cambioin, habría tenido conversaciones con políticos como Daira Galvis, senadora cartagenera de Cambio Radical; Antonio Zabaraín, senador magdalenense de Cambio Radical; Ricardo Ferro, congresista uribista del Tolima; y Rodrigo Villalba, senador liberal del Huila. Todo con el fin de ofrecer supuestos votos de concejales por fuera de Ibagué, así como Aquileo Medina, Jaime Yepes y Leidy Gómez, candidatos a la càmara. Por eso es cuestionada. En enero de 2022 informó de una amenaza en su contra si seguía con esta candidatura.",
     "AQ": "https://www.lasillavacia.com/media/34_Niyireth-Ospina.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -411,8 +411,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Viejo Nuevo Liberalismo",
-    "BJ": "",
-    "BK": "",
+    "BJ": "No aplica",
+    "BK": "Sin datos",
     "BL": "Normal"
   }
 ]

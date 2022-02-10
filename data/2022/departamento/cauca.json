@@ -47,9 +47,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "Sí",
     "BI": "Afro",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Gutiérrez",
@@ -99,7 +99,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -151,7 +151,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Indígenas",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -203,7 +203,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Indígenas",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -307,7 +307,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -359,7 +359,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -411,9 +411,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Obando",
@@ -463,7 +463,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Sin datos",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   }

@@ -359,9 +359,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "Sí",
     "BI": "Trabajadoras sexuales",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Espinosa",
@@ -411,9 +411,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Espinosa",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Chagüi",
@@ -463,8 +463,8 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   }
 ]

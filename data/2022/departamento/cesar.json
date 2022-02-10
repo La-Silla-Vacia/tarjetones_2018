@@ -47,9 +47,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Castro",
@@ -359,9 +359,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Gnecco",
@@ -411,8 +411,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   }
 ]

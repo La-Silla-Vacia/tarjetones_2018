@@ -2,7 +2,7 @@
   {
     "A": "Cortés",
     "B": "Arboleda",
-    "C": "Hernan",
+    "C": "Hernán",
     "D": "Nariño",
     "G": "",
     "H": "@Hernancortes_12",
@@ -52,7 +52,7 @@
     "BL": "De paz"
   },
   {
-    "A": "Cortes",
+    "A": "Cortés",
     "B": "Lastra",
     "C": "Ernesto",
     "D": "Nariño",
@@ -307,7 +307,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Afros",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -359,9 +359,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Cortés",
@@ -463,8 +463,8 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   }
 ]

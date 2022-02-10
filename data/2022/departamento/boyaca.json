@@ -47,9 +47,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Ramírez",
@@ -99,9 +99,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "No aplica",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Alarcón",
@@ -151,9 +151,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Sindicalistas",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Ortiz",
@@ -203,9 +203,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Londoño",
@@ -255,9 +255,9 @@
     "BG": "Ha sido gobernador",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Espindola",
@@ -307,8 +307,8 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "Ninguno",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   }
 ]

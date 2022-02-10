@@ -47,7 +47,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Macarena - Guaviare",
+    "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -99,9 +99,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Viejo Nuevo Liberalismo",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Tamayo",
@@ -151,9 +151,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "No aplica",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Gómez",
@@ -203,9 +203,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Duque",
@@ -255,7 +255,7 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "Campesinos",
-    "BJ": "Macarena - Guaviare",
+    "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -307,7 +307,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Macarena - Guaviare",
+    "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -359,9 +359,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Nacional"
   },
   {
     "A": "Rojas",
@@ -411,7 +411,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Macarena - Guaviare",
+    "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   }

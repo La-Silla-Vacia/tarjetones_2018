@@ -2,7 +2,7 @@
   {
     "A": "Cortés",
     "B": "Arboleda",
-    "C": "Hernan",
+    "C": "Hernán",
     "D": "Nariño",
     "G": "",
     "H": "@Hernancortes_12",
@@ -52,7 +52,7 @@
     "BL": "De paz"
   },
   {
-    "A": "Cortes",
+    "A": "Cortés",
     "B": "Lastra",
     "C": "Ernesto",
     "D": "Nariño",
@@ -151,9 +151,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Pizarro",
@@ -359,9 +359,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Restrepo",
@@ -411,9 +411,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Diago",
@@ -463,9 +463,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Manrique",
@@ -553,7 +553,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Politólogo con maestría en estudios de seguridad de la universidad de Georgetown, hizo carrera en el ejecutivo. Primero como asesor de María Isabel Ulloa en el viceministerio de Minas, luego como asesor en el ministerio de Defensa cuando Luis Carlos Villegas era ministro, y entre 2017 y 2018, incluyendo toda su campaña presidencial, de Humberto De La Calle. Tras las elecciones, pasó a ser jefe de gabinete de Lina Sinisterra en la secretaría de gobierno de Cali.\nFue uno de los organizadores de \"La marcha del silencio\", la primera reacción ciudadana en contra de los bloqueos del paro de 2021 que tuvo su epicentro en Cali. Su bandera principal es la seguridad.",
+    "AP": "Politólogo con maestría en estudios de seguridad de la universidad de Georgetown, hizo carrera en el ejecutivo. Primero como asesor de María Isabel Ulloa en el viceministerio de Minas, luego como asesor en el ministerio de Defensa cuando Luis Carlos Villegas era ministro, y entre 2017 y 2018, incluyendo toda su campaña presidencial, de Humberto De La Calle. \nTras las elecciones, pasó a ser jefe de gabinete de Lina Sinisterra en la secretaría de gobierno de Cali.\nFue uno de los organizadores de \"La marcha del silencio\", la primera reacción ciudadana en contra de los bloqueos del paro de 2021 que tuvo su epicentro en Cali. Su bandera principal es la seguridad.",
     "AQ": "https://www.lasillavacia.com/media/28_Gustavo-Orozco.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -567,9 +567,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Márquez",
@@ -619,7 +619,7 @@
     "BG": "Ha sido alcalde",
     "BH": "Víctimas",
     "BI": "Campesinado",
-    "BJ": "Catatumbo",
+    "BJ": "Catatumbo (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -671,9 +671,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Aljure",
@@ -723,7 +723,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Macarena - Guaviare",
+    "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -827,7 +827,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Cuenca del Caguán",
+    "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -879,9 +879,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Rivas",
@@ -931,9 +931,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Lopez",
@@ -983,9 +983,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Sandoval",
@@ -1035,9 +1035,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Paez",
@@ -1087,9 +1087,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Arévalo",
@@ -1139,7 +1139,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "Víctimas",
     "BI": "Campesinado",
-    "BJ": "Catatumbo",
+    "BJ": "Catatumbo (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -1191,9 +1191,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Gutiérrez",
@@ -1243,7 +1243,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -1295,7 +1295,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Indígenas",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -1347,7 +1347,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Cuenca del Caguán",
+    "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -1399,9 +1399,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Obando",
@@ -1451,9 +1451,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Cuesta",
@@ -1503,9 +1503,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Uribe",
@@ -1555,9 +1555,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Utria",
@@ -1659,7 +1659,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Uraba",
+    "BJ": "Urabá (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -1711,7 +1711,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Indígenas",
-    "BJ": "Cuenca del Caguán",
+    "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -1763,9 +1763,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Mendoza",
@@ -1815,9 +1815,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Pineda",
@@ -1867,9 +1867,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Gómez",
@@ -1919,9 +1919,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Castillo",
@@ -2023,7 +2023,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Indígenas",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -2179,9 +2179,9 @@
     "BG": "Ha sido alcalde",
     "BH": "Afro",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Monroy",
@@ -2335,7 +2335,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Cuenca del Caguán",
+    "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -2387,7 +2387,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Sin datos",
-    "BJ": "Cuenca del Caguán",
+    "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -2439,9 +2439,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Carvalho",
@@ -2491,9 +2491,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Puerto",
@@ -2543,9 +2543,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Wills",
@@ -2595,9 +2595,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Correa",
@@ -2647,9 +2647,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Serna",
@@ -2699,9 +2699,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Torres",
@@ -2751,9 +2751,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Toro",
@@ -2803,9 +2803,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Munera",
@@ -2855,9 +2855,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Rentería",
@@ -2907,9 +2907,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Niño",
@@ -2959,9 +2959,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Lorduy",
@@ -3011,9 +3011,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Caro",
@@ -3063,9 +3063,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Lagarejo",
@@ -3115,9 +3115,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Arias",
@@ -3167,9 +3167,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Mallorga",
@@ -3219,7 +3219,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "Víctimas",
     "BI": "Víctimas",
-    "BJ": "Catatumbo",
+    "BJ": "Catatumbo (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -3271,9 +3271,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Bustamante",
@@ -3323,9 +3323,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Ricaurte",
@@ -3375,9 +3375,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Torres",
@@ -3427,9 +3427,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Gómez",
@@ -3479,9 +3479,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Restrepo",
@@ -3531,9 +3531,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Beltran",
@@ -3583,9 +3583,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Hurtado",
@@ -3635,7 +3635,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Uraba",
+    "BJ": "Urabá (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -3687,9 +3687,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Santiesteban",
@@ -3739,9 +3739,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Herrera",
@@ -3791,9 +3791,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Palacios",
@@ -3843,9 +3843,9 @@
     "BG": "Ha sido gobernador",
     "BH": "Afro",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Vargas",
@@ -3895,9 +3895,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Gonzalez",
@@ -3947,7 +3947,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Bajo Cauca y nordeste antioqueño",
+    "BJ": "Bajo Cauca y nordeste antioqueño (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -4103,7 +4103,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "Uraba",
+    "BJ": "Urabá (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -4207,9 +4207,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Vidal",
@@ -4259,9 +4259,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Toro",
@@ -4311,9 +4311,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Hernández",
@@ -4415,9 +4415,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Racero",
@@ -4467,9 +4467,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Pedraza",
@@ -4519,9 +4519,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Cure",
@@ -4571,9 +4571,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Santos",
@@ -4623,9 +4623,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Juvinao",
@@ -4675,9 +4675,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Quintero",
@@ -4727,7 +4727,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "Víctimas",
     "BI": "Víctimass",
-    "BJ": "Catatumbo",
+    "BJ": "Catatumbo (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -4779,9 +4779,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Carabalí",
@@ -4883,9 +4883,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Velasco",
@@ -4935,9 +4935,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Sánchez",
@@ -4987,9 +4987,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Gómez",
@@ -5039,9 +5039,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Advincula",
@@ -5143,9 +5143,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "Afro",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Moncayo",
@@ -5195,9 +5195,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Camacho",
@@ -5247,9 +5247,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Silva",
@@ -5299,9 +5299,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Diaz",
@@ -5351,9 +5351,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Rodriguez",
@@ -5403,9 +5403,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Ruiz",
@@ -5455,9 +5455,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Argote",
@@ -5507,9 +5507,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "De Francisco",
@@ -5559,9 +5559,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Vargas",
@@ -5819,9 +5819,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Cifuentes",
@@ -5871,9 +5871,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Arbelaez",
@@ -5923,9 +5923,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Gonzalez",
@@ -5975,9 +5975,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Martínez",
@@ -6027,7 +6027,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Cuenca del Caguán",
+    "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -6079,9 +6079,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Posada",
@@ -6131,9 +6131,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Caicedo",
@@ -6183,9 +6183,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Garcés",
@@ -6235,9 +6235,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Forero",
@@ -6287,9 +6287,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Rojas",
@@ -6339,9 +6339,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Gaviria",
@@ -6391,9 +6391,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Escallon",
@@ -6443,9 +6443,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Rodriguez",
@@ -6495,9 +6495,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Gallego",
@@ -6547,9 +6547,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Morales",
@@ -6599,9 +6599,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Uscategui",
@@ -6651,9 +6651,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Marrugo",
@@ -6703,9 +6703,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Palacios",
@@ -6755,9 +6755,9 @@
     "BG": "Ha sido alcalde",
     "BH": "Afro",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Jiménez",
@@ -6807,9 +6807,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Carabalí",
@@ -6859,7 +6859,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -6911,7 +6911,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Chocó",
+    "BJ": "Chocó (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -6963,7 +6963,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Bajo Cauca y nordeste antioqueño",
+    "BJ": "Bajo Cauca y nordeste antioqueño (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -7067,7 +7067,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -7119,7 +7119,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Afros",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -7275,9 +7275,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Bustillo",
@@ -7379,9 +7379,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Saldarriaga",
@@ -7431,9 +7431,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Mejia",
@@ -7483,9 +7483,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Hernandez",
@@ -7535,7 +7535,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Sur del Tolima",
+    "BJ": "Sur del Tolima (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -7587,7 +7587,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Jóvenes",
-    "BJ": "Sur del Tolima",
+    "BJ": "Sur del Tolima (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -7639,7 +7639,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "Víctimas",
     "BI": "Campesinos",
-    "BJ": "Catatumbo",
+    "BJ": "Catatumbo (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -7691,9 +7691,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Sierra",
@@ -7795,9 +7795,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Angulo",
@@ -7847,9 +7847,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Botero",
@@ -7899,9 +7899,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Gómez",
@@ -7951,9 +7951,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Molina",
@@ -8003,9 +8003,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Murillo",
@@ -8055,9 +8055,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Sabigal",
@@ -8107,7 +8107,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Sin datos",
-    "BJ": "Sur del Tolima",
+    "BJ": "Sur del Tolima (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -8159,9 +8159,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Parodi",
@@ -8211,9 +8211,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Gallón",
@@ -8263,9 +8263,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Becerra",
@@ -8315,9 +8315,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Tamayo",
@@ -8367,9 +8367,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Lleras",
@@ -8419,9 +8419,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Escobar",
@@ -8471,7 +8471,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "Uraba",
+    "BJ": "Urabá (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -8523,9 +8523,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Angarita",
@@ -8627,9 +8627,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Hurtado",
@@ -8679,9 +8679,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Hoyos",
@@ -8731,9 +8731,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Betancourth",
@@ -8783,9 +8783,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Becerra",
@@ -8835,9 +8835,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Del Rio",
@@ -8887,9 +8887,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Henao",
@@ -8939,9 +8939,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Guete",
@@ -8991,9 +8991,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Velasquez",
@@ -9043,9 +9043,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bogotá"
   },
   {
     "A": "Duque",
@@ -9095,7 +9095,7 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "Campesinos",
-    "BJ": "Macarena - Guaviare",
+    "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -9251,7 +9251,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "Sí",
     "BI": "Mujeres campesinas",
-    "BJ": "Sur del Tolima",
+    "BJ": "Sur del Tolima (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
   },
@@ -9303,7 +9303,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Indígenas",
-    "BJ": "Sur del Tolima",
+    "BJ": "Sur del Tolima (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -9459,9 +9459,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Zapata",
@@ -9615,9 +9615,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Pantoja",
@@ -9771,7 +9771,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Macarena - Guaviare",
+    "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -9927,9 +9927,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Espinal",
@@ -9979,9 +9979,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Ochoa",
@@ -10031,9 +10031,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Medina",
@@ -10083,7 +10083,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "S{i",
     "BI": "Indígenas",
-    "BJ": "Sur del Tolima",
+    "BJ": "Sur del Tolima (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -10135,9 +10135,9 @@
     "BG": "Ha sido alcalde",
     "BH": "Afro",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Aray",
@@ -10187,9 +10187,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Henao",
@@ -10239,9 +10239,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Mosquera",
@@ -10291,7 +10291,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Comunidad afro",
-    "BJ": "Chocó",
+    "BJ": "Chocó (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -10343,9 +10343,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Becerra",
@@ -10395,9 +10395,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Rentería",
@@ -10447,9 +10447,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Sánchez",
@@ -10499,9 +10499,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "Afro",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Pérez",
@@ -10551,9 +10551,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Mejía",
@@ -10603,9 +10603,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Cristianos",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Mondragón",
@@ -10655,9 +10655,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Palacio",
@@ -10707,9 +10707,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Garzón",
@@ -10759,9 +10759,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Royo",
@@ -10811,9 +10811,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Político",
-    "BJ": "No aplica",
+    "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Bolívar"
   },
   {
     "A": "Quintero",
@@ -10863,7 +10863,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "Víctimas",
     "BI": "Campesinos",
-    "BJ": "Catatumbo",
+    "BJ": "Catatumbo (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -10967,9 +10967,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Yepes",
@@ -11019,9 +11019,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Arboleda",
@@ -11071,9 +11071,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Ospina",
@@ -11123,9 +11123,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Zapata",
@@ -11175,9 +11175,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Osorio",
@@ -11227,9 +11227,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Navarro",
@@ -11279,7 +11279,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Bajo Cauca y nordeste antioqueño",
+    "BJ": "Bajo Cauca y nordeste antioqueño (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -11331,9 +11331,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Gallego",
@@ -11383,9 +11383,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Muñoz",
@@ -11435,9 +11435,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Cataño",
@@ -11487,9 +11487,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Bermúdez",
@@ -11539,9 +11539,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Ospina",
@@ -11591,9 +11591,9 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Gómez",
@@ -11643,9 +11643,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Cadavid",
@@ -11695,9 +11695,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Berrío",
@@ -11747,9 +11747,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Salazar",
@@ -11799,9 +11799,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "García",
@@ -11851,9 +11851,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Sánchez",
@@ -11903,9 +11903,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Palencia",
@@ -12007,9 +12007,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Tibaduiza",
@@ -12059,9 +12059,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "García",
@@ -12111,9 +12111,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Rojas",
@@ -12163,7 +12163,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Campesinos",
-    "BJ": "Macarena - Guaviare",
+    "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -12215,9 +12215,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Chica",
@@ -12267,9 +12267,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Vélez",
@@ -12319,9 +12319,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Londoño",
@@ -12371,9 +12371,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Acosta",
@@ -12423,7 +12423,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Indígenas",
-    "BJ": "Cuenca del Caguán",
+    "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -12475,7 +12475,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Sin datos",
-    "BJ": "Alto Patía - Norte del Cauca",
+    "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -12527,9 +12527,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Jímenez",
@@ -12579,9 +12579,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Ortega",
@@ -12683,9 +12683,9 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Gómez",
@@ -12735,9 +12735,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Blandon",
@@ -12787,7 +12787,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Comunidad afro",
-    "BJ": "Chocó",
+    "BJ": "Chocó (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -12839,9 +12839,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "Afro",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Chocó"
   },
   {
     "A": "Hernández",
@@ -12891,9 +12891,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "López",
@@ -12943,9 +12943,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Murillo",
@@ -12995,9 +12995,9 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Salcedo",
@@ -13047,9 +13047,9 @@
     "BG": "Ha sido gobernador",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Ochoa",
@@ -13099,9 +13099,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Osorio",
@@ -13151,9 +13151,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Pimentel",
@@ -13203,9 +13203,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Gómez",
@@ -13255,9 +13255,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Monedero",
@@ -13307,9 +13307,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Reyes",
@@ -13359,9 +13359,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Rojas",
@@ -13411,9 +13411,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Cardona",
@@ -13463,9 +13463,9 @@
     "BG": "Ha sido alcalde",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Gallego",
@@ -13515,9 +13515,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Lopera",
@@ -13567,9 +13567,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Antioquia"
   },
   {
     "A": "Pinilla",
@@ -13619,9 +13619,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Caldas"
   },
   {
     "A": "Ocampo",
@@ -13671,9 +13671,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Arizabaleta",
@@ -13723,9 +13723,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Tejada",
@@ -13775,9 +13775,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Caicedo",
@@ -13827,9 +13827,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Valle del Cauca"
   },
   {
     "A": "Ariza",
@@ -13879,9 +13879,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Chaves",
@@ -13931,9 +13931,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Cristianos",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Rueda",
@@ -13983,9 +13983,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Díaz",
@@ -14035,9 +14035,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Chavez",
@@ -14087,9 +14087,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Mantilla",
@@ -14139,9 +14139,9 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Leal",
@@ -14191,9 +14191,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Florez",
@@ -14243,9 +14243,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Avendaño",
@@ -14295,9 +14295,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Ramírez",
@@ -14347,9 +14347,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Amaya",
@@ -14399,9 +14399,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "López",
@@ -14451,9 +14451,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Alvernia",
@@ -14503,9 +14503,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Cala",
@@ -14555,9 +14555,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "Excombatientes",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Cárdenas",
@@ -14607,9 +14607,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Sánchez",
@@ -14659,9 +14659,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Cortés",
@@ -14711,9 +14711,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Amaya",
@@ -14763,9 +14763,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Fernández",
@@ -14815,9 +14815,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Valbuena",
@@ -14867,9 +14867,9 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "Bello",
@@ -14919,9 +14919,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "No aplica",
+    "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Santander"
   },
   {
     "A": "González",
@@ -14971,9 +14971,9 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
+    "BJ": "Santander",
     "BK": "",
-    "BL": ""
+    "BL": "Santander"
   },
   {
     "A": "Rodríguez",
@@ -15017,15 +15017,15 @@
     "AV": "Salario Mínimo por regiones",
     "AW": "Emprendimiento",
     "AX": "Reforma del Congreso",
-    "BD": "Mayor de 80 años",
+    "BD": "Entre 25 y 40 años",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
+    "BJ": "Bogotá",
     "BK": "",
-    "BL": ""
+    "BL": "Bogotá"
   },
   {
     "A": "Herrera",
@@ -15069,14 +15069,690 @@
     "AV": "",
     "AW": "",
     "AX": "",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Santander",
+    "BK": "",
+    "BL": "Santander"
+  },
+  {
+    "A": "Robayo",
+    "B": "Bechara",
+    "C": "Saray Elena",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@SarayElenaRB",
+    "K": "",
+    "L": "",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "La U",
+    "R": 101,
+    "S": "Centro",
+    "T": "",
+    "U": "Abogada",
+    "V": "Especialización",
+    "W": "Política",
+    "X": "Derecho",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Abogada de la Universidad del Sinú, es la ficha de su primo, el representante Erasmo Zuleta Bechara, para reemplazarlo en su curul. Ese grupo, que estuvo en el uribismo, está aliado con los Besaile. La fórmula de Robayo es el senador John Besaile, hermano del condenado Musa Besaile, en una alianza que viene de tiempo atrás. En 2018 Zuleta fue llave de Besaile y cuñado de un hermano de él y de Musa, el exgobernador Edwin Besaile (en juicio ante la Corte Suprema por pagos irregulares de salud en el escándalo del \"cartel de la hemofilia\").\n\nFue secretaria de Alicia Arango en el Ministerio del Interior y fue señorita Córdoba en 2018. Es nieta de Elías Bechara y Saray Castilla, fundadores de la Universidad del Sinú,; su tía Mara Bechara , madre del actual representante Zuleta, fue rectora de la Universidad y concejal de Montería.",
+    "AQ": "https://www.lasillavacia.com/media/12_Robayo-Bechara.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "Agro",
+    "AW": "Emprendimiento para las mujeres",
+    "AX": "Equidad de género en el deporte",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Pérez",
+    "B": "Posada",
+    "C": "Santiago Miguel",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@Santimperez",
+    "K": 4655,
+    "L": "Concejo de Montería 2020",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "La U",
+    "R": 102,
+    "S": "Centro",
+    "T": "",
+    "U": "Ingeniería civil",
+    "V": "Pregrado",
+    "W": "Política",
+    "X": "",
+    "Y": "No",
+    "AA": "Sí",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "Sí",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "Sí",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Ingeniero civil elegido concejal de Montería en 2019 por el Centro Democrático con la votación más alta en la lista de su partido, el Consejo de Estado anuló su elección proque su madre, Alba Luz Posada Lerech, era gerente de la Contraloría General en el departamento. Antes de ratificarse esta nulidad, estuvo involucrado en un escándalo junto a otros dos concejales que presuntamente buscaban favorecerse con un millonario contrato de mercados para los menos favorecidos de Montería. \n\nAdemás de su mamá, su papá Felipe Pérez fue Contralor Departamental y su su hermano Andrés Felipe también fue concejal de Montería en dos periodos consecutivos, entre 2012 y 2019. Su más reciente declaración de nulidad produjo la renuncia e Santiago y su familia al Centro Democrático. Aún no concreta su apoyo presidencial.",
+    "AQ": "https://www.lasillavacia.com/media/00_Santiago-Perez-Posada.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Mayor de 80 años",
+    "BE": "Universitarios",
+    "BF": "Tiene investigaciones penales",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Burgos",
+    "B": "Lugo",
+    "C": "Jorge Enrique",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@JorgeBurgosLugo - @TitiBurgosL",
+    "K": 60253,
+    "L": "Cámara por Córdoba 2018",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "La U",
+    "R": 104,
+    "S": "Centro",
+    "T": "",
+    "U": "Política",
+    "V": "Bachillerato",
+    "W": "Política",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "Sí",
+    "AC": 1,
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "Sí",
+    "AL": "No",
+    "AM": "Sí",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Actual representante a la Cámara, es la apuesta del clan Jattin (originalmente liberal en tiempos del patriarca Francisco Jattin, luego en La U con su hija Zulema, condenada por sus vínculos con grupos paramilitares) para estas elecciones, Jorge 'Titi' Burgos . bachiller técnico agropecuario del Instituto Técnico Agrícola de Lorica y está presentando preparatorios para graduarse de derecho en la Corporación Universitaria Remington de Montería. \n\nHa hecho carrera como parte del clan Jattin. Fue director técnico de la Umata de Lorica de 1991 a 1992, director del Banco Agrario en San Antero del 2000 al 2002 y en San Bernardo del Viento de ahí a 2004, y gerente de la E.S.E. Santa Teresita de Lorica de 2012 al 2013 se desempeñó como técnico en gestión de cartera. Llegó a ser presidente del Partido de la U en San Bernardo del Viento, uno de los municipios en donde el jattinismo es más fuerte.",
+    "AQ": "https://www.lasillavacia.com/media/01_JORGE-ENRIQUE-BURGOS-LUGO.jpg",
+    "AR": "Sí",
+    "AT": "",
+    "AU": "",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Menos de pregrado",
+    "BF": "Hereda votos de personas condenadas",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "García",
+    "B": "Soto ",
+    "C": "Ana Paola",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@AnaPaolaGarciaU",
+    "K": "",
+    "L": "",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "La U",
+    "R": 105,
+    "S": "Centro",
+    "T": "",
+    "U": "Derecho",
+    "V": "Especialización",
+    "W": "Público",
+    "X": "Derecho",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Abogada que está terminando una maestría en gobierno y desarrollo de entidades territoriales, dice que su candidatura es independiente y no es heredera ni miembro de ninguna casa política. SIn embargo, es la candidata a la Cämara de Julio Elías Vidal, el heredero de la Ñoñomanía de su hermano Bernardo Elías, y miembro de uno de los claes políticos tradiciaonales de Córdoba. Es o fue esposa del diputado José David Náder, de Cambio Radical. \n\nFue comisaria de familia del municipio de La Apartada y ha sido asesora jurídica en municipios cordobeses como Ciénaga de Oro, Puerto Escondido, Puerto Libertador y Buenavista, y Cáceres en el nordeste de Antioquia.",
+    "AQ": "https://www.lasillavacia.com/media/02_Garcia-Soto.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "Equidad de género",
+    "AW": "Infraestructura vial",
+    "AX": "Jóvenes",
     "BD": "Mayor de 80 años",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
+    "BJ": "Córdoba",
     "BK": "",
-    "BL": ""
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Manzur",
+    "B": "Imbett",
+    "C": "Wadith Alberto",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@wmanzur",
+    "K": 67286,
+    "L": "Cámara por Córdoba 2018",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Conservador",
+    "R": 101,
+    "S": "Centroderecha",
+    "T": "",
+    "U": "Ingeniería civil",
+    "V": "Maestría",
+    "W": "Política",
+    "X": "Política",
+    "Y": "No",
+    "AA": "No",
+    "AB": "Sí",
+    "AC": 1,
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "Sí",
+    "AM": "Sí",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Ingeniero industrial de la Universidad de los Andes con maestría en Gobierno y Políticas Públicas del Externado, llegó a la Cámara en 2018 en su primera incursión electotrall. Es hijo y heredero del caudal electoral del ex senador conservador Julio Manzur y en 2018 fue fórmula de la senadora Nora García, mamá del entonces alcalde de Montería, Marcos David Pineda. Ahora Pienda busca reempalzar a su mamá en el Senado, y mantiene la alianza con Manzur.\n\nAntes trabajó como como analista de investigación y desarrollo en Aseo Capital, fue asesor de la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA) y de la Oficina de Planeación del Senado de la República y gerente forestal de Cormagdalena antes de que, en 2016, Pineda lo nombrar director del programa Ciudad Verde, uno de sus programas bandera de Pineda. ",
+    "AQ": "https://www.lasillavacia.com/media/03_Manzur-Imbett.jpg",
+    "AR": "Sí",
+    "AT": "David Barguil",
+    "AU": "Equipo por Colombia",
+    "AV": "Agro",
+    "AW": "",
+    "AX": "",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Maestría o más",
+    "BF": "Hereda votos de personas investigadas penalmente",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Barguil",
+    "B": "Cubillos",
+    "C": "Nicolás Antonio",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@NicolasBarguil",
+    "K": "",
+    "L": "",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Conservador",
+    "R": 105,
+    "S": "Centro",
+    "T": "",
+    "U": "Marketing y negocios internacionales",
+    "V": "Mestría",
+    "W": "Privado",
+    "X": "Administración de empresas",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Profesional en marketing y negocios internacionales con maestría en administración de empresas, es la ficha de su primo, el senador y candiato presidencial David Barguil, para mantener una curul en la Cámara. \n\nHa sido por más de 14 años gerente general de empresas privadas en el sector agroindustrial y asesor de la Corporación Agroambiente, además de gerente de la empresa Operadora de Palma del Caribe. Fue representante gremial ante la Federación Nacional de Cerealistas (Fenalce) y ante la Confederación Nacional de Algodoneros. Fuentes políticas en la región le indicaron a La Silla que este es el candidato que respalda el actual alcalde de Montería, Carlos Ordosgostia, quien a su vez fue impulsado por David Barguil a la alcaldía en 2019.",
+    "AQ": "https://www.lasillavacia.com/media/04_Barguil-Cubillos.jpg",
+    "AR": "No",
+    "AT": "David Barguil",
+    "AU": "Equipo por Colombia",
+    "AV": "Agro",
+    "AW": "Emprendimiento",
+    "AX": "",
+    "BD": "Entre 25 y 40 años",
+    "BE": "#N/A",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Calle",
+    "B": "Aguas",
+    "C": "Andrés David",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@AndresCalleA",
+    "K": 52213,
+    "L": "Cámara por Córdoba 2018",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Liberal",
+    "R": 101,
+    "S": "Centro",
+    "T": "",
+    "U": "Derecho - ciencia política",
+    "V": "Pregrado",
+    "W": "Política",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "Sí",
+    "AM": "Sí",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Abogado y politólogo de la Universidad Bolivariana, llegó a la Cámara wen 2018 como fórmula del cacique liberal Fabio Amín. Su capital político está en el municipio de Montelíbano, de donde es oriundo y donde su papá, Gabriel Calle De La Moya, fue alcalde entre 2012 y 2015. En 2019, la Fiscalía imputó a los delitos de contrato sin cumplimiento de requisitos legales, prevaricato por acción y falsedad ideológica en documento público por hechos relacionados con el uso dse 60 mil millones de pesos por empresa de economía mixta Jaguazul. Su hermano Gabriel fue secretario de Desarrollo de la actual Gobernación y renunció para apoyar la candidatura de Andrés.",
+    "AQ": "https://www.lasillavacia.com/media/05_ANDRES-DAVID-CALLE-AGUAS.jpg",
+    "AR": "Sí",
+    "AT": "",
+    "AU": "",
+    "AV": "Agro",
+    "AW": "Infraestructura vial",
+    "AX": "",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Universitarios",
+    "BF": "Hereda votos de personas investigadas penalmente",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Gómez",
+    "B": "Reyes",
+    "C": "Walter Hernán",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@walter_galeno",
+    "K": "Sin datos",
+    "L": "Concejo de Valencia (Córdoba) 2008",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Liberal",
+    "R": 102,
+    "S": "Centro",
+    "T": "",
+    "U": "Medicina",
+    "V": "Especialización",
+    "W": "Política",
+    "X": "Salud",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "Sí",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "Sí",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Médico especialista en auditoría médica, ha sido subgerente de la ESE hospital de Valencia, director de la clínica Evaluamos IMAT y dos veces concejal del municipio de Valencia (2003-2007 y 2008-2011). \n\nFue secretario de Salud de Córdoba en la actual administración pero renunció por su aspiración electoral. En 2012, cuando era director del hospital de Valencia, fue víctima de un atentado del que salió ileso pero en el que resultó muerto el agente de policía Jhon James Hernández Trejos. En diciembre de 2020 la Procuraduría regional le abrió investigación por presuntas irregularidades en un contrato de $8.245.348.000 con la empresa Tech Médica Equipos Médicos, en el que participó siendo secretario de salud.",
+    "AQ": "https://www.lasillavacia.com/media/06_Gomez-Reyes.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "Salud",
+    "AW": "Deporte",
+    "AX": "",
+    "BD": "Sin datos",
+    "BE": "Universitarios",
+    "BF": "Ha sido destituido",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Tous ",
+    "B": "De la Ossa",
+    "C": "Eduardo José",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@JocheTous",
+    "K": 85658,
+    "L": "Cámara por Córdoba 2014",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Liberal",
+    "R": 103,
+    "S": "Centro",
+    "T": "",
+    "U": "Ingeniería civil",
+    "V": "Especialización",
+    "W": "Política",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "Sí",
+    "AC": 1,
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "Sí",
+    "AL": "No",
+    "AM": "Sí",
+    "AN": "No",
+    "AO": "Sí",
+    "AP": "El ex representante del grupo políitco de los Elías es ingeniero civil con especialización en alta gerencia.\n\nEntre 2007 y 2013, durante el gobierno Uribe, fue director en Córdoba del Instituto Colombiano de Bienestar Familiar y entre 2014 y 2018 fue representante a la Cámara, a la que llegó sin experiencia electoral y como única fórmula de Bernanrdo \"Ñoño\" Elías. En 2018 intentó saltar al Senado para recuperar la curul de uno de sus mejores amigos, pero se quemó en el intento.\n\nFue secretario de competitivad de la actual Gobernación pero renunció para aspirar a la Cámara. Fue impulsor de la ley de primera inafncia de 'Cero a Siempre'.",
+    "AQ": "https://www.lasillavacia.com/media/07_Tous-DelaOssa.jpg",
+    "AR": "Sí",
+    "AT": "",
+    "AU": "",
+    "AV": "Niños",
+    "AW": "Jóvenes",
+    "AX": "",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Universitarios",
+    "BF": "Hereda votos de personas condenadas",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Casado",
+    "B": "López",
+    "C": "Arleth Patricia",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@Arleth_Casado ",
+    "K": 63517,
+    "L": "Cámara por Córdoba 2014",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "Liberal",
+    "R": 105,
+    "S": "Centro",
+    "T": "",
+    "U": "Administración de empresas",
+    "V": "Especialización",
+    "W": "Política",
+    "X": "Política",
+    "Y": "No",
+    "AA": "No",
+    "AB": "Sí",
+    "AC": 2,
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "Sí",
+    "AL": "No",
+    "AM": "Sí",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Ex senadora liberal, es administradora de empresas y ficha de la dinastía de los López, la familia de su marido, el ex senador Juan Manuel López Cabrales, condenado por parapolítica. \n\nLlegó al Senado en su primera aspiración con 110 mil votos, después de que su esposo había sido condenado. En 2018 no buscó la reelección y cedió el puesto al actual senador Fabio Amín, quien había sido su fórmula a la Cámara. Es hija de Juan B. Casado, quien fue diputado, secretario y director de salud departamental y alcalde de San Andrés de Sotavento. Fue reina de belleza del departamento en 1980.",
+    "AQ": "https://www.lasillavacia.com/media/08_Casado-Lopez.jpg",
+    "AR": "Sí",
+    "AT": "",
+    "AU": "",
+    "AV": "Equidad de género",
+    "AW": "",
+    "AX": "",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Universitarios",
+    "BF": "Ha sido destituido",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Ortega",
+    "B": "Porto",
+    "C": "Álvaro de Jesús",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@alvaro.ortega.9843",
+    "K": "",
+    "L": "",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "ASI",
+    "R": "Lista cerrada",
+    "S": "Centroizquierda",
+    "T": "",
+    "U": "Sin datos",
+    "V": "Sin datos",
+    "W": "Periodismo",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Periodista independiente y miembro de la ASI, partido del que ha sido presidente en el departamento, la cabeza de la lista cerrada no parece estar haciendo campaña ni en sus redes sociales.",
+    "AQ": "https://www.lasillavacia.com/media/09_Ortega-Porto.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Mayor de 80 años",
+    "BE": "Sin datos",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Ayala",
+    "B": "Durango",
+    "C": "José Antonio",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@38Joseayala",
+    "K": "",
+    "L": "",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Colombia Justa Libres",
+    "R": 101,
+    "S": "Derecha",
+    "T": "",
+    "U": "Militar",
+    "V": "Sin datos",
+    "W": "Público",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Pastor cristiano, militar retirado y líder social de Cereté, Córdoba. Aún no define su apoyo presidencial.",
+    "AQ": "https://www.lasillavacia.com/media/10_Ayala-Durango.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "Antiaborto",
+    "AW": "Familia",
+    "AX": "Fuerza pública",
+    "BD": "Mayor de 80 años",
+    "BE": "Sin datos",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
+  },
+  {
+    "A": "Cabeza",
+    "B": "Del Toro",
+    "C": "Yessica Marcela",
+    "D": "Córdoba",
+    "G": "",
+    "H": "@YessicaCabeza",
+    "K": "",
+    "L": "",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "Pacto Histórico",
+    "R": "Lista cerrada",
+    "S": "Izquierda",
+    "T": "",
+    "U": "Contaduría",
+    "V": "Técnico",
+    "W": "Privado",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Auxiliar contable, su definición como cabeza de la lista cerrada fue motivo de choques internos https://www.lalenguacaribe.co/2022/nacional/lista-camara-pacto-historico-cordoba-un-dolor-de-cabeza/ en el Pacto Histórico de Córdoba ya que ella no era de la Colombia Humana, la UP o las abses sindicales, sino del partido ADA, que llegó al pacto con el senador Roy Barreras.",
+    "AQ": "https://www.lasillavacia.com/media/11_Cabeza-DelToro.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Córdoba",
+    "BK": "",
+    "BL": "Córdoba"
   }
 ]

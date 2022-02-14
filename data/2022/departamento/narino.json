@@ -47,7 +47,7 @@
     "BG": "Ha sido alcalde",
     "BH": "",
     "BI": "Afros",
-    "BJ": "Pacífico - Frontera Nariñense",
+    "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -99,7 +99,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Afros",
-    "BJ": "Pacífico - Frontera Nariñense",
+    "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -151,7 +151,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Pacífico - Frontera Nariñense",
+    "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -203,7 +203,7 @@
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "Víctimas",
-    "BJ": "Pacífico - Frontera Nariñense",
+    "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -255,7 +255,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Afros",
-    "BJ": "Pacífico - Frontera Nariñense",
+    "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -411,7 +411,7 @@
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Sin datos",
-    "BJ": "Pacífico - Frontera Nariñense",
+    "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz"
   },
@@ -479,7 +479,7 @@
     "N": "Senado",
     "O": "Hombre",
     "Q": "Polo Democrático",
-    "R": "Cerrada",
+    "R": "Lista cerrada",
     "S": "Izquierda",
     "T": "Nariño",
     "U": "Sin datos",
@@ -531,7 +531,7 @@
     "N": "Senado",
     "O": "Hombre",
     "Q": "Polo Democrático",
-    "R": "Cerrada",
+    "R": "Lista cerrada",
     "S": "Izquierda",
     "T": "Pasto",
     "U": "Antropólogo",

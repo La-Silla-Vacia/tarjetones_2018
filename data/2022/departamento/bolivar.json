@@ -457,7 +457,7 @@
     "AV": "Lucha contra la corrupción",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "Sin datos",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1081,7 +1081,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "Sin datos",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1133,7 +1133,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "Sin datos",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -1155,7 +1155,7 @@
     "N": "Cámara",
     "O": "Hombre",
     "Q": "Hombres de mi tierra",
-    "R": "Sin datos",
+    "R": "",
     "S": "Derecha",
     "T": "Carmen de Bolívar",
     "U": "Sin datos",
@@ -1244,7 +1244,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Nacional",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Nacional"
   },
   {
@@ -1296,7 +1296,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Nacional",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Nacional"
   }
 ]

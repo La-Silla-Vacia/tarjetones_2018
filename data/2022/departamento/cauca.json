@@ -167,7 +167,7 @@
     "N": "Cámara",
     "O": "Hombre",
     "Q": "Resguardo Pioyá",
-    "R": "Sin datos",
+    "R": "",
     "S": "Centroizquierda",
     "T": "Sin datos",
     "U": "Líder social",
@@ -509,14 +509,14 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "Sin datos",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "Afros",
     "BJ": "Nacional",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Nacional"
   },
   {
@@ -561,14 +561,14 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "Sin datos",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
     "BJ": "Nacional",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Nacional"
   },
   {
@@ -620,7 +620,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -672,7 +672,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -724,7 +724,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -776,7 +776,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -880,7 +880,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -932,7 +932,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -951,7 +951,7 @@
     "S": "Derecha",
     "T": "Popayán",
     "U": "Psicología",
-    "V": "Diplomado",
+    "V": "Pregrado",
     "W": "Política",
     "X": "Libertad religiosa",
     "Y": "No",
@@ -978,13 +978,13 @@
     "AW": "Emprendimiento",
     "AX": "Desarrollo social",
     "BD": "Entre 25 y 40 años",
-    "BE": "#N/A",
+    "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -1036,7 +1036,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -1055,7 +1055,7 @@
     "S": "Centro",
     "T": "Popayán",
     "U": "Ingeniería",
-    "V": "Posgrado",
+    "V": "Pregrado",
     "W": "Política",
     "X": "",
     "Y": "No",
@@ -1081,14 +1081,14 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
-    "BE": "#N/A",
+    "BD": "Sin datos",
+    "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -1140,7 +1140,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -1192,7 +1192,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -1244,7 +1244,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -1296,7 +1296,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -1315,7 +1315,7 @@
     "S": "Izquierda",
     "T": "Popayán",
     "U": "Comerciante",
-    "V": "Básica secundaria",
+    "V": "Bachillerato",
     "W": "Política",
     "X": "Medio ambiente",
     "Y": "No",
@@ -1342,13 +1342,13 @@
     "AW": "Lucha contra la corrupción",
     "AX": "",
     "BD": "Entre 40 y 60 años",
-    "BE": "#N/A",
+    "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
     "BI": "",
     "BJ": "Cauca",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Cauca"
   },
   {
@@ -1400,7 +1400,7 @@
     "BH": "",
     "BI": "",
     "BJ": "Nacional",
-    "BK": "",
+    "BK": "Sin datos",
     "BL": "Nacional"
   }
 ]

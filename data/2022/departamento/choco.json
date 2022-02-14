@@ -115,7 +115,7 @@
     "N": "Cámara",
     "O": "Hombre",
     "Q": "Centro Democrático",
-    "R": "",
+    "R": 101,
     "S": "Derecha",
     "T": "Acandí",
     "U": "Docente, empresario",
@@ -153,7 +153,7 @@
     "BI": "",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Chocó"
+    "BL": "Territorial"
   },
   {
     "A": "Lagarejo",
@@ -323,7 +323,7 @@
     "N": "Cámara",
     "O": "Hombre",
     "Q": "Pacto Histórico",
-    "R": "",
+    "R": 101,
     "S": "Izquierda",
     "T": "Quibdó",
     "U": "Derecho",
@@ -361,7 +361,7 @@
     "BI": "",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Territorial"
   },
   {
     "A": "Vidal",
@@ -418,7 +418,7 @@
   {
     "A": "Cuesta",
     "B": "Franco",
-    "C": "Marco Tobías",
+    "C": "Marcos Tobías",
     "D": "Chocó",
     "G": "",
     "H": "@TobiasCuestaF",
@@ -427,9 +427,9 @@
     "N": "Cámara",
     "O": "Hombre",
     "Q": "Nuevo Liberalismo",
-    "R": "",
+    "R": 101,
     "S": "Centro",
-    "T": "",
+    "T": "Sin datos",
     "U": "Derecho",
     "V": "Maestría",
     "W": "Privado",
@@ -465,7 +465,7 @@
     "BI": "",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Chocó"
+    "BL": "Territorial"
   },
   {
     "A": "Palacios",

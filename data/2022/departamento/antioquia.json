@@ -153,7 +153,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bustamante",
@@ -257,7 +257,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ochoa",
@@ -309,7 +309,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "López",
@@ -413,7 +413,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gallego",
@@ -465,7 +465,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mendoza",
@@ -517,7 +517,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ochoa",
@@ -569,7 +569,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Jiménez",
@@ -605,7 +605,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Es la primera vez que incursiona en la política de la mano de su primo Juan Diego Gómez, senador conservador y actual presidente del Senado. Jiménez es hijo también del excongresista Pedro Antonio Jiménez, antiguo padrino político de Gómez. Su candidatura se da por lo cambios del grupo de los \"conservadores de vida\": el representante Nicolás Echeverry aspira al Senado y Juan Diego Gómez quiere ir por la Gobernación de Antioquia.",
+    "AP": "Es la primera vez que incursiona en la política de la mano de su primo Juan Diego Gómez, senador conservador y actual presidente del Senado. Jiménez es hijo también del excongresista Pedro Antonio Jiménez, antiguo padrino político de Gómez. Su candidatura se da por los cambios del grupo de los \"conservadores de vida\": el representante Nicolás Echeverry aspira al Senado y Juan Diego Gómez quiere ir por la Gobernación de Antioquia.",
     "AQ": "https://www.lasillavacia.com/media/andres-felipe-jimenez.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -621,7 +621,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Osorio",
@@ -673,7 +673,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Molina",
@@ -725,7 +725,7 @@
     "BI": "Animalistas",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Quintero",
@@ -829,7 +829,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Berrío",
@@ -881,7 +881,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Restrepo",
@@ -901,7 +901,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -917,7 +917,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado especializado en contratación estatal en la Universidad de Envigado, ha hecho su carrera política en el vecino Itagüí con el equipo político como conservador. Trabajó en la secretaría de Hacienda de Itagüí de 2012 a 2015, ha sido concejal de este municipio desde 2016, y renunció para aspirar a reemplazar a la representante Nidia Marcela Osorio, que no aspira de nuevo a la Cámara, como fórmula del barón electoral de Itagüí, el senador Carlos Andrés Trujillo.",
+    "AP": "Abogado especializado en contratación estatal en la Universidad de Envigado, ha hecho su carrera política en el vecino Itagüí con el equipo político como conservador. Trabajó en la Secretaría de Hacienda de Itagüí de 2012 a 2015, ha sido concejal de este municipio desde 2016, y renunció para aspirar a reemplazar a la representante Nidia Marcela Osorio, que no aspira de nuevo a la Cámara, como fórmula del barón electoral de Itagüí, el senador Carlos Andrés Trujillo.",
     "AQ": "https://www.lasillavacia.com/media/daniel-restrepo-carmona.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -933,7 +933,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gallón",
@@ -985,7 +985,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gómez",
@@ -1073,7 +1073,7 @@
     "AM": "Sí",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado de la universidad Eafit con especialización en Derecho Administrativo y Contratación Estatal del Externado, fue elegido representante liberal en 2018 con la mayor votación de su lista. Fue Concejal de Envigado y hace parte del equipo liberal de este municipio y es la fórmula del también representante John Jairo Roldan, quien dará el salto al Senado. Tanto Peinado como Roldán fueron fórmula del senador Iván Agudelo hace 4 años, pero ya no son del mismo equipo político.",
+    "AP": "Abogado de la universidad Eafit con especialización en Derecho Administrativo y Contratación Estatal del Externado, fue elegido representante liberal en 2018 con la mayor votación de su lista. Fue Concejal de Envigado y hace parte del equipo liberal de este municipio y es la fórmula del también representante John Jairo Roldán, quien dará el salto al Senado. Tanto Peinado como Roldán fueron fórmula del senador Iván Agudelo hace 4 años, pero ya no son del mismo equipo político.",
     "AQ": "https://www.lasillavacia.com/media/julian-peinado-ramirez.jpg",
     "AR": "Sí",
     "AT": "Sin datos",
@@ -1089,7 +1089,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Valencia",
@@ -1161,7 +1161,7 @@
     "U": "Política",
     "V": "Sin datos",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1193,7 +1193,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mosquera",
@@ -1297,7 +1297,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bermúdez",
@@ -1349,7 +1349,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Londoño",
@@ -1401,7 +1401,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Zuleta ",
@@ -1505,7 +1505,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bedoya",
@@ -1609,7 +1609,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Toro",
@@ -1629,7 +1629,7 @@
     "U": "Periodismo",
     "V": "Sin datos",
     "W": "Privado",
-    "X": "Paz",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1661,7 +1661,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Roldán",
@@ -1837,7 +1837,7 @@
     "U": "Líder social",
     "V": "Sin datos",
     "W": "Social",
-    "X": "Víctimas del conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1872,6 +1872,58 @@
     "BL": "De paz"
   },
   {
+    "A": "Moreno",
+    "B": "Espinosa",
+    "C": "Pablo Oved",
+    "D": "Antioquia",
+    "G": "",
+    "H": "",
+    "K": "No aplica",
+    "L": "No aplica",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Creciendo junto al río",
+    "R": 501,
+    "S": "Derecha",
+    "T": "Sur de Bolívar",
+    "U": "Administración",
+    "V": "Pregrado",
+    "W": "Privado",
+    "X": "Administración",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Administrador financiero de la Uniminuto, nació en San Pablo, donde en 1999 su hermano fue secuestrado y asesinado. Trabajó hasta 2020 en el Consejo Profesional de Ingeniería, la entidad pública que vigila la labor de los ingenieros, en labores técnicas y de atención al cliente. Desde que volvió a San Pablo en 2020, hace trabajo comunitario. En redes sociales se muestra militante del partido cristiano Colombia Justa Libres y apoyó las campañas de sus congresistas Carlos Eduardo Acosta y Jhon Milton Rodríguez. En 2018 apoyó en redes a Iván Duque.",
+    "AQ": "https://www.lasillavacia.com/media/49_PabloOvedMoreno.jpg",
+    "AR": "No",
+    "AT": "Sin datos",
+    "AU": "Sin datos",
+    "AV": "Ecoturismo",
+    "AW": "Infraestructura",
+    "AX": "Educación superior",
+    "BD": "Sin datos",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "Víctimas del conflicto",
+    "BI": "Sin datos",
+    "BJ": "Sur de Bolívar (víctimas)",
+    "BK": "No",
+    "BL": "De paz"
+  },
+  {
     "A": "Vargas",
     "B": "Ramírez",
     "C": "German Antonio",
@@ -1889,7 +1941,7 @@
     "U": "Administración",
     "V": "Pregrado",
     "W": "Privado",
-    "X": "Agro",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1921,7 +1973,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Espinal",
@@ -1973,7 +2025,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Carrasquilla",
@@ -1993,7 +2045,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Público",
-    "X": "Derecho penal",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2045,7 +2097,7 @@
     "U": "Odontología",
     "V": "Maestría",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2061,7 +2113,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Odontólogo de la Universidad de Antioquia, se ha dedicado a la política y tiene una especialización en Estudios Políticos de Eafit y maestría en Gobierno de la Universidad de Medellín. Es hermano del senador Germán Hoyos, de La U. Oscar fue concejal de Medellín por La U en dos periodos (2008 - 2011 y 2012 - 2015). Cuando en 2015 Federico Gutiérrez quedó electo como alcalde, nombró a Oscar como secretario de Medio Ambiente; Gutiérrez y Germán Hoyos son aliados políticos desde que Federico estuvo en la U. Para 2022, Germán Hoyos no volverá al Senado, y está apoyando a Óscar en su primera campaña a la Cámara, pero por el Partido afro Colombia Renaciente y en la lista de la Coalición Centro Esperanza.",
+    "AP": "Odontólogo de la Universidad de Antioquia, se ha dedicado a la política y tiene una especialización en Estudios Políticos de Eafit y maestría en Gobierno de la Universidad de Medellín. Es hermano del senador Germán Hoyos, de La U. Oscar fue concejal de Medellín por La U en dos periodos (2008 - 2011 y 2012 - 2015). Cuando en 2015 Federico Gutiérrez quedó electo como alcalde, nombró a Óscar como secretario de Medio Ambiente; Gutiérrez y Germán Hoyos son aliados políticos desde que Federico estuvo en la U. Para 2022, Germán Hoyos no volverá al Senado, y está apoyando a Óscar en su primera campaña a la Cámara, pero por el Partido afro Colombia Renaciente y en la lista de la Coalición Centro Esperanza.",
     "AQ": "https://www.lasillavacia.com/media/oscar-guillermo-hoyos.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -2077,7 +2129,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Correa",
@@ -2129,7 +2181,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ospina",
@@ -2181,7 +2233,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "García",
@@ -2233,7 +2285,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Múnera",
@@ -2285,7 +2337,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mejía",
@@ -2337,7 +2389,7 @@
     "BI": "Cristianos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Henao",
@@ -2389,7 +2441,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Marulanda",
@@ -2493,7 +2545,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Parodi",
@@ -2529,7 +2581,7 @@
     "AM": "Sí",
     "AN": "No",
     "AO": "No",
-    "AP": "Aunque es odontólogo, su trayectoria ha estado entre la política y el deporte. Ha sido presidente de la Liga Antioqueña de Fútbol y de la Federación Colombiana de Baloncesto. Fue representante por el Partido Liberal para el periodo 2006-2010, se quiso reelegir y no quedó. En 2007 la Corte Suprema abrió una investigación en su contra por presunta parapolítica junto a Oscar Suarez Mira, pero solo fue condenado Suarez. En la Gobernación de Antioquia de Luis Pérez fue nombrado director del Dapard, pero renunció en marzo de 2017 para lanzarse por cuarta vez a la Cámara. Inicialmente no quedó elegido en 2018, pero demandó exitosamente la elección de Ignacio Mesa, quién ganó inicialmente la única curul de Cambio. En 2022 planea reelegirse por este mismo partido.",
+    "AP": "Aunque es odontólogo, su trayectoria ha estado entre la política y el deporte. Ha sido presidente de la Liga Antioqueña de Fútbol y de la Federación Colombiana de Baloncesto. Fue representante por el Partido Liberal para el periodo 2006-2010, se quiso reelegir y no quedó. En 2007 la Corte Suprema abrió una investigación en su contra por presunta parapolítica junto a Óscar Suárez Mira, pero solo fue condenado Suárez. En la Gobernación de Antioquia de Luis Pérez fue nombrado director del Dapard, pero renunció en marzo de 2017 para lanzarse por cuarta vez a la Cámara. Inicialmente no quedó elegido en 2018, pero demandó exitosamente la elección de Ignacio Mesa, quien ganó inicialmente la única curul de Cambio. En 2022 planea reelegirse por este mismo partido.",
     "AQ": "https://www.lasillavacia.com/media/mauricio-parodi.jpg",
     "AR": "Sí",
     "AT": "Alejandro Char",
@@ -2545,7 +2597,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Escobar",
@@ -2596,58 +2648,6 @@
     "BH": "",
     "BI": "Sin datos",
     "BJ": "Urabá (víctimas)",
-    "BK": "No",
-    "BL": "De paz"
-  },
-  {
-    "A": "Moreno",
-    "B": "Espinosa",
-    "C": "Pablo Oved",
-    "D": "Antioquia",
-    "G": "",
-    "H": "",
-    "K": "No aplica",
-    "L": "No aplica",
-    "N": "Cámara",
-    "O": "Hombre",
-    "Q": "Creciendo junto al río",
-    "R": 501,
-    "S": "Derecha",
-    "T": "Sur de Bolívar",
-    "U": "Administración",
-    "V": "Pregrado",
-    "W": "Privado",
-    "X": "Proyectos",
-    "Y": "No",
-    "AA": "No",
-    "AB": "No",
-    "AC": "",
-    "AD": "No",
-    "AE": "No",
-    "AF": "No",
-    "AG": "No",
-    "AI": "No",
-    "AJ": "Sí",
-    "AK": "No",
-    "AL": "No",
-    "AM": "No",
-    "AN": "No",
-    "AO": "No",
-    "AP": "Administrador financiero y gestor social de San Pablo, En 1999 su hermano fue secuestrado y asesinado por actores armados que operaban entre San Pablo y Simití. En 2011 se fue estudiar a Bogotá en la Uniminuto y empezó a colaborar como voluntario en fundaciones. Trabajó hasta 2020 en el Consejo Profesional Nacional de Ingeniería, una entidad pública que vigila la labor de los ingenieros en el país, desempeñando labores técnicas y de atención al cliente. En 2020 volvió a San Pablo y desde entonces hace trabajo comunitario en la zona. Según sus redes sociales, es simpatizante del partido cristiano Colombia Justa Libres. Ha apoyado las campañas de los congresistas de ese partido Carlos Eduardo Acosta y Jhon Milton Rodríguez. En 2018 también apoyó en sus redes a Iván Duque.",
-    "AQ": "https://www.lasillavacia.com/media/49_PabloOvedMoreno.jpg",
-    "AR": "No",
-    "AT": "Sin datos",
-    "AU": "Sin datos",
-    "AV": "Ecoturismo",
-    "AW": "Infraestructura",
-    "AX": "Educación superior",
-    "BD": "Sin datos",
-    "BE": "Universitarios",
-    "BF": "No tiene líos ni cuestionamientos",
-    "BG": "Ha trabajado en el Estado",
-    "BH": "Víctimas del conflicto",
-    "BI": "Sin datos",
-    "BJ": "Sur de Bolívar (víctimas)",
     "BK": "No",
     "BL": "De paz"
   },
@@ -2721,7 +2721,7 @@
     "U": "Ingeniería",
     "V": "Maestría",
     "W": "Política",
-    "X": "Asuntos urbanos",
+    "X": "Temas urbanos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2753,7 +2753,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ospina",
@@ -2773,7 +2773,7 @@
     "U": "Taxista",
     "V": "PriMaría",
     "W": "Privado",
-    "X": "Transporte",
+    "X": "Moviilidad",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2789,7 +2789,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Aunque es de Medellín lleva 40 años viviendo en Bogotá. Taxista, estuvo en el ejército y actualmente es el líder más visible de ese gremio en la capital. Entre los taxistas es conocido como \"Piraña\" porque asesora a muchos taxistas de la ciudad en trámites de multas.\nSe convirtió en un líder de los taxistas porque, cuenta el hijo de la dueña de la casa donde vivía le pidió que creara una asociación de taxistas para apoyarlo en política fin. En 2006 trató de llegar al Concejo de Bogotá, pero no lo logró. Su pelea más visible recientemente ha sido en contra de las plataformas de transporte como Uber, una oposición ha sido tan efectiva que el proyecto para regularlas se ha caído cuatro veces en el Congreso. También ha sido protagonistas de paros nacionales y de taxistas en los últimos años.",
+    "AP": "De Medellín, lleva 40 años viviendo en Bogotá. Estuvo en el Ejército y es taxtista, gremio en del que es líder en Bogotá y edn el que le dicen \"Piraña\" porque asesora a muchos taxistas en tramitar multas. Dice que se convirtió en líder porque el hijo de la dueña de la casa donde vivía le pidió que creara una asociación de taxistas para apoyarlo en política. En 2006 se lanzó al Concejo. Opositor de plataformas como Uber, ha sido protagonistas de paros ",
     "AQ": "https://www.lasillavacia.com/media/15-hugo-alberto-ospina.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -2857,7 +2857,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Blanco",
@@ -2893,7 +2893,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "Sí",
-    "AP": "Es abogado de la Universidad de Medellín con maestría en gobierno, este representante tiene su fortín  en el suroeste de Antioquia, es aliado de la casa Suárez Mira (encabezada por el condenado César). Está en la Cámara desde 2010 y esta vez, cuando ningún  miembro de la familia SDuárez busca el Senado, dará el salto manteniendo la alianza.\n\nOriginario de Támesis, municipio del que fue secretario de Gobierno, de allí pasó a ser elegido por primera vez diputado en 2000 y se mantuvo en la Asamblea hasta 2007. \n\nPasó a la Cámara en 2010, cuando salió elegido con 26 mil votos; para 2014 crecío a 41 mil votos y en 2018 sumó 41,600. Fue presidente de la Cámara de Representantes de 2020 a 2021, y en ese cargo la oposición lo consideró un garantista.. Su fórmula es el ex diputado de la casa Suárezs Mira, Juan Camilo Callejas.",
+    "AP": "Es abogado de la Universidad de Medellín con maestría en gobierno, este representante tiene su fortín  en el suroeste de Antioquia, es aliado de la casa Suárez Mira (encabezada por el condenado César). Está en la Cámara desde 2010 y, esta vez, cuando ningún miembro de la familia Suárez busca el Senado, dará el salto manteniendo la alianza.\n\nOriginario de Támesis, municipio del que fue secretario de Gobierno, de allí pasó a ser elegido por primera vez diputado en 2000 y se mantuvo en la Asamblea hasta 2007. \n\nPasó a la Cámara en 2010, cuando salió elegido con 26 mil votos; para 2014 creció a 41 mil votos y en 2018 sumó 41,600. Fue presidente de la Cámara de Representantes de 2020 a 2021, y en ese cargo la oposición lo consideró un garantista. Su fórmula es el exdiputado de la casa Suárez Mira, Juan Camilo Callejas.",
     "AQ": "https://www.lasillavacia.com/media/_0012_GERMAN-ALCIDES-BLANCO.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -2981,7 +2981,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Política",
-    "X": "Ciencia",
+    "X": "Academia y ciencia ",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -3033,7 +3033,7 @@
     "U": "Líder social",
     "V": "Sin datos",
     "W": "Social",
-    "X": "Conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -3117,7 +3117,7 @@
     "BI": "Sin datos",
     "BJ": "Antioquia",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Flórez",
@@ -3257,7 +3257,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "Sí",
-    "AP": "Representante a la Cámara que busca llegar al senado, es un político de carrera que creció de la mano de Fabio Valencia Cossio pero no se fue con él al Centro Democrático y conforma el grupo \"conservadores de vida\" con el senador Juan Diego Gómez  actual presidente del Senado.\nEcheverry es cercano al exdirector del Área Metropolitana y exsecretario de Salud, Carlos Mario Montoya, y se alió con el llamado grupo de Itagüí en cabeza de Carlos Andrés Trujillo. Por eso en 2014 fue fórmula de Nidia Marcela Osorio, de ese grupo y quien saltó de la Cámara al Senado. \nDesde 2017 se alió con Gómez. Con la fuerzas umada de haber sido edil de Medellín, concejal cuatro veces y diputado una, en 2018 repitió Cámara. Ahora que Gómez no aspirará, porque en 2023 quiere buscar la Gobernación de Antioquia, buscará llegar al Senado heredándole los votos. Su fórmula, ANdrés Felipe z Jiménez, es familiar y heredero de Gómez.",
+    "AP": "Representante a la Cámara que busca llegar al Senado, es un político de carrera que creció de la mano de Fabio Valencia Cossio, pero no se fue con él al Centro Democrático y conforma el grupo \"conservadores de vida\" con el senador Juan Diego Gómez, actual presidente del Senado.\nEcheverry es cercano al exdirector del Área Metropolitana y exsecretario de Salud, Carlos Mario Montoya, y se alió con el llamado grupo de Itagüí en cabeza de Carlos Andrés Trujillo. Por eso, en 2014 fue fórmula de Nidia Marcela Osorio, de ese grupo y quien saltó de la Cámara al Senado. \nDesde 2017 se alió con Juan Diego Gómez. Con la fuerza sumada de haber sido edil de Medellín, concejal cuatro veces y diputado una vez. En 2018 repitió Cámara. Ahora que Gómez no aspirará, porque en 2023 quiere buscar la Gobernación de Antioquia, buscará llegar al Senado heredándole los votos. Su fórmula, Andrés Felipe Jiménez, es familiar y heredero de Gómez.",
     "AQ": "https://www.lasillavacia.com/media/_0011_Nicolas-Echeverry.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -3374,7 +3374,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "Víctimas del conflicto",
-    "BI": "Víctimas y campesinos",
+    "BI": "Víctimas del conflicto",
     "BJ": "Sur de Bolívar (víctimas)",
     "BK": "No",
     "BL": "De paz"
@@ -3449,7 +3449,7 @@
     "U": "Comunicación",
     "V": "Pregrado",
     "W": "Público",
-    "X": "Campesinos",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -3621,7 +3621,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Contador de la Universidad Autónoma Latinoamericana, eel senador es la cabeza del llamado grupo de Itagüí, uno de los bloques conservadores de Antioquia. \nArrancó su vida profesional como asesor de la división financiera de la Fábrica de Licores de Antioquia, uno de los grandes fortines políticos del departamento. Luego fue asesor en la Cámara de Representantes y en 2003 se lanzó al concejo de Itagüí. \nTras un período en el concejo y un intento de lanzarse a la alcaldía por firmas, saltó a la Asamblea en las elecciones de 2007 con el aval de Alas Equipo Colombia (que en Antioquia lideraba el candidato ganador a la Gobernación, Luis Alfredo Ramos). Fue el candidato más votado del departamento, con casi 25 mil votos.\nEsa fortaleza le sirvió para, en 2010, impulsar a Nidia Marcela Osorio a la Cámara de representantes como ficha de su grupo político; lanzarse y ganar la alcaldía de Itagüí en 2011 enfrentándose al candidato de Ramos (con lo que refrendó su fuerza política y la creación de su propio grupo), e impulsar el salto de Osorio el Senado en 2014, cuando obtuvo más de 81 mil votos, 63 mil de ellas en Antioquia (fue el candidato más votado del departamento).\nAdemás, en 2015 su grupo puso su sucesor en la alcaldía, el exalcalde León Mario Bedoya. Su fuerza es tal que tras salir de la alcaldía sonó para entrar el gobierno nacional y Germán Vargas Lleras le coquetea para llevarlo a Cambio Radical, pero decidió ir a Senado en 2018. Ese año llegó al Senado con 86,721 votos y ahora busca la reeleción. ",
+    "AP": "Contador de la Universidad Autónoma Latinoamericana, el senador es la cabeza del llamado grupo de Itagüí, uno de los bloques conservadores de Antioquia. \nArrancó su vida profesional como asesor de la división financiera de la Fábrica de Licores de Antioquia, uno de los grandes fortines políticos del departamento. Luego fue asesor en la Cámara de Representantes y en 2003 se lanzó al Concejo de Itagüí. \nTras un período en el Concejo y un intento de lanzarse a la Alcaldía por firmas, saltó a la Asamblea en las elecciones de 2007 con el aval de Alas Equipo Colombia (que en Antioquia lideraba el candidato ganador a la Gobernación, Luis Alfredo Ramos). Fue el candidato más votado del departamento, con casi 25 mil votos.\nEsa fortaleza le sirvió para, en 2010, impulsar a Nidia Marcela Osorio a la Cámara de representantes como ficha de su grupo político; lanzarse y ganar la alcaldía de Itagüí en 2011, enfrentándose al candidato de Ramos (con lo que refrendó su fuerza política y la creación de su propio grupo), e impulsar el salto de Osorio al Senado en 2014, cuando obtuvo más de 81 mil votos, 63 mil de ellos en Antioquia (fue el candidato más votado del departamento).\nAdemás, en 2015 su grupo puso su sucesor en la alcaldía, el exalcalde León Mario Bedoya. Su fuerza es tal que tras salir de la alcaldía sonó para entrar el Gobierno nacional y Germán Vargas Lleras le coquetea para llevarlo a Cambio Radical, pero decidió ir a Senado en 2018. Ese año llegó al Senado con 86,721 votos y ahora busca la reeleción. ",
     "AQ": "https://www.lasillavacia.com/media/_0001_carlos-andres-trujillo.jpg",
     "AR": "Sí",
     "AT": "David Barguil",

@@ -101,7 +101,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Giraldo",
@@ -153,7 +153,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Pineda",
@@ -205,7 +205,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Tibaduiza",
@@ -225,7 +225,7 @@
     "U": "Administración",
     "V": "Pregrado",
     "W": "Religioso",
-    "X": "Sin datos",
+    "X": "Religión",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -257,7 +257,7 @@
     "BI": "Cristianos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Henao",
@@ -309,7 +309,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ospina",
@@ -361,7 +361,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Cardona",
@@ -397,7 +397,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado con especializaciones en administrativo, penal y administración pública, es la llave del senador Mario Castaño. Tiene larga trayectoria política. trabajó para la secretaría de gobierno de Caldas entre 1992 y 1995, y fue personero de Manizales entre 1998 y 2001 como ficha liberal, y llegó al concejo de esa ciudad en el 2008. En 2011 se reeligió con aval de La U y como concejal más votado de su partido. Regresó al Liberal, y se lanzó a la alcaldía exitosamente en 2016 con apoyo de Castaño.",
+    "AP": "Abogado con especializaciones en administrativo, penal y administración pública, es la llave del senador Mario Castaño. Tiene larga trayectoria política. Trabajó para la secretaría de gobierno de Caldas entre 1992 y 1995, y fue personero de Manizales entre 1998 y 2001 como ficha liberal, y llegó al concejo de esa ciudad en el 2008. En 2011 se reeligió con aval de La U y como concejal más votado de su partido. Regresó al Liberal, y se lanzó a la alcaldía exitosamente en 2016 con apoyo de Castaño.",
     "AQ": "https://www.lasillavacia.com/media/15-jose-octavio-cardona.jpg",
     "AR": "No",
     "AT": "No ha definido",
@@ -413,7 +413,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Chica",
@@ -465,7 +465,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gómez",
@@ -517,7 +517,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Betancourth",
@@ -537,7 +537,7 @@
     "U": "Veterinaria",
     "V": "Maestría",
     "W": "Academia",
-    "X": "Academia",
+    "X": "Academia y ciencia ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -569,7 +569,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Correa",
@@ -641,7 +641,7 @@
     "U": "Periodismo",
     "V": "Especialización",
     "W": "Periodismo",
-    "X": "Sin datos",
+    "X": "Comunicaciones",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -673,7 +673,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Murillo",
@@ -693,7 +693,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "Sí",
     "AB": "No",
@@ -709,7 +709,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado con maestría en estudios políticos, tiene su fortín político en Neira. Allí fue concejal y luego entre 2001 y 2003 por el Partido Conservador. En 2004, cuando ya había terminado su mandato, la Procuraduría lo inhabilitó por 10 años por haber salido del país durante quince días cuando sólo tenía permiso del concejo (que debe dar esos permisos) por tres días. Trabajó con Álvaro Uribe durante su primer período de Presidente, lo que también podría sumarle puntos si se toma en cuenta que el actual alcalde de Neira, Luis Gonzaga Correa García, tuvo el apoyo del Centro Democrático en las elecciones. En 2015 volvió a ganar la alcaldía de ese municipio con 5994 votos, esta vez con el partido de La U.",
+    "AP": "Abogado con maestría en estudios políticos, tiene su fortín político en Neira. Allí fue concejal y luego entre 2001 y 2003 por el Partido Conservador. En 2004, cuando ya había terminado su mandato, la Procuraduría lo inhabilitó por 10 años por haber salido del país durante quince días cuando sólo tenía permiso del Concejo (que debe dar esos permisos) por tres días. Trabajó con Álvaro Uribe durante su primer período de Presidente, lo que también podría sumarle puntos si se toma en cuenta que el actual alcalde de Neira, Luis Gonzaga Correa García, tuvo el apoyo del Centro Democrático en las elecciones. En 2015 volvió a ganar la alcaldía de ese municipio con 5994 votos, esta vez con el partido de La U.",
     "AQ": "https://www.lasillavacia.com/media/03-marino-murillo.jpg",
     "AR": "No",
     "AT": "No ha definido",
@@ -725,7 +725,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gómez",
@@ -777,7 +777,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Londoño",
@@ -813,7 +813,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Abogada y política, comenzó su carrera en 2007 cuando fue elegida concejala de Manizales por Partido Conservador como parte del grupo del entonces senador Luis Emilio Sierra. Eso a pesar de que su familia, que tiene influencia en el municipio de Supía desde hace varias décadas (su abuela, Margory Gutiérrez, y su tía, y Cristina Jaramillo, fueron alcaldesas por el Partido Liberal). \nLondoño renunció a su curul en el concejo para llegar a la Cámara de Representantes en 2010 como fórmula de Sierra, y salió elegida, pero no volvió a aspirar al Congreso hasta este año. En 2014 el entonces presidente Juan Manuel Santos la nombró presidente de Fiducoldex, como cuota del conservatismo santista , y se mantuvo allí hasta el final del Gobierno Santos, en 2018.",
+    "AP": "Abogada y política, comenzó su carrera en 2007 cuando fue elegida concejala de Manizales por el Partido Conservador como parte del grupo del entonces senador Luis Emilio Sierra. Eso a pesar de que su familia, que tiene influencia en el municipio de Supía desde hace varias décadas (su abuela, Margory Gutiérrez, y su tía, y Cristina Jaramillo, fueron alcaldesas por el Partido Liberal). \nLondoño renunció a su curul en el concejo para llegar a la Cámara de Representantes en 2010 como fórmula de Sierra, y salió elegida, pero no volvió a aspirar al Congreso hasta este año. En 2014 el entonces presidente Juan Manuel Santos la nombró presidente de Fiducoldex, como cuota del conservatismo santista , y se mantuvo allí hasta el final del Gobierno Santos, en 2018.",
     "AQ": "https://www.lasillavacia.com/media/09-juana-londono.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -829,7 +829,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Galeano",
@@ -881,7 +881,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Castaño",
@@ -1021,7 +1021,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Médico de la Universidad de Caldas, especialista en administración de servicios de salud, pertenece a la poderosa casa conservadora del yepismo, que dominó la política local entre los años 70 e inicios del siglo XX en alianza con la casa liberal de Víctor Renán Barco. La cabeza de la casa era su hermano Omar Yepes, lo que la suma puntos. Jorge Hernán fue secretario de salud de Manizales en 1995, cuando era alcalde Mauricio Arias (condenado en 2008 por irregularidades en la compra de lotes), director territorial de salud de Caldas de 2011 a 2013 como ficha de su hermano Arturo, quien había reemplazado a Omar en el Congreso, en el gobierno de Juan Manuel Santos. Fue jefe de campaña en Caldas de la conservadora de Marta Lucía Ramírez para la primera vuelta presidencial del 2014 y luego ingresó al sector privado. En 2019 fue candidato conservador a la Alcaldía de Manizales pero se quemó al ocupar la cuarta posición.",
+    "AP": "Médico de la Universidad de Caldas, especialista en administración de servicios de salud, pertenece a la poderosa casa conservadora del yepismo, que dominó la política local caldense entre los años 70 e inicios del siglo XX en alianza con la casa liberal de Víctor Renán Barco. La cabeza de la casa era su hermano Omar Yepes, lo que le suma puntos. Jorge Hernán fue secretario de salud de Manizales en 1995, cuando era alcalde Mauricio Arias (condenado en 2008 por irregularidades en la compra de lotes), director territorial de salud de Caldas de 2011 a 2013 como ficha de su hermano Arturo, quien había reemplazado a Omar en el Congreso. Fue jefe de campaña en Caldas de Marta Lucía Ramírez para la primera vuelta presidencial del 2014 y luego entró al sector privado. En 2019 fue candidato conservador a la Alcaldía de Manizales pero se quemó al ocupar la cuarta posición.",
     "AQ": "https://www.lasillavacia.com/media/16-jorge-hernan-yepes.jpg",
     "AR": "No",
     "AT": "No ha definido",
@@ -1037,7 +1037,7 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Echeverri",
@@ -1141,6 +1141,6 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   }
 ]

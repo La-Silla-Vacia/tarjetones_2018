@@ -17,7 +17,7 @@
     "U": "Administración",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Agro",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -69,7 +69,7 @@
     "U": "Activista",
     "V": "Bachillerato",
     "W": "Privado",
-    "X": "Sin datos",
+    "X": "Activismo",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -101,7 +101,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Palma",
@@ -121,7 +121,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Social",
-    "X": "Asuntos laborales",
+    "X": "Temas laborales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -173,7 +173,7 @@
     "U": "Psicología",
     "V": "Especialización",
     "W": "Privado",
-    "X": "Primera infancia",
+    "X": "Niñez",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -205,7 +205,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Flórez",
@@ -361,7 +361,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Díaz",
@@ -517,7 +517,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Fernández",
@@ -569,7 +569,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Marín",
@@ -589,7 +589,7 @@
     "U": "Administración",
     "V": "Pregrado",
     "W": "Fuerzas Armadas",
-    "X": "Agro",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -605,7 +605,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Si",
-    "AP": "Candidato del clan Aguilar de Santander, es adminsitrador de empresas agropecuarias e hijo de un exconcejal de vieja data en Floridablanca, Santander. Pero, ante todo, es amigo cercano del actual Gobernador, Mauricio Aguilar.\nMarín fue gerente de la campaña a la Gobernación de Mauricio en 2019, y su asesor en los primeros meses de gobierno. Desde que renunció a la Gobernación sonó como candidato a la Cámara, pero tratará de llegar al Senado. \nCon su candidatura el Clan Aguilar tratará de mantener la curul en el Senado que tuvo antes con Mauricio y hasta el año pasado Richard Aguilar, de Cambio Radical, quien renunció buscando que el juicio penal en su contra por un entramado de corrupción como Gobernador (2012 a 2015) pasara de la Corte Suprema a la Fiscalía. \nEl clan Aguilar, cuyo patriarca Hugo Heliodoro fue condenado por parapolítica ,llegó donde los godos luego de que Mauricio recibió el aval azul para las locales de 2019. ",
+    "AP": "Candidato del clan Aguilar de Santander, es administrador de empresas agropecuarias e hijo de un exconcejal de vieja data en Floridablanca, Santander. Pero, ante todo, es amigo cercano del actual Gobernador, Mauricio Aguilar.\nMarín fue gerente de la campaña a la Gobernación de Mauricio en 2019, y su asesor en los primeros meses de gobierno. Desde que renunció a la Gobernación sonó como candidato a la Cámara, pero tratará de llegar al Senado. \nCon su candidatura el Clan Aguilar tratará de mantener la curul en el Senado que tuvo antes con Mauricio y hasta el año pasado Richard Aguilar, de Cambio Radical, quien renunció buscando que el juicio penal en su contra por un entramado de corrupción como Gobernador (2012 a 2015) pasara de la Corte Suprema a la Fiscalía. \nEl clan Aguilar, cuyo patriarca Hugo Heliodoro fue condenado por parapolítica, llegó donde los godos luego de que Mauricio recibió el aval azul para las locales de 2019. ",
     "AQ": "https://www.lasillavacia.com/media/_0019_jose-alfredo-marin.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -673,7 +673,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Herrera",
@@ -725,7 +725,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mendieta",
@@ -813,7 +813,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Teniente coronel en retiro del Ejército Nacional, entre otras dirigió el Distrito Militar 49, en Barbosa, y fue Comandante del Batallón de Selva 55 en Puerto Asís, Putumayo. \nTras retirarse del Ejército se radicó en Barbosa, punto intermedio entre la vía Bucaramanga a Bogotá, donde tiene un hotel, un café y una empresa de llantas. Su esposa, Nancy González, ha sido contratista entre 2011 y 2017 de pequeños municipios de la región, como Suaita, Güepsa, Chipatá, Aguada y Barbosa. \nChávez es afín al uribismo: sus redes sociales muestran que en 2018 hizo campaña por Iván Duque y fue crítico del Acuerdo con las Farc. Ese mismo año sonó como precandidato a la alcaldía de Barbosa por el Movimiento Político de la Reserva, un grupo de derecha liderado por el coronel Jalyl Rosemberg Torres Vega que intentó postular reservistas en las elecciones de 2019. \nAntes de obtener el aval por el Partido Conservador para la Cámara, apoyó en redes sociales la precandidatura presidencial de la senadora María Fernanda Cabal.",
+    "AP": "Teniente coronel en retiro del Ejército Nacional, entre otras, dirigió el Distrito Militar 49, en Barbosa, y fue Comandante del Batallón de Selva 55 en Puerto Asís, Putumayo. \nTras retirarse del Ejército se radicó en Barbosa, punto intermedio entre la vía Bucaramanga a Bogotá, donde tiene un hotel, un café y una empresa de llantas. Su esposa, Nancy González, ha sido contratista entre 2011 y 2017 de pequeños municipios de la región, como Suaita, Güepsa, Chipatá, Aguada y Barbosa. \nChávez es afín al uribismo: sus redes sociales muestran que en 2018 hizo campaña por Iván Duque y fue crítico del Acuerdo con las Farc. Ese mismo año sonó como precandidato a la alcaldía de Barbosa por el Movimiento Político de la Reserva, un grupo de derecha liderado por el coronel Jalyl Rosemberg Torres Vega que intentó postular reservistas en las elecciones de 2019. \nAntes de obtener el aval por el Partido Conservador para la Cámara, apoyó en redes sociales la precandidatura presidencial de la senadora María Fernanda Cabal.",
     "AQ": "https://www.lasillavacia.com/media/02_roger-ivan-chavez.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -829,7 +829,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ramírez",
@@ -881,7 +881,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Cortés",
@@ -933,7 +933,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Valbuena",
@@ -985,7 +985,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rueda",
@@ -1037,7 +1037,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Díaz",
@@ -1073,7 +1073,7 @@
     "AM": "Sí",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Abogado de La Paz, es un político conservador y empresario de transportes. Fue gerente y es miembro de la junta directiva de de Copetrán, fue directivo del gremio de transportadores de carga, Colfecar, y de la Terminal de Transportes de Bucaramanga. \nLlegó a la Asamblea en 2011 con 19.936 votos, como heredero del fortín de su hermano, el exsenador conservador Iván Díaz Mateus, condenado por la “yidispolítica”. En 2015, repitió con la segunda mayor votación del departamento, cerca de 23 mil votos, y haciéndole campaña a Didier Tavera a la Gobernación. En 2019 se reeligió con más de 24 mil votos.\nSu grupo político es influyente dentro del Partido Conservador. Su excuñada es Lina Barrera, ex representante, ex viceministra del Deporte y actualmente gerente de la Empresa Nacional Promotora del Desarrollo Territorial. Para estos comicios los Díaz Mateus fueron determinantes para que José Alfredo Marín, el candidato al Senado del clan Aguilar, recibiera el aval conservador. Ayudaron a gestionar ese cupo a cambio de recibir el apoyo de la maquinaria de la Gobernación.",
+    "AP": "Abogado de La Paz, es un político conservador y empresario de transportes. Fue gerente y es miembro de la junta directiva de de Copetrán, fue directivo del gremio de transportadores de carga, Colfecar, y de la Terminal de Transportes de Bucaramanga. \nLlegó a la Asamblea en 2011 con 19.936 votos, como heredero del fortín de su hermano, el exsenador conservador Iván Díaz Mateus, condenado por la “yidispolítica”. En 2015, repitió con la segunda mayor votación del departamento, cerca de 23 mil votos, y haciéndole campaña a Didier Tavera a la Gobernación. En 2019 se reeligió con más de 24 mil votos.\nSu grupo político es influyente dentro del Partido Conservador. Su excuñada es Lina Barrera, exrepresentante, exviceministra del Deporte y actualmente gerente de la Empresa Nacional Promotora del Desarrollo Territorial. Para estas elecciones los Díaz Mateus fueron determinantes para que José Alfredo Marín, el candidato al Senado del clan Aguilar, recibiera el aval conservador. Ayudaron a gestionar ese cupo a cambio de recibir el apoyo de la maquinaria de la Gobernación.",
     "AQ": "https://www.lasillavacia.com/media/45_luis-eduardo-diaz.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -1089,7 +1089,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Amaya",
@@ -1141,7 +1141,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Botero",
@@ -1193,7 +1193,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Leal",
@@ -1245,7 +1245,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "López",
@@ -1297,7 +1297,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Chaves",
@@ -1349,7 +1349,7 @@
     "BI": "Cristianos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Sánchez",
@@ -1401,7 +1401,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Durán",
@@ -1557,7 +1557,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Alvernia",
@@ -1609,7 +1609,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Díaz",
@@ -1629,7 +1629,7 @@
     "U": "Sociología",
     "V": "Pregrado",
     "W": "Público",
-    "X": "Impuestos",
+    "X": "Finanzas públicas",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1666,7 +1666,7 @@
   {
     "A": "Cala",
     "B": "Suárez",
-    "C": "Jairo Reinaldo",
+    "C": "Jairo",
     "D": "Santander",
     "G": "",
     "H": "@JairoComunes",
@@ -1713,7 +1713,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mantilla",
@@ -1749,7 +1749,7 @@
     "AM": "Sí",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Alcalde de su natal Floridablanca entre 2016 y 2019, este abogado de la Universidad Bolivariana de Bucaramanga con maest´ria es muy cercano a la vicepresidenta y canciller Marta Lucía Ramírez, quien además es su madrina de matrimonio, y viene de una familia política conservadora que incluye a su abuelo Guillermo Mantilla, quien concejal de Floridablanca; a su papá Jairo, concejal y diputado; y a su tío Jorge Humberto, quien fue alcalde, representante a la Cámara y desde 2013 es Secretario General de la Cámara. Mantilla inició su propia carrera política en 2014 como coordinador de la campaña presidencial de Ramírez en Santander. En 2015 buscó el aval conservador para lanzarse a la alcaldía de Floridablanca, pero se le atravesó el exsenador Iván Díaz Mateus (condenado por la yidispolítica). Así, hizo campaña por firmas, con imagen de candidato alternativo y con apoyo de políticos de vieja data como el parapolítico Luis Alberto Gil; los exsenadores Alirio Villamizar (condenado por el carrusel de las notarías) y Bernabé Celis; y el exrepresentante a la Cámara del viejo PIN, Fredy Anaya. Tras ganar la Alcaldía con 51.658 votos, les dio representación política a esos grupos y al de Ramírez, y en 2018, la maquinaria de la alcaldía se movió a favor de Ramírez en la consulta presidencial de la derecha. En 2019 su grupo llevaba candidato propio a la alcaldía: Miguel Ángel Moreno, quien era su amigo desde la universidad. Ganaron con 40.236 votos, aunque después Mantilla y Moreno se distanciaron por diferencias en el manejo burocrático de la alcaldía. En 2019 Mantilla también puso en la asamblea a Claudia Ramírez, con 19.033 votos, pero también se distanciaron. En 2020 Mantilla fue asesor de la Vicepresidencia y en 2021 fue jefe de gabinete del organismo internacional integrado por Bolivia, Colombia, Ecuador y Perú. En esta campaña cuenta con el respaldo del grupo de Fredy Anaya.",
+    "AP": "Alcalde de su natal Floridablanca entre 2016 y 2019, este abogado de la Universidad Bolivariana de Bucaramanga con maestría es muy cercano a la vicepresidenta y canciller Marta Lucía Ramírez, quien además es su madrina de matrimonio, y viene de una familia política conservadora que incluye a su abuelo Guillermo Mantilla, quien fue concejal de Floridablanca; a su papá Jairo, concejal y diputado; y a su tío Jorge Humberto, quien fue alcalde, representante a la Cámara y, desde 2013 ,es Secretario General de la Cámara. Mantilla inició su propia carrera política en 2014 como coordinador de la campaña presidencial de Ramírez en Santander. En 2015, buscó el aval conservador para lanzarse a la alcaldía de Floridablanca, pero se le atravesó el exsenador Iván Díaz Mateus (condenado por la yidispolítica). Así, hizo campaña por firmas, con imagen de candidato alternativo y con apoyo de políticos de vieja data como el parapolítico Luis Alberto Gil; los exsenadores Alirio Villamizar (condenado por el carrusel de las notarías) y Bernabé Celis; y el exrepresentante a la Cámara del viejo PIN, Fredy Anaya. Tras ganar la Alcaldía con 51.658 votos, les dio representación política a esos grupos y al de Ramírez, y en 2018, la maquinaria de la alcaldía se movió a favor de Ramírez en la consulta presidencial de la derecha. En 2019 su grupo llevaba candidato propio a la alcaldía: Miguel Ángel Moreno, quien era su amigo desde la universidad. Ganaron con 40.236 votos, aunque después Mantilla y Moreno se distanciaron por diferencias en el manejo burocrático de la alcaldía. En 2019 Mantilla también puso en la asamblea a Claudia Ramírez, con 19.033 votos, pero también se distanciaron. En 2020 Mantilla fue asesor de la Vicepresidencia y en 2021 fue jefe de gabinete del organismo internacional integrado por Bolivia, Colombia, Ecuador y Perú. En esta campaña cuenta con el respaldo del grupo de Fredy Anaya.",
     "AQ": "https://www.lasillavacia.com/media/30_hector-mantilla.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -1765,7 +1765,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Villamizar",
@@ -1785,7 +1785,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Política",
-    "X": "Asuntos urbanos",
+    "X": "Temas urbanos",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -1817,7 +1817,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ariza",
@@ -1853,7 +1853,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "Sí",
-    "AP": "Contador público con maestría en gestión pública de la Universidad de Santander, es alfil del Didier Tavera, exgobernador liberal y director de la Federación Nacional de Departamentos. Se conocieron a inicios de siglo en las ferias de los pueblos de la provincia de Vélez y los dos son egresados de la Universidad Santo Tomás de Bucaramanga.\nTras trabajar en el sector privado, en 2001 entró a la Contraloría municipal como cuota de la entonces concejal conservadora Carmen Lucía Agredo, con quien trabajaba en política su mamá, Adela Pérez. En 2004, pasó a ser auditor en la Contraloría General de Santander, ahora como cuota del exsenador Alirio Villamizar, condenado por el carrusel de las notarías y quien habría heredado su curul en la Asamblea a Adela Pérez.\nEn 2006 renunció a la Contraloría para lanzarse al Concejo de Bucaramanga con aval conservador. Se quemó como segundo en la lista con 2.008 votos. Volvió al sector público a dirigir la oficina de Espacio Público de Bucaramanga cuando era alcalde Fernando Vargas Mendoza. Regresó al ruedo electoral en 2011, ahora con el aval del PIN, partido por el que Tavera de ser elegido representante a la Cámara y que manejaba en santander el parapolítico Luis Alberto 'el Tuerto' Gil. Duplicó su votación (4.175 votos) y se quedó con una de las 19 curules en el Concejo. Luego, cuando en 2015 Tavera renunció al partido para lanzarse a la Gobernación por el liberalismo, fue uno de sus líderes de campaña, y cuando Tavera ganó y se posesionó, Ariza fue elegido contralor departamental con 15 de 16 los votos y su cercanía con el Gobernador.\nArrancó su contraloría con un control fuerte al mandato del gobernador anterior, Richard Aguilar, a cuyo grupo sucesor le había ganado Tavera, pero luego avanzaron poco los procesos frente a la gobernación de Tavera. De hecho, en el caso de irregularidades en contratación, mal estado de alimentos e intoxicaciones por el PAE, una auditoría exprés determinó que sólo eran necesarias algunas sugerencias. Un año más tarde la Fiscalía capturó a la secretaría de Educación, Ana de Dios Tarazona, y encontró irregularidades y sobrecostos. En esta campaña Ariza es la fórmula del senador Miguel Ángel Pinto, esposo de la tía de Didier Tavera. Los dos tienen el apoyo burocrático y económico de los Tavera, dueños de gasolineras, una agencia de viajes que contrata con el Estado, y parientes y cuotas en cargos públicos de la región.",
+    "AP": "Contador público con maestría en gestión pública de la Universidad de Santander, es alfil del Didier Tavera, exgobernador liberal y director de la Federación Nacional de Departamentos. Se conocieron a inicios de siglo en las ferias de los pueblos de la provincia de Vélez y los dos son egresados de la Universidad Santo Tomás de Bucaramanga.\nTras trabajar en el sector privado, en 2001 entró a la Contraloría municipal como cuota de la entonces concejal conservadora Carmen Lucía Agredo, con quien trabajaba en política su mamá, Adela Pérez. En 2004, pasó a ser auditor en la Contraloría General de Santander, ahora como cuota del exsenador Alirio Villamizar, condenado por el carrusel de las notarías y quien habría heredado su curul en la Asamblea a Adela Pérez.\nEn 2006 renunció a la Contraloría para lanzarse al Concejo de Bucaramanga con aval conservador. Se quemó como segundo en la lista con 2.008 votos. Volvió al sector público a dirigir la oficina de Espacio Público de Bucaramanga cuando era alcalde Fernando Vargas Mendoza. Regresó al ruedo electoral en 2011, ahora con el aval del PIN, partido por el que Tavera de ser elegido representante a la Cámara y que manejaba en santander el parapolítico Luis Alberto 'el Tuerto' Gil. Duplicó su votación (4.175 votos) y se quedó con una de las 19 curules en el Concejo. Luego, cuando en 2015 Tavera renunció al partido para lanzarse a la Gobernación por el liberalismo, fue uno de sus líderes de campaña, y cuando Tavera ganó y se posesionó, Ariza fue elegido contralor departamental con 15 de 16 los votos y su cercanía con el Gobernador.\nArrancó su contraloría con un control fuerte al mandato del gobernador anterior, Richard Aguilar, a cuyo grupo sucesor le había ganado Tavera, pero luego avanzaron poco los procesos frente a la gobernación de Tavera. De hecho, en el caso de irregularidades en contratación, mal estado de alimentos e intoxicaciones por el PAE, una auditoría exprés determinó que sólo eran necesarias algunas sugerencias. Un año más tarde la Fiscalía capturó a la secretaria de Educación, Ana de Dios Tarazona, y encontró irregularidades y sobrecostos. En esta campaña Ariza es la fórmula del senador Miguel Ángel Pinto, esposo de la tía de Didier Tavera. Los dos tienen el apoyo burocrático y económico de los Tavera, dueños de gasolineras, una agencia de viajes que contrata con el Estado, y parientes y cuotas en cargos públicos de la región.",
     "AQ": "https://www.lasillavacia.com/media/22_diego-fran-ariza.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -1869,7 +1869,7 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bello",
@@ -1889,7 +1889,7 @@
     "U": "Derecho",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1905,7 +1905,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "Sí",
-    "AP": "Zootecnista de la Unad y abogado de Uniciencia, asesoró proyectos agroindustriales antes de entrar a la política. Llegó a ella de la mano de los hermanos Gerardo Tamayo, representante entre 2010 y 2014, y Luis Tulio, concejal a inicios de siglo y diputado durante 12 años. Entre finales de los 90 y principios de los 2000, Bello trabajó en el sector público: fue director de la Umata de Girón, recaudador del Instituto de Crédito Territorial, visitador de obras y jefe de recursos físicos de Planeación de Bucaramanga, jefe de recursos físicos de la Contraloría departamental y auxiliar administrativo de la Contraloría Municipal. De allí pasó al Concejo como asesor y secretario general cuando Luis Tulio Tamayo presidía la corporación. En 2008 fue elegido concejal por la entonces uribista La U. Durante ese periodo, Bello fue presidente de la corporación. En 2011 repitió con más de tres mil votos y ayudó a consolidar la bancada de su partido, que pasó de dos a tres curules. Ese mismo año su hijo Elkin Yesid fue contratista de la Asamblea en labores de archivo y de gestión documental.\nVolvió a postularse al Concejo en 2015 y obtuvo 3.698 votos que le alcanzaron para el umbral, aunque su partido perdió una curul. En aquel periodo, Bello fue el único concejal de su partido que acompañó la gestión del hoy candidato presidencial, Rodolfo Hernández, y en junio de 2015 fue elegido codirector de La U como representante de los concejales de ese partido. En abril 2016 la Procuraduría Regional de Santander lo suspendió por cuatro meses junto a otros dos exconcejales (Jhon Claro y Carlos Moreno) por incurrir en una falta disciplinaria grave, pue no acataron la decisión plenaria del Concejo para la convocatoria del proceso de elección de Contralor en 2015 y se extralimitaron en sus funciones. Según mediciones de veedurías y programas como “Bucaramanga Cómo Vamos”, Bello fue uno de los concejales con peores índices de participación. En 2018, por ejemplo, fue uno de los 3 concejales con los desempeños más bajos en control político y en asistencia. Para las elecciones de 2019, postuló a su hijo Elkin Yesid, quien había sido director departamental de Caprecom, quien a pesar de tener la votación más alta de su partido (1785 votos), se quemó. En esta campaña Bello hace fórmula con el senador José David Name, uno de los superpoderosos del Caribe y heredero político de su padre, el fallecido cacique de la política tradicional en el Atlántico José Name Terán.",
+    "AP": "Zootecnista de la Unad y abogado de Uniciencia, asesoró proyectos agroindustriales antes de entrar a la política. Llegó a ella de la mano de los hermanos Gerardo Tamayo, representante entre 2010 y 2014, y Luis Tulio, concejal a inicios de siglo y diputado durante 12 años. Entre finales de los 90 y principios de los 2000, Bello trabajó en el sector público: fue director de la Umata de Girón, recaudador del Instituto de Crédito Territorial, visitador de obras y jefe de recursos físicos de Planeación de Bucaramanga, jefe de recursos físicos de la Contraloría departamental y auxiliar administrativo de la Contraloría Municipal. De allí pasó al Concejo como asesor y secretario general cuando Luis Tulio Tamayo presidía la corporación. En 2008 fue elegido concejal por la entonces uribista La U. Durante ese periodo, Bello fue presidente de la corporación. En 2011 repitió con más de tres mil votos y ayudó a consolidar la bancada de su partido, que pasó de dos a tres curules. Ese mismo año su hijo Elkin Yesid fue contratista de la Asamblea en labores de archivo y de gestión documental.\nVolvió a postularse al Concejo en 2015 y obtuvo 3.698 votos que le alcanzaron para el umbral, aunque su partido perdió una curul. En aquel periodo, Bello fue el único concejal de su partido que acompañó la gestión del hoy candidato presidencial, Rodolfo Hernández, y en junio de 2015 fue elegido codirector de La U como representante de los concejales de ese partido. En abril 2016 la Procuraduría Regional de Santander lo suspendió por cuatro meses junto a otros dos exconcejales (Jhon Claro y Carlos Moreno) por incurrir en una falta disciplinaria grave, pues no acataron la decisión plenaria del Concejo para la convocatoria del proceso de elección de Contralor en 2015 y se extralimitaron en sus funciones. Según mediciones de veedurías y programas como “Bucaramanga Cómo Vamos”, Bello fue uno de los concejales con peores índices de participación. En 2018, por ejemplo, fue uno de los 3 concejales con los desempeños más bajos en control político y en asistencia. Para las elecciones de 2019, postuló a su hijo Elkin Yesid, quien había sido director departamental de Caprecom, quien a pesar de tener la votación más alta de su partido (1785 votos), se quemó. En esta campaña Bello hace fórmula con el senador José David Name, uno de los superpoderosos del Caribe y heredero político de su padre, el fallecido cacique de la política tradicional en el Atlántico José Name Terán.",
     "AQ": "https://www.lasillavacia.com/media/15_cleomedes-bello.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -1921,6 +1921,6 @@
     "BI": "Sin datos",
     "BJ": "Santander",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   }
 ]

@@ -17,7 +17,7 @@
     "U": "Periodismo",
     "V": "Pregrado",
     "W": "Periodismo",
-    "X": "Periodismo",
+    "X": "Comunicaciones",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -49,7 +49,7 @@
     "BI": "Buenaventura",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Murillo",
@@ -69,7 +69,7 @@
     "U": "Ciencia política",
     "V": "Pregrado",
     "W": "Público",
-    "X": "Asuntos étnicos",
+    "X": "Temas étnicos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -101,7 +101,7 @@
     "BI": "Buenaventura",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Pimentel",
@@ -153,7 +153,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Arias",
@@ -205,7 +205,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gómez",
@@ -257,7 +257,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Velasco",
@@ -309,7 +309,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Torres",
@@ -329,7 +329,7 @@
     "U": "Cortero de caña",
     "V": "Sin datos",
     "W": "Social",
-    "X": "Agro",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -361,7 +361,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gallego",
@@ -381,7 +381,7 @@
     "U": "Derecho",
     "V": "Pregrado",
     "W": "Privado",
-    "X": "Turismo",
+    "X": "Emprendimiento",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -413,7 +413,7 @@
     "BI": "Cristianos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Hernández",
@@ -465,7 +465,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gallego",
@@ -517,7 +517,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Caicedo",
@@ -537,7 +537,7 @@
     "U": "Teología",
     "V": "Pregrado",
     "W": "Privado",
-    "X": "Sin datos",
+    "X": "Religión",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -569,7 +569,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Becerra",
@@ -621,7 +621,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Peña",
@@ -673,7 +673,7 @@
     "BI": "Madres comunitarias",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Tamayo",
@@ -725,7 +725,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Tejada",
@@ -745,7 +745,7 @@
     "U": "Periodismo",
     "V": "Maestría",
     "W": "Privado",
-    "X": "Periodismo",
+    "X": "Comunicaciones",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -777,7 +777,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gómez",
@@ -829,7 +829,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Hurtado",
@@ -933,7 +933,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Castillo",
@@ -1141,7 +1141,7 @@
     "BI": "Egresados del Sena",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Vélez",
@@ -1177,7 +1177,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Ingeniero civil y empresario tulueño, ha hecho carrera en la política local como conservador. ue brevemente secretario de obras públicas municipal en 2003, fallido candidato azul a la alcaldía en 2007, candidato por firmas en 2011 (quedó en segundo puesto detrás de José Germán Gómez, del grupo de Dilian Francisca Toro) y alcalde elegido en 2015 con el aval del Mais y sin rival conservador. No logró poner sucesor en 2019 y ahora se lanza por el Partido Conservador, en fórmula con el ex senador Ubeimar Delgado.",
+    "AP": "Ingeniero civil y empresario tulueño, ha hecho carrera en la política local como conservador. Fue brevemente secretario de obras públicas municipal en 2003, fallido candidato azul a la alcaldía en 2007, candidato por firmas en 2011 (quedó en segundo puesto detrás de José Germán Gómez, del grupo de Dilian Francisca Toro) y alcalde elegido en 2015 con el aval del Mais y sin rival conservador. No logró poner sucesor en 2019 y ahora se lanza por el Partido Conservador, en fórmula con el exsenador Ubeimar Delgado.",
     "AQ": "https://www.lasillavacia.com/media/27_Gustavo-Velez.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -1193,7 +1193,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Maya",
@@ -1297,7 +1297,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Zapata",
@@ -1349,7 +1349,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Salcedo",
@@ -1401,7 +1401,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "García",
@@ -1453,7 +1453,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Angulo",
@@ -1505,7 +1505,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rentería",
@@ -1557,7 +1557,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Torres",
@@ -1609,7 +1609,59 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
+  },
+  {
+    "A": "Garcés",
+    "B": "Aljure",
+    "C": "Christian Munir",
+    "D": "Valle del Cauca",
+    "G": "https://www.lasillavacia.com/quien-es-quien/christian-garc%C3%A9s-aljure",
+    "H": "@ChriGarces",
+    "K": 40523,
+    "L": "Cámara por el Valle 2018",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Centro Democrático",
+    "R": 101,
+    "S": "Derecha",
+    "T": "Cali",
+    "U": "Administración",
+    "V": "Especialización",
+    "W": "Política",
+    "X": "Administración",
+    "Y": "No",
+    "AA": "No",
+    "AB": "Sí",
+    "AC": 1,
+    "AD": "No",
+    "AE": "Sí",
+    "AF": "No",
+    "AG": "Sí",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Administrador de empresas con maestría en pensamiento estratégico, es represente uribista por el Valle. Fue concejal de Cali (2004-2007) y diputado (2006-2009) como conservador.  En 2015 fue candidato uribista a la Gobernación por el uribismo y con 355 mil votos fue el segundo contra Dilian Francisca Toro. Como diputado apoyó la campaña de Andrés Felipe Arias, quien aspiraba a la Presidencia como conservador y era el favorito de Álvaro Uribe. En 2016 lideró el Comité ‘Ciudadanos del Valle por el No'. Ha impulsado flexibilizar el porte de armas.",
+    "AQ": "https://www.lasillavacia.com/media/33_Christian-Munir-Garces-Aljure.jpg",
+    "AR": "Sí",
+    "AT": "Sin datos",
+    "AU": "Sin datos",
+    "AV": "Críticas al Acuerdo con las Farc",
+    "AW": "Seguridad",
+    "AX": "Porte de armas",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha sido representante a la Cámara",
+    "BH": "",
+    "BI": "Sin datos",
+    "BJ": "Valle del Cauca",
+    "BK": "Sin datos",
+    "BL": "Normal"
   },
   {
     "A": "Orozco",
@@ -1645,7 +1697,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Politólogo con maestría en estudios de seguridad de la universidad de Georgetown, hizo carrera en el ejecutivo. Primero como asesor de María Isabel Ulloa en el viceministerio de Minas, luego como asesor en el ministerio de Defensa cuando Luis Carlos Villegas era ministro, y entre 2017 y 2018, incluyendo toda su campaña presidencial, de Humberto De La Calle. \nTras las elecciones, pasó a ser jefe de gabinete de Lina Sinisterra en la secretaría de gobierno de Cali.\nFue uno de los organizadores de \"La marcha del silencio\", la primera reacción ciudadana en contra de los bloqueos del paro de 2021 que tuvo su epicentro en Cali. Su bandera principal es la seguridad.",
+    "AP": "Politólogo con maestría en estudios de seguridad de Georgetown, fue asesor de María Isabel Ulloa en el viceministerio de Minas, del ministerio de Defensa cuando Luis Carlos Villegas era ministro, y de Humberto De La Calle entre 2017 y 2018, incluyendo su campaña presidencial, Tras las elecciones pasó a ser jefe de gabinete de Lina Sinisterra en la secretaría de gobierno de Cali. Fue uno de los organizadores de \"La marcha del silencio\", primera reacción ciudadana en contra de los bloqueos del paro de 2021 en Cali. Su bandera principal es la seguridad.",
     "AQ": "https://www.lasillavacia.com/media/28_Gustavo-Orozco.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -1661,7 +1713,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "David",
@@ -1681,7 +1733,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Público",
-    "X": "Sin datos",
+    "X": "Finanzas públicas",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1697,7 +1749,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Después de haber sido, en 2011, candidato al concejo de Cali por Cambio Radical y de formar parte del grupo político de la varias veces diputada conservadora Amanda Ramírez Giraldo, este abogado con maestría en gestión pública ha hecho carrera como funcionario del municipio. Ha sido subsecretario auditor fiscal de la Contraloría, subdirector de Recursos Humanos del Municipio, subsecretario de mejoramiento integral y legalización de la Secretaría de Vivienda, subdirector de Recursos Humanos de y subsecretario para la dirección y administración de los recursos de la Secretaría de Educación. Cercano a Maurice Armitage. En paralelo creó y creció su marca de productos de cuero, Bari.",
+    "AP": "Después de haber sido, en 2011, candidato al Concejo de Cali por Cambio Radical y de formar parte del grupo político de la varias veces diputada conservadora Amanda Ramírez Giraldo, este abogado con maestría en gestión pública ha hecho carrera como funcionario del municipio. Ha sido subsecretario auditor fiscal de la Contraloría, subdirector de Recursos Humanos del Municipio, subsecretario de mejoramiento integral y legalización de la Secretaría de Vivienda, subdirector de Recursos Humanos y subsecretario para la dirección y administración de los recursos de la Secretaría de Educación. Cercano a Maurice Armitage. En paralelo creó y creció su marca de productos de cuero, Bari.",
     "AQ": "https://www.lasillavacia.com/media/37_Alvaro-Adarve.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -1713,7 +1765,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Arizabaleta",
@@ -1733,7 +1785,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Público",
-    "X": "Sin datos",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1765,7 +1817,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Cataño",
@@ -1817,7 +1869,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ocampo",
@@ -1837,7 +1889,7 @@
     "U": "Deporte",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Deporte",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1853,7 +1905,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Deportólogo de la Escuela Nacional del Deporte, ha sido entrenador de natación en la Liga del Valle y tiene trayectoria en la política de izquierda: fue candidato del Polo a la Cámara en 2010, al Concejo de Cali en 2011 y a la Gobernación en 2015 (sacó la quinta votación con 60.617 apoyos).\nA mediados de 2017, aprovechando un bajón en la imagen del alcalde Maurice Armitage, comenzó una campaña de revocatoria que, dice, recogió 120 mil firmas. No prosperó pero se lanzó al Senado en 2018 por el Polo y se quemó. Esa vez solo logró el aval tras una dura pelea en el Comité Ejecutivo Nacional del que hacía parte, y en el que, con el apoyo del sector de Clara López, le ganó al ex senador Mauricio Ospina.",
+    "AP": "Deportólogo de la Escuela Nacional del Deporte, ha sido entrenador de natación en la Liga del Valle y tiene trayectoria en la política de izquierda: fue candidato del Polo a la Cámara en 2010, al Concejo de Cali en 2011 y a la Gobernación en 2015 (sacó la quinta votación con 60.617 apoyos).\nA mediados de 2017, aprovechando un bajón en la imagen del alcalde Maurice Armitage, comenzó una campaña de revocatoria que, dice, recogió 120 mil firmas. No prosperó pero se lanzó al Senado en 2018 por el Polo y se quemó. Esa vez solo logró el aval tras una dura pelea en el Comité Ejecutivo Nacional del que hacía parte, y en el que, con el apoyo del sector de Clara López, le ganó al exsenador Mauricio Ospina.",
     "AQ": "https://www.lasillavacia.com/media/39_Alejandro-Ocampo.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -1869,59 +1921,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
-  },
-  {
-    "A": "Garcés",
-    "B": "Aljure",
-    "C": "Christian Munir",
-    "D": "Valle del Cauca",
-    "G": "https://www.lasillavacia.com/quien-es-quien/christian-garc%C3%A9s-aljure",
-    "H": "@ChriGarces",
-    "K": 40523,
-    "L": "Cámara por el Valle 2018",
-    "N": "Cámara",
-    "O": "Hombre",
-    "Q": "Centro Democrático",
-    "R": 101,
-    "S": "Derecha",
-    "T": "Cali",
-    "U": "Administración",
-    "V": "Especialización",
-    "W": "Política",
-    "X": "Planeación",
-    "Y": "No",
-    "AA": "No",
-    "AB": "Sí",
-    "AC": 1,
-    "AD": "No",
-    "AE": "Sí",
-    "AF": "No",
-    "AG": "Sí",
-    "AI": "No",
-    "AJ": "Sí",
-    "AK": "No",
-    "AL": "No",
-    "AM": "No",
-    "AN": "No",
-    "AO": "No",
-    "AP": "Administrador de empresas con especialización en gerencia social y maestría en pensamiento estratégico, fue concejal de Cali (2004-2007) y diputado (2006-2009) por el Partido Conservador. \n\nEn 2015 fue candidato a la Gobernación por el uribismo, bajo el movimiento político ‘Despierta Valle’, y sacó 355 mil votos, en segundo lugar contra Dilian Francisca Toro.\n\nComo diputado apoyó la campaña de Andrés Felipe Arias, quien aspiraba a la Presidencia por el Partido Conservador y era el favorito de Álvaro Uribe. En 2016 lideró el Comité de ‘Ciudadanos del Valle por el No'. Actualmente es Representante a la Cámara por el Centro Democrático, donde ha sido el principal impulsor de la flexibilización del porte de armas.",
-    "AQ": "https://www.lasillavacia.com/media/33_Christian-Munir-Garces-Aljure.jpg",
-    "AR": "Sí",
-    "AT": "Sin datos",
-    "AU": "Sin datos",
-    "AV": "Críticas al Acuerdo con las Farc",
-    "AW": "Seguridad",
-    "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
-    "BE": "Universitarios",
-    "BF": "No tiene líos ni cuestionamientos",
-    "BG": "Ha sido representante a la Cámara",
-    "BH": "",
-    "BI": "Sin datos",
-    "BJ": "Valle del Cauca",
-    "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "López",
@@ -1973,7 +1973,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Velasco",
@@ -2077,7 +2077,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Motoa",
@@ -2233,7 +2233,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "López",
@@ -2253,7 +2253,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Política",
-    "X": "Asuntos laborales",
+    "X": "Temas laborales",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -2357,7 +2357,7 @@
     "U": "Ciencias sociales",
     "V": "Pregrado",
     "W": "Social",
-    "X": "Víctimas del conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -2438,7 +2438,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
-    "BI": "Comunidad afro",
+    "BI": "Afros",
     "BJ": "Pacífico Medio (víctimas)",
     "BK": "No",
     "BL": "De paz"
@@ -2493,7 +2493,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rojas",
@@ -2545,7 +2545,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gómez",
@@ -2597,7 +2597,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Hurtado",
@@ -2617,7 +2617,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Privado",
-    "X": "Transporte",
+    "X": "Moviilidad",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2633,7 +2633,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado especialista en Derecho Administrativo y empresario del transporte, fundó la empresa Transportes Recreativos Ltda y es socio gestor de la Sociedad de Financiamiento Automotor Reponer, que financia la reposición de vehículos de servicio público. Hace más de 20 años creó el Colectivo de Integración Social (CIS) que fortalece de proyectos de emprendimiento y liderazgo.\n\nSegún una persona que lo sabe de primera mano, es el candidato del movimiento Podemos Cali, que lidera el alcalde Jorge Iván Ospina. Un hermano de Hurtado donó a la campaña de Ospina y coordinó el sector movilidad y transporte dentro del empalme, y un miembro de su grupo político estuvo en el empalme del sector salud. \n\nFue asesor de la Alcaldía en el Plan de Desarrollo Distrital en movilidad e impulsó a tres concejales de juventud electos por la lista “Pacto por la vida”, la tercera más votada en todo el país (2310 votos).",
+    "AP": "Abogado y empresario del transporte, fundó Transportes Recreativos Ltda y maneja la Sociedad de Financiamiento Automotor Reponer, que financia la reposición de buses. Hace más de 20 años creó el Colectivo de Integración Social (CIS) que fortalece de proyectos de emprendimiento y liderazgo. Es  el candidato del movimiento Podemos Cali, que lidera el alcalde Jorge Iván Ospina. Un hermano de Hurtado donó a la campaña de Ospina y coordinó el sector movilidad y transporte dentro del empalme, y un miembro de su grupo político estuvo en el empalme del sector salud. Fue asesor de la Alcaldía en el Plan de Desarrollo Distrital en movilidad e impulsó a tres concejales de juventud electos por la lista “Pacto por la vida”, la tercera más votada en todo el país (2310 votos).",
     "AQ": "https://www.lasillavacia.com/media/19_Jose-Harbey-Hurtado-Guerrero.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -2649,7 +2649,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Hoyos",
@@ -2789,7 +2789,7 @@
     "AM": "Sí",
     "AN": "Sí",
     "AO": "No",
-    "AP": "Barón electoral del Valle, ha sido gobernador y Senador, entre otras. Busca regresar al Senado y devovler una curul a los conservadores del Valle luego de que su sobrino Javier se quempo en 2018. Estudió derecho en la Universidad Libre de Cali, pero nunca se graduó.\nTras trabajar como auditor en la Gobernación y en Emcali durante más de 15 años, y mientras militada en el conservatismo, en 1992 fue elegido concejal de Cali.\nReelegido en 1994, en 1998 saltó a la Cámara de la mano de Francisco Murgueitio. Tras reelgirse en 2002, en 2006 saltó al Senado. En 2010 heredó la curul a su hermano César Tulio para lanzarse a la Goerbanción en las elecciones de 2011. \nAunque perdió frente a Hécto Useche, de la cuerda de Abadía, al año siguiente Useche fue destituído y Delgado se lanzó de nuevo con el apoyo de varios partidos. Esa vez sí logró la Gobernacón, en la que estuvo hasta 2015.\nFue uno de los primeros conservadores en apoyoar la candidatura de Iván Duque a la Presidencia, y una vez éste ganó le correspondió la ayuda nombrándolo embajador en Sueceia.y a pesar de que Delgado no habla inglés. La posesión se estancó por una investigación judicial por una presunta irregularidad en el nombramiento de una funcionaria cuando era Gobernador, y en enero de 2020 Duque noombró a a su hermano César Tulio.\n",
+    "AP": "Barón electoral del Valle, ha sido gobernador y senador, entre otras. Busca regresar al Senado y devolver una curul a los conservadores del Valle luego de que su sobrino Javier se quemó en 2018. Estudió derecho en la Universidad Libre de Cali, pero nunca se graduó.\nTras trabajar como auditor en la Gobernación y en Emcali durante más de 15 años, y mientras militada en el conservatismo, en 1992, fue elegido concejal de Cali.\nReelegido en 1994, en 1998 saltó a la Cámara de la mano de Francisco Murgueitio. Tras reelegirse en 2002, en 2006 saltó al Senado. En 2010 heredó la curul a su hermano César Tulio para lanzarse a la Gobernación en las elecciones de 2011. \nAunque perdió frente a Hécto Useche, de la cuerda de Abadía, al año siguiente Useche fue destituído y Delgado se lanzó de nuevo con el apoyo de varios partidos. Esa vez sí logró la Gobernacón, en la que estuvo hasta 2015.\nFue uno de los primeros conservadores en apoyar la candidatura de Iván Duque a la Presidencia, y una vez este ganó le correspondió la ayuda nombrándolo embajador en Suecia, a pesar de que Delgado no habla inglés. La posesión se estancó por una investigación judicial por una presunta irregularidad en el nombramiento de una funcionaria cuando era Gobernador, y en enero de 2020 Duque nombró a su hermano César Tulio.\n",
     "AQ": "https://www.lasillavacia.com/media/_0003_ubeimar-delgado-blandon.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -2810,7 +2810,7 @@
   {
     "A": "Arias ",
     "B": "Castillo",
-    "C": "Wilson Neber",
+    "C": "Wilson",
     "D": "Valle del Cauca",
     "G": "https://www.lasillavacia.com/quien-es-quien/wilson-arias-castillo",
     "H": "@wilsonariasc",
@@ -2909,7 +2909,7 @@
     "BI": "Sin datos",
     "BJ": "Valle del Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Pérez",
@@ -2966,7 +2966,7 @@
   {
     "A": "Barreras",
     "B": "Montealegre",
-    "C": "Roy Leónardo",
+    "C": "Roy",
     "D": "Valle del Cauca",
     "G": "https://www.lasillavacia.com/quien-es-quien/roy-Leónardo-barreras-montealegre",
     "H": "@RoyBarreras",

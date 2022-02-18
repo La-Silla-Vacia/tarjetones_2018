@@ -49,7 +49,7 @@
     "BI": "Cristianos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ortega",
@@ -69,7 +69,7 @@
     "U": "Sin datos",
     "V": "Sin datos",
     "W": "Periodismo",
-    "X": "Periodismo",
+    "X": "Comunicaciones",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -101,7 +101,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Cabeza",
@@ -153,7 +153,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Petro",
@@ -171,9 +171,9 @@
     "S": "Izquierda",
     "T": "Valencia",
     "U": "Líder social",
-    "V": "PriMaría",
+    "V": "Primaria",
     "W": "Público",
-    "X": "Agro",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -198,7 +198,7 @@
     "AW": "Derechos Humanos",
     "AX": "Sustitución de cultivos",
     "BD": "Entre 25 y 40 años",
-    "BE": "#N/A",
+    "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -329,7 +329,7 @@
     "U": "Agricultura",
     "V": "Sin datos",
     "W": "Público",
-    "X": "Agro",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -413,7 +413,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Guerra",
@@ -449,7 +449,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "\"La tati\", como se le conoce en Montería, es la heredera política de la curul que dejará su tía, la senadora María del Rosario Guerra y es hija del político Josélito Guerra de La Espriella, condenado por el Proceso 8000 aunque un comtié de la ONU luego dijo que esa condena era injusta. Arquitecta de la Javeriana con maestría en diseño de interiores, siempre ha trabajado en el sector privado. Tratará de llegar al Senado con la fuerza de su familia en Sucre.",
+    "AP": "\"La tati\", como se le conoce en Montería, es la heredera política de la curul que dejará su tía, la senadora María del Rosario Guerra y es hija del político Josélito Guerra de La Espriella, condenado por el Proceso 8000 aunque un comité de la ONU luego dijo que esa condena era injusta. Arquitecta de la Javeriana con maestría en diseño de interiores, siempre ha trabajado en el sector privado. Tratará de llegar al Senado con la fuerza de su familia en Sucre.",
     "AQ": "https://www.lasillavacia.com/media/26_GUERRA-LOPEZ.jpg",
     "AR": "No",
     "AT": "Óscar Iván Zuluaga",
@@ -517,7 +517,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Palencia",
@@ -553,7 +553,7 @@
     "AM": "Sí",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Prima del gobernador de Córdoba, el liberal Orlando Benítez Mora, y de Juan Carlos Benítez, subdirector de planeación de la CVS (entidad que maneja la casa Besaile), no tiene trayectoria como líder social ni es conocida por su aporte a las víctimas, campesinos o mujeres, lo que lleva a cuestionamientos por su participación en la circunscripción creada para las víctimas. Su candidatura está en juego porque tuvo un contrato con la gobernación con fecha de vencimiento el 31 de diciembre de 2021.",
+    "AP": "Prima del gobernador de Córdoba, el liberal Orlando Benítez Mora, y de Juan Carlos Benítez, subdirector de planeación de la CVS (entidad que maneja la casa Besaile), no tiene trayectoria como líder social ni es conocida por su aporte a las víctimas, campesinos o mujeres, lo que lleva a cuestionamientos por su participación en la circunscripción creada para las víctimas. Su candidatura está en juego porque tuvo un contrato con la Gobernación con fecha de vencimiento el 31 de diciembre de 2021.",
     "AQ": "https://www.lasillavacia.com/media/24_LeonorPalenica.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -621,7 +621,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Moreno",
@@ -641,7 +641,7 @@
     "U": "Defensor de DDHH",
     "V": "Bachillerato",
     "W": "Público",
-    "X": "Veeduría",
+    "X": "Derechos Humanos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -725,7 +725,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bitar",
@@ -745,7 +745,7 @@
     "U": "Economía",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Economía",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -761,7 +761,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Economista y novata en política, es la candidata del candidato presidencial David Barguil, uno de los mayores electores del Partido Conservador, para ocupar lo curul mque él deja vacante. \nEs muy cercana a Barguil (sus mamás son muy cercanas, y se consideran \"hermanos de crianza\"); su hermano Said Bitar es diputado de Córdoba del grupo de Barguil. Entre 2008 y 2019 trabajó en la alcaldía de Montería, en cabeza de alcaldes conservadores aliados de Barguil (incluyendo a Marcos Daniel Peneda, también candidato conservador el Senado) y luego en el Ministerio de Agricultura, fortin conservador. \nVa en fórmula con Ruth Amelia Cauicedo, viuda del senador Enríquez.",
+    "AP": "Economista , es la candidata del candidato presidencial David Barguil, uno de los mayores electores del Partido Conservador, para ocupar la curul que él deja vacante. Muy cercana a Barguil (se consideran \"hermanos de crianza\"); su hermano Said es diputado de Córdoba del grupo de Barguil. Entre 2008 y 2019 trabajó en la alcaldía de Montería, con alcaldes conservadores aliados de Barguil (incluyendo a Marcos Daniel Pineda, también candidato conservador el Senado) y luego en el Ministerio de Agricultura, fortín conservador.",
     "AQ": "https://www.lasillavacia.com/media/_0015_LILIANA-BITAR.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -829,7 +829,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Barguil",
@@ -881,7 +881,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Pérez",
@@ -933,7 +933,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Manzur",
@@ -969,7 +969,7 @@
     "AM": "Sí",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Ingeniero industrial de la Universidad de los Andes con maestría en Gobierno y Políticas Públicas del Externado, llegó a la Cámara en 2018 en su primera incursión electoral. Es hijo y heredero del caudal electoral del ex senador conservador Julio Manzur y en 2018 fue fórmula de la senadora Nora García, mamá del entonces alcalde de Montería, Marcos David Pineda. Ahora Pineda busca reemplazar a su mamá en el Senado, y mantiene la alianza con Manzur.\n\nAntes trabajó como como analista de investigación y desarrollo en Aseo Capital, fue asesor de la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA) y de la Oficina de Planeación del Senado de la República y gerente forestal de Cormagdalena antes de que, en 2016, Pineda lo nombrar director del programa Ciudad Verde, uno de sus programas bandera de Pineda. ",
+    "AP": "Ingeniero industrial de la Universidad de los Andes con maestría en Gobierno y Políticas Públicas del Externado, llegó a la Cámara en 2018 en su primera incursión electoral. Es hijo y heredero del caudal electoral del exsenador conservador Julio Manzur y en 2018 fue fórmula de la senadora Nora García, mamá del entonces alcalde de Montería, Marcos David Pineda. Ahora Pineda busca reemplazar a su mamá en el Senado, y mantiene la alianza con Manzur.\n\nAntes trabajó como analista de investigación y desarrollo en Aseo Capital, fue asesor de la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA) y de la Oficina de Planeación del Senado de la República y gerente forestal de Cormagdalena antes de que, en 2016, Pineda lo nombrara director del programa Ciudad Verde, uno de los programas bandera de Pineda. ",
     "AQ": "https://www.lasillavacia.com/media/03_Manzur-Imbett.jpg",
     "AR": "Sí",
     "AT": "David Barguil",
@@ -985,7 +985,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Robayo",
@@ -1037,7 +1037,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Burgos",
@@ -1089,7 +1089,7 @@
     "BI": "Sin datos",
     "BJ": "Córdoba",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Besaile",
@@ -1161,7 +1161,7 @@
     "U": "Administración",
     "V": "Maestría",
     "W": "Política",
-    "X": "Infraestructura",
+    "X": "Temas urbanos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1177,7 +1177,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "Sí",
-    "AP": "Administrador de empresas de la Sergio Arboleda con maestrías en gestión política de la Complutense y en participación ciudadana de la Francisco de Vitoria de Madrid, ha apalancado su campaña en sus logros como dos veces alcalde de Montería y el pdoer que ha amasado su grupo tras ganar la alcaldía en 2007 y 2015 con él, y en 2011 con Carlos Correa.\nElegido por primera vez en 2007, rompiendo una hegemonía conservadora, tiene la imagen de ser \"el Peñalosa\" de la ciudad por sus obras de infraestructura, a las que ayudaron sus buenas relaciones con Álvaro Uribe y Juan Manuel Santos, presidentes en sus dos mandatos.  \nAhora tratará de llegar al Senado con la estructura de su mamá, la senadora Nora García Burgos, y su amistad de larga data con el candidato presidencial del Partido Conservador, David Barguil, quien es su aliado desde que fue su jefe de debate en 2007.  \nPineda también conoce el poder de la capital: fue asesor de David Luna en el Concejo de Bogotá, y director de asuntos políticas y electorales del Ministerio del Interior bajo el poder de Fernando Londoño, Sabas Pretelt y Carlos Holguín, ministros de Uribe. ",
+    "AP": "Administrador de empresas de la Sergio Arboleda con maestrías en gestión política de la Complutense y en participación ciudadana de la Francisco de Vitoria de Madrid, ha apalancado su campaña en sus logros como dos veces alcalde de Montería y el poder que ha amasado su grupo tras ganar la alcaldía en 2007 y 2015 con él, y en 2011 con Carlos Correa.\nElegido por primera vez en 2007, rompiendo una hegemonía conservadora, tiene la imagen de ser \"el Peñalosa\" de la ciudad por sus obras de infraestructura, a las que ayudaron sus buenas relaciones con Álvaro Uribe y Juan Manuel Santos, presidentes en sus dos mandatos.  \nAhora tratará de llegar al Senado con la estructura de su mamá, la senadora Nora García Burgos, y su amistad de larga data con el candidato presidencial del Partido Conservador, David Barguil, quien es su aliado desde que fue su jefe de debate en 2007.  \nPineda también conoce el poder de la capital: fue asesor de David Luna en el Concejo de Bogotá, y director de asuntos políticos y electorales del Ministerio del Interior bajo el poder de Fernando Londoño, Sabas Pretelt y Carlos Holguín, ministros de Uribe. ",
     "AQ": "https://www.lasillavacia.com/media/_0014_MARCOS-DANIEL-PINEDA.jpg",
     "AR": "No",
     "AT": "David Barguil",

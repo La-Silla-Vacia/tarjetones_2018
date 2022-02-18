@@ -17,7 +17,7 @@
     "U": "Salud",
     "V": "Maestría",
     "W": "Privado",
-    "X": "Asuntos laborales",
+    "X": "Temas laborales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -49,7 +49,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Hoyos",
@@ -85,7 +85,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Gestor cultural y activista por el medio ambiente, representa al Polo en la lista de alternativos. Ha sido presidente de una junta de acción comunal en zona rural de Pereira y candidato al concejo de esa ciudad por el Polo en 2019, cuando se quemó con 870 votos.",
+    "AP": "Gestor cultural y activista por el medio ambiente, representa al Polo en la lista de alternativos. Ha sido presidente de una junta de acción comunal en zona rural de Pereira y candidato al Concejo de esa ciudad por el Polo en 2019, cuando se quemó con 870 votos.",
     "AQ": "https://www.lasillavacia.com/media/_0004_diego-alejandro-hoyos.jpg",
     "AR": "No",
     "AT": "Centro Esperanza",
@@ -101,7 +101,7 @@
     "BI": "Corteros de caña",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Reinales",
@@ -153,7 +153,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ospina",
@@ -189,7 +189,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogada, fue alcaldesa juvenil en su natal Santa Rosa de Cabal. En 2015 llegó al concejo de ese municipio con la mayor votación, 1.009 votos, y aval de Cambio Radical. En 2019 intentó llegar a la alcaldía con el movimiento Más Soluciones, pero se quemó en la quinta posición. En su candidatura a la Cámara recibió el aval del partido cristiano Colombia Justa Libres.",
+    "AP": "Abogada, fue alcaldesa juvenil en su natal Santa Rosa de Cabal. En 2015 llegó al Concejo de ese municipio con la mayor votación, 1.009 votos, y aval de Cambio Radical. En 2019 intentó llegar a la Alcaldía con el movimiento Más Soluciones, pero se quemó en la quinta posición. En su candidatura a la Cámara recibió el aval del partido cristiano Colombia Justa Libres.",
     "AQ": "https://www.lasillavacia.com/media/_0000_juliana-ospina-lopez.jpg",
     "AR": "No",
     "AT": "John Milton Rodríguez",
@@ -205,7 +205,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Salazar",
@@ -257,7 +257,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Londoño",
@@ -309,7 +309,7 @@
     "BI": "Cristianos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "García",
@@ -329,7 +329,7 @@
     "U": "Derecho",
     "V": "Sin datos",
     "W": "Social",
-    "X": "Veeduría",
+    "X": "Activismo",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -345,7 +345,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado y magíster en administración de empresas, ha trabajado en la Sociedad de Mejoras de Pereira en temas de cultura ciudadana y como coordinador de Pereira Cómo Vamos, un programa que tiene como objetivos incidir en las políticas públicas y la rendición de cuentas de la Administración Municipal. Fue candidato a la alcaldía en 2019 con el apoyo del movimiento Compromiso Ciudadano de Sergio Fajardo; quedó de tercero entre ocho canditados con 27.063 votos.",
+    "AP": "Abogado y magíster en administración de empresas, ha trabajado en la Sociedad de Mejoras de Pereira en temas de cultura ciudadana y como coordinador de Pereira Cómo Vamos, un programa que tiene como objetivos incidir en las políticas públicas y la rendición de cuentas de la Administración Municipal. Fue candidato a la alcaldía en 2019 con el apoyo del movimiento Compromiso Ciudadano de Sergio Fajardo; quedó de tercero entre ocho candidatos con 27.063 votos.",
     "AQ": "https://www.lasillavacia.com/media/_0005_alejandro-garcia-rios.jpg",
     "AR": "No",
     "AT": "Sergio Fajardo",
@@ -361,7 +361,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Corrales",
@@ -381,7 +381,7 @@
     "U": "Ingeniería",
     "V": "Pregrado",
     "W": "Privado",
-    "X": "Agro",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -452,7 +452,7 @@
     "AP": "Abogado con tres maestrías: una en historia, otra en ciencias políticas y la otra en literatura, es el presidente del partido Dignidad en Risaralda. Cercano a Jorge Enrique Robledo y a Carlos Gaviria (QEPD), quien fue candidato a la presidencia por Polo en 2006. Ha trabajado en el sector privado, gerenciando empresas como la textilera Coltejer y la Fábrica Nacional de Carrocerías, Fanalca. También fue director ejecutivo de la Sociedad de Mejoras de Pereira.",
     "AQ": "https://www.lasillavacia.com/media/28-diego-luis-lopez.jpg",
     "AR": "No",
-    "AT": "Jorge Enrique Robledo",
+    "AT": "Jorge Robledo",
     "AU": "Centro Esperanza",
     "AV": "Empleo",
     "AW": "Sin datos",
@@ -465,7 +465,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Vallejo",
@@ -501,11 +501,11 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado de la Javeriana, en 2018 llegó a la Cámara gracias al voto uribista y sin trayectoria elecotral. Entró al Centro Democrático cuando ese partido buscaba nuevas caras, recomendado por Eduardo Castrillón, un uribista purasangre amigo de Álvaro Uribe y dueño de Tecnodiesel. Vallejo defiende ideas como el congreso unicameral, el liberalismo económico, las críticas al Acuerdo de Paz y a la regulación del consumo de marihuana. Es defensor de la Fuerza Pública.",
+    "AP": "Abogado de la Javeriana, en 2018 llegó a la Cámara gracias al voto uribista y sin trayectoria electoral. Entró al Centro Democrático cuando ese partido buscaba nuevas caras, recomendado por Eduardo Castrillón, un uribista purasangre amigo de Álvaro Uribe y dueño de Tecnodiesel. Vallejo defiende ideas como el Congreso unicameral, el liberalismo económico, las críticas al Acuerdo de Paz y la regulación del consumo de marihuana. Es defensor de la Fuerza Pública.",
     "AQ": "https://www.lasillavacia.com/media/_0000_gabriel-jaime-vallejo.jpg",
     "AR": "Sí",
-    "AT": "Oscar Iván Zuluaga",
-    "AU": "Oscar Iván Zuluaga",
+    "AT": "Óscar Iván Zuluaga",
+    "AU": "Óscar Iván Zuluaga",
     "AV": "Uribista pura sangre",
     "AW": "Seguridad",
     "AX": "Crítico del Acuerdo de Paz, la JEP y de la COmisión de la verdad",
@@ -517,7 +517,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gallo",
@@ -605,7 +605,7 @@
     "AM": "Sí",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado y representante desde 2014, es de la línea del senador Samy Merheg, un varón político de Risaralda y heredero de su hermano, el investigado por parapolítica Habib Merheg. Comenzó su carrera política como concejal de Santa Rosa de Cabal en 1982, luego trabajó en la oficina jurídica y en la secretaría de Obras Públicas de ese municipio. En 2008 llegó a la Asamblea de Risaralda y, tras dos períodos, saltó a la Cámara en 2014, siemrpe como conservador de la línea Merheg.",
+    "AP": "Abogado y representante desde 2014, es de la línea del senador Samy Merheg, un varón político de Risaralda y heredero de su hermano, el investigado por parapolítica Habib Merheg. Comenzó su carrera política como concejal de Santa Rosa de Cabal en 1982, luego trabajó en la oficina jurídica y en la secretaría de Obras Públicas de ese municipio. En 2008 llegó a la Asamblea de Risaralda y, tras dos períodos, saltó a la Cámara en 2014, siempre como conservador de la línea Merheg.",
     "AQ": "https://www.lasillavacia.com/media/_0003_juan-carlos-rivera.jpg",
     "AR": "Sí",
     "AT": "David Barguil",
@@ -621,7 +621,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Valencia",
@@ -657,7 +657,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Administrador de empresas y presidente de La U en Risaralda, es un político de carrera de origen liberal. Fue concejal liberal de Pereira de 1992 a 2001, cuando se retiró para apoyar la candidatura a la alcaldía de Juan Manuel Arango. Arango ganó y lo nombró gerente de la Empresa de Energía de Pereira. En 2006 llegó a la Cámara como liberal y en 2010 se quemó tratando xde dar el salto al Senado. En 2015 fue elegido diputado, ya con el aval de La U, y se reeligió en 2019. Renunció para aspirar a la Cámara. ",
+    "AP": "Administrador de empresas y presidente de La U en Risaralda, es un político de carrera de origen liberal. Fue concejal liberal de Pereira de 1992 a 2001, cuando se retiró para apoyar la candidatura a la alcaldía de Juan Manuel Arango. Arango ganó y lo nombró gerente de la Empresa de Energía de Pereira. En 2006, llegó a la Cámara como liberal y en 2010 se quemó tratando de dar el salto al Senado. En 2015 fue elegido diputado, ya con el aval de La U, y se reeligió en 2019. Renunció para aspirar a la Cámara. ",
     "AQ": "https://www.lasillavacia.com/media/27-juan-carlos-valencia.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -673,7 +673,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Manyoma",
@@ -693,7 +693,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Público",
-    "X": "Sin datos",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -709,7 +709,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "Sí",
-    "AP": "Abogado penalista, en política electoral sólo ha participado una vez, en 2011, cuando aspiró al concejo de Pereira pero se quemó. Sin embargo, fue subsecretario de gobierno de Pereira en la segunda administración de Juan Manuel Arango, secretario de gobierno de Dosquebradas y fue director de Control Interno de la primera gobernación de Víctor Manuel Tamayo (que es de nuevo Gobernador y a quien quien Manyoma le dio su voto). \nHa apoyado a su cabeza de lista, Diego Patiño, en campañas anteriores y ahora apoya al exalclade Juan Pablo Gallo al Senado. Gallo tiene un amplio equipo político en todo el departamento que ha venido ampliando en Quindío; puso al actual alcalde de Pereira y es cercano a la casa de César Gaviria.",
+    "AP": "Abogado penalista, en política electoral sólo ha participado una vez, en 2011, cuando aspiró al Concejo de Pereira, pero se quemó. Sin embargo, fue subsecretario de gobierno de Pereira en la segunda administración de Juan Manuel Arango, secretario de gobierno de Dosquebradas y fue director de Control Interno de la primera gobernación de Víctor Manuel Tamayo (que es de nuevo Gobernador y a quien Montoya le dio su voto). \nHa apoyado a su cabeza de lista, Diego Patiño, en campañas anteriores y ahora apoya al exalclade Juan Pablo Gallo al Senado. Gallo tiene un amplio equipo político en todo el departamento que ha venido ampliando en Quindío; puso al actual alcalde de Pereira y es cercano a la casa de César Gaviria.",
     "AQ": "https://www.lasillavacia.com/media/_0001_fusthel-manyoma.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -725,7 +725,7 @@
     "BI": "Afros",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Merheg",
@@ -761,7 +761,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "El senador risaraldense heredó en 2010 los votos y el poder político de su hermano Habib, quien llegó al senado avalado por el liberalismo en 2002 y, tras pasarse al uribismo y fracasar buscando el aval de La U, se pasó a Colombia Viva en 2006. En 2009, cuando le abrieron una investigación por parapolítica (que se sumó a otras por todo tipo de delitos, incluyendo acumulación indebida de tierras en la Orinoquía), renunció a su curul. En octubre de 2013 la Corte Suprema ordenó su captura, pero se desapareció del país hasta 2019 que pidió pista en la Justicia Especial de Paz. \nEl senador Merheg obtuvo 44 mil votos en 2010, 24 mil en Risaralda y más de 6 mil en Valle y Nariño. En 2014 llegó con 58 mil votos y en 2018 con 81 mil. Buscará su cuarto periodo como Senador. ",
+    "AP": "El senador risaraldense heredó en 2010 los votos y el poder político de su hermano Habib, quien llegó al Senado avalado por el liberalismo en 2002 y, tras pasarse al uribismo y fracasar buscando el aval de La U, se pasó a Colombia Viva en 2006. En 2009, cuando le abrieron una investigación por parapolítica (que se sumó a otras por todo tipo de delitos, incluyendo acumulación indebida de tierras en la Orinoquía), renunció a su curul. En octubre de 2013 la Corte Suprema ordenó su captura, pero se desapareció del país hasta 2019 cuando pidió pista en la Justicia Especial de Paz. \nEl senador Merheg obtuvo 44 mil votos en 2010, 24 mil en Risaralda y más de 6 mil en Valle y Nariño. En 2014 llegó con 58 mil votos y en 2018 con 81 mil. Buscará su cuarto periodo como Senador. ",
     "AQ": "https://www.lasillavacia.com/media/_0009_Juan-Samy-Merheg.jpg",
     "AR": "Sí",
     "AT": "David Barguil",
@@ -797,7 +797,7 @@
     "U": "Salud",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Salud",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -813,11 +813,11 @@
     "AM": "Sí",
     "AN": "No",
     "AO": "No",
-    "AP": "Médico de la Universidad Tecnológica de Pereira y político uribista. \nFue gerente del Hospital Santa Mónica de Dosquebradas y del Universitario San Jorge de Pereira, y en 2004 fue elegido gobernador de Risaralda por un movimiento político independiente, apoyado por el entonces senador Carlos Enrique Soto (La U). En 2011 fue reelegido, esta vez por el movimiento UNIR y con el apoyo de La U y del Partido Liberal. Tras salir, en 2016 Juan Manuel Santos lo nombró viceministro de Medio Ambiente a pesar de no tenr trayectoria en asuntos ambientlaes (el ministro, Luis Gilberto Murillo, sí tenía), gracias a su cercnaía con Luz María Zapata, esposa del enctonces poderoso vicepreisdsidente, Germán Vargas Lleras. En 2019 se lanzó a la alcaldía por Cambio Radical, partido de Vargas, pero se quemó con 7.838 votos.",
+    "AP": "Médico de la Universidad Tecnológica de Pereira y político uribista. \nFue gerente del Hospital Santa Mónica de Dosquebradas y del Universitario San Jorge de Pereira, y en 2004 fue elegido gobernador de Risaralda por un movimiento político independiente, apoyado por el entonces senador Carlos Enrique Soto (La U). En 2011 fue reelegido, esta vez por el movimiento UNIR y con el apoyo de La U y del Partido Liberal. Tras salir, en 2016 Juan Manuel Santos lo nombró viceministro de Medio Ambiente a pesar de no tener trayectoria en asuntos ambientales (el ministro, Luis Gilberto Murillo, sí tenía), gracias a su cercanía con Luz María Zapata, esposa del entonces poderoso vicepresidente, Germán Vargas Lleras. En 2019, se lanzó a la alcaldía por Cambio Radical, partido de Vargas, pero se quemó con 7.838 votos.",
     "AQ": "https://www.lasillavacia.com/media/23-carlos-botero.jpg",
     "AR": "No",
-    "AT": "Oscar Iván Zuluaga",
-    "AU": "Oscar Iván Zuluaga",
+    "AT": "Óscar Iván Zuluaga",
+    "AU": "Óscar Iván Zuluaga",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -829,7 +829,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Noreña",
@@ -865,7 +865,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Contadora de la Universidad Libre con maestría en énfasis en proyectos,el alcalde liberal Juan Manuel Arango la nombró  gerente de Aguas y Aguas de Pereira en 2006. En 2011 la sacó el aclalde Enrique Vásquez antes de que se terminara el contrato. Aspiró a la alcaldía en 2015 por el movimiento cívico Avanza Pereira, pero terminó adhiriendo al liberal Juan Pablo Gallo, que ganó. En 2016 fue uno de los cinco copresidentes del partido Opción Ciudadana y actualmente tiene una fundación llamada Amor Por, enfocada en el apoyo a mujeres, niños, animales y el medio ambiente.\nSu esposo es el ex representante conservador Mauricio Salazar, quien se quemó en la segunda posición de las elecciones a la alcaldía de Pereira en 2019, por lo que ahora ejerce como concejal. Noreña apoya a la vallecaucana Norma Hurtado, candidata al Senado, de la línea de Dilian Francisca Toro.",
+    "AP": "Contadora de la Universidad Libre con maestría en énfasis en proyectos, el alcalde liberal Juan Manuel Arango la nombró gerente de Aguas y Aguas de Pereira en 2006. En 2011, la sacó el alcalde Enrique Vásquez antes de que se terminara el contrato. Aspiró a la alcaldía en 2015 por el movimiento cívico Avanza Pereira, pero terminó adhiriendo al liberal Juan Pablo Gallo, que ganó. En 2016 fue uno de los cinco copresidentes del partido Opción Ciudadana y actualmente tiene una fundación llamada Amor Por, enfocada en el apoyo a mujeres, niños, animales y el medio ambiente.\nSu esposo es el exrepresentante conservador Mauricio Salazar, quien se quemó en la segunda posición de las elecciones a la alcaldía de Pereira en 2019, por lo que ahora ejerce como concejal. Noreña apoya a la vallecaucana Norma Hurtado, candidata al Senado, de la línea de Dilian Francisca Toro.",
     "AQ": "https://www.lasillavacia.com/media/_0002_maria-irma-norena.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -881,7 +881,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Giraldo",
@@ -901,7 +901,7 @@
     "U": "Ciencias sociales",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Medio ambiente",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -933,7 +933,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Patiño",
@@ -953,7 +953,7 @@
     "U": "Ingeniería",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -969,7 +969,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "No",
-    "AP": "Uno de los políticos más poderosos en Risaralda, el actual representante aspira a un quinto período consecutivo en el Congreso; en 2019 eligió a su hijo Juan Diego a la asamblea con 18.211 votos, logrando ser el liberal más votado. \nIngeniero civil de la Universidad de Manizales, ha hecho toda su vida política en al Partido Liberal desde que, en 1981, fue alcalde de Dosquebradas. Luego fue secretario de obras de Pereira, cuando el alcalde era el político liberal Juan Guillermo Ángel, director de planeación de la Corporación Autónoma Regional de Risaralda, Cárder en 1986 y Secretario de Planeación de Risaralda entre 1986 y 1987. Ese año el gobierno liberal de Virgilio Barco, que tenía al pereirano César Gaviria como nuevo Ministro de Gobierno, lo nombró gobernador. \nEn 1991 llegó por primera vez a la Cámara, y en 1994 fue elegido Gobernador con aval liberal y el apoyo de la Alianza Democrática M-19. Aspiró nuevamente a ese cargo en el 2000 y tuvo el apoyo del liberal Rodrigo Rivera, terminó quemado. ",
+    "AP": "Uno de los políticos más poderosos en Risaralda, el actual representante aspira a un quinto período consecutivo en el Congreso; en 2019 eligió a su hijo Juan Diego a la asamblea con 18.211 votos, logrando ser el liberal más votado. \nIngeniero civil de la Universidad de Manizales, ha hecho toda su vida política en al Partido Liberal desde que, en 1981, fue alcalde de Dosquebradas. Luego fue secretario de obras de Pereira, cuando el alcalde era el político liberal Juan Guillermo Ángel, director de planeación de la Corporación Autónoma Regional de Risaralda, Carder, en 1986 y Secretario de Planeación de Risaralda entre 1986 y 1987. Ese año el gobierno liberal de Virgilio Barco, que tenía al pereirano César Gaviria como nuevo Ministro de Gobierno, lo nombró gobernador. \nEn 1991 llegó por primera vez a la Cámara, y en 1994 fue elegido Gobernador con aval liberal y el apoyo de la Alianza Democrática M-19. Aspiró nuevamente a ese cargo en el 2000 y tuvo el apoyo del liberal Rodrigo Rivera, terminó quemado. ",
     "AQ": "https://www.lasillavacia.com/media/_0003_diego-patino.jpg",
     "AR": "Sí",
     "AT": "Sin datos",
@@ -985,7 +985,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Londoño",

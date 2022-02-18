@@ -17,7 +17,7 @@
     "U": "Taxista",
     "V": "SIn datos",
     "W": "Privado",
-    "X": "Transporte",
+    "X": "Moviilidad",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -49,7 +49,7 @@
     "BI": "Taxistas",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Restrepo",
@@ -101,7 +101,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rincón",
@@ -137,7 +137,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Torero retirado, conocido como \"El tunjo\", fue candidato a la presidencia en 2002 (sacó 6.311 votos), a la alcaldía de Bogotá en 2003 y al senado en 2010, 2014 y 2018. Nunca ha tenido buenos resultados electorales. Este año tratará de nuevo.",
+    "AP": "Torero retirado, conocido como \"El tunjo\", fue candidato a la Presidencia en 2002 (sacó 6.311 votos), a la alcaldía de Bogotá en 2003 y al senado en 2010, 2014 y 2018. Nunca ha tenido buenos resultados electorales. Este año tratará de nuevo.",
     "AQ": "https://www.lasillavacia.com/media/_0018_rodolfo-rincon-sosa.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -205,7 +205,7 @@
     "BI": "Taurófilos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ávila",
@@ -225,7 +225,7 @@
     "U": "ciencia política",
     "V": "Maestría",
     "W": "Academia",
-    "X": "Conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -309,7 +309,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rodríguez",
@@ -361,7 +361,7 @@
     "BI": "Ordoñistas",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Posada",
@@ -381,7 +381,7 @@
     "U": "Ciencia Política",
     "V": "Maestría",
     "W": "Privado",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -397,7 +397,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Politólogo bogotano con maestría en ciencia política en el University College London , ha sido periodista político en RCN Radio y columnista de El Tiempo. También ha sido consultor privado, y trabajó como director de comunicaciones del Festival de Música de Cartagena. Su partido va en lista cerrada al Senado.",
+    "AP": "Politólogo bogotano con maestría en ciencia política en el University College London, ha sido periodista político en RCN Radio y columnista de El Tiempo. También ha sido consultor privado, y trabajó como director de comunicaciones del Festival de Música de Cartagena. Su partido va en lista cerrada al Senado.",
     "AQ": "https://www.lasillavacia.com/media/41_FernandoPosada.jpg",
     "AR": "No",
     "AT": "Juan Manuel Galán",
@@ -413,7 +413,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Puerto",
@@ -433,7 +433,7 @@
     "U": "Contaduría",
     "V": "Especialización",
     "W": "Religioso",
-    "X": "Sin datos",
+    "X": "Religión",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -465,7 +465,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Díaz",
@@ -517,7 +517,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Beltrán",
@@ -569,7 +569,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Camacho",
@@ -621,7 +621,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mejia",
@@ -673,7 +673,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Cote",
@@ -725,7 +725,7 @@
     "BI": "Cristianos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ortiz",
@@ -745,7 +745,7 @@
     "U": "Derecho",
     "V": "Pregrado",
     "W": "Religioso",
-    "X": "Youtube",
+    "X": "Religión",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -829,7 +829,7 @@
     "BI": "Víctimas de violencia de género",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Argote",
@@ -881,7 +881,7 @@
     "BI": "Maestros",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Castellanos",
@@ -901,7 +901,7 @@
     "U": "Derecho",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -985,7 +985,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Páez",
@@ -1037,7 +1037,7 @@
     "BI": "Cristianos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Escallón",
@@ -1089,7 +1089,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Morales",
@@ -1141,7 +1141,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Cuesta",
@@ -1161,7 +1161,7 @@
     "U": "Filosofía y Ciencia Política",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Acción comunal",
+    "X": "Movimientos sociales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1193,7 +1193,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Cabrales",
@@ -1297,7 +1297,59 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
+  },
+  {
+    "A": "Caicedo",
+    "B": "Avellaneda",
+    "C": "Sara María",
+    "D": "Bogotá",
+    "G": "",
+    "H": "@SaraCaicedo_",
+    "K": "101016 (Lista cerrada)",
+    "L": "Concejo de Bogotá 2019",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "Colombia Justa Libres",
+    "R": 102,
+    "S": "Derecha",
+    "T": "Bogotá",
+    "U": "Finanzas y negocios internacionales",
+    "V": "Especialización",
+    "W": "Política",
+    "X": "Economía",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Profesional en finanzas y negocios internacionales, profesora e investigadora del Externado y la EAN, es consultora de negocios. Se define a sí misma como esposa, mamá y defensora de la vida, la familia y la propiedad. Fue voluntaria en la UTL del representante cristiano Carlos Eduardo Acosta, quien salta al Senado. Aspiró al Concejo de Bogotá en 2019 en lista cerrada por Colombia Justa Libres sin alcanzar alcanzar curul.",
+    "AQ": "https://www.lasillavacia.com/media/08_CAICEDO-AVELLANEDA.jpg",
+    "AR": "No",
+    "AT": "Sin datos",
+    "AU": "Sin datos",
+    "AV": "Antiaborto",
+    "AW": "Seguridad",
+    "AX": "Sin datos",
+    "BD": "Sin datos",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "Cristianos",
+    "BJ": "Bogotá",
+    "BK": "Sin datos",
+    "BL": "Normal"
   },
   {
     "A": "Herrera",
@@ -1336,7 +1388,7 @@
     "AP": "Economista bogotana y vicepresidenta del Mira, lleva 19 años en el partido por el que es representante a la Cámara desde 2018. Espera repetir con Carlos Guevara como fórmula al Senado. Antes de llegar al Congreso fue asesora de congresistas y concejales del Mira. Está terminando una maestría en gestión pública en Los Andes y como representante se ha concentrado en iniciativas que mejoren las condiciones laborales de las mujeres.",
     "AQ": "https://www.lasillavacia.com/media/09_IRMA-LUZ-HERRERA-RODRIGUEZ.jpg",
     "AR": "Sí",
-    "AT": "Aydee Lizarazo",
+    "AT": "Aydeé Lizarazo",
     "AU": "Equipo por Colombia",
     "AV": "Equidad de género",
     "AW": "Formalización empresarial",
@@ -1349,7 +1401,7 @@
     "BI": "Cristianos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Padilla",
@@ -1453,7 +1505,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rivas",
@@ -1505,7 +1557,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gaviria",
@@ -1525,7 +1577,7 @@
     "U": "Administración",
     "V": "Pregrado",
     "W": "Privado",
-    "X": "Sin datos",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1541,7 +1593,7 @@
     "AM": "Sí",
     "AN": "No",
     "AO": "No",
-    "AP": "Administrador de negocios internacionales de la Sabana, es famoso por protagonizar el escándalo \"¿Usted no sabe quién soy yo?\" (en el que le gritaba eso a un policía) en 2015. Fue precandidato al Concejo de Bogotá para 2019, pero eso nunca se concretó.Es nieto del fallecido Gustavo Gaviria González, quien fue uno de los más grandes caficultores de Risaralda y un importante apoyo de las campañas presidenciales de Luis Carlos Galán y César Gaviria, de quien fue muy cercano.",
+    "AP": "Administrador de negocios internacionales de la Sabana, es famoso por protagonizar el escándalo \"¿Usted no sabe quién soy yo?\" (en el que le gritaba eso a un policía) en 2015. Fue precandidato al Concejo de Bogotá para 2019, pero eso nunca se concretó. Es nieto del fallecido Gustavo Gaviria González, quien fue uno de los más grandes caficultores de Risaralda y un importante apoyo de las campañas presidenciales de Luis Carlos Galán y César Gaviria, de quien fue muy cercano.",
     "AQ": "https://www.lasillavacia.com/media/10_GAVIRIA-STANICH.jpg",
     "AR": "No",
     "AT": "Federico Gutiérrez",
@@ -1557,7 +1609,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Name",
@@ -1629,7 +1681,7 @@
     "U": "Educación",
     "V": "pregrado",
     "W": "Social",
-    "X": "Sin datos",
+    "X": "Movimientos sociales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1661,7 +1713,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ricaurte",
@@ -1713,7 +1765,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mozo",
@@ -1817,7 +1869,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Caro",
@@ -1869,7 +1921,7 @@
     "BI": "Transportadores",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Puerta",
@@ -1889,7 +1941,7 @@
     "U": "Economía",
     "V": "Pregrado",
     "W": "Privado",
-    "X": "Ciencia",
+    "X": "Academia y ciencia ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1921,7 +1973,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Becerra",
@@ -1941,7 +1993,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Política",
-    "X": "Movimientos estudiantiles",
+    "X": "Movimientos sociales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1973,59 +2025,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
-  },
-  {
-    "A": "Caicedo",
-    "B": "Avellaneda",
-    "C": "Sara María",
-    "D": "Bogotá",
-    "G": "",
-    "H": "@SaraCaicedo_",
-    "K": "101016 (Lista cerrada)",
-    "L": "Concejo de Bogotá 2019",
-    "N": "Cámara",
-    "O": "Mujer",
-    "Q": "Colombia Justa Libres",
-    "R": 102,
-    "S": "Derecha",
-    "T": "Bogotá",
-    "U": "Finanzas y negocios internacionales",
-    "V": "Especialización",
-    "W": "Política",
-    "X": "Finanzas",
-    "Y": "No",
-    "AA": "No",
-    "AB": "No",
-    "AC": "",
-    "AD": "No",
-    "AE": "No",
-    "AF": "No",
-    "AG": "No",
-    "AI": "No",
-    "AJ": "No",
-    "AK": "No",
-    "AL": "No",
-    "AM": "No",
-    "AN": "No",
-    "AO": "No",
-    "AP": "Profesional en finanzas y negocios internacionales, profesora e investigadora del Externado y la EAN, es consultora de negocios. Fue directora de asesoría y consultoría de la Facultad de Administración del Externado. Se define a sí misma como esposa, mamá y defensora de la vida, la familia y la propiedad. Fue voluntaria en la UTL del representante cristiano Carlos Eduardo Acosta, quien salta al Senado. Aspiró al Concejo de Bogotá en 2019 en lista cerrada por Colombia Justa Libres sin alcanzar alcanzar curul.",
-    "AQ": "https://www.lasillavacia.com/media/08_CAICEDO-AVELLANEDA.jpg",
-    "AR": "No",
-    "AT": "Sin datos",
-    "AU": "Sin datos",
-    "AV": "Antiaborto",
-    "AW": "Seguridad",
-    "AX": "Sin datos",
-    "BD": "Sin datos",
-    "BE": "Universitarios",
-    "BF": "No tiene líos ni cuestionamientos",
-    "BG": "No ha trabajado en el Estado",
-    "BH": "",
-    "BI": "Cristianos",
-    "BJ": "Bogotá",
-    "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Barberena",
@@ -2129,7 +2129,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Daza",
@@ -2149,7 +2149,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -2201,7 +2201,7 @@
     "U": "Cine",
     "V": "pregrado",
     "W": "privado",
-    "X": "Sin datos",
+    "X": "Artes",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2233,7 +2233,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Santiesteban",
@@ -2285,7 +2285,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mosquera",
@@ -2389,7 +2389,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Forero",
@@ -2441,7 +2441,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Flórez",
@@ -2461,7 +2461,7 @@
     "U": "Historia",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Asuntos urbanos",
+    "X": "Temas urbanos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2513,7 +2513,7 @@
     "U": "Filosofía",
     "V": "Maestría",
     "W": "Política",
-    "X": "Activismo",
+    "X": "Movimientos sociales",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -2545,7 +2545,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Lorduy",
@@ -2565,7 +2565,7 @@
     "U": "Relaciones Internacionales",
     "V": "Especialización",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Relaciones internacionales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2581,7 +2581,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "No",
-    "AP": "Estudió relaciones internacionales en la Universidad Militar Nueva Granada es hijo del coronel retirado del Ejército Jesús Lorduy y ha hecho toda su carrera en el Estado, pero nunca había sido candidato.\nHa trabajado en la Registraduría, ha tenido dos breves pasos en la Contraloría y sobre todo ha sido asesor legislativo, entre otros, del senador uribista Enrique Cabrales, hoy su fórmula a Senado, y el representante, también uribista, Marcos Díaz Barrera.\nSu familia es muy cercana a Carolina Elías, esposa de Marcos Díaz y prima hermana del congresista costeño Bernardo 'el ñoño' Elías. En Bogotá cuenta con el apoyo del concejal uribista Humberto \" Papo\" Amín.",
+    "AP": "Estudió relaciones internacionales en la Universidad Militar Nueva Granada y es hijo de un coronel retirado del Ejército. Ha trabajado en la Registraduría, ha tenido dos breves pasos en la Contraloría y sobre todo ha sido asesor legislativo, entre otros, del senador uribista Enrique Cabrales, hoy su fórmula a Senado, y el representante, también uribista, Marcos Díaz Barrera. Su familia es muy cercana a Carolina Elías, esposa de Díaz y prima lejana del congresista costeño Bernardo 'el ñoño' Elías. Lo apoya el concejal uribista Humberto Amín.",
     "AQ": "https://www.lasillavacia.com/media/38_Jesus-Salim-Lorduy.jpg",
     "AR": "No",
     "AT": "Óscar Iván Zuluaga",
@@ -2597,7 +2597,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Tobón",
@@ -2701,7 +2701,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Uscátegui",
@@ -2721,7 +2721,7 @@
     "U": "Ciencia Política",
     "V": "Especialización",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -2753,7 +2753,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Carreño",
@@ -2805,7 +2805,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Pizarro",
@@ -2825,7 +2825,7 @@
     "U": "Arte",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -2909,7 +2909,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Castellanos",
@@ -2958,7 +2958,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
-    "BI": "Misión Carismática",
+    "BI": "Cristianos",
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional"
@@ -3013,7 +3013,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Diago",
@@ -3033,7 +3033,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -3065,7 +3065,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Carrascal",
@@ -3101,7 +3101,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Profesional en relaciones internacionales del Rosario, esta influencer es defensora de derechos humanos, fundadora de El País Primero e Ideas por Bogotá. Hizo parte de Manos Limpias, la iniciativa ciudadana con la que Gustavo Bolívar llegó a la vida pública. Ha promovido campañas como #NoAlGrupoAVAL de Sarmiento Angulo, una protesta ética por los sobornos de Odebrecht y #RenuncieFiscal, protestas por las actuaciones del exfiscal Néstor Humberto Martínez. Hizo parte de la UTL del representante a la Cámara por Bogotá, Inti Asprilla. En 2013, durante la alcaldía de Petro, trabajó en monitoreo de redes en la Secretaría de Gobierno y en fortalecer la estrategia de comunicaciones de un programa alimentario para niños vulnerables.",
+    "AP": "Profesional en relaciones internacionales del Rosario, esta influencer y activista hizo parte de Manos Limpias, iniciativa con la que Gustavo Bolívar llegó a la vida pública. Ha promovido campañas como #NoAlGrupoAVAL o #RenuncieFiscal contra Néstor Humberto Martínez. Hizo parte de la UTL del representante a la Cámara por Bogotá, Inti Asprilla. En 2013, durante la alcaldía de Petro, trabajó en monitoreo de redes en la Secretaría de Gobierno y en fortalecer la estrategia de comunicaciones de un programa alimentario para niños vulnerables.",
     "AQ": "https://www.lasillavacia.com/media/28_Mafe_Carrascal.jpg",
     "AR": "No",
     "AT": "Camilo Romero",
@@ -3117,7 +3117,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Torres",
@@ -3169,7 +3169,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Pinchao",
@@ -3273,7 +3273,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rojas",
@@ -3293,7 +3293,7 @@
     "U": "Ciencia Política",
     "V": "Doctorado",
     "W": "Público",
-    "X": "Asuntos urbanos",
+    "X": "Temas urbanos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -3325,7 +3325,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Pizarro",
@@ -3377,7 +3377,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Asprilla",
@@ -3449,7 +3449,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Público",
-    "X": "Tierras",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -3689,7 +3689,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Miranda",
@@ -3741,7 +3741,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Wills",
@@ -3777,7 +3777,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado de la Universidad de Ibagué, ha sido secretario general del Partido Conservador, secretario de la Fábrica de Licores del Tolima, secretario general del Concejo de Ibagué y coordinador del Directorio Conservador en la misma ciudad. Tiene un máster en Acción Política, Fortalecimiento Institucional y Participación Ciudadana en el Estado de Derecho en la Universidad Francisco de Vitoria en Madrid, es candidato a magíster en Derecho Constitucional de la Universidad Externado y Doctorado Honoris Causa en Administración de la Universidad Santander de México. Participó en iniciativas como la creación del Ministerio de la Mujer (No pasó), cadena perpetua para violadores de niños (declarada inconstitucional) y la Región Metropolitana que permitía la fusión de Bogotá con otros municipios (sí pasó). Su fórmula a Senado es Efraín Cepeda.",
+    "AP": "Abogado de la Universidad de Ibagué, ha sido secretario general del Partido Conservador, secretario de la Fábrica de Licores del Tolima, secretario general del Concejo de Ibagué y coordinador del Directorio Conservador en la misma ciudad. Tiene un máster en Acción Política, Fortalecimiento Institucional y Participación Ciudadana en el Estado de Derecho en la Universidad Francisco de Vitoria en Madrid, es candidato a magíster en Derecho Constitucional de la Universidad Externado y Doctorado Honoris Causa en Administración de la Universidad Santander de México. Participó en iniciativas como la creación del Ministerio de la Mujer (no pasó), cadena perpetua para violadores de niños (declarada inconstitucional) y la Región Metropolitana que permite la fusión de Bogotá con otros municipios (sí pasó). Su fórmula a Senado es Efraín Cepeda.",
     "AQ": "https://www.lasillavacia.com/media/20_JUAN-CARLOS-WILS-OSPINA.jpg",
     "AR": "Sí",
     "AT": "David Barguil",
@@ -3793,7 +3793,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Juvinao",
@@ -3845,7 +3845,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Guete",
@@ -3897,7 +3897,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Sandoval",
@@ -3949,7 +3949,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Motta",
@@ -4021,7 +4021,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Política",
-    "X": "Asuntos pensionales",
+    "X": "Temas laborales",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -4105,7 +4105,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rincón",
@@ -4141,7 +4141,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "General en retiro del Ejército, cuando tenía el grado de coronel hizo público un escándalo de contratación en el Fondo Rotatorio del Ejército, por lo que produjo choques con otros militares e inicialmente no fue ascendido a general. En la primera década de los 2000 fue reintegrado y llegó a ser como director de planeación del Comando General de las Fuerzas Militares, donde consolidó la unión del Ejército, la Fuerza Aérea, la Armada Nacional y el Ministerio de Defensa. \nHa ocupado varios cargos en materia de defensa y seguridad a nivel internacional, como la secretaría general de la Conferencia de Ejércitos Americanos.\nEn el 2016 fue candidato a la presidencia de la Asociación de Oficiales Retirados (Acore)., e hizo campaña como opositor de la justicia transicional y defensor de los derechos de los militares en el posconflicto. Es abogado litigante en contratación pública y responsabilidad del Estado.",
+    "AP": "General en retiro del Ejército, cuando tenía el grado de coronel hizo público un escándalo de contratación en el Fondo Rotatorio del Ejército, por lo que produjo choques con otros militares e inicialmente no fue ascendido a general. En la primera década de los 2000 fue reintegrado y llegó a ser director de planeación del Comando General de las Fuerzas Militares, donde consolidó la unión del Ejército, la Fuerza Aérea, la Armada Nacional y el Ministerio de Defensa. \nHa ocupado varios cargos en materia de defensa y seguridad a nivel internacional, como la secretaría general de la Conferencia de Ejércitos Americanos.\nEn el 2016 fue candidato a la presidencia de la Asociación de Oficiales Retirados (Acore) e hizo campaña como opositor de la justicia transicional y defensor de los derechos de los militares en el posconflicto. Es abogado litigante en contratación pública y responsabilidad del Estado.",
     "AQ": "https://www.lasillavacia.com/media/_0020_gustavo-rincon-rivera.jpg",
     "AR": "No",
     "AT": "David Barguil",
@@ -4229,7 +4229,7 @@
     "U": "Derecho",
     "V": "Doctorado",
     "W": "Política",
-    "X": "Derecho constitucional",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -4313,7 +4313,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Sanguino",
@@ -4417,7 +4417,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rodríguez",
@@ -4469,7 +4469,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Rodríguez",
@@ -4573,7 +4573,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Lozano",
@@ -4677,7 +4677,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Trujillo",
@@ -4781,7 +4781,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Uribe",
@@ -4838,7 +4838,7 @@
   {
     "A": "López",
     "B": "Obregón",
-    "C": "Clara Eugenia",
+    "C": "Clara",
     "D": "Bogotá",
     "G": "https://www.lasillavacia.com/quien-es-quien/clara-eugenia-López-obregon ",
     "H": "@ClaraLópezObre",
@@ -4989,7 +4989,7 @@
     "BI": "Sin datos",
     "BJ": "Bogotá",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Luna",
@@ -5090,7 +5090,7 @@
     "BF": "Ha sido destituido",
     "BG": "Ha sido senador",
     "BH": "No",
-    "BI": "Galán",
+    "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional"

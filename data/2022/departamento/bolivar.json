@@ -17,7 +17,7 @@
     "U": "Docente",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -46,10 +46,10 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Jiménez",
@@ -69,7 +69,7 @@
     "U": "Comerciante",
     "V": "Técnico",
     "W": "Política",
-    "X": "Comercio",
+    "X": "Emprendimiento",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -98,10 +98,10 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Hernández",
@@ -225,7 +225,7 @@
     "U": "Derecho",
     "V": "Pregrado",
     "W": "Público",
-    "X": "Derecho administrativo",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -257,7 +257,7 @@
     "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bustamante",
@@ -309,7 +309,7 @@
     "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Montes",
@@ -345,7 +345,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Arquitecto, es la carta de la cuestionada casa Montes para mantener el curul de Emeterio Montes en la Cámara, pues él no busca la reelección y aspirará a la gobernación de Bolívar en 2023. Ándres, sobrino del exsenador condenado por parapolítica William Montes, fue diputado conservador en dos períodos consecutivos (2012-2015 y 2016-2019) tras sacar 17 mil y 28 mil votos, respectivamente. Es una de las fórmulas de la senadora Nadia Blel, de la cuestionada casa Blel, que lidera el exsenador Vicente Blel Saad, condenado por parapolítica.",
+    "AP": "Arquitecto, es la carta de la cuestionada casa Montes para mantener el curul de Emeterio Montes en la Cámara, pues él no busca la reelección y aspirará a la gobernación de Bolívar en 2023. Andrés, sobrino del exsenador condenado por parapolítica William Montes, fue diputado conservador en dos períodos consecutivos (2012-2015 y 2016-2019) tras sacar 17 mil y 28 mil votos, respectivamente. Es una de las fórmulas de la senadora Nadia Blel, de la cuestionada casa Blel, que lidera el exsenador Vicente Blel Saad, condenado por parapolítica.",
     "AQ": "https://www.lasillavacia.com/media/02_AndresMontes.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -358,10 +358,10 @@
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Monroy",
@@ -381,7 +381,7 @@
     "U": "Líder social",
     "V": "Bachillerato",
     "W": "Privado",
-    "X": "Víctimas del conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -433,7 +433,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -449,7 +449,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Abogado del Rosario y especialista en gobierno y gestión pública de la Javeriana, llegó a la Cámara en 2018. \nAntes fue asesor en la dirección de gobierno y gestión territorial del Ministerio del Interior, fue asesor de la primera vicepresidencia de la Cámara y de la Alcaldía de Cartagena. \nEn 2018 hizo campaña como independiente, buscan voto de opinión entre los jóvenes, y luego recibió el respaldo de los senadores entonces vargaslleristas Carlos Fernando Galán y Germán Varón, quien fue su fórmula.\nCon poco más de 8 mil votos, no salió elegido. Pero entró cuando Hernando Padauí (QEPD) renunció a la Cámara para buscar a la Gobernación. Ahora salta el Senado con apoyos en Bolívar y otros departamentos vecinos.",
+    "AP": "Abogado del Rosario y especialista en gobierno y gestión pública de la Javeriana, llegó a la Cámara en 2018. \nAntes fue asesor en la dirección de gobierno y gestión territorial del Ministerio del Interior, fue asesor de la primera vicepresidencia de la Cámara y de la Alcaldía de Cartagena. \nEn 2018 hizo campaña como independiente, buscando voto de opinión entre los jóvenes, y luego recibió el respaldo de los senadores entonces vargaslleristas Carlos Fernando Galán y Germán Varón, quien fue su fórmula.\nCon poco más de 8 mil votos, no salió elegido. Pero entró cuando Hernando Padauí (QEPD) renunció a la Cámara para buscar a la Gobernación. Ahora salta al Senado con apoyos en Bolívar y otros departamentos vecinos.",
     "AQ": "https://www.lasillavacia.com/media/_0011_BENEDETTI-MARTELO.jpg",
     "AR": "No",
     "AT": "No ha definido",
@@ -501,7 +501,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Esta abogada del Externado heredó los votos y la sangre política de su padre el parapolítico Vicente Blel. Llegó al Senado sin experiencia política previa con ese impulso, en 2014.\nDesde entonces su familia ha consolidado el pdoer sobre el conservatismo de Bolívar, en parte Garcías a la viactoria de su heran0o Vicente \"Vicentico\" Blel en la Gobernación de gobernador de Bolívar en 2019. Por eso, toda la lista a la Cámara es su fórmula, y tiene tres aliados fuertes para ocupar por lo menos dos curules (Jualiana Aray, Yamilito Arana y Andrés Montes). Además, ha hecho a hacer campaña en otros departamentos del Caribe.\nNadia, ha tomado las banderas de proyectos como el de la prohibición del asbesto y temas de niñez.  ",
+    "AP": "Esta abogada del Externado heredó los votos y la sangre política de su padre el parapolítico Vicente Blel. Llegó al Senado sin experiencia política previa con ese impulso, en 2014.\nDesde entonces su familia ha consolidado el poder sobre el conservatismo de Bolívar, en parte gracias a la victoria de su heramano Vicente \"Vicentico\" Blel en la Gobernación de Bolívar en 2019. Por eso, toda la lista a la Cámara es su fórmula, y tiene tres aliados fuertes para ocupar por lo menos dos curules (Jualiana Aray, Yamilito Arana y Andrés Montes). Además, ha hecho campaña en otros departamentos del Caribe.\nNadia, ha tomado las banderas de proyectos como el de la prohibición del asbesto y temas de niñez.  ",
     "AQ": "https://www.lasillavacia.com/media/_0005_Nadia-Blel-Scaff.jpg",
     "AR": "Sí",
     "AT": "David Barguil",
@@ -569,7 +569,7 @@
     "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Niño",
@@ -589,7 +589,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Público",
-    "X": "Derecho administrativo",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -605,7 +605,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "Sí",
-    "AP": "Abogado de la Universidad de Cartagena con maestría en derecho administrativo, es cuñado y ficha política del el exsenador William Montes, condenado por parapolítica.\nEn 2016 fue Secretario del Interior de la administración de Manuel Duque (imputado por irregularidades en la contratación) y en 2017 fue Director del Departamento Administrativo de Tránsito y Transporte de Cartagena (Datt) en la administración del encargado Sergio Londoño.\nEn 2019 fue elegido concejal de Cartagena por el Partido Conservador tras sacar 10 mil votos. En 2021 renunció para lanzarse a la Cámara. Además de Montes, tiene el apoyo del grupo del exalcalde Pedrito Pereira, que tiene un concejal, Rodrigo Reyes, y un diputado, Miguel Cueter, y del concejal conservador Óscar Marín.",
+    "AP": "Abogado de la Universidad de Cartagena con maestría en derecho administrativo, es cuñado y ficha política del exsenador William Montes, condenado por parapolítica.\nEn 2016 fue Secretario del Interior de la administración de Manuel Duque (imputado por irregularidades en la contratación) y en 2017 fue Director del Departamento Administrativo de Tránsito y Transporte de Cartagena (Datt) en la administración del encargado Sergio Londoño.\nEn 2019 fue elegido concejal de Cartagena por el Partido Conservador tras sacar 10 mil votos. En 2021 renunció para lanzarse a la Cámara. Además de Montes, tiene el apoyo del grupo del exalcalde Pedrito Pereira, que tiene un concejal, Rodrigo Reyes, y un diputado, Miguel Cueter, y del concejal conservador Óscar Marín.",
     "AQ": "https://www.lasillavacia.com/media/03_FernandoNino.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -618,10 +618,10 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Del Rio",
@@ -670,10 +670,10 @@
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha sido representante a la Cámara",
     "BH": "",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Becerra",
@@ -693,7 +693,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Público",
-    "X": "Derecho administrativo",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -725,7 +725,7 @@
     "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Vargas",
@@ -878,10 +878,10 @@
     "BF": "Tiene ruidos",
     "BG": "Ha sido representante a la Cámara",
     "BH": "",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Marrugo",
@@ -901,7 +901,7 @@
     "U": "Derecho",
     "V": "Especialización",
     "W": "Política",
-    "X": "Asuntos étnicos",
+    "X": "Temas étnicos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -933,7 +933,7 @@
     "BI": "Sindicalistas",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Royo",
@@ -982,10 +982,10 @@
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bustillo",
@@ -1086,7 +1086,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
-    "BI": "Víctimas y campesinos",
+    "BI": "Víctimas del conflicto",
     "BJ": "Sur de Bolívar (víctimas)",
     "BK": "Sí",
     "BL": "De paz"
@@ -1094,7 +1094,7 @@
   {
     "A": "Aray",
     "B": "Franco",
-    "C": "Juliána",
+    "C": "Juliana",
     "D": "Bolívar",
     "G": "",
     "H": "@Juliánaray",
@@ -1125,7 +1125,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Comunicadora social del Politécnico Gran Colombiano con maestría en comunicación corporativa, ha trabajado en la EPS Coosalud, el Instituto Distrital de Deporte y Recreación de Cartagena, coordinadora de admisiones y promoción institucional en el Colegio Británico de Cartagena, asistente de oficina en la extinta Comisión Nacional de Televisión, a cargo de Juan Andrés Carreño, y asistente de comunicaciones en la Cámara de Representantes en 201. También fue miembro de la junta directiva de la Organización de Apoyo Turístico, cuya representante legal es Angelina Blel, hermana de Nadia y Vicente Blel. Sus padres, Edgar Aray Suárez y Elsie Franco Consuegra, desaparecieron en 1997, aparentemente secuestrados por el ELN en la vía entre Cartagena y Barranquilla. Aray, según !Eso va! Noticias, es la hija adoptiva del patriarca Vicente Blel, exsenador condenado por parapolítica, aparece en fotos familiares con los Blel, en 2014 y 2018 financió las campañas al Senado de Nadia Blel con 5 millones de pesos cada vez, y en 2019 aportó 20 millones de pesos a la candidatura a la Gobernación de Vicente Blel Scaff, hijo Blel Saad.\nAdemás del respaldo de los Blel, tiene el apoyo de Fejed Alí, exgerente de Aguas de Bolívar, y ex militante liberal con poder en Magangué.",
+    "AP": "Comunicadora social del Politécnico Gran Colombiano con maestría en comunicación corporativa, ha trabajado en la EPS Coosalud, el Instituto Distrital de Deporte y Recreación de Cartagena, coordinadora de admisiones y promoción institucional en el Colegio Británico de Cartagena, asistente de oficina en la extinta Comisión Nacional de Televisión, a cargo de Juan Andrés Carreño, y asistente de comunicaciones en la Cámara de Representantes. También fue miembro de la junta directiva de la Organización de Apoyo Turístico, cuya representante legal es Angelina Blel, hermana de Nadia y Vicente Blel. Sus padres, Edgar Aray Suárez y Elsie Franco Consuegra, desaparecieron en 1997, aparentemente secuestrados por el ELN en la vía entre Cartagena y Barranquilla. Aray, según !Eso va! Noticias, es la hija adoptiva del patriarca Vicente Blel, exsenador condenado por parapolítica, aparece en fotos familiares con los Blel, en 2014 y 2018 financió las campañas al Senado de Nadia Blel con 5 millones de pesos cada vez, y en 2019 aportó 20 millones de pesos a la candidatura a la Gobernación de Vicente Blel Scaff, hijo de Blel Saad.\nAdemás del respaldo de los Blel, tiene el apoyo de Fejed Alí, exgerente de Aguas de Bolívar, y exmilitante liberal con poder en Magangué.",
     "AQ": "https://www.lasillavacia.com/media/07_JulianaAray.jpg",
     "AR": "No",
     "AT": "Sin datos",
@@ -1138,15 +1138,15 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Arana",
     "B": "Padauí",
-    "C": "Yamil Hernando",
+    "C": "Yamil",
     "D": "Bolívar",
     "G": "",
     "H": "@YamilArana",
@@ -1161,7 +1161,7 @@
     "U": "Economía",
     "V": "Especialización",
     "W": "Público",
-    "X": "Sector público",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -1177,7 +1177,7 @@
     "AM": "No",
     "AN": "Sí",
     "AO": "Sí",
-    "AP": "Economista de Los Andes, el actual representante es miembro de una familia política y ganadera de Magangué que en las últimas décadas han sido rivales del clan de la criminal Enilce López \"La Gata\", condenada por homicidio. \nSu tío, Anuar Arana, fue elegido alcalde en 2008 y terminó destituido por celebrar contratos con el Estado antes de su elección. \"Yamilito\", como es conocido el candidato, fue contratista de la alcaldía de Magangué en 2014 y 2015, en el mandato de Marcelo Torres, opositor del clan de La Gata y cercano a Gustavo Petro, y en 2016 en el Departamento para la Prosperidad Social y el Ministerio de Agricultura. Además, hizo parte de la Unidad de Trabajo Legislativo del ex senador sucrense de La U Eduardo Merlano, destituido por el escándalo del \"¿Usted no sabe quién soy yo?\"\nLlegó a la cámara en 2018 aliado con la senadora Nadia Blel, hija y heredera del exsenador Vicente Blel Saad, condenado por parapolítica. En 2019, Arana financió, con 45 millones de pesos, la campaña a la Gobernación de Bolívar de Vicente Blel Scaff, hijo de Blel Saad y hermano de Nadia.\nEn la Cámara presentó iniciativas como la prisión perpetua revisable y la ampliación del período de mandato, y votó sí al hundimiento de la consulta anticorrupción. Aspira a reelegirse en alianza con los Blel, superpoderosos en Bolívar.",
+    "AP": "Economista de Los Andes, el actual representante es miembro de una familia política y ganadera de Magangué que en las últimas décadas han sido rivales del clan de la criminal Enilce López \"La Gata\", condenada por homicidio. \nSu tío, Anuar Arana, fue elegido alcalde en 2008 y terminó destituido por celebrar contratos con el Estado antes de su elección. \"Yamilito\", como es conocido el candidato, fue contratista de la alcaldía de Magangué en 2014 y 2015, en el mandato de Marcelo Torres, opositor del clan de La Gata y cercano a Gustavo Petro, y en 2016 en el Departamento para la Prosperidad Social y el Ministerio de Agricultura. Además, hizo parte de la Unidad de Trabajo Legislativo del exsenador sucrense de La U Eduardo Merlano, destituido por el escándalo del \"¿Usted no sabe quién soy yo?\"\nLlegó a la Cámara en 2018 aliado con la senadora Nadia Blel, hija y heredera del exsenador Vicente Blel Saad, condenado por parapolítica. En 2019, Arana financió, con 45 millones de pesos, la campaña a la Gobernación de Bolívar de Vicente Blel Scaff, hijo de Blel Saad y hermano de Nadia.\nEn la Cámara presentó iniciativas como la prisión perpetua revisable y la ampliación del período de mandato, y votó sí al hundimiento de la consulta anticorrupción. Aspira a reelegirse en alianza con los Blel, superpoderosos en Bolívar.",
     "AQ": "https://www.lasillavacia.com/media/15_YamilArana.jpg",
     "AR": "Sí",
     "AT": "Sin datos",
@@ -1190,10 +1190,10 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
     "BH": "",
-    "BI": "Político",
+    "BI": "Sin datos",
     "BJ": "Bolívar",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Galvis",

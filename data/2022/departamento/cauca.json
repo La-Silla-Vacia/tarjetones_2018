@@ -49,7 +49,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bonilla",
@@ -69,7 +69,7 @@
     "U": "Comercio Exterior",
     "V": "Técnico",
     "W": "Social",
-    "X": "Conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -121,7 +121,7 @@
     "U": "Comunicación",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Comunicaciones",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -153,7 +153,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Samboni",
@@ -205,7 +205,7 @@
     "BI": "Cristianos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Cárdenas",
@@ -277,7 +277,7 @@
     "U": "Periodismo",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Asuntos étnicos",
+    "X": "Temas étnicos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -345,7 +345,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Administrador de empresas de la Universidad Santiago de Cali, tiene su fortín en Santander de Quilichao, donde fue secretario de gobierno en 2001 y alcalde entre 2004 y 2008. Trabajó en el Plan Nacional de Rehabilitación en el Cauca y la Red de Solidaridad Social. En el 2010 llegó a la Cámara por el Partido Liberal con 26 mil votos. Ha mantenido su curul desde entonces, en 2018 con 38.468 votos. Defendió la negociación con las Farc.",
+    "AP": "Administrador de empresas de la Universidad Santiago de Cali, tiene su fortín en Santander de Quilichao, donde fue secretario de Gobierno en 2001 y alcalde entre 2004 y 2008. Trabajó en el Plan Nacional de Rehabilitación en el Cauca y la Red de Solidaridad Social. En el 2010 llegó a la Cámara por el Partido Liberal con 26 mil votos. Ha mantenido su curul desde entonces, en 2018 con 38.468 votos. Defendió la negociación con las Farc.",
     "AQ": "https://www.lasillavacia.com/media/_0021_Carlos-Julio-Bonilla.jpg",
     "AR": "Sí",
     "AT": "Ninguno",
@@ -361,7 +361,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Hurtado",
@@ -381,7 +381,7 @@
     "U": "Líder social",
     "V": "Sin datos",
     "W": "Social",
-    "X": "Asuntos étnicos",
+    "X": "Temas étnicos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -465,7 +465,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gómez",
@@ -517,7 +517,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Campo",
@@ -569,7 +569,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Bastidas",
@@ -621,7 +621,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Muñoz",
@@ -673,7 +673,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "SIn datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Gómez",
@@ -693,7 +693,7 @@
     "U": "Contaduría",
     "V": "Maestría",
     "W": "Política",
-    "X": "Finanzas",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -725,7 +725,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Pete",
@@ -745,7 +745,7 @@
     "U": "Lider social indígena",
     "V": "Pregrado",
     "W": "Social",
-    "X": "Asuntos étnicos",
+    "X": "Temas étnicos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -777,7 +777,7 @@
     "BI": "Indígenas",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Silva",
@@ -849,7 +849,7 @@
     "U": "Administración",
     "V": "Pregrado",
     "W": "Privado",
-    "X": "Sin datos",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -865,7 +865,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Administrador de empresas y militante uribista, se lanzó a la asamblea en 2015 por el Centro Democrático y como cabeza de la lista cerrada, pero con sólo 8,718 votos el uribismo no obtuvo ninguna curul. En 2019 fue candidato a la alcaldía de Popayán y solo obtuvo 2,841 votos. De ahí en adelante se hizo cargo de las empresas que tiene: una inmobiliaria, negocios de comidas y una compraventa de carros.Bustamante le contó a La Silla que cuenta con el respaldo del Centro Democrático, que no sacó lista a la Cámara en el departamento.",
+    "AP": "Administrador de empresas y militante uribista, se lanzó a la asamblea en 2015 por el Centro Democrático y como cabeza de la lista cerrada, pero con solo 8,718 votos el uribismo no obtuvo ninguna curul. En 2019 fue candidato a la alcaldía de Popayán y solo sacó 2,841 votos. De ahí en adelante se hizo cargo de las empresas que tiene: una inmobiliaria, negocios de comidas y una compraventa de carros. Bustamante le contó a La Silla que cuenta con el respaldo del Centro Democrático, que no sacó lista a la Cámara en el departamento.",
     "AQ": "https://www.lasillavacia.com/media/_0016_Mario-Jose-Bustamante.jpg",
     "AR": "No",
     "AT": "Ninguno",
@@ -881,7 +881,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Osorio",
@@ -901,7 +901,7 @@
     "U": "Comerciante",
     "V": "Bachillerato",
     "W": "Política",
-    "X": "Agro",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -933,7 +933,7 @@
     "BI": "Caficultores",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Ortega",
@@ -953,7 +953,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Política",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -969,7 +969,7 @@
     "AM": "No?",
     "AN": "Sí",
     "AO": "No",
-    "AP": "Abogado de la Universidad del Cauca con maestría en economía de la Javeriana, es el principal barón electoral del Cauca.\nDe origen liberal, fue viceministro de Justicia de Virgilio Barco, dos veces Gobernador del Cauca (en 1992 elegido como liberal y en 2011 por la ASI), Magistrado Consejo Superior de la Judicatura y director capacitación de la Contraloría , entre otras. Ha puesto al menos los 3 últimos gobernadores, tiene en su grupo a veintena de alcaldes y llegó al Senado en 2018 como el más votado de su región con 53 mil votos (63 mil en total).\nA pesar de ser de Cambio Radical fue gran defensor de las negociaciones con las Farc y es cercano a sectores sociales, afros e indígenas del Cauca.",
+    "AP": "Abogado de la Universidad del Cauca con maestría en economía de la Javeriana, es el principal barón electoral del Cauca.\nDe origen liberal, fue viceministro de Justicia de Virgilio Barco, dos veces Gobernador del Cauca (en 1992 elegido como liberal y en 2011 por la ASI), Magistrado Consejo Superior de la Judicatura y director capacitación de la Contraloría, entre otras. Ha puesto al menos los tres últimos gobernadores, tiene en su grupo a veintena de alcaldes y llegó al Senado en 2018 como el más votado de su región con 53 mil votos (63 mil en total).\nA pesar de ser de Cambio Radical fue gran defensor de las negociaciones con las Farc y es cercano a sectores sociales, afros e indígenas del Cauca.",
     "AQ": "https://www.lasillavacia.com/media/_0015_ORTEGA-NARVAEZ.jpg",
     "AR": "Sí",
     "AT": "Francia Márquez",
@@ -1057,7 +1057,7 @@
     "U": "Defensor de DDHH",
     "V": "Sin datos",
     "W": "Social",
-    "X": "Víctimas del conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1092,6 +1092,58 @@
     "BL": "De paz"
   },
   {
+    "A": "Valencia",
+    "B": "Valencia",
+    "C": "Efraín",
+    "D": "Cauca",
+    "G": "Sin datos",
+    "H": "@efraincamara102",
+    "K": 4040,
+    "L": "Asamblea del Valle 2015",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Movimiento de Salvación Nacional",
+    "R": 102,
+    "S": "Derecha",
+    "T": "Popayán",
+    "U": "Derecho",
+    "V": "Pregrado",
+    "W": "Privado",
+    "X": "Temas urbanos",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "Sí",
+    "AO": "No",
+    "AP": "Abogado, viene del conservatismo caucano: estuvo en el concejo de juventud de Popayán y el directorio conservador de Cali, donde trabajó en la secretaría de Vivienda y fue asesor del concejo. En 2014 aspiró a la Cámara por el Valle con apoyo de la entonces candidata a la presidencial y hoy vicepresidenta y canciller Martha Lucía Ramírez pero se quemó con 6.028 votos. Al año siguiente se lanzó a la asamblea del Valle como conservador y se volvió a quemar, esta vez con 4.040 votos. \nUn año después renunció al Partido Conservador y se dedicó al sector privado. Creó dos empresas de cannabis medicinal a las que sigue asesorando y es socio de iniciativas de energías renovables.\nSu primo David Valencia Campo, quien en 2007 fue presidente nacional de la organización Nuevas Generaciones, del Partido Conservador, es cercano a David Barguil, y su papá, Efrain Valencia Castillo, fue presidente del directorio conservador del Cauca, partido al que renunció para apoyar a su hijo.",
+    "AQ": "https://www.lasillavacia.com/media/_0015_Efrain-Valencia.jpg",
+    "AR": "No",
+    "AT": "Enrique Gómez",
+    "AU": "Enrique Gómez",
+    "AV": "Cultura y educación",
+    "AW": "Control político al Consejo Regional Indígena del Cauca (Cric)",
+    "AX": "Despenalización de los cultivos de marihuana para combatir la mafia",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "Sin datos",
+    "BJ": "Cauca",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
     "A": "Patiño",
     "B": "Huetio",
     "C": "Melany",
@@ -1109,7 +1161,7 @@
     "U": "Líder social",
     "V": "Técnico",
     "W": "Social",
-    "X": "Asuntos étnicos",
+    "X": "Temas étnicos",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1142,58 +1194,6 @@
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "No",
     "BL": "De paz"
-  },
-  {
-    "A": "Valencia",
-    "B": "Valencia",
-    "C": "Efraín",
-    "D": "Cauca",
-    "G": "Sin datos",
-    "H": "@efraincamara102",
-    "K": 4040,
-    "L": "Asamblea del Valle 2015",
-    "N": "Cámara",
-    "O": "Hombre",
-    "Q": "Movimiento de Salvación Nacional",
-    "R": 102,
-    "S": "Derecha",
-    "T": "Popayán",
-    "U": "Derecho",
-    "V": "Pregrado",
-    "W": "Privado",
-    "X": "Cannabis medicinal",
-    "Y": "No",
-    "AA": "No",
-    "AB": "No",
-    "AC": "",
-    "AD": "No",
-    "AE": "No",
-    "AF": "No",
-    "AG": "No",
-    "AI": "No",
-    "AJ": "Sí",
-    "AK": "No",
-    "AL": "No",
-    "AM": "No",
-    "AN": "Sí",
-    "AO": "No",
-    "AP": "Abogado, viene del conservatismo caucano.\nFue miembro de concejo juventud de Popayán y del directorio municipal conservador de Cali, en esa ciudad trabajó en la secretaría de Vivienda y fue asesor del concejo en temas de planeación y desarrollo urbano. En 2014 aspiró a la Cámara por el Valle con apoyo de la entonces candidata a la presidencial y hoy vicepresidenta y canciller Martha Lucía Ramírez pero se quemó con 6.028 votos. Al año siguiente se lanzó a la asamblea del Valle como conservador y se volvió a quemar, esta vez con 4.040 votos. \nUn año después renunció al Partido Conservador y se dedicó al sector privado. Creó dos empresas de cannabis medicinal a las que sigue asesorando y es socio de iniciativas de energías renovables.\nSu primo David Valencia Campo, quien en 2007 fue presidente nacional de la organización Nuevas Generaciones, del Partido Conservador, es cercano a David Barguil, y su papá, Efrain Valencia Castillo, fue presidente del directorio conservador del Cauca, partido al que renunció para apoyar a su hijo.",
-    "AQ": "https://www.lasillavacia.com/media/_0015_Efrain-Valencia.jpg",
-    "AR": "No",
-    "AT": "Enrique Gómez",
-    "AU": "Enrique Gómez",
-    "AV": "Cultura y educación",
-    "AW": "Control político al Consejo Regional Indígena del Cauca (Cric)",
-    "AX": "Despenalización de los cultivos de marihuana para combatir la mafia",
-    "BD": "Entre 25 y 40 años",
-    "BE": "Universitarios",
-    "BF": "No tiene líos ni cuestionamientos",
-    "BG": "Ha trabajado en el Estado",
-    "BH": "",
-    "BI": "Sin datos",
-    "BJ": "Cauca",
-    "BK": "Sin datos",
-    "BL": "Territorial"
   },
   {
     "A": "López",
@@ -1245,7 +1245,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Lara",
@@ -1317,7 +1317,7 @@
     "U": "Líder social",
     "V": "Sin datos",
     "W": "Social",
-    "X": "Conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1369,7 +1369,7 @@
     "U": "Ciencia política",
     "V": "Pregrado",
     "W": "Política",
-    "X": "Contratación pública",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -1385,7 +1385,7 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Politólogo y economista de Los Andes con especialización en Gobierno de la Javeriana, en 2007 creó la fundación Construyendo Nación, con la que ha trabajado en limitar la violencia a niños y niñas en el Meta y Cauca, a través de asistencia psicosocial a madres comunitarias. Aunque nació en Popayán, a los 9 años fue desplazado de El Tambo cuando era alcalde su padre, Julio César Gutiérrez. Julio César, político liberal de la cuerda del entonces cacique liberal caucano Aurelio Iragorri Hormaza, fue asesinado 4 años después. \n\nCésar heredó esa cercanía con Iragorri, que en 2010 fue el fundador del Partido de La U en el Cauca. Así, en 2015 aspiró a la Asamblea del Cauca por ese partido y de la mano de César Cristian Gómez, exalcalde de Popayán, pero se quemó con un poco más de 5 mil votos. En 2017 aspiró a la alcaldía local de Ciudad Bolívar, Bogotá, y fue director del proyecto de seguridad vial y contratista del Fondo de Desarrollo Local de esa localidad. \n\nHa sido asesor del hijo de Iragorri, Aurelio Iragorri Valencia, en el Ministerio de Interior, y de Gregorio Eljach, el secretario general del Senado y súper poderoso en el Congreso que llegó a ese cargo impulsado por Iragorri Hormaza. También trabajó en la Federación Nacional de Departamentos y coordinó el programa de vivienda del actual alcalde de Popayán, Juan Carlos López.",
+    "AP": "Politólogo y economista de Los Andes, en 2007 creó la fundación Construyendo Nación, que da asistencia psicosocial a madres comunitarias en Meta y Cauca. Payanés, a los 9 años fue desplazado por amenazas contra su padre y alclade de El Tambo, el político liberal Julio César, del grupo de cacique Aurelio Iragorri Hormaza (fue asesinado 4 años después). César heredó la cercanía con Iragorri y en 2015 se quemó buscando a la Asamblea por La U y de la mano del entonces alcalde de Popayán, César Cristian Gómez. En 2017 buscó ser alcalde de Ciudad Bolívar, Bogotá, donde dirigió un proyecto de seguridad vial y fue contratista de la localidad. Ha sido asesor de Aurelio Iragorri hijo en el Ministerio de Interior, y de Gregorio Eljach, el secretario general del Senado que llegó a ese cargo impulsado por Iragorri papá. Trabajó en la Federación Nacional de Departamentos y coordinó el programa de vivienda del hoy alcalde de Popayán, Juan Carlos López.",
     "AQ": "https://www.lasillavacia.com/media/02_CesarGutierrez-Cauca.jpg",
     "AR": "No",
     "AT": "Equipo por Colombia",

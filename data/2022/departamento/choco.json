@@ -49,7 +49,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Lagarejo",
@@ -101,7 +101,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Serna",
@@ -153,7 +153,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Moreno",
@@ -205,7 +205,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mendoza",
@@ -225,7 +225,7 @@
     "U": "Sin datos",
     "V": "Sin datos",
     "W": "Política",
-    "X": "Asuntos étnicos",
+    "X": "Temas étnicos",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -309,7 +309,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Flórez",
@@ -361,7 +361,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Torres",
@@ -381,7 +381,7 @@
     "U": "Derecho",
     "V": "Maestría",
     "W": "Política",
-    "X": "Sin datos",
+    "X": "Derecho",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -413,7 +413,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mosquera",
@@ -433,7 +433,7 @@
     "U": "Educación",
     "V": "Pregrado",
     "W": "Social",
-    "X": "Víctimas del conflicto",
+    "X": "Conflicto y paz ",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -621,7 +621,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Córdoba",
@@ -725,7 +725,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mosquera",
@@ -829,7 +829,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Sánchez",
@@ -881,7 +881,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Valencia",
@@ -985,7 +985,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Territorial"
+    "BL": "Normal"
   },
   {
     "A": "Mosquera",
@@ -1034,7 +1034,7 @@
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
-    "BI": "Comunidad afro",
+    "BI": "Afros",
     "BJ": "Chocó (víctimas)",
     "BK": "No",
     "BL": "De paz"

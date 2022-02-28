@@ -254,7 +254,7 @@
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido gobernador",
     "BH": "No",
-    "BI": "",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"
@@ -410,7 +410,7 @@
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido representante a la Cámara",
     "BH": "No",
-    "BI": "",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"
@@ -462,7 +462,7 @@
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
-    "BI": "",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"
@@ -514,7 +514,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
-    "BI": "",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"
@@ -566,7 +566,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
-    "BI": "",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"
@@ -618,7 +618,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
-    "BI": "",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"
@@ -736,7 +736,7 @@
     "H": "No tiene",
     "K": 2988,
     "L": "Concejo de Neiva 2019",
-    "N": "No",
+    "N": "Cámara",
     "O": "Mujer",
     "Q": "Polo Democrático",
     "R": 101,
@@ -774,7 +774,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
-    "BI": "Oposición a Duque",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"
@@ -788,7 +788,7 @@
     "H": "No tiene",
     "K": 21899,
     "L": "Cámara por Huila 2014",
-    "N": "No",
+    "N": "Cámara",
     "O": "Hombre",
     "Q": "Polo Democrático",
     "R": 102,
@@ -826,7 +826,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
     "BH": "No",
-    "BI": "Oposición a Duque",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"
@@ -892,7 +892,7 @@
     "H": "@MyriamLozanoA",
     "K": "No aplica",
     "L": "No aplica",
-    "N": "No",
+    "N": "Cámara",
     "O": "Mujer",
     "Q": "Dignidad",
     "R": 102,
@@ -930,7 +930,7 @@
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
-    "BI": "Oposición a Duque",
+    "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
     "BL": "Normal"

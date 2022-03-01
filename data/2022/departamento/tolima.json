@@ -1,5 +1,6 @@
 [
   {
+    "A": "Barreto",
     "B": "Castillo",
     "C": "Miguel Ángel",
     "D": "Tolima",
@@ -51,6 +52,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Barreto",
     "B": "Quiroga",
     "C": "Óscar",
     "D": "Tolima",
@@ -102,6 +104,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Ferro",
     "B": "Lozano",
     "C": "Ricardo",
     "D": "Tolima",
@@ -153,6 +156,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Gómez",
     "B": "Rodríguez",
     "C": "Julián Enrique",
     "D": "Tolima",
@@ -193,7 +197,7 @@
     "AV": "Campesinos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -204,6 +208,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Hernandez",
     "B": "Ocampo",
     "C": "Chenier Jesus",
     "D": "Tolima",
@@ -244,7 +249,7 @@
     "AV": "Campesinos",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -255,6 +260,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Medina",
     "B": "Rios",
     "C": "Edwin Humberto",
     "D": "Tolima",
@@ -295,8 +301,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "S{i",
@@ -306,6 +312,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Molano",
     "B": "Carvajal",
     "C": "José Aldemar",
     "D": "Tolima",
@@ -346,7 +353,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -357,6 +364,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Ospina",
     "B": "Sanchez",
     "C": "Niyireth",
     "D": "Tolima",
@@ -397,7 +405,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -408,6 +416,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Pérez",
     "B": "Flórez",
     "C": "Guillermo",
     "D": "Tolima",
@@ -459,6 +468,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Quiroga",
     "B": "Carrillo",
     "C": "Jahel",
     "D": "Tolima",
@@ -510,6 +520,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Rivas",
     "B": "Segura",
     "C": "Carlos Enrique",
     "D": "Tolima",
@@ -550,7 +561,7 @@
     "AV": "Maestros",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -561,6 +572,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Sabigal",
     "B": "Robles",
     "C": "María Janeth",
     "D": "Tolima",
@@ -601,7 +613,7 @@
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Valencia",
     "B": "Ruge",
     "C": "Harold Milton",
     "D": "Tolima",
@@ -652,8 +665,8 @@
     "AV": "Seguridad",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",

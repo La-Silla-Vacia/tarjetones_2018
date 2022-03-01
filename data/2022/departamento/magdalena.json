@@ -1,5 +1,6 @@
 [
   {
+    "A": "Aguirre",
     "B": "Juvinao",
     "C": "Ingrid Jhoana",
     "D": "Magdalena",
@@ -40,7 +41,7 @@
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -51,6 +52,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Álvarez",
     "B": "Vacca",
     "C": "Edward",
     "D": "Magdalena",
@@ -102,6 +104,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Bolaño",
     "B": "Gómez",
     "C": "Carlos Vicente",
     "D": "Magdalena",
@@ -142,7 +145,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Castillo",
     "B": "Suarez",
     "C": "Fabián",
     "D": "Magdalena",
@@ -204,6 +208,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Dávila",
     "B": "Morales",
     "C": "Jose Domingo",
     "D": "Magdalena",
@@ -244,7 +249,7 @@
     "AV": "Crisis social y económica",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -255,6 +260,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Echeverria",
     "B": "De la Rosa",
     "C": "Olmes de Jesus",
     "D": "Magdalena",
@@ -295,7 +301,7 @@
     "AV": "Educación",
     "AW": "Juventud",
     "AX": "Sector del Agro",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Farelo",
     "B": "Daza",
     "C": "Carlos Mario",
     "D": "Magdalena",
@@ -357,6 +364,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Gonzalez",
     "B": "Duarte",
     "C": "Kelyn",
     "D": "Magdalena",
@@ -397,7 +405,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Gonzalez",
     "B": "Tres Palacios",
     "C": "Yolinda Cecilia",
     "D": "Magdalena",
@@ -448,7 +457,7 @@
     "AV": "Emprendimiento juvenil",
     "AW": "Empleo",
     "AX": "Libertad religiosa",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Guida",
     "B": "Ponce",
     "C": "Hernando",
     "D": "Magdalena",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Henríquez",
     "B": "Pinedo",
     "C": "Honorio",
     "D": "Magdalena",
@@ -550,7 +561,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -561,6 +572,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Katime",
     "B": "Orcasita",
     "C": "Abraham Antonio",
     "D": "Magdalena",
@@ -601,7 +613,7 @@
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Martínez",
     "B": "",
     "C": "Rafael Alejando",
     "D": "Magdalena",
@@ -663,6 +676,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Moises",
     "B": "Garcia",
     "C": "Luis Miguel",
     "D": "Magdalena",
@@ -714,6 +728,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ortega",
     "B": "Aponte",
     "C": "Jose Luis",
     "D": "Magdalena",
@@ -765,6 +780,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Paternina",
     "B": "Espinoza",
     "C": "Hugo Alejandro",
     "D": "Magdalena",
@@ -805,7 +821,7 @@
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -816,6 +832,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Pinedo",
     "B": "Campo",
     "C": "Miguel Alfredo",
     "D": "Magdalena",
@@ -867,6 +884,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Porto",
     "B": "Cantillo",
     "C": "Rafael Alfonso",
     "D": "Magdalena",
@@ -907,7 +925,7 @@
     "AV": "intangibilidad de la ley",
     "AW": "La moral en lo público",
     "AX": "reforma a la justicia",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ramírez",
     "B": "Caviedes",
     "C": "Sandra",
     "D": "Magdalena",
@@ -958,8 +977,8 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
@@ -969,6 +988,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Vives",
     "B": "Gonzalez",
     "C": "Luis Eduardo",
     "D": "Magdalena",
@@ -1009,7 +1029,7 @@
     "AV": "Infraestructura",
     "AW": "Educación",
     "AX": "Emprendimiento",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha sido representante a la Cámara",
@@ -1020,6 +1040,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Zabarain",
     "B": "Guevara",
     "C": "Antonio",
     "D": "Magdalena",

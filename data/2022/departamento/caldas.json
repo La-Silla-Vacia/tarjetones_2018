@@ -1,5 +1,6 @@
 [
   {
+    "A": "Bañol",
     "B": "Álvarez",
     "C": "Norman",
     "D": "Caldas",
@@ -51,6 +52,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "Betancourth",
     "B": "López",
     "C": "Andrés Felipe",
     "D": "Caldas",
@@ -91,7 +93,7 @@
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -102,6 +104,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cardona",
     "B": "León",
     "C": "José Octavio",
     "D": "Caldas",
@@ -142,7 +145,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Castaño",
     "B": "Pérez",
     "C": "Mario Alberto",
     "D": "Caldas",
@@ -204,6 +208,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Chica",
     "B": "Correa",
     "C": "Félix Alejandro",
     "D": "Caldas",
@@ -255,6 +260,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Correa",
     "B": "López",
     "C": "José Luis",
     "D": "Caldas",
@@ -306,6 +312,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "De la Calle",
     "B": "Lombana",
     "C": "Humberto",
     "D": "Caldas",
@@ -357,6 +364,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Echeverri",
     "B": "Piedrahita",
     "C": "Guido",
     "D": "Caldas",
@@ -408,6 +416,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Escobar",
     "B": "Ortiz",
     "C": "Wilder",
     "D": "Caldas",
@@ -448,7 +457,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Galeano",
     "B": "Martínez",
     "C": "Gladys",
     "D": "Caldas",
@@ -499,7 +509,7 @@
     "AV": "Equidad de género",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Giraldo",
     "B": "Quintero",
     "C": "Héctor",
     "D": "Caldas",
@@ -550,8 +561,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "Sin datos",
@@ -561,6 +572,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Gómez",
     "B": "González",
     "C": "Juan Sebastián",
     "D": "Caldas",
@@ -601,7 +613,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Gómez",
     "B": "Betancourt",
     "C": "Luis Fernando",
     "D": "Caldas",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Henao",
     "B": "Valencia",
     "C": "Juan Carlos",
     "D": "Caldas",
@@ -714,6 +728,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Londoño",
     "B": "Jaramillo",
     "C": "Juana Carolina",
     "D": "Caldas",
@@ -765,6 +780,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Murillo",
     "B": "Franco",
     "C": "Marino",
     "D": "Caldas",
@@ -805,7 +821,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Ha sido destituido",
     "BG": "Ha sido alcalde",
@@ -816,6 +832,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Osorio",
     "B": "",
     "C": "Santiago",
     "D": "Caldas",
@@ -856,7 +873,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -867,6 +884,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ospina",
     "B": "Atehortua",
     "C": "Jesús Iván",
     "D": "Caldas",
@@ -907,7 +925,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Pineda",
     "B": "Díaz",
     "C": "Evelin",
     "D": "Caldas",
@@ -958,8 +977,8 @@
     "AV": "Salud",
     "AW": "Deporte",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
@@ -969,6 +988,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Pinilla",
     "B": "Martínez",
     "C": "Claudia Lorena",
     "D": "Caldas",
@@ -1009,7 +1029,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1020,6 +1040,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Tibaduiza",
     "B": "Marín",
     "C": "Milton Iván",
     "D": "Caldas",
@@ -1060,7 +1081,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1071,6 +1092,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Yepes",
     "B": "Cardona",
     "C": "John Hemayr",
     "D": "Caldas",
@@ -1122,6 +1144,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Yepes",
     "B": "Alzate",
     "C": "Jorge Hernán",
     "D": "Caldas",
@@ -1162,7 +1185,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",

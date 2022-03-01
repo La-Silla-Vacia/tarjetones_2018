@@ -1,5 +1,6 @@
 [
   {
+    "A": "Benavides",
     "B": "Mora",
     "C": "Carlos Alberto",
     "D": "Nariño",
@@ -40,7 +41,7 @@
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -51,6 +52,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Benavides",
     "B": "Solarte",
     "C": "Liliana",
     "D": "Nariño",
@@ -102,6 +104,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Cortés",
     "B": "Lastra",
     "C": "Ernesto",
     "D": "Nariño",
@@ -142,7 +145,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Afros",
     "AX": "Llevar servicios públicos al territorio",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -153,6 +156,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Cortés",
     "B": "Arboleda",
     "C": "Hernán",
     "D": "Nariño",
@@ -204,6 +208,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Cortés",
     "B": "Quiñonez",
     "C": "Jairo Ernesto",
     "D": "Nariño",
@@ -244,8 +249,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -255,6 +260,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Daza",
     "B": "Guevara",
     "C": "Robert",
     "D": "Nariño",
@@ -295,8 +301,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -306,6 +312,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "García",
     "B": "Figueroa",
     "C": "Gustavo",
     "D": "Nariño",
@@ -357,6 +364,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Montaño",
     "B": "Arizala",
     "C": "Jerson Lisímaco",
     "D": "Nariño",
@@ -408,6 +416,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Olaya",
     "B": "Batalla",
     "C": "Carmen Elisa",
     "D": "Nariño",
@@ -459,6 +468,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Rosales",
     "B": "Cadena",
     "C": "Polivio Leandro",
     "D": "Nariño",
@@ -510,6 +520,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "Utria",
     "B": "Marengo",
     "C": "Lidia Regina",
     "D": "Nariño",
@@ -550,7 +561,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Defensa de los acuerdos de paz",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -561,6 +572,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Vidal",
     "B": "Mina",
     "C": "Edgar Alberto",
     "D": "Nariño",
@@ -602,7 +614,7 @@
     "AW": "Víctimas del conflicto",
     "AX": "Defensa de los Acuerdos",
     "BD": "Entre 25 y 40 años",
-    "BE": "No me importa",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -612,6 +624,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Zambrano",
     "B": "Eraso",
     "C": "Berner León",
     "D": "Nariño",

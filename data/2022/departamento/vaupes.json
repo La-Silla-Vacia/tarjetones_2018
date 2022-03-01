@@ -1,5 +1,6 @@
 [
   {
+    "A": "Estrada",
     "B": "Cordero",
     "C": "Julio César",
     "D": "Vaupés",
@@ -40,8 +41,8 @@
     "AV": "Indígenas",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",

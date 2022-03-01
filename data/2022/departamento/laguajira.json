@@ -1,5 +1,6 @@
 [
   {
+    "A": "Colmenares",
     "B": "Rodríguez",
     "C": "Luis Alonso",
     "D": "La Guajira",
@@ -40,7 +41,7 @@
     "AV": "Reducción del Estado",
     "AW": "Subsidios de gasolina",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -51,6 +52,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Dangond",
     "B": "Baquero",
     "C": "Indalecio",
     "D": "La Guajira",
@@ -91,7 +93,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -102,6 +104,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Deluque",
     "B": "Zuleta",
     "C": "Alfredo Rafael",
     "D": "La Guajira",
@@ -153,6 +156,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Maestre",
     "B": "Bello",
     "C": "José Manuel",
     "D": "La Guajira",
@@ -193,8 +197,8 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "Indígenas",
@@ -204,6 +208,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "Peralta",
     "B": "Epieyu",
     "C": "Martha",
     "D": "La Guajira",
@@ -244,7 +249,7 @@
     "AV": "Indígenas",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

@@ -1,5 +1,6 @@
 [
   {
+    "A": "Barrera",
     "B": "Rodríguez",
     "C": "Alirio",
     "D": "Casanare",
@@ -40,7 +41,7 @@
     "AV": "Caballos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -51,6 +52,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "González",
     "B": "Rodríguez",
     "C": "Amanda",
     "D": "Casanare",

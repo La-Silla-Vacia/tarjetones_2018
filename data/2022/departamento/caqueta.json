@@ -1,5 +1,6 @@
 [
   {
+    "A": "Acosta",
     "B": "Piranga",
     "C": "Ada Luz",
     "D": "Caquetá",
@@ -51,6 +52,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Bazurto",
     "B": "Vargas",
     "C": "Juvenal",
     "D": "Caquetá",
@@ -102,6 +104,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Figueroa",
     "B": "Celis",
     "C": "María Yolanda",
     "D": "Caquetá",
@@ -142,7 +145,7 @@
     "AV": "Fortalecer la seguridad y convivencia ciudadana",
     "AW": "Medicina tradicional",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -153,6 +156,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "López",
     "B": "Acevedo",
     "C": "Nelson",
     "D": "Caquetá",
@@ -193,7 +197,7 @@
     "AV": "Financiación de la educación superior",
     "AW": "Salud, recreación y educación para el gremio de los transportadores",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -204,6 +208,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "Martínez",
     "B": "",
     "C": "Elda Yaneth",
     "D": "Caquetá",
@@ -245,7 +250,7 @@
     "AW": "Restitución de tierras",
     "AX": "Sin datos",
     "BD": "Entre 25 y 40 años",
-    "BE": "No me importa",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -255,6 +260,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Nuñez",
     "B": "Ramos",
     "C": "Jhon Freddy",
     "D": "Caquetá",
@@ -295,7 +301,7 @@
     "AV": "Medio ambiente",
     "AW": "Desarrollo rural",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -306,6 +312,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Panche",
     "B": "Chocue",
     "C": "Luz Mery",
     "D": "Caquetá",
@@ -357,6 +364,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Valderrama",
     "B": "Cárdenas",
     "C": "Yeniver",
     "D": "Caquetá",
@@ -398,7 +406,7 @@
     "AW": "Campesinos",
     "AX": "Sin datos",
     "BD": "Entre 25 y 40 años",
-    "BE": "No me importa",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
@@ -408,6 +416,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Valencia",
     "B": "Ocampo",
     "C": "Luis Antonio",
     "D": "Caquetá",
@@ -448,7 +457,7 @@
     "AV": "Amazonía",
     "AW": "Defensa de los Acuerdos",
     "AX": "Educación rural",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

@@ -1,5 +1,6 @@
 [
   {
+    "A": "Castro",
     "B": "Araujo",
     "C": "Pedro Norberto",
     "D": "Cesar",
@@ -41,7 +42,7 @@
     "AW": "Pdet",
     "AX": "Infraestructura",
     "BD": "Entre 40 y 60 años",
-    "BE": "No me importa",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -51,6 +52,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Correa",
     "B": "Jiménez",
     "C": "Antonio",
     "D": "Cesar",
@@ -91,7 +93,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha sido senador",
@@ -102,6 +104,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Cruz",
     "B": "Casado",
     "C": "Libardo",
     "D": "Cesar",
@@ -142,7 +145,7 @@
     "AV": "Educación",
     "AW": "Salud",
     "AX": "Reactivación económica",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha sido alcalde",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cuello",
     "B": "Baute",
     "C": "Alfredo Ape",
     "D": "Cesar",
@@ -204,6 +208,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Gnecco",
     "B": "Zuleta",
     "C": "José Alfredo",
     "D": "Cesar",
@@ -255,6 +260,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Lobo",
     "B": "Chinchilla",
     "C": "Didier",
     "D": "Cesar",
@@ -306,6 +312,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Morales",
     "B": "Atencio",
     "C": "Luis Enrique",
     "D": "Cesar",
@@ -346,7 +353,7 @@
     "AV": "Legislar a favor del pueblo",
     "AW": "Exigir el cumplimineto de los planes de compensación ambiental y económico de las empresas mineras.",
     "AX": "Gestionar la certificación turistia nacional e internacional en el Rio Guatapuri.",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Moreno",
     "B": "Villamizar",
     "C": "Christian",
     "D": "Cesar",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ochoa",
     "B": "De la Hoz",
     "C": "José Sebastian",
     "D": "Cesar",
@@ -448,8 +457,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -459,6 +468,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Padilla",
     "B": "Perez",
     "C": "Luis Fernando",
     "D": "Cesar",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Pérez",
     "B": "Alvarez",
     "C": "Maryori de Jesús",
     "D": "Cesar",
@@ -561,6 +572,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Pineda",
     "B": "Ortiz",
     "C": "Alexandra",
     "D": "Cesar",
@@ -601,7 +613,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Portilla",
     "B": "Molina",
     "C": "Álvaro Ernesto",
     "D": "Cesar",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Quintero",
     "B": "Ovalle",
     "C": "Carlos Felipe",
     "D": "Cesar",
@@ -703,7 +717,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -714,6 +728,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Romero",
     "B": "Ovalle",
     "C": "William Alfonso",
     "D": "Cesar",
@@ -754,8 +769,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
@@ -765,6 +780,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Salazar",
     "B": "Lopez",
     "C": "Eliécer",
     "D": "Cesar",
@@ -816,6 +832,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Santana",
     "B": "Solano",
     "C": "Pedro Julio",
     "D": "Cesar",
@@ -856,7 +873,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -867,6 +884,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Sierra",
     "B": "Daza",
     "C": "David",
     "D": "Cesar",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Tovar",
     "B": "Vélez",
     "C": "Jorge Rodrigo",
     "D": "Cesar",

@@ -1,5 +1,6 @@
 [
   {
+    "A": "Alvernia",
     "B": "Angarita",
     "C": "Hainer Ali",
     "D": "Santander",
@@ -51,6 +52,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Amaya",
     "B": "Martínez",
     "C": "Pedro Nilson",
     "D": "Santander",
@@ -91,7 +93,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -102,6 +104,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Amaya",
     "B": "Chanaga",
     "C": "Ramón Darío",
     "D": "Santander",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Arias",
     "B": "Bueno",
     "C": "Emiro",
     "D": "Santander",
@@ -204,6 +208,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Ariza",
     "B": "Pérez",
     "C": "Diego",
     "D": "Santander",
@@ -244,7 +249,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -255,6 +260,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Avendaño",
     "B": "Fino",
     "C": "Cristian Danilo",
     "D": "Santander",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Bello",
     "B": "Villabona",
     "C": "Cleomedes",
     "D": "Santander",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Botero",
     "B": "De Cote",
     "C": "Liliana Patricia",
     "D": "Santander",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cala",
     "B": "Suárez",
     "C": "Jairo",
     "D": "Santander",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cárdenas",
     "B": "Suárez",
     "C": "Mario Antonio",
     "D": "Santander",
@@ -499,7 +509,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Carrero",
     "B": "Correa",
     "C": "Dionicio",
     "D": "Santander",
@@ -561,6 +572,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Chaves",
     "B": "García",
     "C": "Johana",
     "D": "Santander",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Chavez",
     "B": "Quintero",
     "C": "Roger Iván",
     "D": "Santander",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cortés",
     "B": "Dueñas",
     "C": "Juan Manuel",
     "D": "Santander",
@@ -714,6 +728,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Díaz",
     "B": "Plata",
     "C": "Fabián",
     "D": "Santander",
@@ -765,6 +780,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Díaz",
     "B": "Mateus",
     "C": "Luis Eduardo",
     "D": "Santander",
@@ -805,7 +821,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -816,6 +832,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Díaz",
     "B": "Saavedra",
     "C": "Néstor",
     "D": "Santander",
@@ -856,7 +873,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -867,6 +884,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Duarte",
     "B": "Peñalosa",
     "C": "Adriana Marcela",
     "D": "Santander",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Durán",
     "B": "Barrera",
     "C": "Jaime Enrique",
     "D": "Santander",
@@ -969,6 +988,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Fernández",
     "B": "Nuñez",
     "C": "Ciro",
     "D": "Santander",
@@ -1009,7 +1029,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -1020,6 +1040,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Flórez",
     "B": "Schneider",
     "C": "Gloria",
     "D": "Santander",
@@ -1060,7 +1081,7 @@
     "AV": "Derechos humanos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1071,6 +1092,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Flórez",
     "B": "Herrera",
     "C": "Jorge",
     "D": "Santander",
@@ -1122,6 +1144,7 @@
     "BL": "Normal"
   },
   {
+    "A": "González",
     "B": "Pérez",
     "C": "Johanna Milena",
     "D": "Santander",
@@ -1162,7 +1185,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -1173,6 +1196,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Herrera",
     "B": "Pinta",
     "C": "Rosa Juliána",
     "D": "Santander",
@@ -1224,6 +1248,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Jaimes",
     "B": "Cruz",
     "C": "Sandra",
     "D": "Santander",
@@ -1264,7 +1289,7 @@
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1275,6 +1300,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Jerez",
     "B": "Martínez",
     "C": "César",
     "D": "Santander",
@@ -1326,6 +1352,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Leal",
     "B": "Ruiz",
     "C": "Luz Dana",
     "D": "Santander",
@@ -1366,7 +1393,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1377,6 +1404,7 @@
     "BL": "Normal"
   },
   {
+    "A": "López",
     "B": "Mejía",
     "C": "Juan Sebastián",
     "D": "Santander",
@@ -1428,6 +1456,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Mantilla",
     "B": "Rueda",
     "C": "Héctor Guillermo",
     "D": "Santander",
@@ -1468,7 +1497,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha sido alcalde",
@@ -1479,6 +1508,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Marín",
     "B": "Lozano",
     "C": "José Alfredo",
     "D": "Santander",
@@ -1519,7 +1549,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -1530,6 +1560,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Mendieta",
     "B": "Ovalle",
     "C": "Luis Herlindo",
     "D": "Santander",
@@ -1570,7 +1601,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1581,6 +1612,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Millares",
     "B": "Escamilla",
     "C": "América",
     "D": "Santander",
@@ -1621,7 +1653,7 @@
     "AV": "Vendedores informales",
     "AW": "Poblaciones vulnerables",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1632,6 +1664,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Palma",
     "B": "Egea",
     "C": "Edwin",
     "D": "Santander",
@@ -1672,7 +1705,7 @@
     "AV": "Derecho laboral",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1683,6 +1716,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Pinto",
     "B": "Hernández",
     "C": "Miguel Ángel",
     "D": "Santander",
@@ -1734,6 +1768,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Ramírez",
     "B": "Rojas",
     "C": "Danny Alexánder",
     "D": "Santander",
@@ -1774,7 +1809,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1785,6 +1820,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Rueda",
     "B": "Caballero",
     "C": "Álvaro Leonel",
     "D": "Santander",
@@ -1836,6 +1872,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Sánchez",
     "B": "Pinto",
     "C": "Érika Tatiana",
     "D": "Santander",
@@ -1887,6 +1924,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Valbuena",
     "B": "López",
     "C": "Esperanza",
     "D": "Santander",
@@ -1927,7 +1965,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1938,6 +1976,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Villamizar",
     "B": "Meneses",
     "C": "Oscar",
     "D": "Santander",

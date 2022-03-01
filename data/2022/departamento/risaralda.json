@@ -1,5 +1,6 @@
 [
   {
+    "A": "Arango",
     "B": "Dávila",
     "C": "Lina María",
     "D": "Risaralda",
@@ -51,6 +52,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Botero",
     "B": "López",
     "C": "Carlos Alberto",
     "D": "Risaralda",
@@ -102,6 +104,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Corrales",
     "B": "Escobar",
     "C": "Alejandro",
     "D": "Risaralda",
@@ -142,7 +145,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Café",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -153,6 +156,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Franco",
     "B": "Bernal",
     "C": "Estella María",
     "D": "Risaralda",
@@ -193,7 +197,7 @@
     "AV": "Ambientalista",
     "AW": "Animalista",
     "AX": "Derechos humanos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -204,6 +208,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Gallo",
     "B": "Maya",
     "C": "Juan Pablo",
     "D": "Risaralda",
@@ -255,6 +260,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "García",
     "B": "Ríos",
     "C": "Alejandro",
     "D": "Risaralda",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Giraldo",
     "B": "Botero",
     "C": "Carolina",
     "D": "Risaralda",
@@ -346,7 +353,7 @@
     "AV": "Defensa ambiental",
     "AW": "Lucha contra la corrupción",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Hoyos",
     "B": "Ramírez",
     "C": "Diego Alejandro",
     "D": "Risaralda",
@@ -397,8 +405,8 @@
     "AV": "Medio ambiente",
     "AW": "Cultura",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Londoño",
     "B": "González",
     "C": "Geovany",
     "D": "Risaralda",
@@ -448,7 +457,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Londoño",
     "B": "Londoño",
     "C": "Israel",
     "D": "Risaralda",
@@ -499,7 +509,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -510,6 +520,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "López",
     "B": "Echeverry",
     "C": "Diego Luis",
     "D": "Risaralda",
@@ -550,7 +561,7 @@
     "AV": "Empleo",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -561,6 +572,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Manyoma",
     "B": "Gil",
     "C": "Fusthel Antonio",
     "D": "Risaralda",
@@ -601,7 +613,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Merheg",
     "B": "Marún",
     "C": "Samy",
     "D": "Risaralda",
@@ -663,6 +676,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Noreña",
     "B": "Arboleda",
     "C": "Maria Irma",
     "D": "Risaralda",
@@ -703,7 +717,7 @@
     "AV": "Apoyo a las mujeres",
     "AW": "Animalista",
     "AX": "Educación",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -714,6 +728,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ospina",
     "B": "López",
     "C": "Juliana",
     "D": "Risaralda",
@@ -754,7 +769,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -765,6 +780,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Patiño",
     "B": "Amariles",
     "C": "Diego",
     "D": "Risaralda",
@@ -805,7 +821,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -816,6 +832,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Reinales",
     "B": "Agudelo",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -867,6 +884,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Rivera",
     "B": "Peña",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Salazar",
     "B": "Osorio",
     "C": "Sigifredo",
     "D": "Risaralda",
@@ -969,6 +988,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Valencia",
     "B": "Montoya",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -1020,6 +1040,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Vallejo",
     "B": "Chujfi",
     "C": "Gabriel Jaime",
     "D": "Risaralda",

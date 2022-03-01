@@ -1,5 +1,6 @@
 [
   {
+    "A": "Alarcón",
     "B": "Bohórquez",
     "C": "Isidro",
     "D": "Bolívar",
@@ -40,8 +41,8 @@
     "AV": "Víctimas del conflicto",
     "AW": "Derechos Humanos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "No",
@@ -51,6 +52,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Arana",
     "B": "Padauí",
     "C": "Yamil",
     "D": "Bolívar",
@@ -102,6 +104,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Aray",
     "B": "Franco",
     "C": "Juliana",
     "D": "Bolívar",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Becerra",
     "B": "Baños",
     "C": "Ignacio Javier",
     "D": "Bolívar",
@@ -193,7 +197,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -204,6 +208,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Benedetti",
     "B": "Martelo",
     "C": "Jorge Enrique",
     "D": "Bolívar",
@@ -255,6 +260,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Benítez",
     "B": "Hurtado",
     "C": "María Alejandra",
     "D": "Bolívar",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Blel",
     "B": "Scaff",
     "C": "Nadia",
     "D": "Bolívar",
@@ -357,6 +364,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Bustamante",
     "B": "De la Vega",
     "C": "Raúl Reinerio",
     "D": "Bolívar",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Bustillo",
     "B": "Gómez",
     "C": "Dairo José",
     "D": "Bolívar",
@@ -459,6 +468,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Carrasquilla",
     "B": "Torres",
     "C": "Silvio José",
     "D": "Bolívar",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cure",
     "B": "Corcione",
     "C": "Karen",
     "D": "Bolívar",
@@ -561,6 +572,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Del Rio",
     "B": "Cabarcas",
     "C": "Alonso José",
     "D": "Bolívar",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Feria",
     "B": "Contreras",
     "C": "Luis Mario",
     "D": "Bolívar",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Galvis",
     "B": "Mendez",
     "C": "Daira",
     "D": "Bolívar",
@@ -714,6 +728,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "García",
     "B": "Turbay",
     "C": "Lidio Arturo",
     "D": "Bolívar",
@@ -765,6 +780,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Hernández",
     "B": "Palomino",
     "C": "Dorina",
     "D": "Bolívar",
@@ -816,6 +832,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Hernández",
     "B": "Amín",
     "C": "Jaime",
     "D": "Bolívar",
@@ -856,7 +873,7 @@
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -867,6 +884,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Jiménez",
     "B": "Jaramillo",
     "C": "Juliet Viviana",
     "D": "Bolívar",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Monroy",
     "B": "Barrera",
     "C": "Alicia",
     "D": "Bolívar",
@@ -958,7 +977,7 @@
     "AV": "Seguridad",
     "AW": "Desarrollo regional",
     "AX": "Infraestructura",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -969,6 +988,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Montes",
     "B": "Celedón",
     "C": "Ándres Guillermo",
     "D": "Bolívar",
@@ -1020,6 +1040,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Niño",
     "B": "Mendoza",
     "C": "Fernando David",
     "D": "Bolívar",
@@ -1071,6 +1092,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ortega",
     "B": "Buelvas",
     "C": "Ramiro Rafael",
     "D": "Bolívar",
@@ -1111,8 +1133,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
@@ -1122,6 +1144,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Royo",
     "B": "Curi",
     "C": "Javier Antonio",
     "D": "Bolívar",
@@ -1162,7 +1185,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -1173,6 +1196,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Vargas",
     "B": "Soler",
     "C": "Juan Carlos",
     "D": "Bolívar",
@@ -1213,7 +1237,7 @@
     "AV": "Desarrollo rural",
     "AW": "Pdet",
     "AX": "Víctimas del conflicto",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1224,6 +1248,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Vargas",
     "B": "Sánchez",
     "C": "Luis Daniel",
     "D": "Bolívar",
@@ -1264,7 +1289,7 @@
     "AV": "Educación",
     "AW": "Cultura",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Ha sido destituido",
     "BG": "Ha sido gobernador",

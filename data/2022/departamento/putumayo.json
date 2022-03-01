@@ -1,5 +1,6 @@
 [
   {
+    "A": "Artunduaga",
     "B": "Trejo",
     "C": "Yuly Paola",
     "D": "Putumayo",
@@ -40,7 +41,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -51,6 +52,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Chindoy",
     "B": "Chicunque",
     "C": "Marcelino",
     "D": "Putumayo",
@@ -102,6 +104,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "Hurtado",
     "B": "Angulo",
     "C": "Aura Lilia",
     "D": "Putumayo",
@@ -142,7 +145,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Liderazgo social",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -153,6 +156,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Pantoja",
     "B": "Cabrera",
     "C": "Italo Ernesto",
     "D": "Putumayo",
@@ -193,7 +197,7 @@
     "AV": "Defensa de los Acuerdos de Paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",

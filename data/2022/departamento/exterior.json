@@ -1,5 +1,6 @@
 [
   {
+    "A": "Alarcon",
     "B": "Norato",
     "C": "Manuel Jose",
     "D": "Exterior",
@@ -41,7 +42,7 @@
     "AW": "Convenios internacionales de seguridad social",
     "AX": "Sin datos",
     "BD": "Entre 40 y 60 años",
-    "BE": "No me importa",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
@@ -51,6 +52,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Bahamon",
     "B": "Morales",
     "C": "Diana Catalina",
     "D": "Exterior",
@@ -91,7 +93,7 @@
     "AV": "Política integral Migratoria",
     "AW": "Movilidad internacional y fomento del talento humano",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -102,6 +104,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Barrera",
     "B": "Barraza",
     "C": "Juan Pablo",
     "D": "Exterior",
@@ -142,7 +145,7 @@
     "AV": "Instituciones para Colombianos en el exterior",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Barreto",
     "B": "Baquero",
     "C": "Hernando",
     "D": "Exterior",
@@ -193,7 +197,7 @@
     "AV": "Voto digital",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -204,6 +208,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Bonilla",
     "B": "Bravo",
     "C": "Aura Marina",
     "D": "Exterior",
@@ -255,6 +260,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cano",
     "B": "Garcia",
     "C": "Eciebel Antonio",
     "D": "Exterior",
@@ -295,7 +301,7 @@
     "AV": "Mejores consulados",
     "AW": "Convenios internacionales de seguridad social",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Garvin",
     "B": "Pinto",
     "C": "Sondra Macollins",
     "D": "Exterior",
@@ -346,7 +353,7 @@
     "AV": "Mejores consulados",
     "AW": "Asesoría jurídica",
     "AX": "Sistemas educativos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Mancera",
     "B": "Mejia",
     "C": "Cristhian David",
     "D": "Exterior",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Munevar",
     "B": "Sastre",
     "C": "Natalia",
     "D": "Exterior",
@@ -448,7 +457,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Peñaloza",
     "B": "Yabur",
     "C": "Dora Maria",
     "D": "Exterior",
@@ -499,7 +509,7 @@
     "AV": "Ministerio de la migración",
     "AW": "Puente entre el sistema productivo y la diáspora",
     "AX": "Red de apoyo a la migración",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ramírez",
     "B": "Boscan",
     "C": "Carmen Felisa",
     "D": "Exterior",
@@ -550,8 +561,8 @@
     "AV": "Antiracismo",
     "AW": "Lucha contra el racismo la xenofobia y el desarraigo",
     "AX": "",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -561,6 +572,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Sarmiento",
     "B": "Rojas",
     "C": "Carlos Felipe",
     "D": "Exterior",
@@ -601,7 +613,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Valencia",
     "B": "Guevara",
     "C": "Jorge Alberto",
     "D": "Exterior",
@@ -652,7 +665,7 @@
     "AV": "Mejores consulados",
     "AW": "Convalidación de títulos en el exterior",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Vélez",
     "B": "Trujillo",
     "C": "Juan David",
     "D": "Exterior",
@@ -714,6 +728,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Viveros",
     "B": "Cabezas",
     "C": "Hernando",
     "D": "Exterior",
@@ -754,8 +769,8 @@
     "AV": "Mejores consulados",
     "AW": "Convalidación de títulos en el exterior",
     "AX": "No doble tributación a migrantes",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",

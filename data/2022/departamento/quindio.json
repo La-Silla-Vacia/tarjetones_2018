@@ -1,5 +1,6 @@
 [
   {
+    "A": "Aristizabal",
     "B": "Marín",
     "C": "Hugo Andrés",
     "D": "Quindío",
@@ -40,7 +41,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -51,6 +52,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Aristizabal",
     "B": "Saleg",
     "C": "Sandra",
     "D": "Quindío",
@@ -91,7 +93,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -102,6 +104,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Buitrago",
     "B": "Giraldo",
     "C": "Rosa Patricia",
     "D": "Quindío",
@@ -142,7 +145,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido alcalde",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Correal",
     "B": "Rubiano",
     "C": "Piedad",
     "D": "Quindío",
@@ -193,7 +197,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -204,6 +208,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Forero",
     "B": "Sierra",
     "C": "Luz Helena",
     "D": "Quindío",
@@ -244,7 +249,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -255,6 +260,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Grisales",
     "B": "Londoño",
     "C": "Luciano",
     "D": "Quindío",
@@ -295,7 +301,7 @@
     "AV": "Medio ambiente",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido representante a la Cámara",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Orozco",
     "B": "Jaramillo",
     "C": "Eduardo",
     "D": "Quindío",
@@ -346,7 +353,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Osorio",
     "B": "Jiménez",
     "C": "Diego",
     "D": "Quindío",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Peña",
     "B": "López",
     "C": "Jorge Eliécer",
     "D": "Quindío",
@@ -448,7 +457,7 @@
     "AV": "Educación",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Pérez",
     "B": "Rojas",
     "C": "John Edgar",
     "D": "Quindío",
@@ -499,7 +509,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido alcalde",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ramírez",
     "B": "Mejía",
     "C": "Javier",
     "D": "Quindío",
@@ -550,7 +561,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -561,6 +572,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ramírez",
     "B": "Tafur",
     "C": "Margarita María",
     "D": "Quindío",
@@ -601,7 +613,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Robledo",
     "B": "Martínez",
     "C": "Felipe Arturo",
     "D": "Quindío",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Sánchez",
     "B": "Gutiérrez",
     "C": "Mario Alberto",
     "D": "Quindío",
@@ -703,7 +717,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -714,6 +728,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Villanueva",
     "B": "",
     "C": "Julian Andrés",
     "D": "Quindío",

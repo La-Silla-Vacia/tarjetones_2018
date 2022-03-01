@@ -1,5 +1,6 @@
 [
   {
+    "A": "Andrade",
     "B": "Serrano",
     "C": "Esperanza",
     "D": "Huila",
@@ -40,7 +41,7 @@
     "AV": "Antiaborto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -51,6 +52,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "González",
     "B": "Villa",
     "C": "Carlos Julio",
     "D": "Huila",
@@ -102,6 +104,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Pareja",
     "B": "González",
     "C": "Franciso Alfonso",
     "D": "Huila",
@@ -142,7 +145,7 @@
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -153,6 +156,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Prada",
     "B": "Artunduaga",
     "C": "Alvaro Hernán",
     "D": "Huila",
@@ -204,6 +208,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Triana",
     "B": "Quintero",
     "C": "Julio Cesar",
     "D": "Huila",
@@ -255,6 +260,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Tovar",
     "B": "Trujillo",
     "C": "Víctor",
     "D": "Huila",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Murcia",
     "B": "Tovar",
     "C": "Jorge Dilson",
     "D": "Huila",
@@ -346,7 +353,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Lozada",
     "B": "Polanco",
     "C": "Jaime Felipe",
     "D": "Huila",
@@ -397,8 +405,8 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido representante a la Cámara",
     "BH": "No",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cangrejo",
     "B": "Torres",
     "C": "David",
     "D": "Huila",
@@ -448,7 +457,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Rivera",
     "B": "Montes",
     "C": "José Eustacio",
     "D": "Huila",
@@ -499,7 +509,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Ortiz",
     "B": "Serrato",
     "C": "Cielo",
     "D": "Huila",
@@ -550,7 +561,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -561,6 +572,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cuéllar",
     "B": "Rico",
     "C": "Henry",
     "D": "Huila",
@@ -601,7 +613,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Perdomo",
     "B": "Andrade",
     "C": "Flora",
     "D": "Huila",
@@ -652,7 +665,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Posada",
     "B": "Maya",
     "C": "Carlos",
     "D": "Huila",
@@ -703,7 +717,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Menos de pregrado",
     "BF": "Tiene investigaciones penales",
     "BG": "No ha trabajado en el Estado",
@@ -714,6 +728,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Rincón",
     "B": "Trujillo",
     "C": "Leyla",
     "D": "Huila",
@@ -754,7 +769,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -765,6 +780,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Beltrán",
     "B": "Cuellar",
     "C": "Orlando",
     "D": "Huila",
@@ -816,6 +832,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Plazas",
     "B": "Bravo",
     "C": "María Fernanda",
     "D": "Huila",
@@ -856,7 +873,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -867,6 +884,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Lozano",
     "B": "Ángel",
     "C": "Myriam",
     "D": "Huila",
@@ -907,7 +925,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Sánchez",
     "B": "Peña",
     "C": "Joaquín",
     "D": "Huila",
@@ -958,7 +977,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

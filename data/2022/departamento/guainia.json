@@ -1,5 +1,6 @@
 [
   {
+    "A": "Aparicio",
     "B": "Ramírez",
     "C": "Jhony",
     "D": "Guainía",
@@ -40,7 +41,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -51,6 +52,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "Torcuato",
     "B": "Caicedo",
     "C": "Cenobia",
     "D": "Guainía",
@@ -91,7 +93,7 @@
     "AV": "Inversión social",
     "AW": "Oportunidad para mujeres",
     "AX": "Educación rural",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",

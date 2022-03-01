@@ -1,5 +1,6 @@
 [
   {
+    "A": "Amín",
     "B": "Saleme",
     "C": "Fabio",
     "D": "Córdoba",
@@ -51,6 +52,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Ayala",
     "B": "Durango",
     "C": "José Antonio",
     "D": "Córdoba",
@@ -91,8 +93,8 @@
     "AV": "Antiaborto",
     "AW": "Familia",
     "AX": "Fuerza pública",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -102,6 +104,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Barguil",
     "B": "Cubillos",
     "C": "Nicolás",
     "D": "Córdoba",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Besaile",
     "B": "Fayad",
     "C": "John",
     "D": "Córdoba",
@@ -193,7 +197,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha sido alcalde",
@@ -204,6 +208,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Bitar",
     "B": "Castilla",
     "C": "Liliana",
     "D": "Córdoba",
@@ -244,7 +249,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -255,6 +260,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Burgos",
     "B": "Lugo",
     "C": "Jorge Enrique",
     "D": "Córdoba",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Cabeza",
     "B": "Del Toro",
     "C": "Yessica Marcela",
     "D": "Córdoba",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Calle",
     "B": "Aguas",
     "C": "Andrés David",
     "D": "Córdoba",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Casado",
     "B": "López",
     "C": "Arleth",
     "D": "Córdoba",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "De la Ossa",
     "B": "Vergara",
     "C": "Yolis",
     "D": "Córdoba",
@@ -510,6 +520,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "Elias",
     "B": "Vidal",
     "C": "Julio Alberto",
     "D": "Córdoba",
@@ -550,8 +561,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
     "BH": "Sin datos",
@@ -561,6 +572,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "García",
     "B": "Soto",
     "C": "Ana Paola",
     "D": "Córdoba",
@@ -601,7 +613,7 @@
     "AV": "Equidad de género",
     "AW": "Infraestructura vial",
     "AX": "Jóvenes",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Gómez",
     "B": "Reyes",
     "C": "Walter Hernán",
     "D": "Córdoba",
@@ -652,7 +665,7 @@
     "AV": "Salud",
     "AW": "Deporte",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Guerra",
     "B": "López",
     "C": "María Angélica",
     "D": "Córdoba",
@@ -703,7 +717,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -714,6 +728,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Manzur",
     "B": "Imbett",
     "C": "Wadith Alberto",
     "D": "Córdoba",
@@ -765,6 +780,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Mercado",
     "B": "Echenique",
     "C": "William",
     "D": "Córdoba",
@@ -805,7 +821,7 @@
     "AV": "Economía",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -816,6 +832,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Moreno",
     "B": "Garavito",
     "C": "Rafael Emiro",
     "D": "Córdoba",
@@ -867,6 +884,7 @@
     "BL": "De Paz"
   },
   {
+    "A": "Ortega",
     "B": "Porto",
     "C": "Álvaro de Jesús",
     "D": "Córdoba",
@@ -907,8 +925,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Palencia",
     "B": "Vega",
     "C": "Leónor María",
     "D": "Córdoba",
@@ -958,8 +977,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -969,6 +988,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Pérez",
     "B": "Posada",
     "C": "Santiago Miguel",
     "D": "Córdoba",
@@ -1009,7 +1029,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Ha sido destituido",
     "BG": "Ha trabajado en el Estado",
@@ -1020,6 +1040,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Petro",
     "B": "Delgado",
     "C": "Eduard Enrique",
     "D": "Córdoba",
@@ -1071,6 +1092,7 @@
     "BL": "De Paz"
   },
   {
+    "A": "Pineda",
     "B": "García",
     "C": "Marcos Daniel",
     "D": "Córdoba",
@@ -1111,7 +1133,7 @@
     "AV": "Infraestructura",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha sido alcalde",
@@ -1122,6 +1144,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Robayo",
     "B": "Bechara",
     "C": "Saray Elena",
     "D": "Córdoba",
@@ -1173,6 +1196,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Tous",
     "B": "De la Ossa",
     "C": "Eduardo José",
     "D": "Córdoba",
@@ -1224,6 +1248,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Urzola",
     "B": "De la Barrera",
     "C": "Ermes Rafael",
     "D": "Córdoba",
@@ -1275,6 +1300,7 @@
     "BL": "Indígena"
   },
   {
+    "A": "Zapata",
     "B": "Martínez",
     "C": "Arnobi de Jesús",
     "D": "Córdoba",
@@ -1315,8 +1341,8 @@
     "AV": "Sustitución de cultivos",
     "AW": "Implementación de los Acuerdos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
     "BH": "",

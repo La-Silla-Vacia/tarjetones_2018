@@ -1,5 +1,6 @@
 [
   {
+    "A": "Aljure",
     "B": "Martinez",
     "C": "William Ferney",
     "D": "Meta",
@@ -40,8 +41,8 @@
     "AV": "Reconciliación",
     "AW": "Cambio climático",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
     "BH": "",
@@ -51,6 +52,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Arana",
     "B": "Sánhez",
     "C": "Nilson",
     "D": "Meta",
@@ -91,7 +93,7 @@
     "AV": "Anticorrupción",
     "AW": "Víoa al llano",
     "AX": "Seguridad ciudadana",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -102,6 +104,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Duque",
     "B": "Lenis",
     "C": "Jorge Ivan",
     "D": "Meta",
@@ -142,7 +145,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Ha sido destituido",
     "BG": "Ha sido alcalde",
@@ -153,6 +156,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Gómez",
     "B": "Hernández",
     "C": "Arley Fernando",
     "D": "Meta",
@@ -204,6 +208,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Meza",
     "B": "Daza",
     "C": "Laureano Enrique",
     "D": "Meta",
@@ -244,8 +249,8 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "Sin datos",
@@ -255,6 +260,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Palacios",
     "B": "Raigosa",
     "C": "Viviana",
     "D": "Meta",
@@ -295,7 +301,7 @@
     "AV": "Defensa de los Acuerdos de Paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -306,6 +312,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Rojas",
     "B": "Sotelo",
     "C": "Paula Marcela",
     "D": "Meta",
@@ -346,7 +353,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -357,6 +364,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Tamayo",
     "B": "Pérez",
     "C": "Jonatan",
     "D": "Meta",
@@ -397,8 +405,8 @@
     "AV": "Música",
     "AW": "Drogas",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
-    "BE": "No me importa",
+    "BD": "",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
     "BH": "Sin datos",
@@ -408,6 +416,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Vega",
     "B": "Pérez",
     "C": "Alejandro",
     "D": "Meta",
@@ -459,6 +468,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Velásquez",
     "B": "Jaramillo",
     "C": "Hugo",
     "D": "Meta",
@@ -499,7 +509,7 @@
     "AV": "Agro",
     "AW": "Defensa de los acuerdos de paz",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",

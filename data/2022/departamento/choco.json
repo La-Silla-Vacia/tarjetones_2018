@@ -1,5 +1,6 @@
 [
   {
+    "A": "Blandon",
     "B": "Palacios",
     "C": "Jazmir",
     "D": "Chocó",
@@ -40,7 +41,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -51,6 +52,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Córdoba",
     "B": "Manyoma",
     "C": "Nilton",
     "D": "Chocó",
@@ -102,6 +104,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Cuesta",
     "B": "Franco",
     "C": "Marcos Tobías",
     "D": "Chocó",
@@ -153,6 +156,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Flórez",
     "B": "Asprilla",
     "C": "José Bernardo",
     "D": "Chocó",
@@ -204,6 +208,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Lagarejo",
     "B": "Vargas",
     "C": "Piedad",
     "D": "Chocó",
@@ -255,6 +260,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Mendoza",
     "B": "Bustos",
     "C": "Vanessa Alexandra",
     "D": "Chocó",
@@ -306,6 +312,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Moreno",
     "B": "Mosquera",
     "C": "Luis Gregorio",
     "D": "Chocó",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Mosquera",
     "B": "Palacios",
     "C": "Ana Rosalba",
     "D": "Chocó",
@@ -397,7 +405,7 @@
     "AV": "Equidad de género",
     "AW": "Víctimas del conflicto",
     "AX": "Jóvenes",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -408,6 +416,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Mosquera",
     "B": "Hurtado",
     "C": "Blasney",
     "D": "Chocó",
@@ -459,6 +468,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Mosquera",
     "B": "Torres",
     "C": "James Hemeregildo",
     "D": "Chocó",
@@ -499,7 +509,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -510,6 +520,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Mosquera",
     "B": "Ibarguen",
     "C": "Jhon Jairo",
     "D": "Chocó",
@@ -561,6 +572,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Palacios",
     "B": "Mosquera",
     "C": "Gilder",
     "D": "Chocó",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Palacios",
     "B": "Mosquera",
     "C": "Jhoany Carlos Alberto",
     "D": "Chocó",
@@ -663,6 +676,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Perea",
     "B": "Mosquera",
     "C": "Yolanda",
     "D": "Chocó",
@@ -714,6 +728,7 @@
     "BL": "Nacional"
   },
   {
+    "A": "Rentería",
     "B": "Lozano",
     "C": "Nigeria",
     "D": "Chocó",
@@ -754,7 +769,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -765,6 +780,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Sánchez",
     "B": "Montes De Oca",
     "C": "Astrid",
     "D": "Chocó",
@@ -805,7 +821,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha sido senador",
@@ -816,6 +832,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Serna",
     "B": "David",
     "C": "Edwin Fernando",
     "D": "Chocó",
@@ -857,7 +874,7 @@
     "AW": "Educación",
     "AX": "Turismo",
     "BD": "Entre 40 y 60 años",
-    "BE": "No me importa",
+    "BE": "",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "",
@@ -867,6 +884,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Torres",
     "B": "Mosquera",
     "C": "Eduar",
     "D": "Chocó",
@@ -918,6 +936,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Valencia",
     "B": "Cordoba",
     "C": "José de la Cruz",
     "D": "Chocó",
@@ -958,7 +977,7 @@
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -969,6 +988,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Vidal",
     "B": "Rojas",
     "C": "Omar Francisco",
     "D": "Chocó",

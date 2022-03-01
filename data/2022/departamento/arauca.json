@@ -1,5 +1,6 @@
 [
   {
+    "A": "Arciniegas",
     "B": "Guevara",
     "C": "Rodulfo",
     "D": "Arauca",
@@ -40,7 +41,7 @@
     "AV": "Acceso a tierras",
     "AW": "Ampliar Pdet",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -51,6 +52,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Donado",
     "B": "Leal",
     "C": "Wilfredo",
     "D": "Arauca",
@@ -91,7 +93,7 @@
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Agro",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -102,6 +104,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Hernández",
     "B": "Calderón",
     "C": "Norbey",
     "D": "Arauca",
@@ -142,7 +145,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Juntas de acción comunal",
     "AX": "Reparación colectiva",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -153,6 +156,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Manrique",
     "B": "Olarte",
     "C": "Karen Astrith",
     "D": "Arauca",
@@ -193,7 +197,7 @@
     "AV": "Agro",
     "AW": "Asociatividad rural",
     "AX": "Sin datos",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -204,6 +208,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Murcia",
     "B": "Duarte",
     "C": "Guillermo",
     "D": "Arauca",
@@ -255,6 +260,7 @@
     "BL": "De paz"
   },
   {
+    "A": "Cáceres",
     "B": "Suárez",
     "C": "Older Alexis",
     "D": "Arauca",
@@ -295,7 +301,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -306,6 +312,7 @@
     "BL": "Normal"
   },
   {
+    "A": "García",
     "B": "Laguna",
     "C": "Héctor",
     "D": "Arauca",
@@ -346,7 +353,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -357,6 +364,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Garrido",
     "B": "Martín",
     "C": "Lina María",
     "D": "Arauca",
@@ -393,11 +401,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0002_lina-garrido.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -408,6 +416,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Velandia",
     "B": "Romero",
     "C": "Jhon Ronal",
     "D": "Arauca",
@@ -448,7 +457,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -459,6 +468,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Sarmiento",
     "B": "Gutiérrez",
     "C": "Edwin Alejandro",
     "D": "Arauca",
@@ -491,7 +501,7 @@
     "AM": "Sí",
     "AN": "No",
     "AO": "Sí",
-    "AP": "Ingeniero mecánico de la Santo Tomás con maestría en gerencia para el desarrollo del Externado, en 2008, apenas graduado de la universidad, el uribista Alfredo Iván Guzmán lo nombró su jefe de planeación en la alcaldía de Tame. En se quemó buscando esa alcaldía, avalado por La U y con 3.758 votos.\nEn 2012 el gobernador Facundo Castillo, hoy preso e investigado por su presunta relación con el ELN, lo nombró fue nombrado secretario de Infraestructura, cargo en el que fue muy visible porque Castillo estaba enfocado en grandes obras civiles y varias resultaron con denuncias por presuntos sobrecostos y retrasos. A finales de 2015 Castillo lo nombró gerente del Contrato Plan del departamento, en 2018 fue asesor en el Senado y en 2019 la Procuraduría le formuló pliego de cargos por la ejecución del contrato de mantenimiento de la vía Cravo Norte – Corocoro cuando fue secretario de Infraestructura. Ese mismo año se postuló para ser contralor del departamento, pero no superó las pruebas de conocimiento.",
+    "AP": "Ingeniero mecánico de la Santo Tomás con maestría en gerencia para el desarrollo del Externado, en 2008, apenas graduado de la universidad, el uribista Alfredo Iván Guzmán lo nombró su jefe de planeación en la alcaldía de Tame. En 2011 se quemó buscando esa alcaldía, avalado por La U y con 3.758 votos.\nEn 2012 el gobernador Facundo Castillo, hoy preso e investigado por su presunta relación con el ELN, lo nombró secretario de Infraestructura, cargo en el que fue muy visible porque Castillo estaba enfocado en grandes obras civiles y varias resultaron con denuncias por presuntos sobrecostos y retrasos. A finales de 2015 Castillo lo nombró gerente del Contrato Plan del departamento, en 2018 fue asesor en el Senado y en 2019 la Procuraduría le formuló pliego de cargos por la ejecución del contrato de mantenimiento de la vía Cravo Norte – Corocoro cuando fue secretario de Infraestructura. Ese mismo año se postuló para ser contralor del departamento, pero no superó las pruebas de conocimiento.",
     "AQ": "https://www.lasillavacia.com/media/_0004_alejandro-sarmiento.jpg",
     "AR": "No",
     "AT": "Óscar Iván Zuluaga",
@@ -499,7 +509,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -510,6 +520,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Marchena",
     "B": "",
     "C": "José Joaquín",
     "D": "Arauca",
@@ -546,11 +557,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0005_joaquin-marchena.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -561,6 +572,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Rozo",
     "B": "Anís",
     "C": "Germán",
     "D": "Arauca",
@@ -597,11 +609,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0006_german-rozo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -612,6 +624,7 @@
     "BL": "Normal"
   },
   {
+    "A": "Quenza",
     "B": "Becerra",
     "C": "Luz Stella",
     "D": "Arauca",
@@ -644,15 +657,15 @@
     "AM": "No",
     "AN": "No",
     "AO": "No",
-    "AP": "Administradora de empresas de la Simón Bolívar de Barranquilla especializada en gestión del desarrollo urbano de en la Esap, a inicios de siglo fue coordinadora departamental del Sisbén, dirigió el Consejo Regional de Competitividad, y fue jefe de control interno y subdirectora del Hospital Maternoinfantil. También fue profesora en universidades como la Cooperativa y la Francisco de Paula Santander.\nEn 2014 entró a ser asesora en la Cámara de Pedro Orjuela, su amigo personal y quien no completó su periodo, pues el Consejo de Estado anuló su elección porque en 1996 había sido condenado por porte ilegal de armas. En ese trabajo conoció al hoy senador santandereano Miguel Ángel Pinto, quien era el presidente de la Cámara. En 2018, Pinto salió al Senado, invitó a Quenza a liderar su campaña en Arauca, y ella misma buscó el aval liberal a la Cámara. Ahora tiene a Pinto como fórmula y su principal apoyo en el Partido Liberal, además del respaldo de tres diputados liberales y uno conservador, el grupo del exgobernador Julio Enrique Acosta (condenado por contratación irregular y peculado por apropiación, y señalado por paramilitares de tener mando sobre el bloque Vencedores de Arauca) y, según tres políticos, de parte de la estructura del exgobernador Facundo Castillo, capturado en octubre de 2021 por supuestos nexos con el ELN.",
+    "AP": "Administradora de empresas de la Simón Bolívar de Barranquilla especializada en gestión del desarrollo urbano en la Esap, a inicios de siglo fue coordinadora departamental del Sisbén, dirigió el Consejo Regional de Competitividad, y fue jefe de control interno y subdirectora del Hospital Maternoinfantil. También fue profesora en universidades como la Cooperativa y la Francisco de Paula Santander.\nEn 2014 entró a ser asesora en la Cámara de Pedro Orjuela, su amigo personal y quien no completó su periodo, pues el Consejo de Estado anuló su elección porque en 1996 había sido condenado por porte ilegal de armas. En ese trabajo conoció al hoy senador santandereano Miguel Ángel Pinto, quien era el presidente de la Cámara. En 2018, Pinto salió al Senado, invitó a Quenza a liderar su campaña en Arauca, y ella misma buscó el aval liberal a la Cámara. Ahora tiene a Pinto como fórmula y su principal apoyo en el Partido Liberal, además del respaldo de tres diputados liberales y uno conservador, el grupo del exgobernador Julio Enrique Acosta (condenado por contratación irregular y peculado por apropiación, y señalado por paramilitares de tener mando sobre el bloque Vencedores de Arauca) y, según tres políticos, de parte de la estructura del exgobernador Facundo Castillo, capturado en octubre de 2021 por supuestos nexos con el ELN.",
     "AQ": "https://www.lasillavacia.com/media/_0007_luz-quenza.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "No me importa la edad",
+    "BD": "",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",

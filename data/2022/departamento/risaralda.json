@@ -1,6 +1,5 @@
 [
   {
-    "A": "Arango",
     "B": "Dávila",
     "C": "Lina María",
     "D": "Risaralda",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Botero",
     "B": "López",
     "C": "Carlos Alberto",
     "D": "Risaralda",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Corrales",
     "B": "Escobar",
     "C": "Alejandro",
     "D": "Risaralda",
@@ -145,7 +142,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Café",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -156,7 +153,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Franco",
     "B": "Bernal",
     "C": "Estella María",
     "D": "Risaralda",
@@ -197,7 +193,7 @@
     "AV": "Ambientalista",
     "AW": "Animalista",
     "AX": "Derechos humanos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -208,7 +204,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gallo",
     "B": "Maya",
     "C": "Juan Pablo",
     "D": "Risaralda",
@@ -245,7 +240,7 @@
     "AQ": "https://www.lasillavacia.com/media/12_JuanPabloGallo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -260,7 +255,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "García",
     "B": "Ríos",
     "C": "Alejandro",
     "D": "Risaralda",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Giraldo",
     "B": "Botero",
     "C": "Carolina",
     "D": "Risaralda",
@@ -353,7 +346,7 @@
     "AV": "Defensa ambiental",
     "AW": "Lucha contra la corrupción",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hoyos",
     "B": "Ramírez",
     "C": "Diego Alejandro",
     "D": "Risaralda",
@@ -405,7 +397,7 @@
     "AV": "Medio ambiente",
     "AW": "Cultura",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Londoño",
     "B": "González",
     "C": "Geovany",
     "D": "Risaralda",
@@ -457,7 +448,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Londoño",
     "B": "Londoño",
     "C": "Israel",
     "D": "Risaralda",
@@ -505,11 +495,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0016_LONDO-LONDO.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -520,7 +510,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "López",
     "B": "Echeverry",
     "C": "Diego Luis",
     "D": "Risaralda",
@@ -561,7 +550,7 @@
     "AV": "Empleo",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Manyoma",
     "B": "Gil",
     "C": "Fusthel Antonio",
     "D": "Risaralda",
@@ -609,11 +597,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_fusthel-manyoma.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Merheg",
     "B": "Marún",
     "C": "Samy",
     "D": "Risaralda",
@@ -676,7 +663,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Noreña",
     "B": "Arboleda",
     "C": "Maria Irma",
     "D": "Risaralda",
@@ -713,11 +699,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0002_maria-irma-norena.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Apoyo a las mujeres",
     "AW": "Animalista",
     "AX": "Educación",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ospina",
     "B": "López",
     "C": "Juliana",
     "D": "Risaralda",
@@ -769,7 +754,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Patiño",
     "B": "Amariles",
     "C": "Diego",
     "D": "Risaralda",
@@ -817,11 +801,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0003_diego-patino.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Reinales",
     "B": "Agudelo",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -869,7 +852,7 @@
     "AQ": "https://www.lasillavacia.com/media/21-juan-carlos-reinales.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rivera",
     "B": "Peña",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Osorio",
     "C": "Sigifredo",
     "D": "Risaralda",
@@ -988,7 +969,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Valencia",
     "B": "Montoya",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -1025,7 +1005,7 @@
     "AQ": "https://www.lasillavacia.com/media/27-juan-carlos-valencia.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1040,7 +1020,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vallejo",
     "B": "Chujfi",
     "C": "Gabriel Jaime",
     "D": "Risaralda",

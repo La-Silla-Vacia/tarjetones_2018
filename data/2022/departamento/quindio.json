@@ -1,6 +1,5 @@
 [
   {
-    "A": "Aristizabal",
     "B": "Marín",
     "C": "Hugo Andrés",
     "D": "Quindío",
@@ -37,11 +36,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0000_hugo-aristizabal-marin.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -52,7 +51,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Aristizabal",
     "B": "Saleg",
     "C": "Sandra",
     "D": "Quindío",
@@ -89,11 +87,11 @@
     "AQ": "https://www.lasillavacia.com/media/33-sandra-aristizabal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Buitrago",
     "B": "Giraldo",
     "C": "Rosa Patricia",
     "D": "Quindío",
@@ -145,7 +142,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido alcalde",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Correal",
     "B": "Rubiano",
     "C": "Piedad",
     "D": "Quindío",
@@ -193,11 +189,11 @@
     "AQ": "https://www.lasillavacia.com/media/32-piedad-correal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -208,7 +204,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Forero",
     "B": "Sierra",
     "C": "Luz Helena",
     "D": "Quindío",
@@ -249,7 +244,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Grisales",
     "B": "Londoño",
     "C": "Luciano",
     "D": "Quindío",
@@ -297,11 +291,11 @@
     "AQ": "https://www.lasillavacia.com/media/31-luciano-grisales.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido representante a la Cámara",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Orozco",
     "B": "Jaramillo",
     "C": "Eduardo",
     "D": "Quindío",
@@ -353,7 +346,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Osorio",
     "B": "Jiménez",
     "C": "Diego",
     "D": "Quindío",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peña",
     "B": "López",
     "C": "Jorge Eliécer",
     "D": "Quindío",
@@ -457,7 +448,7 @@
     "AV": "Educación",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Rojas",
     "C": "John Edgar",
     "D": "Quindío",
@@ -505,11 +495,11 @@
     "AQ": "https://www.lasillavacia.com/media/34-john-edgar-perez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido alcalde",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Mejía",
     "C": "Javier",
     "D": "Quindío",
@@ -561,7 +550,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Tafur",
     "C": "Margarita María",
     "D": "Quindío",
@@ -613,7 +601,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Robledo",
     "B": "Martínez",
     "C": "Felipe Arturo",
     "D": "Quindío",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Gutiérrez",
     "C": "Mario Alberto",
     "D": "Quindío",
@@ -717,7 +703,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Villanueva",
     "B": "",
     "C": "Julian Andrés",
     "D": "Quindío",

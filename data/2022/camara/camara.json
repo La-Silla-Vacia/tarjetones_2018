@@ -1,6 +1,5 @@
 [
   {
-    "A": "Aguilera",
     "B": "Vides",
     "C": "Modesto Enrique",
     "D": "Atlántico",
@@ -52,7 +51,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Aguirre",
     "B": "Juvinao",
     "C": "Ingrid Jhoana",
     "D": "Magdalena",
@@ -93,7 +91,7 @@
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Alarcon",
     "B": "Norato",
     "C": "Manuel Jose",
     "D": "Exterior",
@@ -141,7 +138,7 @@
     "AQ": "www.lasillavacia.com/media/_0004_manuel-jose-alarcon.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Autonomía para la Mesa Nacional de las Migraciones",
     "AW": "Convenios internacionales de seguridad social",
     "AX": "Sin datos",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Alvernia",
     "B": "Angarita",
     "C": "Hainer Ali",
     "D": "Santander",
@@ -208,8 +204,7 @@
     "BL": "Normal"
   },
   {
-    "A": "Amar",
-    "B": "Sepulveda",
+    "B": "Sepúlveda",
     "C": "José Gabriel",
     "D": "Atlántico",
     "G": "No aplica",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Amaya",
     "B": "Martínez",
     "C": "Pedro Nilson",
     "D": "Santander",
@@ -297,11 +291,11 @@
     "AQ": "https://www.lasillavacia.com/media/04_Pedro-nilson-amaya.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Amaya",
     "B": "Chanaga",
     "C": "Ramón Darío",
     "D": "Santander",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Andrade",
     "B": "Hernandez",
     "C": "Diana Milena",
     "D": "Bogotá",
@@ -405,7 +397,7 @@
     "AV": "Tauromaquia",
     "AW": "Infraestructura",
     "AX": "Libertades",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Angulo",
     "B": "Viveros",
     "C": "Milton Hugo",
     "D": "Valle del Cauca",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arana",
     "B": "Padauí",
     "C": "Yamil",
     "D": "Bolívar",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Aray",
     "B": "Franco",
     "C": "Juliana",
     "D": "Bolívar",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arbeláez",
     "B": "Giraldo",
     "C": "Adriana Carolina",
     "D": "Bogotá",
@@ -609,7 +597,7 @@
     "AQ": "https://www.lasillavacia.com/media/04_Arbelaez-Giraldo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Cambiar IVA por Impoconsumo",
     "AW": "Reformas a la propiedad horizontal",
     "AX": "Educación virtual",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arboleda",
     "B": "Gallo",
     "C": "Ana Carolina",
     "D": "Antioquia",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Argote",
     "B": "Calderón",
     "C": "Etna",
     "D": "Bogotá",
@@ -717,7 +703,7 @@
     "AV": "Equidad de género",
     "AW": "Organización comunitaria",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arias",
     "B": "Ceballos",
     "C": "Mildred Eliana",
     "D": "Valle del Cauca",
@@ -769,7 +754,7 @@
     "AV": "Lucha contra la corrupción",
     "AW": "Educación",
     "AX": "Movilidad",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Aristizabal",
     "B": "Marín",
     "C": "Hugo Andrés",
     "D": "Quindío",
@@ -817,11 +801,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0000_hugo-aristizabal-marin.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Aristizabal",
     "B": "Saleg",
     "C": "Sandra",
     "D": "Quindío",
@@ -869,11 +852,11 @@
     "AQ": "https://www.lasillavacia.com/media/33-sandra-aristizabal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ariza",
     "B": "Pérez",
     "C": "Diego",
     "D": "Santander",
@@ -925,7 +907,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arizabaleta",
     "B": "Corral",
     "C": "Gloria",
     "D": "Valle del Cauca",
@@ -977,7 +958,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -988,7 +969,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arrieta",
     "B": "González",
     "C": "Juvenal",
     "D": "Antioquia",
@@ -1040,7 +1020,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Arteaga",
     "B": "Rodríguez",
     "C": "Harold Camilo",
     "D": "Cauca",
@@ -1092,7 +1071,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Avendaño",
     "B": "Fino",
     "C": "Cristian Danilo",
     "D": "Santander",
@@ -1144,7 +1122,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ayala",
     "B": "Durango",
     "C": "José Antonio",
     "D": "Córdoba",
@@ -1181,11 +1158,11 @@
     "AQ": "https://www.lasillavacia.com/media/10_Ayala-Durango.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Antiaborto",
     "AW": "Familia",
     "AX": "Fuerza pública",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1196,7 +1173,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bahamon",
     "B": "Morales",
     "C": "Diana Catalina",
     "D": "Exterior",
@@ -1237,7 +1213,7 @@
     "AV": "Política integral Migratoria",
     "AW": "Movilidad internacional y fomento del talento humano",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1248,7 +1224,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bañol",
     "B": "Álvarez",
     "C": "Norman",
     "D": "Caldas",
@@ -1300,7 +1275,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Barguil",
     "B": "Cubillos",
     "C": "Nicolás",
     "D": "Córdoba",
@@ -1352,7 +1326,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Barraza",
     "B": "Arraut",
     "C": "Jezmi",
     "D": "Atlántico",
@@ -1404,7 +1377,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Barraza",
     "B": "Villa",
     "C": "Meliza",
     "D": "Atlántico",
@@ -1456,7 +1428,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Barrera",
     "B": "Barraza",
     "C": "Juan Pablo",
     "D": "Exterior",
@@ -1493,11 +1464,11 @@
     "AQ": "www.lasillavacia.com/media/_0000_barrera-barraza.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Instituciones para Colombianos en el exterior",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1508,7 +1479,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Barreto",
     "B": "Baquero",
     "C": "Hernando",
     "D": "Exterior",
@@ -1549,7 +1519,7 @@
     "AV": "Voto digital",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1560,7 +1530,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bastidas",
     "B": "Rosero",
     "C": "Jorge Hernán",
     "D": "Cauca",
@@ -1612,7 +1581,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Becerra",
     "B": "Yañez",
     "C": "Gabriel",
     "D": "Bogotá",
@@ -1664,7 +1632,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Becerra",
     "B": "Baños",
     "C": "Ignacio Javier",
     "D": "Bolívar",
@@ -1701,11 +1668,11 @@
     "AQ": "https://www.lasillavacia.com/media/04_HappyBecerra.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1716,7 +1683,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Becerra",
     "B": "Díaz",
     "C": "Yitcy",
     "D": "Valle del Cauca",
@@ -1757,7 +1723,7 @@
     "AV": "Mipymes",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1768,7 +1734,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bello",
     "B": "Villabona",
     "C": "Cleomedes",
     "D": "Santander",
@@ -1805,7 +1770,7 @@
     "AQ": "https://www.lasillavacia.com/media/15_cleomedes-bello.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1820,7 +1785,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Beltrán",
     "B": "Ramírez",
     "C": "Ana Victoria",
     "D": "Bogotá",
@@ -1872,7 +1836,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Beltrán",
     "B": "Dorado",
     "C": "Olga",
     "D": "Boyacá",
@@ -1924,7 +1887,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Benítez",
     "B": "Hurtado",
     "C": "María Alejandra",
     "D": "Bolívar",
@@ -1976,7 +1938,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bermúdez",
     "B": "Garcés",
     "C": "John Jairo",
     "D": "Antioquia",
@@ -2028,7 +1989,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Berrío",
     "B": "López",
     "C": "Jhon Jairo",
     "D": "Antioquia",
@@ -2080,7 +2040,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Betancourth",
     "B": "López",
     "C": "Andrés Felipe",
     "D": "Caldas",
@@ -2117,11 +2076,11 @@
     "AQ": "https://www.lasillavacia.com/media/17-andres-betancourth.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2132,7 +2091,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Blanco",
     "B": "Ceballos",
     "C": "Adriana",
     "D": "Atlántico",
@@ -2173,7 +2131,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -2184,7 +2142,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bohórquez",
     "B": "Garzón",
     "C": "Cindy Yohana",
     "D": "Boyacá",
@@ -2225,7 +2182,7 @@
     "AV": "Expandir a las zonas rurales los programas de primera infancia",
     "AW": "Fortalecer el acceso a internet",
     "AX": "Mejorar programas educativos relacionados con el agro, comercio y economía",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2236,7 +2193,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bolaño",
     "B": "Gómez",
     "C": "Carlos Vicente",
     "D": "Magdalena",
@@ -2273,11 +2229,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0009_carlos-bolanos.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2288,7 +2244,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bolívar",
     "B": "Corredor",
     "C": "Carlos Alberto",
     "D": "Norte de Santander",
@@ -2340,7 +2295,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bonilla",
     "B": "Bravo",
     "C": "Aura Marina",
     "D": "Exterior",
@@ -2392,7 +2346,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bonilla",
     "B": "Soto",
     "C": "Carlos Julio",
     "D": "Cauca",
@@ -2444,7 +2397,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Botero",
     "B": "López",
     "C": "Carlos Alberto",
     "D": "Risaralda",
@@ -2496,7 +2448,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Botero",
     "B": "De Cote",
     "C": "Liliana Patricia",
     "D": "Santander",
@@ -2548,7 +2499,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Buitrago",
     "B": "Giraldo",
     "C": "Rosa Patricia",
     "D": "Quindío",
@@ -2589,7 +2539,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido alcalde",
@@ -2600,7 +2550,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Burgos",
     "B": "Lugo",
     "C": "Jorge Enrique",
     "D": "Córdoba",
@@ -2637,7 +2586,7 @@
     "AQ": "https://www.lasillavacia.com/media/01_JORGE-ENRIQUE-BURGOS-LUGO.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -2652,7 +2601,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bustamante",
     "B": "Jordan",
     "C": "Mario José",
     "D": "Cauca",
@@ -2704,7 +2652,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bustamante",
     "B": "De la Vega",
     "C": "Raúl Reinerio",
     "D": "Bolívar",
@@ -2756,7 +2703,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cabeza",
     "B": "Del Toro",
     "C": "Yessica Marcela",
     "D": "Córdoba",
@@ -2808,7 +2754,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cadavid",
     "B": "Márquez",
     "C": "Hernán Darío",
     "D": "Antioquia",
@@ -2860,7 +2805,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cadavid",
     "B": "Jaramillo",
     "C": "Misael Alberto",
     "D": "Antioquia",
@@ -2912,7 +2856,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Caicedo",
     "B": "Angulo",
     "C": "Cristóbal",
     "D": "Valle del Cauca",
@@ -2953,7 +2896,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2964,7 +2907,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Caicedo",
     "B": "Avellaneda",
     "C": "Sara María",
     "D": "Bogotá",
@@ -3001,11 +2943,11 @@
     "AQ": "https://www.lasillavacia.com/media/08_CAICEDO-AVELLANEDA.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Antiaborto",
     "AW": "Seguridad",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3016,7 +2958,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cala",
     "B": "Suárez",
     "C": "Jairo",
     "D": "Santander",
@@ -3053,7 +2994,7 @@
     "AQ": "https://www.lasillavacia.com/media/33_jairo-cala.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -3068,7 +3009,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Calle",
     "B": "Aguas",
     "C": "Andrés David",
     "D": "Córdoba",
@@ -3120,7 +3060,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Callejas",
     "B": "Tamayo",
     "C": "Juan Camilo",
     "D": "Antioquia",
@@ -3172,7 +3111,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Camacho",
     "B": "López",
     "C": "Juan Pablo",
     "D": "Bogotá",
@@ -3224,7 +3162,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Campo",
     "B": "Hurtado",
     "C": "Oscar Rodrigo",
     "D": "Cauca",
@@ -3261,11 +3198,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0012_oscarcampo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -3276,7 +3213,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cano",
     "B": "Garcia",
     "C": "Eciebel Antonio",
     "D": "Exterior",
@@ -3317,7 +3253,7 @@
     "AV": "Mejores consulados",
     "AW": "Convenios internacionales de seguridad social",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -3328,7 +3264,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Capacho",
     "B": "Delgado",
     "C": "Juan Carlos",
     "D": "Norte de Santander",
@@ -3380,7 +3315,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cárdenas",
     "B": "Suárez",
     "C": "Mario Antonio",
     "D": "Santander",
@@ -3421,7 +3355,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -3432,7 +3366,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cardona",
     "B": "León",
     "C": "José Octavio",
     "D": "Caldas",
@@ -3473,7 +3406,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -3484,7 +3417,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Caro",
     "B": "Porras",
     "C": "Diego",
     "D": "Bogotá",
@@ -3521,11 +3453,11 @@
     "AQ": "https://www.lasillavacia.com/media/03_Caro-Porras.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Emprendimiento",
     "AW": "Educación",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3536,7 +3468,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carrascal",
     "B": "Rojas",
     "C": "María Fernanda",
     "D": "Bogotá",
@@ -3588,7 +3519,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carrasquilla",
     "B": "Torres",
     "C": "Silvio José",
     "D": "Bolívar",
@@ -3625,7 +3555,7 @@
     "AQ": "https://www.lasillavacia.com/media/14_SilvioCarrasquilla.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -3640,7 +3570,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carreño",
     "B": "Marin",
     "C": "Carlos Alberto",
     "D": "Bogotá",
@@ -3692,7 +3621,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carreño",
     "B": "Cortés",
     "C": "Jorge Alirio",
     "D": "Norte de Santander",
@@ -3733,7 +3661,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3744,7 +3672,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carrillo",
     "B": "Mendoza",
     "C": "Wilmer Ramiro",
     "D": "Norte de Santander",
@@ -3781,7 +3708,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0011_wilmer-carrillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -3796,7 +3723,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carvalho",
     "B": "Mejía",
     "C": "Daniel",
     "D": "Antioquia",
@@ -3848,7 +3774,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Casado",
     "B": "López",
     "C": "Arleth",
     "D": "Córdoba",
@@ -3885,7 +3810,7 @@
     "AQ": "https://www.lasillavacia.com/media/08_Casado-Lopez.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -3900,7 +3825,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Castiblanco",
     "B": "Parra",
     "C": "Jairo Enrique",
     "D": "Boyacá",
@@ -3941,7 +3865,7 @@
     "AV": "Mejorar la infraestructura vial",
     "AW": "Emprendimientos relacionados al turismo",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -3952,7 +3876,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cataño",
     "B": "Muñoz",
     "C": "Juana Eloisa",
     "D": "Valle del Cauca",
@@ -3989,11 +3912,11 @@
     "AQ": "https://www.lasillavacia.com/media/14_Juanita-Catano.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -4004,7 +3927,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cepeda",
     "B": "Novoa",
     "C": "Pablo",
     "D": "Boyacá",
@@ -4041,11 +3963,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0000_pablo-emilio-novoa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -4056,7 +3978,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Chaves",
     "B": "García",
     "C": "Johana",
     "D": "Santander",
@@ -4093,7 +4014,7 @@
     "AQ": "https://www.lasillavacia.com/media/35_johana-chaves.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -4108,7 +4029,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Chavez",
     "B": "Quintero",
     "C": "Roger Iván",
     "D": "Santander",
@@ -4160,7 +4080,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Chica",
     "B": "Correa",
     "C": "Félix Alejandro",
     "D": "Caldas",
@@ -4212,7 +4131,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Chivata",
     "B": "Vargas",
     "C": "Olga María",
     "D": "Boyacá",
@@ -4253,7 +4171,7 @@
     "AV": "Organización agropecuaria",
     "AW": "Acabar la esclavitud financiera del sector agrario",
     "AX": "Bloques nutricionales",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -4264,7 +4182,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cifuentes",
     "B": "Ghidini",
     "C": "Gabriel",
     "D": "Bogotá",
@@ -4316,7 +4233,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cleves",
     "B": "Rodríguez",
     "C": "Jorge Humberto",
     "D": "Cundinamarca",
@@ -4368,7 +4284,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Condía",
     "B": "Pérez",
     "C": "Sandro Néstor",
     "D": "Boyacá",
@@ -4405,11 +4320,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0002_sandro-condia-perez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -4420,7 +4335,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Córdoba",
     "B": "Medina",
     "C": "Mario Hernando",
     "D": "Boyacá",
@@ -4461,7 +4375,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -4472,7 +4386,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Correa",
     "B": "Vélez",
     "C": "Víctor Javier",
     "D": "Antioquia",
@@ -4524,7 +4437,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Correal",
     "B": "Rubiano",
     "C": "Piedad",
     "D": "Quindío",
@@ -4561,11 +4473,11 @@
     "AQ": "https://www.lasillavacia.com/media/32-piedad-correal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -4576,7 +4488,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Corredor",
     "B": "Gómez",
     "C": "William",
     "D": "Atlántico",
@@ -4617,7 +4528,7 @@
     "AV": "Educación",
     "AW": "Juventud",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -4628,7 +4539,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cortés",
     "B": "Dueñas",
     "C": "Juan Manuel",
     "D": "Santander",
@@ -4680,7 +4590,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Corzo",
     "B": "Álvarez",
     "C": "Juan Felipe",
     "D": "Norte de Santander",
@@ -4732,7 +4641,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cote",
     "B": "Rodríguez",
     "C": "David Gerardo",
     "D": "Bogotá",
@@ -4769,11 +4677,11 @@
     "AQ": "https://www.lasillavacia.com/media/23_COTE-RODRIGUEZ.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Antiaborto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -4784,7 +4692,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cristo",
     "B": "Correa",
     "C": "Jairo Humberto",
     "D": "Norte de Santander",
@@ -4821,7 +4728,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0013_jairo-cristo-correa.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -4836,7 +4743,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cruz",
     "B": "Casado",
     "C": "Libardo",
     "D": "Cesar",
@@ -4877,7 +4783,7 @@
     "AV": "Educación",
     "AW": "Salud",
     "AX": "Reactivación económica",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha sido alcalde",
@@ -4888,7 +4794,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuadros",
     "B": "Castillo",
     "C": "Francisco Javier",
     "D": "Norte de Santander",
@@ -4940,7 +4845,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuello",
     "B": "Baute",
     "C": "Alfredo Ape",
     "D": "Cesar",
@@ -4992,7 +4896,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuesta",
     "B": "Novoa",
     "C": "José",
     "D": "Bogotá",
@@ -5044,7 +4947,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuesta",
     "B": "Franco",
     "C": "Marcos Tobías",
     "D": "Chocó",
@@ -5096,7 +4998,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cure",
     "B": "Corcione",
     "C": "Karen",
     "D": "Bolívar",
@@ -5148,7 +5049,6 @@
     "BL": "Normal"
   },
   {
-    "A": "David",
     "B": "Adarve",
     "C": "Álvaro Fernando",
     "D": "Valle del Cauca",
@@ -5185,11 +5085,11 @@
     "AQ": "https://www.lasillavacia.com/media/37_Alvaro-Adarve.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -5200,7 +5100,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Dávila",
     "B": "Morales",
     "C": "Jose Domingo",
     "D": "Magdalena",
@@ -5241,7 +5140,7 @@
     "AV": "Crisis social y económica",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -5252,7 +5151,6 @@
     "BL": "Normal"
   },
   {
-    "A": "De Francisco",
     "B": "Giraldo",
     "C": "Nicolás",
     "D": "Bogotá",
@@ -5289,7 +5187,7 @@
     "AQ": "https://www.lasillavacia.com/media/05_Defrancisco-Giraldo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Emprendimiento",
     "AW": "Pago por sesión en el congreso",
     "AX": "Trabajo en las cárceles",
@@ -5304,7 +5202,6 @@
     "BL": "Normal"
   },
   {
-    "A": "De la Ossa",
     "B": "Vergara",
     "C": "Yolis",
     "D": "Córdoba",
@@ -5341,7 +5238,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0004_yolis-de-la-ossa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Representación indígena",
     "AW": "Derechos de mujeres cabeza de familia",
     "AX": "Derechos de población con discapacidades",
@@ -5356,7 +5253,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Del Rio",
     "B": "Cabarcas",
     "C": "Alonso José",
     "D": "Bolívar",
@@ -5393,7 +5289,7 @@
     "AQ": "https://www.lasillavacia.com/media/01_AlonsoDelRio.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Reforma a la salud",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -5408,7 +5304,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Diago",
     "B": "Casasbuenas",
     "C": "Leo César",
     "D": "Bogotá",
@@ -5460,7 +5355,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Díaz",
     "B": "Martinez",
     "C": "Juan Manuel",
     "D": "Bogotá",
@@ -5501,7 +5395,7 @@
     "AV": "Adultos mayores",
     "AW": "Niños",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -5512,7 +5406,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Díaz",
     "B": "Mateus",
     "C": "Luis Eduardo",
     "D": "Santander",
@@ -5553,7 +5446,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -5564,7 +5457,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Duarte",
     "B": "Peñalosa",
     "C": "Adriana Marcela",
     "D": "Santander",
@@ -5616,7 +5508,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Echeverria",
     "B": "De la Rosa",
     "C": "Olmes de Jesus",
     "D": "Magdalena",
@@ -5653,11 +5544,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0000_holmes-echeverria.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Educación",
     "AW": "Juventud",
     "AX": "Sector del Agro",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -5668,7 +5559,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Escaf",
     "B": "Tijerino",
     "C": "Agmeth",
     "D": "Atlántico",
@@ -5720,7 +5610,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Escallón",
     "B": "Arango",
     "C": "Diego",
     "D": "Bogotá",
@@ -5772,7 +5661,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Escobar",
     "B": "Ortiz",
     "C": "Wilder",
     "D": "Caldas",
@@ -5809,11 +5697,11 @@
     "AQ": "https://www.lasillavacia.com/media/04-wilder-escobar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -5824,7 +5712,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Espinal",
     "B": "Ramírez",
     "C": "Juan Fernando",
     "D": "Antioquia",
@@ -5876,7 +5763,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Feria",
     "B": "Contreras",
     "C": "Luis Mario",
     "D": "Bolívar",
@@ -5928,7 +5814,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Fernández",
     "B": "Nuñez",
     "C": "Ciro",
     "D": "Santander",
@@ -5965,11 +5850,11 @@
     "AQ": "https://www.lasillavacia.com/media/14_ciro-fernandez.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -5980,7 +5865,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Figueroa",
     "B": "Celis",
     "C": "María Yolanda",
     "D": "Caquetá",
@@ -6017,11 +5901,11 @@
     "AQ": "https://www.lasillavacia.com/media/candidato-nn-m.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Fortalecer la seguridad y convivencia ciudadana",
     "AW": "Medicina tradicional",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -6032,7 +5916,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Flórez",
     "B": "Herrera",
     "C": "Jorge",
     "D": "Santander",
@@ -6084,7 +5967,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Flórez",
     "B": "Asprilla",
     "C": "José Bernardo",
     "D": "Chocó",
@@ -6121,7 +6003,7 @@
     "AQ": "https://www.lasillavacia.com/media/jose-bernardo-florez-asprilla.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -6136,7 +6018,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Flórez",
     "B": "Portilla",
     "C": "Bayron Edilson",
     "D": "Norte de Santander",
@@ -6188,7 +6069,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Forero",
     "B": "Molina",
     "C": "Andrés",
     "D": "Bogotá",
@@ -6240,7 +6120,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Forero",
     "B": "Sierra",
     "C": "Luz Helena",
     "D": "Quindío",
@@ -6281,7 +6160,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -6292,7 +6171,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Franco",
     "B": "Bernal",
     "C": "Estella María",
     "D": "Risaralda",
@@ -6333,7 +6211,7 @@
     "AV": "Ambientalista",
     "AW": "Animalista",
     "AX": "Derechos humanos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -6344,7 +6222,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Galeano",
     "B": "Martínez",
     "C": "Gladys",
     "D": "Caldas",
@@ -6381,11 +6258,11 @@
     "AQ": "https://www.lasillavacia.com/media/11-gladis-galeano.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -6396,7 +6273,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gallego",
     "B": "Alzate",
     "C": "James Enrique",
     "D": "Antioquia",
@@ -6448,7 +6324,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gallego",
     "B": "González",
     "C": "Jesús Octavio",
     "D": "Valle del Cauca",
@@ -6500,7 +6375,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gallego",
     "B": "Arroyave",
     "C": "Leónardo de Jesús",
     "D": "Valle del Cauca",
@@ -6537,11 +6411,11 @@
     "AQ": "https://www.lasillavacia.com/media/8_Leonardo-de-Jesus.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -6552,7 +6426,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gallón",
     "B": "Arango",
     "C": "Luis Horacio",
     "D": "Antioquia",
@@ -6604,7 +6477,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garcés",
     "B": "Aljure",
     "C": "Christian",
     "D": "Valle del Cauca",
@@ -6641,7 +6513,7 @@
     "AQ": "https://www.lasillavacia.com/media/33_Christian-Munir-Garces-Aljure.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Seguridad",
     "AX": "Porte de armas",
@@ -6656,7 +6528,6 @@
     "BL": "Normal"
   },
   {
-    "A": "García",
     "B": "Ríos",
     "C": "Alejandro",
     "D": "Risaralda",
@@ -6708,7 +6579,6 @@
     "BL": "Normal"
   },
   {
-    "A": "García",
     "B": "Soto",
     "C": "Ana Paola",
     "D": "Córdoba",
@@ -6745,11 +6615,11 @@
     "AQ": "https://www.lasillavacia.com/media/02_Garcia-Soto.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Infraestructura vial",
     "AX": "Jóvenes",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -6760,7 +6630,6 @@
     "BL": "Normal"
   },
   {
-    "A": "García",
     "B": "Ospina",
     "C": "Ancízar",
     "D": "Antioquia",
@@ -6801,7 +6670,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Ha sido condenado penalmente",
     "BG": "No ha trabajado en el Estado",
@@ -6812,7 +6681,6 @@
     "BL": "Normal"
   },
   {
-    "A": "García",
     "B": "Varela",
     "C": "Julio César",
     "D": "Valle del Cauca",
@@ -6849,11 +6717,11 @@
     "AQ": "https://www.lasillavacia.com/media/10_Julio-Cesar-Garcia.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -6864,7 +6732,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garvin",
     "B": "Pinto",
     "C": "Sondra Macollins",
     "D": "Exterior",
@@ -6905,7 +6772,7 @@
     "AV": "Mejores consulados",
     "AW": "Asesoría jurídica",
     "AX": "Sistemas educativos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -6916,7 +6783,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garzón",
     "B": "Solis",
     "C": "José William",
     "D": "Valle del Cauca",
@@ -6953,7 +6819,7 @@
     "AQ": "https://www.lasillavacia.com/media/17_Jose_William_Garzon_Solis.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -6968,7 +6834,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gaviria",
     "B": "Stanich",
     "C": "Nicolás",
     "D": "Bogotá",
@@ -7020,7 +6885,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Giraldo",
     "B": "Botero",
     "C": "Carolina",
     "D": "Risaralda",
@@ -7061,7 +6925,7 @@
     "AV": "Defensa ambiental",
     "AW": "Lucha contra la corrupción",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -7072,7 +6936,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Giraldo",
     "B": "Quintero",
     "C": "Héctor",
     "D": "Caldas",
@@ -7109,11 +6972,11 @@
     "AQ": "https://twitter.com/hectorgiraldoqu/photo",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -7124,7 +6987,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Giraldo",
     "B": "Arias",
     "C": "Liliana",
     "D": "Bogotá",
@@ -7165,7 +7027,7 @@
     "AV": "Vivienda digna",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -7176,7 +7038,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Godoy",
     "B": "Martínez",
     "C": "Jesús Raimundo",
     "D": "Atlántico",
@@ -7228,7 +7089,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Millán",
     "C": "Adriana",
     "D": "Valle del Cauca",
@@ -7265,7 +7125,7 @@
     "AQ": "https://www.lasillavacia.com/media/40_Adriana-Gomez-Millan.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -7280,7 +7140,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "López",
     "C": "Argeny",
     "D": "Cauca",
@@ -7332,7 +7191,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Castro",
     "C": "César Cristian",
     "D": "Cauca",
@@ -7384,7 +7242,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Castillo",
     "C": "Edgar",
     "D": "Cauca",
@@ -7436,7 +7293,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "López",
     "C": "Germán José",
     "D": "Atlántico",
@@ -7488,7 +7344,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Paris",
     "C": "Guillermo Henrique",
     "D": "Bogotá",
@@ -7529,7 +7384,7 @@
     "AV": "Desarrollo económico",
     "AW": "Emprendimiento",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -7540,7 +7395,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Díaz",
     "C": "Heyder Orlando",
     "D": "Valle del Cauca",
@@ -7592,7 +7446,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "González",
     "C": "Juan Sebastián",
     "D": "Caldas",
@@ -7629,11 +7482,11 @@
     "AQ": "https://www.lasillavacia.com/media/14-juan-sebastian-gomez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -7644,7 +7497,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Guerrero",
     "C": "Luis Alfredo",
     "D": "Valle del Cauca",
@@ -7696,7 +7548,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Maldonado",
     "C": "Luis Domingo",
     "D": "Bogotá",
@@ -7748,7 +7599,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Betancourt",
     "C": "Luis Fernando",
     "D": "Caldas",
@@ -7800,7 +7650,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Castaño",
     "C": "Susana",
     "D": "Antioquia",
@@ -7852,7 +7701,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Reyes",
     "C": "Walter Hernán",
     "D": "Córdoba",
@@ -7889,11 +7737,11 @@
     "AQ": "https://www.lasillavacia.com/media/06_Gomez-Reyes.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Salud",
     "AW": "Deporte",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -7904,7 +7752,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gonzalez",
     "B": "Duarte",
     "C": "Kelyn",
     "D": "Magdalena",
@@ -7941,11 +7788,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0004_kelyn-gonzalez.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -7956,7 +7803,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gonzalez",
     "B": "Tres Palacios",
     "C": "Yolinda Cecilia",
     "D": "Magdalena",
@@ -7997,7 +7843,7 @@
     "AV": "Emprendimiento juvenil",
     "AW": "Empleo",
     "AX": "Libertad religiosa",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -8008,7 +7854,6 @@
     "BL": "Normal"
   },
   {
-    "A": "González",
     "B": "Pérez",
     "C": "Johanna Milena",
     "D": "Santander",
@@ -8049,7 +7894,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -8060,7 +7905,6 @@
     "BL": "Normal"
   },
   {
-    "A": "González",
     "B": "Peralta",
     "C": "Juan Carlos",
     "D": "Bogotá",
@@ -8101,7 +7945,7 @@
     "AV": "Seguridad social para taxistas",
     "AW": "Renta básica",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -8112,7 +7956,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Grisales",
     "B": "Londoño",
     "C": "Luciano",
     "D": "Quindío",
@@ -8149,11 +7992,11 @@
     "AQ": "https://www.lasillavacia.com/media/31-luciano-grisales.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido representante a la Cámara",
@@ -8164,7 +8007,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Guerrero",
     "B": "Avendaño",
     "C": "Wilmer Yesid",
     "D": "Norte de Santander",
@@ -8201,7 +8043,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0008_wilmer-guerrero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -8216,7 +8058,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Guete",
     "B": "Díaz",
     "C": "Orlando Alfonso",
     "D": "Bogotá",
@@ -8257,7 +8098,7 @@
     "AV": "Seguridad",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -8268,7 +8109,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Guevara",
     "B": "",
     "C": "Jorge Eliécer",
     "D": "Bogotá",
@@ -8320,7 +8160,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Guida",
     "B": "Ponce",
     "C": "Hernando",
     "D": "Magdalena",
@@ -8357,7 +8196,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0003_hernando-guida.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -8372,7 +8211,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Henao",
     "B": "Zea",
     "C": "Fernando León",
     "D": "Antioquia",
@@ -8424,7 +8262,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Henao",
     "B": "Valencia",
     "C": "Juan Carlos",
     "D": "Caldas",
@@ -8461,7 +8298,7 @@
     "AQ": "https://www.lasillavacia.com/media/05-juan-carlos-henao.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -8476,7 +8313,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hernández",
     "B": "Palomino",
     "C": "Dorina",
     "D": "Bolívar",
@@ -8528,7 +8364,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hernández",
     "B": "Aguirre",
     "C": "Julián",
     "D": "Valle del Cauca",
@@ -8565,7 +8400,7 @@
     "AQ": "https://www.lasillavacia.com/media/12_Julian-Hernandez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -8580,7 +8415,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Herrera",
     "B": "Rodríguez",
     "C": "Irma Luz",
     "D": "Bogotá",
@@ -8632,7 +8466,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Herrera",
     "B": "Pinta",
     "C": "Rosa Juliána",
     "D": "Santander",
@@ -8684,7 +8517,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hoyos",
     "B": "Ramírez",
     "C": "Diego Alejandro",
     "D": "Risaralda",
@@ -8725,7 +8557,7 @@
     "AV": "Medio ambiente",
     "AW": "Cultura",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -8736,7 +8568,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hoyos",
     "B": "Giraldo",
     "C": "Oscar Guillermo",
     "D": "Antioquia",
@@ -8777,7 +8608,7 @@
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -8788,7 +8619,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hurtado",
     "B": "Guerrero",
     "C": "José Harbey",
     "D": "Valle del Cauca",
@@ -8825,11 +8655,11 @@
     "AQ": "https://www.lasillavacia.com/media/19_Jose-Harbey-Hurtado-Guerrero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -8840,7 +8670,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Jiménez",
     "B": "Vargas",
     "C": "Andrés Felipe",
     "D": "Antioquia",
@@ -8892,7 +8721,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Jiménez",
     "B": "Jaramillo",
     "C": "Juliet Viviana",
     "D": "Bolívar",
@@ -8944,7 +8772,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Juvinao",
     "B": "Clavijo",
     "C": "Catherine",
     "D": "Bogotá",
@@ -8996,7 +8823,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Katime",
     "B": "Orcasita",
     "C": "Abraham Antonio",
     "D": "Magdalena",
@@ -9037,7 +8863,7 @@
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -9048,7 +8874,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lagarejo",
     "B": "Vargas",
     "C": "Piedad",
     "D": "Chocó",
@@ -9100,7 +8925,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Leal",
     "B": "Ruiz",
     "C": "Luz Dana",
     "D": "Santander",
@@ -9141,7 +8965,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -9152,7 +8976,6 @@
     "BL": "Normal"
   },
   {
-    "A": "León",
     "B": "Celis",
     "C": "Carlos Eduardo",
     "D": "Norte de Santander",
@@ -9204,7 +9027,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Leventhal",
     "B": "Rosemberg",
     "C": "Sandra",
     "D": "Atlántico",
@@ -9245,7 +9067,7 @@
     "AV": "Jóvenes",
     "AW": "Equidad",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -9256,7 +9078,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lleras",
     "B": "Figueroa",
     "C": "Ana María",
     "D": "Bogotá",
@@ -9297,7 +9118,7 @@
     "AV": "Emprendimiento",
     "AW": "Desarrollo",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -9308,7 +9129,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Londoño",
     "B": "González",
     "C": "Geovany",
     "D": "Risaralda",
@@ -9349,7 +9169,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -9360,7 +9180,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Londoño",
     "B": "Barrera",
     "C": "Juan Camilo",
     "D": "Antioquia",
@@ -9412,7 +9231,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Londoño",
     "B": "Jaramillo",
     "C": "Juana Carolina",
     "D": "Caldas",
@@ -9464,7 +9282,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lopera",
     "B": "Monsalve",
     "C": "María Eugenia",
     "D": "Antioquia",
@@ -9501,11 +9318,11 @@
     "AQ": "https://www.lasillavacia.com/media/maria-eugenia-lopera-monsalve.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -9516,7 +9333,6 @@
     "BL": "Normal"
   },
   {
-    "A": "López",
     "B": "Echeverry",
     "C": "Diego Luis",
     "D": "Risaralda",
@@ -9557,7 +9373,7 @@
     "AV": "Empleo",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -9568,7 +9384,6 @@
     "BL": "Normal"
   },
   {
-    "A": "López",
     "B": "Joaqui",
     "C": "Gema",
     "D": "Cauca",
@@ -9620,7 +9435,6 @@
     "BL": "Normal"
   },
   {
-    "A": "López",
     "B": "Jiménez",
     "C": "José Daniel",
     "D": "Bogotá",
@@ -9672,7 +9486,6 @@
     "BL": "Normal"
   },
   {
-    "A": "López",
     "B": "Mejía",
     "C": "Juan Sebastián",
     "D": "Santander",
@@ -9724,7 +9537,6 @@
     "BL": "Normal"
   },
   {
-    "A": "López",
     "B": "Tenorio",
     "C": "Julián David",
     "D": "Valle del Cauca",
@@ -9761,7 +9573,7 @@
     "AQ": "https://www.lasillavacia.com/media/11_Julian-Lopez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -9776,7 +9588,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lorduy",
     "B": "Martinez",
     "C": "Jesus Salim",
     "D": "Bogotá",
@@ -9828,7 +9639,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Losada",
     "B": "Vargas",
     "C": "Juan Carlos",
     "D": "Bogotá",
@@ -9880,7 +9690,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Luna",
     "B": "Conde",
     "C": "José Ramiro",
     "D": "Norte de Santander",
@@ -9917,7 +9726,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0012_jose-ramiro-luna-conde.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -9932,7 +9741,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Macías",
     "B": "Reslen",
     "C": "Diana Patricia",
     "D": "Atlántico",
@@ -9984,7 +9792,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Maestre",
     "B": "Bello",
     "C": "José Manuel",
     "D": "La Guajira",
@@ -10021,11 +9828,11 @@
     "AQ": "https://www.lasillavacia.com/media/candidato-nn-h.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -10036,7 +9843,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Mancera",
     "B": "Mejia",
     "C": "Cristhian David",
     "D": "Exterior",
@@ -10073,7 +9879,7 @@
     "AQ": "www.lasillavacia.com/media/_0017_mancera-mejia.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Instituciones para Colombianos en el exterior",
     "AW": "Voto digital",
     "AX": "Sin datos",
@@ -10088,7 +9894,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mantilla",
     "B": "Rueda",
     "C": "Héctor Guillermo",
     "D": "Santander",
@@ -10129,7 +9934,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha sido alcalde",
@@ -10140,7 +9945,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Manyoma",
     "B": "Gil",
     "C": "Fusthel Antonio",
     "D": "Risaralda",
@@ -10177,11 +9981,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_fusthel-manyoma.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -10192,7 +9996,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Manzur",
     "B": "Imbett",
     "C": "Wadith Alberto",
     "D": "Córdoba",
@@ -10244,7 +10047,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mejia",
     "B": "Aguado",
     "C": "Adriana María",
     "D": "Bogotá",
@@ -10296,7 +10098,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mejía",
     "B": "Arboleda",
     "C": "Juan Esteban",
     "D": "Antioquia",
@@ -10348,7 +10149,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mendoza",
     "B": "Vega",
     "C": "Rodrigo Alberto",
     "D": "Antioquia",
@@ -10385,11 +10185,11 @@
     "AQ": "https://www.lasillavacia.com/media/rodrigo-alberto-mendoza-vega.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Deporte",
     "AX": "Infraestructura",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Ha sido destituido",
     "BG": "No ha trabajado en el Estado",
@@ -10400,7 +10200,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Miranda",
     "B": "Londoño",
     "C": "Julia",
     "D": "Bogotá",
@@ -10452,7 +10251,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Miranda",
     "B": "Peña",
     "C": "Katherine",
     "D": "Bogotá",
@@ -10504,7 +10302,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Moises",
     "B": "Garcia",
     "C": "Luis Miguel",
     "D": "Magdalena",
@@ -10556,7 +10353,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Molina",
     "B": "Ortiz",
     "C": "John Edison",
     "D": "Antioquia",
@@ -10608,7 +10404,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Moncayo",
     "B": "Escobar",
     "C": "Paola Andrea",
     "D": "Bogotá",
@@ -10660,7 +10455,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mondragón",
     "B": "Garzón",
     "C": "Alfredo",
     "D": "Valle del Cauca",
@@ -10701,7 +10495,7 @@
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -10712,7 +10506,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Monedero",
     "B": "Rivera",
     "C": "Álvaro Henry",
     "D": "Valle del Cauca",
@@ -10749,7 +10542,7 @@
     "AQ": "https://www.lasillavacia.com/media/36_Alvaro-Henry-Monedero-Rivera.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -10764,7 +10557,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Montes",
     "B": "Celedón",
     "C": "Ándres Guillermo",
     "D": "Bolívar",
@@ -10801,7 +10593,7 @@
     "AQ": "https://www.lasillavacia.com/media/02_AndresMontes.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Apoyo a jóvenes emprendedores",
     "AW": "Equidad de género salarial",
     "AX": "Desarrollo de las energías renovables",
@@ -10816,7 +10608,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Morales",
     "B": "Rojas",
     "C": "Carolina",
     "D": "Bogotá",
@@ -10853,7 +10644,7 @@
     "AQ": "https://www.lasillavacia.com/media/45_CarolinaMorales.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Seguridad",
     "AW": "Superintendencia de propiedad horizontal",
     "AX": "Bogotá 24 horas",
@@ -10868,7 +10659,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Morales",
     "B": "Atencio",
     "C": "Luis Enrique",
     "D": "Cesar",
@@ -10909,7 +10699,7 @@
     "AV": "Legislar a favor del pueblo",
     "AW": "Exigir el cumplimineto de los planes de compensación ambiental y económico de las empresas mineras.",
     "AX": "Gestionar la certificación turistia nacional e internacional en el Rio Guatapuri.",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -10920,7 +10710,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Moreno",
     "B": "Villamizar",
     "C": "Christian",
     "D": "Cesar",
@@ -10957,7 +10746,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_christian-moreno.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -10972,7 +10761,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Moreno",
     "B": "Mosquera",
     "C": "Luis Gregorio",
     "D": "Chocó",
@@ -11024,7 +10812,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mosquera",
     "B": "Ibarguen",
     "C": "Jhon Jairo",
     "D": "Chocó",
@@ -11076,7 +10863,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Múnera",
     "B": "Medina",
     "C": "Luz María",
     "D": "Antioquia",
@@ -11128,7 +10914,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Munevar",
     "B": "Sastre",
     "C": "Natalia",
     "D": "Exterior",
@@ -11169,7 +10954,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -11180,7 +10965,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Muñoz",
     "B": "Cerón",
     "C": "Faber Alberto",
     "D": "Cauca",
@@ -11217,7 +11001,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0019_Faber-Munoz.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -11232,7 +11016,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Muñoz",
     "B": "Lerma",
     "C": "José Luis",
     "D": "Valle del Cauca",
@@ -11269,7 +11052,7 @@
     "AQ": "https://www.lasillavacia.com/media/18_Jose-Luis-Munoz-Lerma.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -11284,7 +11067,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Murillo",
     "B": "Granados",
     "C": "Ana Cristina",
     "D": "Valle del Cauca",
@@ -11336,7 +11118,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Murillo",
     "B": "Franco",
     "C": "Marino",
     "D": "Caldas",
@@ -11373,11 +11154,11 @@
     "AQ": "https://www.lasillavacia.com/media/03-marino-murillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Ha sido destituido",
     "BG": "Ha sido alcalde",
@@ -11388,7 +11169,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Niño",
     "B": "Mendoza",
     "C": "Fernando David",
     "D": "Bolívar",
@@ -11425,7 +11205,7 @@
     "AQ": "https://www.lasillavacia.com/media/03_FernandoNino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Empleo",
     "AW": "Educación",
     "AX": "Centro Histórico de Cartagena",
@@ -11440,7 +11220,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Noreña",
     "B": "Arboleda",
     "C": "Maria Irma",
     "D": "Risaralda",
@@ -11477,11 +11256,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0002_maria-irma-norena.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Apoyo a las mujeres",
     "AW": "Animalista",
     "AX": "Educación",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -11492,7 +11271,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Obando",
     "B": "Calvache",
     "C": "Aelin Michelle",
     "D": "Valle del Cauca",
@@ -11544,7 +11322,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ocampo",
     "B": "Giraldo",
     "C": "Alejandro",
     "D": "Valle del Cauca",
@@ -11585,7 +11362,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -11596,7 +11373,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ochoa",
     "B": "Tobón",
     "C": "Luis Carlos",
     "D": "Antioquia",
@@ -11648,7 +11424,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ochoa",
     "B": "Londoño",
     "C": "Luis Eduardo",
     "D": "Antioquia",
@@ -11685,11 +11460,11 @@
     "AQ": "https://www.lasillavacia.com/media/luis-eduardo-ochoa-londono.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha sido alcalde",
@@ -11700,7 +11475,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ojeda",
     "B": "Álvarez",
     "C": "Alix Marina",
     "D": "Norte de Santander",
@@ -11752,7 +11526,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Orozco",
     "B": "Jaramillo",
     "C": "Eduardo",
     "D": "Quindío",
@@ -11793,7 +11566,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -11804,7 +11577,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Orozco",
     "B": "Lince",
     "C": "Gustavo Alberto",
     "D": "Valle del Cauca",
@@ -11841,11 +11613,11 @@
     "AQ": "https://www.lasillavacia.com/media/28_Gustavo-Orozco.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Apoyo a la fuerza pública",
     "AW": "Aumentar penas",
     "AX": "Ayudas a población de bajos ingresos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -11856,7 +11628,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ortega",
     "B": "Porto",
     "C": "Álvaro de Jesús",
     "D": "Córdoba",
@@ -11893,11 +11664,11 @@
     "AQ": "https://www.lasillavacia.com/media/09_Ortega-Porto.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -11908,7 +11679,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ortega",
     "B": "Aponte",
     "C": "Jose Luis",
     "D": "Magdalena",
@@ -11960,7 +11730,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ortiz",
     "B": "Núñez",
     "C": "Héctor Ángel",
     "D": "Boyacá",
@@ -12012,7 +11781,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Osorio",
     "B": "Ramírez",
     "C": "Diana Cecilia",
     "D": "Antioquia",
@@ -12064,7 +11832,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Osorio",
     "B": "Jiménez",
     "C": "Diego",
     "D": "Quindío",
@@ -12116,7 +11883,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Osorio",
     "B": "Ramírez",
     "C": "Luis Alonso",
     "D": "Cauca",
@@ -12168,7 +11934,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Osorio",
     "B": "",
     "C": "Santiago",
     "D": "Caldas",
@@ -12205,11 +11970,11 @@
     "AQ": "https://www.lasillavacia.com/media/13-santiago-osorio.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -12220,7 +11985,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ospina",
     "B": "Ospina",
     "C": "Elkin Rodolfo",
     "D": "Antioquia",
@@ -12272,7 +12036,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ospina",
     "B": "Atehortua",
     "C": "Jesús Iván",
     "D": "Caldas",
@@ -12313,7 +12076,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -12324,7 +12087,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ospina",
     "B": "López",
     "C": "Juliana",
     "D": "Risaralda",
@@ -12365,7 +12127,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -12376,7 +12138,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Padilla",
     "B": "Perez",
     "C": "Luis Fernando",
     "D": "Cesar",
@@ -12428,7 +12189,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Páez",
     "B": "Merchán",
     "C": "Gustavo Alonso",
     "D": "Bogotá",
@@ -12480,7 +12240,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Páez",
     "B": "Ortega",
     "C": "Ludy",
     "D": "Norte de Santander",
@@ -12517,7 +12276,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0000_ludy-paez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -12532,7 +12291,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Palacio",
     "B": "Vega",
     "C": "Guillermo León",
     "D": "Antioquia",
@@ -12569,11 +12327,11 @@
     "AQ": "https://www.lasillavacia.com/media/guillermo-leon-palacio.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -12584,7 +12342,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Palacios",
     "B": "Mosquera",
     "C": "Gilder",
     "D": "Chocó",
@@ -12621,7 +12378,7 @@
     "AQ": "https://www.lasillavacia.com/media/gilder-palacios.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Turismo",
     "AX": "Desarrollo económico",
@@ -12636,7 +12393,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Palacios",
     "B": "Mosquera",
     "C": "Jhoany Carlos Alberto",
     "D": "Chocó",
@@ -12673,7 +12429,7 @@
     "AQ": "https://www.lasillavacia.com/media/jhoany-carlos-palacios.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Gestión para las subregiones",
     "AX": "Agricultura",
@@ -12688,7 +12444,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Parodi",
     "B": "Díaz",
     "C": "Mauricio",
     "D": "Antioquia",
@@ -12740,7 +12495,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Paternina",
     "B": "Espinoza",
     "C": "Hugo Alejandro",
     "D": "Magdalena",
@@ -12777,11 +12531,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0007_hugo-paternina.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -12792,7 +12546,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Patiño",
     "B": "Amariles",
     "C": "Diego",
     "D": "Risaralda",
@@ -12829,11 +12582,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0003_diego-patino.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -12844,7 +12597,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pedraza",
     "B": "Sandoval",
     "C": "Jennifer Dalley",
     "D": "Bogotá",
@@ -12896,7 +12648,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peinado",
     "B": "Ramírez",
     "C": "Julián",
     "D": "Antioquia",
@@ -12933,7 +12684,7 @@
     "AQ": "https://www.lasillavacia.com/media/julian-peinado-ramirez.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Niñez",
     "AW": "Animalismo",
     "AX": "Medio ambiente",
@@ -12948,7 +12699,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peña",
     "B": "",
     "C": "Gloria",
     "D": "Valle del Cauca",
@@ -12989,7 +12739,7 @@
     "AV": "Madres comunitarias",
     "AW": "Liderazgo social",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -13000,7 +12750,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peña",
     "B": "López",
     "C": "Jorge Eliécer",
     "D": "Quindío",
@@ -13041,7 +12790,7 @@
     "AV": "Educación",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -13052,7 +12801,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peñaloza",
     "B": "Yabur",
     "C": "Dora Maria",
     "D": "Exterior",
@@ -13093,7 +12841,7 @@
     "AV": "Ministerio de la migración",
     "AW": "Puente entre el sistema productivo y la diáspora",
     "AX": "Red de apoyo a la migración",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -13104,7 +12852,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peñaranda",
     "B": "Lozano",
     "C": "Marco Aurelio",
     "D": "Norte de Santander",
@@ -13156,7 +12903,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Rojas",
     "C": "John Edgar",
     "D": "Quindío",
@@ -13193,11 +12939,11 @@
     "AQ": "https://www.lasillavacia.com/media/34-john-edgar-perez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido alcalde",
@@ -13208,7 +12954,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Pineda",
     "C": "Óscar Darío",
     "D": "Antioquia",
@@ -13260,7 +13005,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Posada",
     "C": "Santiago Miguel",
     "D": "Córdoba",
@@ -13297,11 +13041,11 @@
     "AQ": "https://www.lasillavacia.com/media/00_Santiago-Perez-Posada.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Ha sido destituido",
     "BG": "Ha trabajado en el Estado",
@@ -13312,7 +13056,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Arango",
     "C": "Betsy Judtih",
     "D": "Atlántico",
@@ -13364,7 +13107,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Altamiranda",
     "C": "Gersel Luis",
     "D": "Atlántico",
@@ -13416,7 +13158,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pete",
     "B": "Vivas",
     "C": "Ermes Evelio",
     "D": "Cauca",
@@ -13468,7 +13209,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pimentel",
     "B": "Murillo",
     "C": "Jhon Fredy",
     "D": "Valle del Cauca",
@@ -13505,11 +13245,11 @@
     "AQ": "https://www.lasillavacia.com/media/23_Jhon-Fred-Pimentel-Murillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -13520,7 +13260,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pineda",
     "B": "Ortiz",
     "C": "Alexandra",
     "D": "Cesar",
@@ -13561,7 +13300,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -13572,7 +13311,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pineda",
     "B": "Díaz",
     "C": "Evelin",
     "D": "Caldas",
@@ -13609,11 +13347,11 @@
     "AQ": "https://www.lasillavacia.com/media/19-evelin-pineda.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Salud",
     "AW": "Deporte",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -13624,7 +13362,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pinedo",
     "B": "Campo",
     "C": "Miguel Alfredo",
     "D": "Magdalena",
@@ -13661,7 +13398,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_miguel-pinedo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -13676,7 +13413,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pinilla",
     "B": "Martínez",
     "C": "Claudia Lorena",
     "D": "Caldas",
@@ -13717,7 +13453,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -13728,7 +13464,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pinzón",
     "B": "Báez",
     "C": "José Giovany",
     "D": "Boyacá",
@@ -13769,7 +13504,7 @@
     "AV": "Mínimo vital de agua",
     "AW": "Subsidio para personas con discapacidad",
     "AX": "descentralización de recursos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -13780,7 +13515,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pizarro",
     "B": "García",
     "C": "María Del Mar",
     "D": "Bogotá",
@@ -13832,7 +13566,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Porto",
     "B": "Cantillo",
     "C": "Rafael Alfonso",
     "D": "Magdalena",
@@ -13873,7 +13606,7 @@
     "AV": "intangibilidad de la ley",
     "AW": "La moral en lo público",
     "AX": "reforma a la justicia",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -13884,7 +13617,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Posada",
     "B": "Angel",
     "C": "Fernando",
     "D": "Bogotá",
@@ -13936,7 +13668,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Potes",
     "B": "Aguirre",
     "C": "Gina Liliam",
     "D": "Bogotá",
@@ -13988,7 +13719,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Puerta",
     "B": "Restrepo",
     "C": "Germán",
     "D": "Bogotá",
@@ -14040,7 +13770,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Puerto",
     "B": "Vega",
     "C": "Jorge",
     "D": "Bogotá",
@@ -14077,11 +13806,11 @@
     "AQ": "https://www.lasillavacia.com/media/37_Jorge-Alberto-Puerto.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Empresas",
     "AW": "Donación de órganos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -14092,7 +13821,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quiñonez",
     "B": "Lerma",
     "C": "Daniel",
     "D": "Bogotá",
@@ -14144,7 +13872,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quintero",
     "B": "Ovalle",
     "C": "Carlos Felipe",
     "D": "Cesar",
@@ -14181,11 +13908,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0006_carlos-felipe-quintero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -14196,7 +13923,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Racero",
     "B": "Mayorca",
     "C": "David",
     "D": "Bogotá",
@@ -14248,7 +13974,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Boscan",
     "C": "Carmen Felisa",
     "D": "Exterior",
@@ -14289,7 +14014,7 @@
     "AV": "Antiracismo",
     "AW": "Lucha contra el racismo la xenofobia y el desarraigo",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -14300,7 +14025,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Rojas",
     "C": "Danny Alexánder",
     "D": "Santander",
@@ -14337,11 +14061,11 @@
     "AQ": "https://www.lasillavacia.com/media/18_danny-ramirez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -14352,7 +14076,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Mejía",
     "C": "Javier",
     "D": "Quindío",
@@ -14393,7 +14116,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -14404,7 +14127,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Tafur",
     "C": "Margarita María",
     "D": "Quindío",
@@ -14445,7 +14167,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -14456,7 +14178,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Caviedes",
     "C": "Sandra",
     "D": "Magdalena",
@@ -14493,11 +14214,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0010_sandra-ramirez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -14508,7 +14229,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez París",
     "B": "Lobo",
     "C": "Donamaris",
     "D": "Norte de Santander",
@@ -14545,7 +14265,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0006_onamaris-ramirez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -14560,7 +14280,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Reales",
     "B": "Rangel",
     "C": "Julio César",
     "D": "Norte de Santander",
@@ -14612,7 +14331,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Reinales",
     "B": "Agudelo",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -14649,7 +14367,7 @@
     "AQ": "https://www.lasillavacia.com/media/21-juan-carlos-reinales.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -14664,7 +14382,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rentería",
     "B": "Castillo",
     "C": "Jackeline",
     "D": "Valle del Cauca",
@@ -14701,7 +14418,7 @@
     "AQ": "https://www.lasillavacia.com/media/25_Jackeline-Renteria.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Deporte",
     "AW": "Educación",
     "AX": "Cultura",
@@ -14716,7 +14433,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rentería",
     "B": "Lozano",
     "C": "Nigeria",
     "D": "Chocó",
@@ -14753,11 +14469,11 @@
     "AQ": "https://www.lasillavacia.com/media/nigeria-renteria.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -14768,7 +14484,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Restrepo",
     "B": "Carmona",
     "C": "Daniel",
     "D": "Antioquia",
@@ -14820,7 +14535,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Restrepo",
     "B": "Arango",
     "C": "Margarita María",
     "D": "Antioquia",
@@ -14872,7 +14586,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Restrepo",
     "B": "Cañavera",
     "C": "María Carolina",
     "D": "Bogotá",
@@ -14924,7 +14637,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Reyes",
     "B": "Kuri",
     "C": "Juan Fernando",
     "D": "Valle del Cauca",
@@ -14976,7 +14688,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Reyes",
     "B": "Rincón",
     "C": "Lina Margarita",
     "D": "Norte de Santander",
@@ -15013,11 +14724,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_lina-margarita-reyes-rincon.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -15028,7 +14739,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ricaurte",
     "B": "Camargo",
     "C": "Germán",
     "D": "Bogotá",
@@ -15080,7 +14790,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rivas",
     "B": "Díaz",
     "C": "Adolfo",
     "D": "Bogotá",
@@ -15117,7 +14826,7 @@
     "AQ": "https://www.lasillavacia.com/media/01_RIVAS-DIAZ.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Implementación de los Acuerdos",
     "AW": "Cátedra ambiental",
     "AX": "Empleo",
@@ -15132,7 +14841,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rivera",
     "B": "Peña",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -15184,7 +14892,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rivera",
     "B": "Pulido",
     "C": "Rosa Elvira",
     "D": "Boyacá",
@@ -15225,7 +14932,7 @@
     "AV": "Regular la cadena de distribución",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -15236,7 +14943,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Roa",
     "B": "Sarmiento",
     "C": "Humphrey",
     "D": "Boyacá",
@@ -15273,7 +14979,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_humphrey-roa-sarmiento.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -15288,7 +14994,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Robayo",
     "B": "Bechara",
     "C": "Saray Elena",
     "D": "Córdoba",
@@ -15325,7 +15030,7 @@
     "AQ": "https://www.lasillavacia.com/media/12_Robayo-Bechara.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Agro",
     "AW": "Emprendimiento para las mujeres",
     "AX": "Equidad de género en el deporte",
@@ -15340,7 +15045,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Robledo",
     "B": "Martínez",
     "C": "Felipe Arturo",
     "D": "Quindío",
@@ -15392,7 +15096,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rodríguez",
     "B": "Pinzón",
     "C": "Ciro Antonio",
     "D": "Norte de Santander",
@@ -15444,7 +15147,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rodríguez",
     "B": "Uribe",
     "C": "Diana",
     "D": "Bogotá",
@@ -15496,7 +15198,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rodríguez",
     "B": "Tabio",
     "C": "Sergio",
     "D": "Bogotá",
@@ -15548,7 +15249,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rojas",
     "B": "Parra",
     "C": "Fernando",
     "D": "Bogotá",
@@ -15600,7 +15300,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rojas",
     "B": "Bautista",
     "C": "José Uriel",
     "D": "Valle del Cauca",
@@ -15637,11 +15336,11 @@
     "AQ": "https://www.lasillavacia.com/media/3_Jose-Uriel-Rojas.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -15652,7 +15351,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Royo",
     "B": "Curi",
     "C": "Javier Antonio",
     "D": "Bolívar",
@@ -15689,11 +15387,11 @@
     "AQ": "https://www.lasillavacia.com/media/06_JavierRoyo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -15704,7 +15402,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rubio",
     "B": "Betancourt",
     "C": "Anastasia",
     "D": "Bogotá",
@@ -15756,7 +15453,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rueda",
     "B": "Caballero",
     "C": "Álvaro Leonel",
     "D": "Santander",
@@ -15793,7 +15489,7 @@
     "AQ": "https://www.lasillavacia.com/media/11_alvaro-rueda.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -15808,7 +15504,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ruiz",
     "B": "Aldana",
     "C": "Carlos Hernando",
     "D": "Bogotá",
@@ -15845,11 +15540,11 @@
     "AQ": "https://www.lasillavacia.com/media/00_Ruiz-Aldana.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Educación",
     "AW": "Organización comunitaria",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -15860,7 +15555,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ruiz",
     "B": "Paredes",
     "C": "Pepe",
     "D": "Norte de Santander",
@@ -15897,7 +15591,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0007_pepe-ruiz-paredes.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -15912,7 +15606,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ruiz",
     "B": "Bertel",
     "C": "Salomón",
     "D": "Sucre",
@@ -15953,7 +15646,7 @@
     "AV": "Reconocimiento de pueblos indígenas",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -15964,7 +15657,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Salamanca",
     "B": "Torres",
     "C": "Jaime Raúl",
     "D": "Boyacá",
@@ -16005,7 +15697,7 @@
     "AV": "Ley Estatutaria de la Educación como Derecho Fundamental.",
     "AW": "Ley Post Covid",
     "AX": "Ley de los Convites Comunales",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -16016,7 +15708,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Lopez",
     "C": "Eliécer",
     "D": "Cesar",
@@ -16053,7 +15744,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0002_eliecer-salazar.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -16068,7 +15759,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Bernal",
     "C": "José Darío",
     "D": "Cauca",
@@ -16120,7 +15810,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Uribe",
     "C": "Juan Carlos",
     "D": "Valle del Cauca",
@@ -16157,7 +15846,7 @@
     "AQ": "https://www.lasillavacia.com/media/16_Juan-Carlos-Salazar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -16172,7 +15861,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Osorio",
     "C": "Sigifredo",
     "D": "Risaralda",
@@ -16224,7 +15912,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salcedo",
     "B": "Guerrero",
     "C": "Victor Manuel",
     "D": "Valle del Cauca",
@@ -16261,11 +15948,11 @@
     "AQ": "https://www.lasillavacia.com/media/2_Victor-Manuel-Salcedo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -16276,7 +15963,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Saldarriaga",
     "B": "",
     "C": "Luis Alejandro",
     "D": "Antioquia",
@@ -16328,7 +16014,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Samboni",
     "B": "Mosquera",
     "C": "Hernán Darío",
     "D": "Cauca",
@@ -16380,7 +16065,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Montes De Oca",
     "C": "Astrid",
     "D": "Chocó",
@@ -16421,7 +16105,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha sido senador",
@@ -16432,7 +16116,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Arango",
     "C": "Duvalier",
     "D": "Valle del Cauca",
@@ -16469,7 +16152,7 @@
     "AQ": "https://www.lasillavacia.com/media/30_Duvalier-Sanchez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Animalismo",
     "AW": "Medio ambiente",
     "AX": "Corrupción",
@@ -16484,7 +16167,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Pinto",
     "C": "Érika Tatiana",
     "D": "Santander",
@@ -16536,7 +16218,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Sánchez",
     "C": "Guillermo",
     "D": "Boyacá",
@@ -16588,7 +16269,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Garavito",
     "C": "Jonatan",
     "D": "Boyacá",
@@ -16625,7 +16305,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0003_jonatan-sanchez-garavito.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -16640,7 +16320,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Gutiérrez",
     "C": "Mario Alberto",
     "D": "Quindío",
@@ -16681,7 +16360,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -16692,7 +16371,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Carreño",
     "C": "Yulieth Andrea",
     "D": "Antioquia",
@@ -16744,7 +16422,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sandoval",
     "B": "Moreno",
     "C": "Clara Lucía",
     "D": "Bogotá",
@@ -16781,11 +16458,11 @@
     "AQ": "https://www.lasillavacia.com/media/02_clara-lucia-sandoval.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Animalismo",
     "AW": "Corrupción",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -16796,7 +16473,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Santana",
     "B": "Solano",
     "C": "Pedro Julio",
     "D": "Cesar",
@@ -16833,11 +16509,11 @@
     "AQ": "https://www.lasillavacia.com/media/pedro-santana.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -16848,7 +16524,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Santiesteban",
     "B": "Millan",
     "C": "Pedro Javier",
     "D": "Bogotá",
@@ -16900,7 +16575,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Santos",
     "B": "García",
     "C": "Gabriel",
     "D": "Bogotá",
@@ -16952,7 +16626,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sarmiento",
     "B": "Rojas",
     "C": "Carlos Felipe",
     "D": "Exterior",
@@ -16993,7 +16666,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -17004,7 +16677,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Serna",
     "B": "David",
     "C": "Edwin Fernando",
     "D": "Chocó",
@@ -17056,7 +16728,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sierra",
     "B": "Daza",
     "C": "David",
     "D": "Cesar",
@@ -17108,7 +16779,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Silva",
     "B": "Moyano",
     "C": "Miguel Andrés",
     "D": "Bogotá",
@@ -17160,7 +16830,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Suárez",
     "B": "Vacca",
     "C": "Pedro",
     "D": "Boyacá",
@@ -17201,7 +16870,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -17212,7 +16881,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tamayo",
     "B": "Marulanda",
     "C": "Jorge Eliécer",
     "D": "Valle del Cauca",
@@ -17249,7 +16917,7 @@
     "AQ": "https://www.lasillavacia.com/media/21_Jorge-Eliecer-Tamayo.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -17264,7 +16932,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tejada",
     "B": "Echeverri",
     "C": "José Alberto",
     "D": "Valle del Cauca",
@@ -17305,7 +16972,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -17316,7 +16983,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tibaduiza",
     "B": "Marín",
     "C": "Milton Iván",
     "D": "Caldas",
@@ -17353,11 +17019,11 @@
     "AQ": "https://www.lasillavacia.com/media/12-milton-tibaduiza.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -17368,7 +17034,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Torcuato",
     "B": "Caicedo",
     "C": "Cenobia",
     "D": "Guainía",
@@ -17405,11 +17070,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0006_cenobia-torcuato.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Inversión social",
     "AW": "Oportunidad para mujeres",
     "AX": "Educación rural",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -17420,7 +17085,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Toro",
     "B": "Ramírez",
     "C": "David Alejandro",
     "D": "Antioquia",
@@ -17472,7 +17136,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Toro",
     "B": "Orjuela",
     "C": "Mauricio",
     "D": "Bogotá",
@@ -17524,7 +17187,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Torres",
     "B": "Romero",
     "C": "Dolcey",
     "D": "Atlántico",
@@ -17561,11 +17223,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0007_Dolcey-Torres.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Salud mental",
     "AW": "Formación para el trabajo",
     "AX": "Seguridad",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -17576,7 +17238,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Torres",
     "B": "Mosquera",
     "C": "Eduar",
     "D": "Chocó",
@@ -17613,7 +17274,7 @@
     "AQ": "https://www.lasillavacia.com/media/tito-torres.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -17628,7 +17289,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Torres",
     "B": "Ortíz",
     "C": "Johnson",
     "D": "Valle del Cauca",
@@ -17669,7 +17329,7 @@
     "AV": "Producción",
     "AW": "Empleo",
     "AX": "Derechos Humanos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -17680,7 +17340,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Torres",
     "B": "Camargo",
     "C": "Jorge",
     "D": "Bogotá",
@@ -17732,7 +17391,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Torres",
     "B": "Álvarez",
     "C": "Sara Inés",
     "D": "Norte de Santander",
@@ -17773,7 +17431,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -17784,7 +17442,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Torres",
     "B": "",
     "C": "Yonk Jairo",
     "D": "Valle del Cauca",
@@ -17821,7 +17478,7 @@
     "AQ": "https://www.lasillavacia.com/media/0_Yonk-Jairo-Torres.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -17836,7 +17493,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tous",
     "B": "De la Ossa",
     "C": "Eduardo José",
     "D": "Córdoba",
@@ -17873,7 +17529,7 @@
     "AQ": "https://www.lasillavacia.com/media/07_Tous-DelaOssa.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Niños",
     "AW": "Jóvenes",
     "AX": "Sin datos",
@@ -17888,7 +17544,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Uribe",
     "B": "Muñoz",
     "C": "Alirio",
     "D": "Bogotá",
@@ -17940,7 +17595,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Urzola",
     "B": "De la Barrera",
     "C": "Ermes Rafael",
     "D": "Córdoba",
@@ -17992,7 +17646,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Uscátegui",
     "B": "Romero",
     "C": "Felipe",
     "D": "Bogotá",
@@ -18033,7 +17686,7 @@
     "AV": "Policía civil",
     "AW": "Transporte alternativo",
     "AX": "Trabajo por horas",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -18044,7 +17697,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Uscátegui",
     "B": "Pastrana",
     "C": "José Jaime",
     "D": "Bogotá",
@@ -18096,7 +17748,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Valbuena",
     "B": "López",
     "C": "Esperanza",
     "D": "Santander",
@@ -18133,11 +17784,11 @@
     "AQ": "https://www.lasillavacia.com/media/24_esperanza-valbuena.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -18148,7 +17799,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Valencia",
     "B": "Valencia",
     "C": "Efraín",
     "D": "Cauca",
@@ -18200,7 +17850,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Valencia",
     "B": "Guevara",
     "C": "Jorge Alberto",
     "D": "Exterior",
@@ -18241,7 +17890,7 @@
     "AV": "Mejores consulados",
     "AW": "Convalidación de títulos en el exterior",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -18252,7 +17901,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Valencia",
     "B": "Montoya",
     "C": "Juan Carlos",
     "D": "Risaralda",
@@ -18289,7 +17937,7 @@
     "AQ": "https://www.lasillavacia.com/media/27-juan-carlos-valencia.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -18304,7 +17952,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vallejo",
     "B": "Chujfi",
     "C": "Gabriel Jaime",
     "D": "Risaralda",
@@ -18356,7 +18003,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vargas",
     "B": "Ramírez",
     "C": "German Antonio",
     "D": "Antioquia",
@@ -18397,7 +18043,7 @@
     "AV": "Agricultura",
     "AW": "Hambre",
     "AX": "Educación",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -18408,7 +18054,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Velasco",
     "B": "Rivera",
     "C": "Claudia Liliana",
     "D": "Valle del Cauca",
@@ -18449,7 +18094,7 @@
     "AV": "Animalismo",
     "AW": "Medio ambiente",
     "AX": "Género",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -18460,7 +18105,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Velásquez",
     "B": "Rueda",
     "C": "Mayda Cecilia",
     "D": "Boyacá",
@@ -18497,7 +18141,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0004_mayda-cecilia-velasquez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -18512,7 +18156,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Velásquez",
     "B": "Nieto",
     "C": "Olga Lucía",
     "D": "Bogotá",
@@ -18564,7 +18207,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vélez",
     "B": "Román",
     "C": "Gustavo Adolfo",
     "D": "Valle del Cauca",
@@ -18601,11 +18243,11 @@
     "AQ": "https://www.lasillavacia.com/media/27_Gustavo-Velez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -18616,7 +18258,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vélez",
     "B": "Trujillo",
     "C": "Juan David",
     "D": "Exterior",
@@ -18668,7 +18309,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vidal",
     "B": "Rojas",
     "C": "Omar Francisco",
     "D": "Chocó",
@@ -18705,7 +18345,7 @@
     "AQ": "https://www.lasillavacia.com/media/omar-francisco-vidal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Infraestructura vial",
     "AX": "Conectividad",
@@ -18720,7 +18360,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Villamizar",
     "B": "Meneses",
     "C": "Oscar",
     "D": "Santander",
@@ -18772,7 +18411,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Villanueva",
     "B": "",
     "C": "Julian Andrés",
     "D": "Quindío",
@@ -18824,7 +18462,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Viveros",
     "B": "Cabezas",
     "C": "Hernando",
     "D": "Exterior",
@@ -18865,7 +18502,7 @@
     "AV": "Mejores consulados",
     "AW": "Convalidación de títulos en el exterior",
     "AX": "No doble tributación a migrantes",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -18876,7 +18513,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vives",
     "B": "Gonzalez",
     "C": "Luis Eduardo",
     "D": "Magdalena",
@@ -18917,7 +18553,7 @@
     "AV": "Infraestructura",
     "AW": "Educación",
     "AX": "Emprendimiento",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha sido representante a la Cámara",
@@ -18928,7 +18564,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Wills",
     "B": "Ospina",
     "C": "Juan Carlos",
     "D": "Bogotá",
@@ -18980,7 +18615,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Yepes",
     "B": "Alzate",
     "C": "Jorge Hernán",
     "D": "Caldas",
@@ -19021,7 +18655,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -19032,7 +18666,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Zabaraín",
     "B": "De Arce",
     "C": "Armando Antonio",
     "D": "Atlántico",
@@ -19084,7 +18717,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Zapata",
     "B": "Agudelo",
     "C": "Julián Andrés",
     "D": "Valle del Cauca",
@@ -19125,7 +18757,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -19136,7 +18768,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Forero",
     "B": "Obregón",
     "C": "Nicolás",
     "D": "Cundinamarca",
@@ -19188,7 +18819,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Zorro",
     "B": "Africano",
     "C": "Betty",
     "D": "Cundinamarca",
@@ -19240,7 +18870,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rozo",
     "B": "Rodríguez",
     "C": "Julián",
     "D": "Cundinamarca",
@@ -19292,7 +18921,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rico",
     "B": "Rico",
     "C": "Leonardo",
     "D": "Cundinamarca",
@@ -19344,7 +18972,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rodríguez",
     "B": "Valencia",
     "C": "Liliana",
     "D": "Cundinamarca",
@@ -19396,7 +19023,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Coronado",
     "B": "Coronado",
     "C": "Lina",
     "D": "Cundinamarca",
@@ -19448,7 +19074,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Caicedo",
     "B": "Navas",
     "C": "Diego",
     "D": "Cundinamarca",
@@ -19500,7 +19125,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Linares",
     "B": "Camberos",
     "C": "Jhon",
     "D": "Cundinamarca",
@@ -19552,7 +19176,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sarmiento",
     "B": "Hidalgo",
     "C": "Eduard",
     "D": "Cundinamarca",
@@ -19563,7 +19186,7 @@
     "N": "Cámara",
     "O": "Hombre",
     "Q": "Polo Democrático",
-    "R": 101,
+    "R": "Lista cerrada",
     "S": "Izquierda",
     "T": "Zipaquirá",
     "U": "Medicina General",
@@ -19604,7 +19227,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vásquez",
     "B": "Ochoa",
     "C": "Alexandra",
     "D": "Cundinamarca",
@@ -19656,7 +19278,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Espinel",
     "B": "Torres",
     "C": "Yeilor",
     "D": "Cundinamarca",
@@ -19708,7 +19329,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gutiérrez",
     "B": "Castañeda",
     "C": "Adriana",
     "D": "Cundinamarca",
@@ -19749,7 +19369,7 @@
     "AV": "Innovación rural del campesinado",
     "AW": "Tecnología para la educación",
     "AX": "Gestión territorial para mejorar productividad",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -19760,7 +19380,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quiroga",
     "B": "Moreno",
     "C": "Laurentino",
     "D": "Cundinamarca",
@@ -19812,7 +19431,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "León",
     "C": "Óscar",
     "D": "Cundinamarca",
@@ -19849,7 +19467,7 @@
     "AQ": "https://www.lasillavacia.com/media/oscar-sanchez(0).jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Integración de Bogotá con municipios de Cundinamarca",
     "AW": "Protección del adulto mayor",
     "AX": "",
@@ -19864,7 +19482,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rendón",
     "B": "Nerio",
     "C": "Daniel",
     "D": "Cundinamarca",
@@ -19905,7 +19522,7 @@
     "AV": "Defensa de los Derechos Humanos",
     "AW": "Defensa de las víctimas del conflicto",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -19916,7 +19533,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Perdomo",
     "C": "Julio Roberto",
     "D": "Cundinamarca",
@@ -19957,7 +19573,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -19968,7 +19584,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mayorga",
     "B": "Mancera",
     "C": "Édgar",
     "D": "Cundinamarca",
@@ -20005,7 +19620,7 @@
     "AQ": "https://www.lasillavacia.com/media/edgar-mayorga.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Ley de la ruralidad para beneficiar al campo y al campesino en un sistema integral de producción.",
     "AW": "Ley del primer empleo",
     "AX": "Modificación a la ley de discapacidad del país.",
@@ -20020,7 +19635,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "López",
     "C": "María Angélica",
     "D": "Cundinamarca",
@@ -20072,7 +19686,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Intriago",
     "B": "Bogotá",
     "C": "César",
     "D": "Cundinamarca",
@@ -20109,7 +19722,7 @@
     "AQ": "https://www.lasillavacia.com/media/cesar-intriago.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Llevar internet a todos los rincones de Cundinamarca",
     "AW": "Educación superior y media básica en todos los municipios",
     "AX": "Tecnificación del campo",
@@ -20124,7 +19737,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garzón",
     "B": "Plazas",
     "C": "Diego",
     "D": "Cundinamarca",
@@ -20176,7 +19788,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arias",
     "B": "Quintana",
     "C": "Arnulfo",
     "D": "Cundinamarca",
@@ -20213,7 +19824,7 @@
     "AQ": "https://www.lasillavacia.com/media/arnulfo-arias.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Promover el deporte",
     "AW": "Oportunidades para los jóvenes",
     "AX": "Más participación de las mujeres en la política local",
@@ -20228,7 +19839,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Almansa",
     "B": "Varela",
     "C": "Elica",
     "D": "Cundinamarca",
@@ -20265,11 +19875,11 @@
     "AQ": "https://www.lasillavacia.com/media/elica-almansa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Desarrollo del campo",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -20280,7 +19890,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bernal",
     "B": "Cheque",
     "C": "Jhon",
     "D": "Cundinamarca",
@@ -20317,7 +19926,7 @@
     "AQ": "https://www.lasillavacia.com/media/jhon-bernal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de la vida",
     "AW": "Defensa de la familia",
     "AX": "No pago de peajes en Cundinamarca",
@@ -20332,7 +19941,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hernandez",
     "B": "Sandoval",
     "C": "Yisell",
     "D": "Cundinamarca",
@@ -20369,7 +19977,7 @@
     "AQ": "https://www.lasillavacia.com/media/yisell-hernandez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -20384,7 +19992,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Baracaldo",
     "B": "Vélez",
     "C": "David",
     "D": "Cundinamarca",
@@ -20421,7 +20028,7 @@
     "AQ": "https://www.lasillavacia.com/media/david-baracaldo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Congreso eficiente y eficaz",
     "AW": "Combatir corrupción",
     "AX": "Reforma laboral",
@@ -20436,7 +20043,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Molano",
     "B": "Piñeros",
     "C": "Rubén",
     "D": "Cundinamarca",
@@ -20488,7 +20094,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garzón",
     "B": "Rodríguez",
     "C": "Hernán",
     "D": "Cundinamarca",
@@ -20540,7 +20145,6 @@
     "BL": "Normal"
   },
   {
-    "A": "López",
     "B": "Jerez",
     "C": "Carlos",
     "D": "Cundinamarca",
@@ -20592,7 +20196,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Triana",
     "B": "Quintero",
     "C": "Julio Cesar",
     "D": "Huila",
@@ -20609,7 +20212,7 @@
     "U": "Abogado",
     "V": "Maestría",
     "W": "Político",
-    "X": "Constitucional",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -20644,7 +20247,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tovar",
     "B": "Trujillo",
     "C": "Víctor",
     "D": "Huila",
@@ -20661,7 +20263,7 @@
     "U": "Abogado",
     "V": "Maestría",
     "W": "Político",
-    "X": "Derecho",
+    "X": "",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -20696,7 +20298,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Murcia",
     "B": "Tovar",
     "C": "Jorge Dilson",
     "D": "Huila",
@@ -20737,7 +20338,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -20748,7 +20349,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lozada",
     "B": "Polanco",
     "C": "Jaime Felipe",
     "D": "Huila",
@@ -20765,7 +20365,7 @@
     "U": "Sin datos",
     "V": "Sin datos",
     "W": "Político",
-    "X": "Víctimas",
+    "X": "Conflicto y paz",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -20789,8 +20389,8 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
-    "BE": "",
+    "BD": "No me importa la edad",
+    "BE": "No me importa",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido representante a la Cámara",
     "BH": "No",
@@ -20800,7 +20400,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cangrejo",
     "B": "Torres",
     "C": "David",
     "D": "Huila",
@@ -20841,7 +20440,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -20852,7 +20451,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rivera",
     "B": "Montes",
     "C": "José Eustacio",
     "D": "Huila",
@@ -20869,7 +20467,7 @@
     "U": "Administrador de empresas",
     "V": "Especialización",
     "W": "Político",
-    "X": "Planeación",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -20893,7 +20491,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -20904,7 +20502,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ortiz",
     "B": "Serrato",
     "C": "Cielo",
     "D": "Huila",
@@ -20921,7 +20518,7 @@
     "U": "Arquitecta",
     "V": "Especialización",
     "W": "Público",
-    "X": "Planeación",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -20945,7 +20542,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -20956,7 +20553,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuéllar",
     "B": "Rico",
     "C": "Henry",
     "D": "Huila",
@@ -20973,7 +20569,7 @@
     "U": "Comerciante",
     "V": "Bachillerato",
     "W": "Político",
-    "X": "Planeación",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -20997,7 +20593,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -21008,7 +20604,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Perdomo",
     "B": "Andrade",
     "C": "Flora",
     "D": "Huila",
@@ -21049,7 +20644,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -21060,7 +20655,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Posada",
     "B": "Maya",
     "C": "Carlos",
     "D": "Huila",
@@ -21077,7 +20671,7 @@
     "U": "Comerciante",
     "V": "Bachillerato",
     "W": "Político",
-    "X": "Población con discapacidad",
+    "X": "",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -21097,11 +20691,11 @@
     "AQ": "https://www.lasillavacia.com/media/Carlos-Posada.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "",
+    "AU": "No me importa",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "Tiene investigaciones penales",
     "BG": "No ha trabajado en el Estado",
@@ -21112,7 +20706,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rincón",
     "B": "Trujillo",
     "C": "Leyla",
     "D": "Huila",
@@ -21153,7 +20746,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -21164,7 +20757,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Beltrán",
     "B": "Cuellar",
     "C": "Orlando",
     "D": "Huila",
@@ -21181,7 +20773,7 @@
     "U": "Ingeniero",
     "V": "Especialización",
     "W": "Cafetero",
-    "X": "Cafetero",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -21216,7 +20808,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Plazas",
     "B": "Bravo",
     "C": "María Fernanda",
     "D": "Huila",
@@ -21257,7 +20848,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -21268,7 +20859,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lozano",
     "B": "Ángel",
     "C": "Myriam",
     "D": "Huila",
@@ -21285,7 +20875,7 @@
     "U": "Contadora pública",
     "V": "Maestría",
     "W": "Academia",
-    "X": "Finanzas",
+    "X": "Economía",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -21309,7 +20899,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -21320,7 +20910,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Peña",
     "C": "Joaquín",
     "D": "Huila",
@@ -21361,7 +20950,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -21372,7 +20961,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cáceres",
     "B": "Suárez",
     "C": "Older Alexis",
     "D": "Arauca",
@@ -21413,7 +21001,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -21424,7 +21012,6 @@
     "BL": "Normal"
   },
   {
-    "A": "García",
     "B": "Laguna",
     "C": "Héctor",
     "D": "Arauca",
@@ -21441,7 +21028,7 @@
     "U": "Técnico en asistencia judicial",
     "V": "Técnico",
     "W": "Social",
-    "X": "No",
+    "X": "",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -21465,7 +21052,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -21476,7 +21063,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garrido",
     "B": "Martín",
     "C": "Lina María",
     "D": "Arauca",
@@ -21512,12 +21098,12 @@
     "AP": "Profesional en relaciones internacionales y estudios políticos de la Nueva Granada con especialización en gerencia social de la Esap, su padre Hernando fue secretario de Educación de Arauca en 2008. Fue asesora en la Cámara de Mercedes Rincón, elegida por Cambio Radical, en 2015 llegó al concejo de Arauca por ese partido y con 802 votos y en en 2019 se quemó a la Asamblea con el apoyo de Facundo Castillo, que buscaba llegar a la Gobernación por segunda vez. Es la candidata del grupo de Castillo, hoy está preso e investigado por presuntos vínculos con el ELN. Raquel Parales, esposa de Castillo, participa activamente en su campaña y ha aparecido en varios eventos masivos apoyándola. Garrido también es cercana al alcalde de Arauca, Edgar Fernando Tovar, cuyo partido, la ASI, adhirió a su campaña a la Cámara, al igual que La U.",
     "AQ": "https://www.lasillavacia.com/media/_0002_lina-garrido.jpg",
     "AR": "No",
-    "AT": "Sin datos",
-    "AU": "Sin datos",
+    "AT": "No me importa",
+    "AU": "No me importa",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -21528,7 +21114,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Velandia",
     "B": "Romero",
     "C": "Jhon Ronal",
     "D": "Arauca",
@@ -21569,7 +21154,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -21580,7 +21165,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sarmiento",
     "B": "Gutiérrez",
     "C": "Edwin Alejandro",
     "D": "Arauca",
@@ -21621,7 +21205,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -21632,7 +21216,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Marchena",
     "B": "",
     "C": "José Joaquín",
     "D": "Arauca",
@@ -21668,12 +21251,12 @@
     "AP": "Abogado de 57 años, busca conservar la curul que logró después de que el Consejo de Estado le quitó la investidura a su antiguo aliado, Eneiro Rincón, por recibir dineros de un contratista del Estado en 2016, gracias a una demanda de Marchena. Conocido dirigente liberal de Saravena, fue concejal de 1998 a 2003, y diputado de 2004 a 2011. \nEn 2018 se quemó a la Cámara con 5.600 votos, la mitad de los de Eneiro Rincón.\nEn julio de 2021 se frenó brevemente su posesión por una demanda de alimentos que Marchena tenía en curso. Luego de que el presidente de la Comisión de Acreditaciones —el también araucano José Vicente Carreño— estudiara el caso, Marchena pudo posesionarse el 30 de ese mes.\nTiene el respaldo del excandidato a la Gobernación y hoy diputado Hernando Posso, y del exalcalde de Arauca, Luis Emilio Tovar, quién fue candidato a la Gobernación en 2019 por el Centro Democrático.",
     "AQ": "https://www.lasillavacia.com/media/_0005_joaquin-marchena.jpg",
     "AR": "Sí",
-    "AT": "Sin datos",
-    "AU": "Sin datos",
+    "AT": "No me importa",
+    "AU": "No me importa",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -21684,7 +21267,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rozo",
     "B": "Anís",
     "C": "Germán",
     "D": "Arauca",
@@ -21720,12 +21302,12 @@
     "AP": "Abogado de 46 años de la Universidad Cooperativa, especializado en derecho público de la Libre de Cúcuta, arrancó su carrera en el Partido Liberal. A mediados de los noventa fue edil y en 1998 entró a coordinar la oficina municipal de juventudes de Arauca. En 2004 llegó al Concejo y en 2007, cuando terminaba su periodo, empezó a dirigir el directorio liberal en el departamento. \nEntre 2010 y 2011 Rozo dirigió la emisora Meridiano 70, una de las cadenas más antiguas del departamento, y la dejó para buscar la Asamblea en 2011, pero se quemó con 1.141 votos. \nLuego de esa derrota fue profesor de derecho en la Cooperativa y gestor regional para Arauca del Ministerio de las TIC y en 2019, tras 24 años como militante, renunció al Partido Liberal argumentando que la dirección nacional desconoció las bases en Arauca. Una semana después obtuvo el aval del partido afro Colombiana Renaciente para buscar la Alcaldía. Quedó de quinto.\nHa seguido ejerciendo como abogado y fue contratista en 2020 del Hospital San Vicente.\nPara estas elecciones viene sumando apoyos como el de Eneiro Rincón, exrepresentante liberal que perdió la curul el año pasado, y el grupo Galaxia, estructura política liderada por Ehiana Galeano, directora de la Caja de Compensación Familiar de Arauca, Comfiar.",
     "AQ": "https://www.lasillavacia.com/media/_0006_german-rozo.jpg",
     "AR": "No",
-    "AT": "Sin datos",
-    "AU": "Sin datos",
+    "AT": "No me importa",
+    "AU": "No me importa",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -21736,7 +21318,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quenza",
     "B": "Becerra",
     "C": "Luz Stella",
     "D": "Arauca",
@@ -21772,18 +21353,681 @@
     "AP": "Administradora de empresas de la Simón Bolívar de Barranquilla especializada en gestión del desarrollo urbano de en la Esap, a inicios de siglo fue coordinadora departamental del Sisbén, dirigió el Consejo Regional de Competitividad, y fue jefe de control interno y subdirectora del Hospital Maternoinfantil. También fue profesora en universidades como la Cooperativa y la Francisco de Paula Santander.\nEn 2014 entró a ser asesora en la Cámara de Pedro Orjuela, su amigo personal y quien no completó su periodo, pues el Consejo de Estado anuló su elección porque en 1996 había sido condenado por porte ilegal de armas. En ese trabajo conoció al hoy senador santandereano Miguel Ángel Pinto, quien era el presidente de la Cámara. En 2018, Pinto salió al Senado, invitó a Quenza a liderar su campaña en Arauca, y ella misma buscó el aval liberal a la Cámara. Ahora tiene a Pinto como fórmula y su principal apoyo en el Partido Liberal, además del respaldo de tres diputados liberales y uno conservador, el grupo del exgobernador Julio Enrique Acosta (condenado por contratación irregular y peculado por apropiación, y señalado por paramilitares de tener mando sobre el bloque Vencedores de Arauca) y, según tres políticos, de parte de la estructura del exgobernador Facundo Castillo, capturado en octubre de 2021 por supuestos nexos con el ELN.",
     "AQ": "https://www.lasillavacia.com/media/_0007_luz-quenza.jpg",
     "AR": "No",
-    "AT": "Sin datos",
-    "AU": "Sin datos",
+    "AT": "No me importa",
+    "AU": "No me importa",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Sin datos",
     "BJ": "Arauca",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Pérez",
+    "C": "Patricia",
+    "D": "Cundinamarca",
+    "G": "",
+    "H": "",
+    "K": 7058,
+    "L": "Asamblea de Cundinamarca 2019",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "Alianza Verde",
+    "R": 105,
+    "S": "Centro",
+    "T": "",
+    "U": "Ingeniería",
+    "V": "Especialización",
+    "W": "Público",
+    "X": "Política",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Ingeniera de sistemas  especialziada en gestión y desarrollo municipal. Ha trabajado con el exgobernador Jorge Rey como gerente del Instituto del Departamento de Cultura y Turismo. También fue contratista del actual mandatario de Cundinamarca, Nicolás García. Además fue secretaria del despacho de la Alcaldía de Tenjo. En 2019 se lanzó a la Cámara por el partido verde, pero se quemó con 7.058 votos.",
+    "AQ": "https://www.lasillavacia.com/media/patricia-trivino.jpg",
+    "AR": "No",
+    "AT": "Carlos Amaya",
+    "AU": "Centro Esperanza",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "No me importa la edad",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "No",
+    "BI": "Sin datos",
+    "BJ": "Cundinamarca",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Pestana",
+    "C": "Inge ",
+    "D": "Sucre",
+    "G": "No aplica",
+    "H": "@Ingerod2022",
+    "K": "No aplica",
+    "L": "No aplica",
+    "N": "Cámara",
+    "O": "Mujer ",
+    "Q": "Colombia Humana",
+    "R": "Lista cerrada",
+    "S": "Izquierda",
+    "T": "Coveñas",
+    "U": "Administradora de empresa",
+    "V": "Maestría",
+    "W": "Privado ",
+    "X": "Administración",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "Ni",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Administradora de empresas de la Universidad de Sucre con maestría en gerencia de proyectos en Madrid (España), es una dirigente zenú que en 2018 fundó la Red de Guerreras Rosa, un movimiento en contra de la violencia de género en Sucre. Es miembro de la junta directiva del clúster empresarial del Golfo de Morrosquillo y directora financiera de Netvoice Telecom, empresa de telecomunicaciones de Carlos Redondo, un ingeniero mecatrónico de la Tecnológica de Bolívar que es o ha sido cercano a Piedad Córdoba Yy fue candidato a la alcaldía de Sincé por la Alianza Verde en 2019. Rodríguez encabeza la lista cerrada del Pacto Histórico y es fórmula de Alex Flórez, candidato al senado de Daniel Quintero, alcalde de Medellín y ex director de Innpulsa, entidad pública con la que trabajó Netvoice",
+    "AQ": "https://www.lasillavacia.com/media/_0009_inge-rodriguez.jpg",
+    "AR": "No ",
+    "AT": "Gustavo Petro",
+    "AU": "Pacto Histórico",
+    "AV": "Oportunidad laboral a las mujers",
+    "AW": "Reconocimiento campesino ",
+    "AX": "Erradicar el paramilitarismo de la zona",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Maestría o más",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "Político",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Díaz",
+    "C": "Milene",
+    "D": "Sucre",
+    "G": "https://www.lasillavacia.com/quien-es-quien/milene-jarava-diaz",
+    "H": "@JaravaMile",
+    "K": 65219,
+    "L": "Cámara por Sucre 2010",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "La U",
+    "R": 101,
+    "S": "Centro derecha",
+    "T": "Sincelejo ",
+    "U": "Zootecnista",
+    "V": "Pregrado",
+    "W": "Público ",
+    "X": "Administración",
+    "Y": "No",
+    "AA": "No",
+    "AB": "Si",
+    "AC": 1,
+    "AD": "No",
+    "AE": "Sí",
+    "AF": "No",
+    "AG": "No",
+    "AI": "Sí",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "Sí",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Zootecnista y representante desde 2018, heredó los votos de su esposo Yahir Acuña, conocido por repartir whiskey y votos a sus electores, y salpicado por Salvador Arana por tener vínculos con paramilitares. Jarava llegó a la política en 2011 con la mayor votación a diputada de Sucre, avalada por el extinto Afrovides, hoy llamado 100% por Colombia y liderado por Acuña. Renunció a la Asamblea para lanzarse a la gobernación en 2015, pero se quemó. En 2018 quedó electa a la Cámara por Opción ciudadana, partido que perdió su personería jurídica, por lo que entró a La U. Es cabeza de lista del partido y su fórmula es Julio Elías, hermano de Ñoño Elías, condenado por el escándalo de Odebrecht.",
+    "AQ": "https://www.lasillavacia.com/media/_0000_milene-jarava.jpg",
+    "AR": "Sí",
+    "AT": "No me importa",
+    "AU": "No me importa",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Universitarios",
+    "BF": "Tiene ruidos",
+    "BG": "Ha sido representante a la Cámara",
+    "BH": "",
+    "BI": "Político",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Pérez",
+    "C": "Fabián Fernando",
+    "D": "Sucre",
+    "G": "No aplica",
+    "H": "sin datos",
+    "K": "No aplica",
+    "L": "No aplica",
+    "N": "Cámara",
+    "O": "Hombre ",
+    "Q": "La U",
+    "R": 102,
+    "S": "Centro derecha",
+    "T": "Sincelejo ",
+    "U": "Administrador de empresas",
+    "V": "Especialización",
+    "W": "Público ",
+    "X": "Administración",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "Sí",
+    "AP": "Administrador de empresas especializado en gerencia pública, es la carta del ex alcalde de Sincelejo, Jacobo Quessep, quien lo nombró secretario general en 2016, director del Imder en 2017 y secretario de asuntos sociales en 2018. Luego fue asesor de Andrés Gómez, sucesor de Quessep. Su fórmula es Julio Chagüi, que tiene su fortín político en Córdoba, pertenece al clan Chagüi Lyons, y es primo de la senadora uribista Ruby Chagüi, quien no lo apoya.",
+    "AQ": "https://www.lasillavacia.com/media/_0001_fabian-perez.jpg",
+    "AR": "No",
+    "AT": "No me importa",
+    "AU": "No me importa",
+    "AV": "",
+    "AW": "Reformar la Ley 142 de 1994",
+    "AX": "",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Chadid",
+    "C": "Luis David ",
+    "D": "Sucre",
+    "G": "No aplica",
+    "H": "sin datos",
+    "K": 2124,
+    "L": "Concejo de Sincelejo 2015",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Conservador",
+    "R": 101,
+    "S": "Derecha",
+    "T": "Sincelejo",
+    "U": "Administrador de empresas",
+    "V": "Especialización",
+    "W": "Público",
+    "X": "Administración",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "Sí",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "Sí",
+    "AP": "Administrador de empresas especializado en gerencia pública, fue concejal conservador de Sincelejo de 2012 a 2019. En 2020 fue secretario general del alcalde, Andrés Gómez, quien lo impulsa. Encabeza la lista de la coalición conservadora - uribista. Su fórmula es el conservador Carlos Trujillo, hijo del difunto MinDefensa Carlos Holmes Trujillo. ",
+    "AQ": "https://www.lasillavacia.com/media/_0002_luis-david-suarez.jpg",
+    "AR": "No",
+    "AT": "David Barguil",
+    "AU": "Equipo por Colombia",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "No me importa la edad",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "Político ",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Crdoba",
+    "C": "Wilmer",
+    "D": "Sucre",
+    "G": "No aplica",
+    "H": "@WilmerWilmer003",
+    "K": "No aplica",
+    "L": "No aplica",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "ASI",
+    "R": 101,
+    "S": "Izquierda",
+    "T": "Sincelejo",
+    "U": "Docente",
+    "V": "Bachillerato",
+    "W": "Político",
+    "X": "Temas laborales",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "Sí",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Docente desde 1990, ha sido líder sindical en Ades y Asodes. Aunque es petrista desde 2011, se lanza por la ASI. ",
+    "AQ": "https://www.lasillavacia.com/media/_0003_wilmer-arias.jpg",
+    "AR": "No",
+    "AT": "Gustavo Petro ",
+    "AU": "Pacto Histórico",
+    "AV": "Reformar ley 100",
+    "AW": "Reforma universitaria",
+    "AX": "Empleo rural ",
+    "BD": "Mayor de 80 años",
+    "BE": "Menos de pregrado",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Sierra",
+    "C": "Héctor Javier",
+    "D": "Sucre ",
+    "G": "No aplica",
+    "H": "@hectorvergaraco",
+    "K": 41945,
+    "L": "Cámara por Sucre 2018",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Cambio Radical",
+    "R": 101,
+    "S": "Derecha",
+    "T": "Sincelejo",
+    "U": "Administrador de empresas",
+    "V": "Especialización",
+    "W": "Público",
+    "X": "Administración",
+    "Y": "No",
+    "AA": "Sí",
+    "AB": "Sí",
+    "AC": 2,
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "Sí",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "Sí",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Administrador de empresas especializado en gerencia pública, llegó a la Cámara en 2010 por La U pero perdió la curul porque su padre, Alberto Vergara, era secretario general en la alcaldía de Sincelejo durante las elecciones. Fue gerente de Telecom en 2003, entidad donde presentó un diploma falso de administrador de empresas para ejercer el cargo público, cargo al que renunció tras la polémica. Regresó a la Cámara en 2018 por Cambio Radical. y busca la relección con apoyo político en la gobernación y del grupo de Mario Fernández Alcocer, quien impulsa la reelección en el senado de su esposa, Ana María Castañeda. ",
+    "AQ": "https://www.lasillavacia.com/media/_0004_hector-vergara-sierra.jpg",
+    "AR": "Sí",
+    "AT": "Alejandro Char",
+    "AU": "Equipo por Colombia",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Universitarios",
+    "BF": "Ha sido destituido",
+    "BG": "Ha sido representante a la Cámara",
+    "BH": "",
+    "BI": "Político ",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Martínez",
+    "C": "Karyme",
+    "D": "Sucre ",
+    "G": "No apica",
+    "H": "@karymediputada",
+    "K": 26914,
+    "L": "Asamblea de Sucre 2019",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "Liberal",
+    "R": 101,
+    "S": "Centro izquierda",
+    "T": "Sincelejo",
+    "U": "Derecho",
+    "V": "Especialización",
+    "W": "Público",
+    "X": "Derecho",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "Sí",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "Sí",
+    "AO": "Sí",
+    "AP": "Abogada especializada en derecho administrativo, llegó a la Asamblea en 2016 y se reeligió en 2019 con la mayor votación liberal. Tiene el respaldo del gobernador de Sucre, Héctor Olimpo Espinosa, y su fórmula es Karina Espinosa, hermana del gobernador. También, cuenta con el apoyo del ex senador y ex alcalde Jairo Fernandez y de su esposo Rafael Macea, ex diputado que mueve los hilos políticos en Sucre.",
+    "AQ": "https://www.lasillavacia.com/media/_0005_karym-cotes.jpg",
+    "AR": "No",
+    "AT": "No me importa",
+    "AU": "No me importa",
+    "AV": "Educación ",
+    "AW": "",
+    "AX": "",
+    "BD": "No me importa la edad",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "",
+    "BI": "Político ",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Montaño",
+    "C": "Nicólas",
+    "D": "Sucre ",
+    "G": "No aplica",
+    "H": "@repnicoguerrero",
+    "K": 23522,
+    "L": "Senado 2018 ",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Liberal",
+    "R": 102,
+    "S": "Centro izquierda",
+    "T": "Sincelejo",
+    "U": "Derecho",
+    "V": "Maestría",
+    "W": "Público",
+    "X": "Derecho",
+    "Y": "No",
+    "AA": "No",
+    "AB": "Sí",
+    "AC": 1,
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "Sí",
+    "AI": "Sí",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "Sí",
+    "AO": "No",
+    "AP": "Abogado con maestría, fue concejal, representante a la Cámara elegido en 2014 con 52 mil votos por La U, se quemó buscando el Senado en 2018 con 23 mil votos. Tras su derrota fue el presidente del directorio de la U y delegado del Registrador Nacional en Sucre.",
+    "AQ": "https://www.lasillavacia.com/media/_0006_nicolas-guerrero.jpg",
+    "AR": "Sí",
+    "AT": "No me importa",
+    "AU": "No me importa",
+    "AV": "Eucación",
+    "AW": "Reactivación",
+    "AX": "Equidad e inclusión",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Maestría o más",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha sido representante a la Cámara",
+    "BH": "",
+    "BI": "Político ",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Bueno",
+    "C": "Nolberto ",
+    "D": "Sucre",
+    "G": "No aplica",
+    "H": "sin datos",
+    "K": 2103,
+    "L": "Alcaldia de Montecristo 2018",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Cambio Radical ",
+    "R": 103,
+    "S": "Derecha",
+    "T": "Sincelejo ",
+    "U": "",
+    "V": "Sin datos",
+    "W": "Privado",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "Sí",
+    "AG": "No",
+    "AI": "Sí",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "Sí",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Elegido alcalde de Guaranda en 2011 por La U, y de Montecristo (Bolívar) en elecciones atípicas de 2018, fue sancionado como alcalde en Guaranda por incumplir la Ley de Cuotas, y en la alcaldía de Montecristo investigado por la Contraloría por no dar información contractual. Actualmente tiene dos indagaciones en la contraloría por deudas solidarias, sin embargo el candidato no ha perdido sus derechos políticos y puede participar en política. Es el tercer renglón de la lista de Cambio Radical. ",
+    "AQ": "https://www.lasillavacia.com/media/_0007_nolberto-beltran.jpg",
+    "AR": "No",
+    "AT": "Alejandro Char",
+    "AU": "Equipo por Colombia",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "No me importa la edad",
+    "BE": "No me importa",
+    "BF": "Tiene investigaciones penales",
+    "BG": "Ha sido alcalde",
+    "BH": "",
+    "BI": "Político ",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Benavides",
+    "C": "Manuel",
+    "D": "Sucre",
+    "G": "No aplica",
+    "H": "@ManuelG26375943",
+    "K": 17,
+    "L": "Concejo de Since 2019",
+    "N": "Cámara",
+    "O": "Hombre",
+    "Q": "Dignidad",
+    "R": 101,
+    "S": "Centro izquierda",
+    "T": "Sincelejo",
+    "U": "Programador ",
+    "V": "Bachillerato",
+    "W": "Político",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "Sí",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Programador de computadoras, estudiante de ciencias políticas y administración pública, desde 1997 busca posicionarse en cargos públicos. En 2000 aspiró a la alcaldía de Sincé, en 2006 al Senado como liberal y en 2019 al concejo de Sincé pero en todas se ha quemado. Como veedor ciudadano denunció la elección de Lucy Ines Garcia Montes, aliada del gobernador de Sucre, a la alcaldía de Since. Milita en Dignidad desde 2021 y es el único candidato de la lista.",
+    "AQ": "https://www.lasillavacia.com/media/manuel-gutierrez.jpg",
+    "AR": "No",
+    "AT": "Jorge Robledo",
+    "AU": "Centro Esperanza",
+    "AV": "Reformar la justicia",
+    "AW": "Agricultura",
+    "AX": "Canalizar ríos",
+    "BD": "Entre 40 y 60 años",
+    "BE": "Menos de pregrado",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "Político ",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Narváez",
+    "C": "Delcy",
+    "D": "Sucre",
+    "G": "No aplica",
+    "H": "@Delcy_Zn",
+    "K": 1707,
+    "L": "Cámara por Sucre 2018",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "Mira",
+    "R": 103,
+    "S": "Derecha ",
+    "T": "Sincelejo",
+    "U": "",
+    "V": "Sin datos",
+    "W": "Privado",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No ",
+    "AJ": "No ",
+    "AK": "No ",
+    "AL": "No",
+    "AM": "No ",
+    "AN": "No ",
+    "AO": "No ",
+    "AP": "Presidenta de acción comunal en 2012. Se lanzó al Concejo en 2015 y a la Cámara en 2018 por el Mira, pero en ambas se quemó. Es la única candidata de la lista, ocupando el tercer renglón. ",
+    "AQ": "https://www.lasillavacia.com/media/_0008_delcy-zuniga.jpg",
+    "AR": "No ",
+    "AT": "Aydeé Lizarazo ",
+    "AU": "Equipo por Colombia",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Mayor de 80 años",
+    "BE": "No me importa",
+    "BF": "#N/A",
+    "BG": "#N/A",
+    "BH": "",
+    "BI": "",
+    "BJ": "Sucre",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Durán",
+    "C": "Wiliam",
+    "D": "Sucre",
+    "G": "No aplica",
+    "H": "",
+    "K": "",
+    "L": "",
+    "N": "Cámara",
+    "O": "Hombre ",
+    "Q": "Nuevo Liberalismo",
+    "R": "Lista cerrada",
+    "S": "Centro",
+    "T": "Sincelejo",
+    "U": "Arquitecutra",
+    "V": "Pregrado",
+    "W": "Privado",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No ",
+    "AJ": "No ",
+    "AK": "No ",
+    "AL": "No",
+    "AM": "No ",
+    "AN": "No ",
+    "AO": "No ",
+    "AP": "Arquitecto sincelejando graduado en 1982, no hay más información sobre él ni parece estar haciendo campaña.",
+    "AQ": "https://www.lasillavacia.com/media/william-gomez.jpg",
+    "AR": "No ",
+    "AT": "Juan Manuel Galán",
+    "AU": "Centro Esperanza",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Mayor de 80 años",
+    "BE": "Universitarios",
+    "BF": "#N/A",
+    "BG": "#N/A",
+    "BH": "",
+    "BI": "",
+    "BJ": "Sucre",
     "BK": "Sin datos",
     "BL": "Normal"
   }

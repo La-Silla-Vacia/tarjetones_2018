@@ -1,6 +1,5 @@
 [
   {
-    "A": "Almendra",
     "B": "Velasco",
     "C": "Juan Francisco",
     "D": "Cauca",
@@ -52,7 +51,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Arteaga",
     "B": "Rodríguez",
     "C": "Harold Camilo",
     "D": "Cauca",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bastidas",
     "B": "Rosero",
     "C": "Jorge Hernán",
     "D": "Cauca",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bonilla",
     "B": "Soto",
     "C": "Carlos Julio",
     "D": "Cauca",
@@ -208,7 +204,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bonilla",
     "B": "Bonilla",
     "C": "Levinson",
     "D": "Cauca",
@@ -245,11 +240,11 @@
     "AQ": "https://www.lasillavacia.com/media/46_LevinsonBonilla_Cauca.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Afros",
     "AW": "Desarrollo rural",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -260,7 +255,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Bustamante",
     "B": "Jordan",
     "C": "Mario José",
     "D": "Cauca",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Campo",
     "B": "Hurtado",
     "C": "Oscar Rodrigo",
     "D": "Cauca",
@@ -349,11 +342,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0012_oscarcampo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carabalí",
     "B": "Charrupi",
     "C": "Hector Marino",
     "D": "Cauca",
@@ -401,7 +393,7 @@
     "AQ": "https://www.lasillavacia.com/media/09_Hectorcarabali.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Afros",
@@ -416,7 +408,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Cárdenas",
     "B": "Morán",
     "C": "John Jairo",
     "D": "Cauca",
@@ -453,11 +444,11 @@
     "AQ": "https://www.lasillavacia.com/media/7-john-jairo-cardenas.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 60 y 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -468,7 +459,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Gómez",
     "B": "López",
     "C": "Argeny",
     "D": "Cauca",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Castro",
     "C": "César Cristian",
     "D": "Cauca",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Castillo",
     "C": "Edgar",
     "D": "Cauca",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gutiérrez",
     "B": "Bravo",
     "C": "César Augusto",
     "D": "Cauca",
@@ -676,7 +663,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Hurtado",
     "B": "Pito",
     "C": "Ovidio",
     "D": "Cauca",
@@ -713,11 +699,11 @@
     "AQ": "https://www.lasillavacia.com/media/08_OvidioHurtado.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Indígenas",
     "AW": "Derechos Humanos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Lara",
     "B": "Dinas",
     "C": "Mabel",
     "D": "Cauca",
@@ -780,7 +765,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "López",
     "B": "Joaqui",
     "C": "Gema",
     "D": "Cauca",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Martínez",
     "B": "Arcos",
     "C": "Gustavo Adolfo",
     "D": "Cauca",
@@ -869,7 +852,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0003_gustavo-martinez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Legalización Plataformas",
     "AW": "Jóvenes en cargo de poder",
     "AX": "Llevar empresa privada al Cauca y Popayán",
@@ -884,7 +867,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Muñoz",
     "B": "Cerón",
     "C": "Faber Alberto",
     "D": "Cauca",
@@ -921,7 +903,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0019_Faber-Munoz.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Negret",
     "B": "Mosquera",
     "C": "Carlos",
     "D": "Cauca",
@@ -988,7 +969,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Obando",
     "B": "Carabalí",
     "C": "Driseida",
     "D": "Cauca",
@@ -1029,7 +1009,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -1040,7 +1020,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Ortega",
     "B": "Narvaez",
     "C": "Temístocles",
     "D": "Cauca",
@@ -1092,7 +1071,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Osorio",
     "B": "Ramírez",
     "C": "Luis Alonso",
     "D": "Cauca",
@@ -1144,7 +1122,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Patiño",
     "B": "Huetio",
     "C": "Melany",
     "D": "Cauca",
@@ -1181,7 +1158,7 @@
     "AQ": "https://www.lasillavacia.com/media/10_MelanPatino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Indígenas",
     "AW": "Defensa de las mujeres",
     "AX": "Vocería de las víctimas",
@@ -1196,7 +1173,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Pete",
     "B": "Vivas",
     "C": "Ermes Evelio",
     "D": "Cauca",
@@ -1248,7 +1224,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quilcue",
     "B": "Vivas",
     "C": "Aida Marina",
     "D": "Cauca",
@@ -1300,7 +1275,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Riascos",
     "B": "Riascos",
     "C": "Paulino",
     "D": "Cauca",
@@ -1341,7 +1315,7 @@
     "AV": "Afros",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -1352,7 +1326,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Salazar",
     "B": "Bernal",
     "C": "José Darío",
     "D": "Cauca",
@@ -1404,7 +1377,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Rivera",
     "C": "Juan Pablo",
     "D": "Cauca",
@@ -1445,7 +1417,7 @@
     "AV": "Derechos Humanos",
     "AW": "Víctimas del conflicto",
     "AX": "Desarrollo rural",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1456,7 +1428,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Samboni",
     "B": "Mosquera",
     "C": "Hernán Darío",
     "D": "Cauca",
@@ -1508,7 +1479,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Silva",
     "B": "Idrobo",
     "C": "Ferney",
     "D": "Cauca",
@@ -1549,7 +1519,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1560,7 +1530,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Valencia",
     "B": "Valencia",
     "C": "Efraín",
     "D": "Cauca",

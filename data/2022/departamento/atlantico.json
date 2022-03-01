@@ -1,6 +1,5 @@
 [
   {
-    "A": "Acuña",
     "B": "Díaz",
     "C": "Laureano",
     "D": "Atlántico",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Aguilera",
     "B": "Vides",
     "C": "Modesto Enrique",
     "D": "Atlántico",
@@ -104,8 +102,7 @@
     "BL": "Normal"
   },
   {
-    "A": "Amar",
-    "B": "Sepulveda",
+    "B": "Sepúlveda",
     "C": "José Gabriel",
     "D": "Atlántico",
     "G": "No aplica",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Amín",
     "B": "Escaf",
     "C": "Miguel",
     "D": "Atlántico",
@@ -193,7 +189,7 @@
     "AQ": "https://www.lasillavacia.com/media/1-miguel-amin.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Barraza",
     "B": "Arraut",
     "C": "Jezmi",
     "D": "Atlántico",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Barraza",
     "B": "Villa",
     "C": "Meliza",
     "D": "Atlántico",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Blanco",
     "B": "Ceballos",
     "C": "Adriana",
     "D": "Atlántico",
@@ -353,7 +346,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cepeda",
     "B": "Sarabia",
     "C": "Efraín",
     "D": "Atlántico",
@@ -416,7 +408,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Char",
     "B": "Chaljub",
     "C": "Arturo",
     "D": "Atlántico",
@@ -468,7 +459,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Corredor",
     "B": "Gómez",
     "C": "William",
     "D": "Atlántico",
@@ -509,7 +499,7 @@
     "AV": "Educación",
     "AW": "Juventud",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Escaf",
     "B": "Tijerino",
     "C": "Agmeth",
     "D": "Atlántico",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Flórez",
     "B": "Porras",
     "C": "Pedro Hernando",
     "D": "Atlántico",
@@ -613,7 +601,7 @@
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Fortich",
     "B": "Sánchez",
     "C": "Laura Ester",
     "D": "Atlántico",
@@ -676,7 +663,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Godoy",
     "B": "Martínez",
     "C": "Jesús Raimundo",
     "D": "Atlántico",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "López",
     "C": "Germán José",
     "D": "Atlántico",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Amín",
     "C": "Mauricio",
     "D": "Atlántico",
@@ -832,7 +816,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Leventhal",
     "B": "Rosemberg",
     "C": "Sandra",
     "D": "Atlántico",
@@ -873,7 +856,7 @@
     "AV": "Jóvenes",
     "AW": "Equidad",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lorduy",
     "B": "Maldonado",
     "C": "César",
     "D": "Atlántico",
@@ -936,7 +918,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Macías",
     "B": "Reslen",
     "C": "Diana Patricia",
     "D": "Atlántico",
@@ -988,7 +969,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Meisel",
     "B": "Vergara",
     "C": "Carlos Manuel",
     "D": "Atlántico",
@@ -1029,7 +1009,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 25 y 40 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -1040,7 +1020,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Motta",
     "B": "Maldonado",
     "C": "Rafael",
     "D": "Atlántico",
@@ -1092,7 +1071,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Name",
     "B": "Cardozo",
     "C": "José David",
     "D": "Atlántico",
@@ -1129,7 +1107,7 @@
     "AQ": "https://www.lasillavacia.com/media/6-jose-david-name.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1144,7 +1122,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Pérez",
     "B": "Giraldo",
     "C": "Claudia",
     "D": "Atlántico",
@@ -1181,11 +1158,11 @@
     "AQ": "https://www.lasillavacia.com/media/candidato-nn-m.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -1196,7 +1173,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Pérez",
     "B": "Arango",
     "C": "Betsy Judtih",
     "D": "Atlántico",
@@ -1248,7 +1224,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Altamiranda",
     "C": "Gersel Luis",
     "D": "Atlántico",
@@ -1300,7 +1275,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rojano",
     "B": "Llinás",
     "C": "Carlos Alberto",
     "D": "Atlántico",
@@ -1341,7 +1315,7 @@
     "AV": "Inclusión",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -1352,7 +1326,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Soto",
     "B": "Solano",
     "C": "Miller",
     "D": "Atlántico",
@@ -1404,7 +1377,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Torres",
     "B": "Romero",
     "C": "Dolcey",
     "D": "Atlántico",
@@ -1441,11 +1413,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0007_Dolcey-Torres.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Salud mental",
     "AW": "Formación para el trabajo",
     "AX": "Seguridad",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1456,7 +1428,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vargas",
     "B": "Vives",
     "C": "Viviana",
     "D": "Atlántico",
@@ -1497,7 +1468,7 @@
     "AV": "Equidad de género",
     "AW": "Derechos Humanos",
     "AX": "Acceso a justicia y reparación",
-    "BD": "Entre 25 y 40 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1508,7 +1479,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Zabaraín",
     "B": "De Arce",
     "C": "Armando Antonio",
     "D": "Atlántico",

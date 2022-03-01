@@ -1,6 +1,5 @@
 [
   {
-    "A": "Bañol",
     "B": "Álvarez",
     "C": "Norman",
     "D": "Caldas",
@@ -52,7 +51,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Betancourth",
     "B": "López",
     "C": "Andrés Felipe",
     "D": "Caldas",
@@ -89,11 +87,11 @@
     "AQ": "https://www.lasillavacia.com/media/17-andres-betancourth.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cardona",
     "B": "León",
     "C": "José Octavio",
     "D": "Caldas",
@@ -145,7 +142,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Castaño",
     "B": "Pérez",
     "C": "Mario Alberto",
     "D": "Caldas",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Chica",
     "B": "Correa",
     "C": "Félix Alejandro",
     "D": "Caldas",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Correa",
     "B": "López",
     "C": "José Luis",
     "D": "Caldas",
@@ -312,7 +306,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "De la Calle",
     "B": "Lombana",
     "C": "Humberto",
     "D": "Caldas",
@@ -364,7 +357,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Echeverri",
     "B": "Piedrahita",
     "C": "Guido",
     "D": "Caldas",
@@ -416,7 +408,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Escobar",
     "B": "Ortiz",
     "C": "Wilder",
     "D": "Caldas",
@@ -453,11 +444,11 @@
     "AQ": "https://www.lasillavacia.com/media/04-wilder-escobar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Galeano",
     "B": "Martínez",
     "C": "Gladys",
     "D": "Caldas",
@@ -505,11 +495,11 @@
     "AQ": "https://www.lasillavacia.com/media/11-gladis-galeano.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Giraldo",
     "B": "Quintero",
     "C": "Héctor",
     "D": "Caldas",
@@ -557,11 +546,11 @@
     "AQ": "https://twitter.com/hectorgiraldoqu/photo",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "González",
     "C": "Juan Sebastián",
     "D": "Caldas",
@@ -609,11 +597,11 @@
     "AQ": "https://www.lasillavacia.com/media/14-juan-sebastian-gomez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Betancourt",
     "C": "Luis Fernando",
     "D": "Caldas",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Henao",
     "B": "Valencia",
     "C": "Juan Carlos",
     "D": "Caldas",
@@ -713,7 +699,7 @@
     "AQ": "https://www.lasillavacia.com/media/05-juan-carlos-henao.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Londoño",
     "B": "Jaramillo",
     "C": "Juana Carolina",
     "D": "Caldas",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Murillo",
     "B": "Franco",
     "C": "Marino",
     "D": "Caldas",
@@ -817,11 +801,11 @@
     "AQ": "https://www.lasillavacia.com/media/03-marino-murillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Ha sido destituido",
     "BG": "Ha sido alcalde",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Osorio",
     "B": "",
     "C": "Santiago",
     "D": "Caldas",
@@ -869,11 +852,11 @@
     "AQ": "https://www.lasillavacia.com/media/13-santiago-osorio.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ospina",
     "B": "Atehortua",
     "C": "Jesús Iván",
     "D": "Caldas",
@@ -925,7 +907,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pineda",
     "B": "Díaz",
     "C": "Evelin",
     "D": "Caldas",
@@ -973,11 +954,11 @@
     "AQ": "https://www.lasillavacia.com/media/19-evelin-pineda.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Salud",
     "AW": "Deporte",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -988,7 +969,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pinilla",
     "B": "Martínez",
     "C": "Claudia Lorena",
     "D": "Caldas",
@@ -1029,7 +1009,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1040,7 +1020,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tibaduiza",
     "B": "Marín",
     "C": "Milton Iván",
     "D": "Caldas",
@@ -1077,11 +1056,11 @@
     "AQ": "https://www.lasillavacia.com/media/12-milton-tibaduiza.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1092,7 +1071,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Yepes",
     "B": "Cardona",
     "C": "John Hemayr",
     "D": "Caldas",
@@ -1144,7 +1122,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Yepes",
     "B": "Alzate",
     "C": "Jorge Hernán",
     "D": "Caldas",
@@ -1185,7 +1162,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",

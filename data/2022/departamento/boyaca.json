@@ -1,6 +1,5 @@
 [
   {
-    "A": "Alarcón",
     "B": "Suárez",
     "C": "Nelson",
     "D": "Boyacá",
@@ -41,7 +40,7 @@
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Avella",
     "B": "Esquivel",
     "C": "Aída",
     "D": "Boyacá",
@@ -104,7 +102,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Beltrán",
     "B": "Dorado",
     "C": "Olga",
     "D": "Boyacá",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bohórquez",
     "B": "Garzón",
     "C": "Cindy Yohana",
     "D": "Boyacá",
@@ -197,7 +193,7 @@
     "AV": "Expandir a las zonas rurales los programas de primera infancia",
     "AW": "Fortalecer el acceso a internet",
     "AX": "Mejorar programas educativos relacionados con el agro, comercio y economía",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -208,7 +204,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Castiblanco",
     "B": "Parra",
     "C": "Jairo Enrique",
     "D": "Boyacá",
@@ -249,7 +244,7 @@
     "AV": "Mejorar la infraestructura vial",
     "AW": "Emprendimientos relacionados al turismo",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cepeda",
     "B": "Novoa",
     "C": "Pablo",
     "D": "Boyacá",
@@ -297,11 +291,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0000_pablo-emilio-novoa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Chivata",
     "B": "Vargas",
     "C": "Olga María",
     "D": "Boyacá",
@@ -353,7 +346,7 @@
     "AV": "Organización agropecuaria",
     "AW": "Acabar la esclavitud financiera del sector agrario",
     "AX": "Bloques nutricionales",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Condía",
     "B": "Pérez",
     "C": "Sandro Néstor",
     "D": "Boyacá",
@@ -401,11 +393,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0002_sandro-condia-perez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Córdoba",
     "B": "Medina",
     "C": "Mario Hernando",
     "D": "Boyacá",
@@ -457,7 +448,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Espíndola",
     "B": "Niño",
     "C": "Edgard",
     "D": "Boyacá",
@@ -505,11 +495,11 @@
     "AQ": "https://www.lasillavacia.com/media/14-edgar-espindola.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -520,7 +510,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Londoño",
     "B": "Ulloa",
     "C": "Jorge Eduardo",
     "D": "Boyacá",
@@ -572,7 +561,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Neisa",
     "B": "Alvarado",
     "C": "Mauricio",
     "D": "Boyacá",
@@ -624,7 +612,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Ortiz",
     "B": "Núñez",
     "C": "Héctor Ángel",
     "D": "Boyacá",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ortiz",
     "B": "Nova",
     "C": "Sandra",
     "D": "Boyacá",
@@ -728,7 +714,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Ostos",
     "B": "Romero",
     "C": "Juan Camilo",
     "D": "Boyacá",
@@ -769,7 +754,7 @@
     "AV": "Transporte",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido viceministro",
@@ -780,7 +765,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Pachón",
     "B": "Achury",
     "C": "César Augusto",
     "D": "Boyacá",
@@ -832,7 +816,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Pinzón",
     "B": "Báez",
     "C": "José Giovany",
     "D": "Boyacá",
@@ -873,7 +856,7 @@
     "AV": "Mínimo vital de agua",
     "AW": "Subsidio para personas con discapacidad",
     "AX": "descentralización de recursos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Cortés",
     "C": "Ciro",
     "D": "Boyacá",
@@ -936,7 +918,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Ramírez",
     "B": "Cortés",
     "C": "Ciro Alejandro",
     "D": "Boyacá",
@@ -988,7 +969,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Rivera",
     "B": "Pulido",
     "C": "Rosa Elvira",
     "D": "Boyacá",
@@ -1029,7 +1009,7 @@
     "AV": "Regular la cadena de distribución",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1040,7 +1020,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Roa",
     "B": "Sarmiento",
     "C": "Humphrey",
     "D": "Boyacá",
@@ -1077,7 +1056,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_humphrey-roa-sarmiento.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -1092,7 +1071,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salamanca",
     "B": "Torres",
     "C": "Jaime Raúl",
     "D": "Boyacá",
@@ -1133,7 +1111,7 @@
     "AV": "Ley Estatutaria de la Educación como Derecho Fundamental.",
     "AW": "Ley Post Covid",
     "AX": "Ley de los Convites Comunales",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1144,7 +1122,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Sánchez",
     "C": "Guillermo",
     "D": "Boyacá",
@@ -1196,7 +1173,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Garavito",
     "C": "Jonatan",
     "D": "Boyacá",
@@ -1233,7 +1209,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0003_jonatan-sanchez-garavito.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -1248,7 +1224,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Suárez",
     "B": "Vacca",
     "C": "Pedro",
     "D": "Boyacá",
@@ -1289,7 +1264,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1300,7 +1275,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Velásquez",
     "B": "Rueda",
     "C": "Mayda Cecilia",
     "D": "Boyacá",
@@ -1337,7 +1311,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0004_mayda-cecilia-velasquez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",

@@ -1,6 +1,5 @@
 [
   {
-    "A": "Agudelo",
     "B": "Zapata",
     "C": "Iván Darío",
     "D": "Antioquia",
@@ -41,7 +40,7 @@
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Arboleda",
     "B": "Gallo",
     "C": "Ana Carolina",
     "D": "Antioquia",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arrieta",
     "B": "González",
     "C": "Juvenal",
     "D": "Antioquia",
@@ -156,7 +153,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Bedoya",
     "B": "Pérez",
     "C": "Sor Berenice",
     "D": "Antioquia",
@@ -197,7 +193,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Bermúdez",
     "B": "Garcés",
     "C": "John Jairo",
     "D": "Antioquia",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Berrío",
     "B": "López",
     "C": "Jhon Jairo",
     "D": "Antioquia",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Blanco",
     "B": "Álvarez",
     "C": "Germán",
     "D": "Antioquia",
@@ -364,7 +357,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Bustamante",
     "B": "Roldán",
     "C": "Jorge Raúl",
     "D": "Antioquia",
@@ -416,7 +408,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Cadavid",
     "B": "Márquez",
     "C": "Hernán Darío",
     "D": "Antioquia",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cadavid",
     "B": "Jaramillo",
     "C": "Misael Alberto",
     "D": "Antioquia",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Callejas",
     "B": "Tamayo",
     "C": "Juan Camilo",
     "D": "Antioquia",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carrasquilla",
     "B": "Minami",
     "C": "Claudia",
     "D": "Antioquia",
@@ -609,7 +597,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0013_CARRASQUILLA-MINAMI.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Regular plataformas de transporte ilegal",
     "AW": "Lucha contra la corrupción",
     "AX": "Reforma de justicia",
@@ -624,7 +612,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Carvalho",
     "B": "Mejía",
     "C": "Daniel",
     "D": "Antioquia",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Córdoba",
     "B": "Ruiz",
     "C": "Piedad",
     "D": "Antioquia",
@@ -728,7 +714,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Correa",
     "B": "Nuttin",
     "C": "Julia",
     "D": "Antioquia",
@@ -780,7 +765,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Correa",
     "B": "Vélez",
     "C": "Víctor Javier",
     "D": "Antioquia",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuervo",
     "B": "Valencia",
     "C": "Carlos Ignacio",
     "D": "Antioquia",
@@ -873,7 +856,7 @@
     "AV": "Salud",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -884,7 +867,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Delgado",
     "B": "Lezama",
     "C": "Anaidalyt",
     "D": "Antioquia",
@@ -921,11 +903,11 @@
     "AQ": "https://www.lasillavacia.com/media/15_AnaidalytDelgado.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -936,7 +918,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Echavarría",
     "B": "Sánchez",
     "C": "Juan Diego",
     "D": "Antioquia",
@@ -977,7 +958,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -988,7 +969,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Echeverry",
     "B": "Alvarán",
     "C": "Nicolás Albeiro",
     "D": "Antioquia",
@@ -1040,7 +1020,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Escobar",
     "B": "Mendoza",
     "C": "Dibia Estela",
     "D": "Antioquia",
@@ -1077,11 +1056,11 @@
     "AQ": "https://www.lasillavacia.com/media/32_DibiaEscobar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -1092,7 +1071,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Espinal",
     "B": "Ramírez",
     "C": "Juan Fernando",
     "D": "Antioquia",
@@ -1144,7 +1122,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Flórez",
     "B": "Hernández",
     "C": "Alex",
     "D": "Antioquia",
@@ -1196,7 +1173,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Flórez",
     "B": "García",
     "C": "Fabio Alexander",
     "D": "Antioquia",
@@ -1248,7 +1224,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Gallego",
     "B": "Alzate",
     "C": "James Enrique",
     "D": "Antioquia",
@@ -1300,7 +1275,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gallón",
     "B": "Arango",
     "C": "Luis Horacio",
     "D": "Antioquia",
@@ -1352,7 +1326,6 @@
     "BL": "Normal"
   },
   {
-    "A": "García",
     "B": "Ospina",
     "C": "Ancízar",
     "D": "Antioquia",
@@ -1393,7 +1366,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Ha sido condenado penalmente",
     "BG": "No ha trabajado en el Estado",
@@ -1404,7 +1377,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Giraldo",
     "B": "Giraldo",
     "C": "Elizabeth",
     "D": "Antioquia",
@@ -1445,7 +1417,7 @@
     "AV": "Feminismo",
     "AW": "Urbanismo",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1456,7 +1428,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Gómez",
     "B": "Gallego",
     "C": "Jorge Alberto",
     "D": "Antioquia",
@@ -1508,7 +1479,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Gómez",
     "B": "Castaño",
     "C": "Susana",
     "D": "Antioquia",
@@ -1560,7 +1530,6 @@
     "BL": "Normal"
   },
   {
-    "A": "González",
     "B": "Agudelo",
     "C": "John Jairo",
     "D": "Antioquia",
@@ -1597,11 +1566,11 @@
     "AQ": "https://www.lasillavacia.com/media/13_JohnJairoGonzalez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Implementación de los Acuerdos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1612,7 +1581,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Guerra",
     "B": "Hoyos",
     "C": "Andrés",
     "D": "Antioquia",
@@ -1653,7 +1621,7 @@
     "AV": "Agro",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1664,7 +1632,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Henao",
     "B": "Zea",
     "C": "Fernando León",
     "D": "Antioquia",
@@ -1716,7 +1683,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Holguín",
     "B": "Moreno",
     "C": "Paola",
     "D": "Antioquia",
@@ -1768,7 +1734,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Hoyos",
     "B": "Giraldo",
     "C": "Oscar Guillermo",
     "D": "Antioquia",
@@ -1809,7 +1774,7 @@
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1820,7 +1785,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hurtado",
     "B": "Mosquera",
     "C": "Diana Marcela",
     "D": "Antioquia",
@@ -1857,7 +1821,7 @@
     "AQ": "https://www.lasillavacia.com/media/31_DianaHurtado.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Equidad de género",
     "AX": "Sin datos",
@@ -1872,7 +1836,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Ibargüen",
     "B": "Mena",
     "C": "Caterine",
     "D": "Antioquia",
@@ -1924,7 +1887,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Jiménez",
     "B": "Vargas",
     "C": "Andrés Felipe",
     "D": "Antioquia",
@@ -1976,7 +1938,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lemos",
     "B": "Uribe",
     "C": "Juan Felipe",
     "D": "Antioquia",
@@ -2013,7 +1974,7 @@
     "AQ": "https://www.lasillavacia.com/media/5-juan-felipe-lemos.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Reforma a la salud",
     "AW": "Educación superior",
     "AX": "Sin datos",
@@ -2028,7 +1989,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Londoño",
     "B": "Barrera",
     "C": "Juan Camilo",
     "D": "Antioquia",
@@ -2080,7 +2040,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lopera",
     "B": "Monsalve",
     "C": "María Eugenia",
     "D": "Antioquia",
@@ -2117,11 +2076,11 @@
     "AQ": "https://www.lasillavacia.com/media/maria-eugenia-lopera-monsalve.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -2132,7 +2091,6 @@
     "BL": "Normal"
   },
   {
-    "A": "López",
     "B": "Salazar",
     "C": "Karen Juliána",
     "D": "Antioquia",
@@ -2169,11 +2127,11 @@
     "AQ": "https://www.lasillavacia.com/media/33_KarenLopez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Campesinos",
     "AW": "Infraestructura",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -2184,7 +2142,6 @@
     "BL": "De paz"
   },
   {
-    "A": "López",
     "B": "Noreña",
     "C": "Liliana Andrea",
     "D": "Antioquia",
@@ -2236,7 +2193,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Marulanda",
     "B": "Gómez",
     "C": "Iván",
     "D": "Antioquia",
@@ -2288,7 +2244,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Mejía",
     "B": "Arboleda",
     "C": "Juan Esteban",
     "D": "Antioquia",
@@ -2340,7 +2295,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Méndez",
     "B": "Zuluaga",
     "C": "Juan Pablo",
     "D": "Antioquia",
@@ -2381,7 +2335,7 @@
     "AV": "Desarrollo rural",
     "AW": "Campesinos",
     "AX": "Medio ambiente",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2392,7 +2346,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Mendoza",
     "B": "Vega",
     "C": "Rodrigo Alberto",
     "D": "Antioquia",
@@ -2429,11 +2382,11 @@
     "AQ": "https://www.lasillavacia.com/media/rodrigo-alberto-mendoza-vega.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Deporte",
     "AX": "Infraestructura",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Ha sido destituido",
     "BG": "No ha trabajado en el Estado",
@@ -2444,7 +2397,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Molina",
     "B": "Ortiz",
     "C": "John Edison",
     "D": "Antioquia",
@@ -2496,7 +2448,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Moreno",
     "B": "Espinosa",
     "C": "Pablo Oved",
     "D": "Antioquia",
@@ -2533,11 +2484,11 @@
     "AQ": "https://www.lasillavacia.com/media/49_PabloOvedMoreno.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Ecoturismo",
     "AW": "Infraestructura",
     "AX": "Educación superior",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2548,7 +2499,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Moronbia",
     "B": "Duqueresama",
     "C": "Luz Marina",
     "D": "Antioquia",
@@ -2585,7 +2535,7 @@
     "AQ": "https://www.lasillavacia.com/media/candidato-nn-m.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -2600,7 +2550,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Mosquera",
     "B": "Quinto",
     "C": "Menderson",
     "D": "Antioquia",
@@ -2637,11 +2586,11 @@
     "AQ": "https://www.lasillavacia.com/media/30_MendersonMosquera.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Defensa de los acuerdos de paz",
     "AX": "Implementación de los Pdet",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2652,7 +2601,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Múnera",
     "B": "Medina",
     "C": "Luz María",
     "D": "Antioquia",
@@ -2704,7 +2652,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Muñoz",
     "B": "Lopera",
     "C": "León Fredy",
     "D": "Antioquia",
@@ -2756,7 +2703,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Navarro",
     "B": "Arrieta",
     "C": "Edith Margoth",
     "D": "Antioquia",
@@ -2797,7 +2743,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -2808,7 +2754,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Ochoa",
     "B": "Tobón",
     "C": "Luis Carlos",
     "D": "Antioquia",
@@ -2860,7 +2805,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ochoa",
     "B": "Londoño",
     "C": "Luis Eduardo",
     "D": "Antioquia",
@@ -2897,11 +2841,11 @@
     "AQ": "https://www.lasillavacia.com/media/luis-eduardo-ochoa-londono.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha sido alcalde",
@@ -2912,7 +2856,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Osorio",
     "B": "Ramírez",
     "C": "Diana Cecilia",
     "D": "Antioquia",
@@ -2964,7 +2907,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ospina",
     "B": "Ospina",
     "C": "Elkin Rodolfo",
     "D": "Antioquia",
@@ -3016,7 +2958,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ospina",
     "B": "Agudelo",
     "C": "Hugo",
     "D": "Antioquia",
@@ -3053,11 +2994,11 @@
     "AQ": "https://www.lasillavacia.com/media/15-hugo-alberto-ospina.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3068,7 +3009,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Palacio",
     "B": "Vega",
     "C": "Guillermo León",
     "D": "Antioquia",
@@ -3105,11 +3045,11 @@
     "AQ": "https://www.lasillavacia.com/media/guillermo-leon-palacio.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -3120,7 +3060,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Parodi",
     "B": "Díaz",
     "C": "Mauricio",
     "D": "Antioquia",
@@ -3172,7 +3111,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peinado",
     "B": "Ramírez",
     "C": "Julián",
     "D": "Antioquia",
@@ -3209,7 +3147,7 @@
     "AQ": "https://www.lasillavacia.com/media/julian-peinado-ramirez.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Niñez",
     "AW": "Animalismo",
     "AX": "Medio ambiente",
@@ -3224,7 +3162,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Pineda",
     "C": "Óscar Darío",
     "D": "Antioquia",
@@ -3276,7 +3213,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quintero",
     "B": "Cardona",
     "C": "Esteban",
     "D": "Antioquia",
@@ -3317,7 +3253,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 25 y 40 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha sido representante a la Cámara",
@@ -3328,7 +3264,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Restrepo",
     "B": "Carmona",
     "C": "Daniel",
     "D": "Antioquia",
@@ -3380,7 +3315,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Restrepo",
     "B": "Arango",
     "C": "Margarita María",
     "D": "Antioquia",
@@ -3432,7 +3366,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Roldán",
     "B": "Avendaño",
     "C": "John Jairo",
     "D": "Antioquia",
@@ -3484,7 +3417,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Saldarriaga",
     "B": "",
     "C": "Luis Alejandro",
     "D": "Antioquia",
@@ -3536,7 +3468,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Carreño",
     "C": "Yulieth Andrea",
     "D": "Antioquia",
@@ -3588,7 +3519,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Toro",
     "B": "Ramírez",
     "C": "David Alejandro",
     "D": "Antioquia",
@@ -3640,7 +3570,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Trujillo",
     "B": "González",
     "C": "Carlos Andrés",
     "D": "Antioquia",
@@ -3692,7 +3621,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Valencia",
     "B": "González",
     "C": "Santiago",
     "D": "Antioquia",
@@ -3744,7 +3672,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Vargas",
     "B": "Ramírez",
     "C": "German Antonio",
     "D": "Antioquia",
@@ -3785,7 +3712,7 @@
     "AV": "Agricultura",
     "AW": "Hambre",
     "AX": "Educación",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3796,7 +3723,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Zuleta",
     "B": "López",
     "C": "Isabel",
     "D": "Antioquia",

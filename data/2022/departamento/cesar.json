@@ -1,6 +1,5 @@
 [
   {
-    "A": "Castro",
     "B": "Araujo",
     "C": "Pedro Norberto",
     "D": "Cesar",
@@ -37,7 +36,7 @@
     "AQ": "https://www.lasillavacia.com/media/23_PedroCastro.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Pdet",
     "AX": "Infraestructura",
@@ -52,7 +51,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Correa",
     "B": "Jiménez",
     "C": "Antonio",
     "D": "Cesar",
@@ -89,11 +87,11 @@
     "AQ": "https://www.lasillavacia.com/media/13-antonio-jose-correa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha sido senador",
@@ -104,7 +102,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Cruz",
     "B": "Casado",
     "C": "Libardo",
     "D": "Cesar",
@@ -145,7 +142,7 @@
     "AV": "Educación",
     "AW": "Salud",
     "AX": "Reactivación económica",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha sido alcalde",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuello",
     "B": "Baute",
     "C": "Alfredo Ape",
     "D": "Cesar",
@@ -208,7 +204,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gnecco",
     "B": "Zuleta",
     "C": "José Alfredo",
     "D": "Cesar",
@@ -245,7 +240,7 @@
     "AQ": "https://www.lasillavacia.com/media/3-jose-gnecco.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -260,7 +255,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Lobo",
     "B": "Chinchilla",
     "C": "Didier",
     "D": "Cesar",
@@ -297,7 +291,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0014_LOBO-CHINCHILLA.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Reducción del receso legislativo",
     "AW": "Fuero de paternidad",
     "AX": "Reforma a la justicia",
@@ -312,7 +306,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Morales",
     "B": "Atencio",
     "C": "Luis Enrique",
     "D": "Cesar",
@@ -353,7 +346,7 @@
     "AV": "Legislar a favor del pueblo",
     "AW": "Exigir el cumplimineto de los planes de compensación ambiental y económico de las empresas mineras.",
     "AX": "Gestionar la certificación turistia nacional e internacional en el Rio Guatapuri.",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Moreno",
     "B": "Villamizar",
     "C": "Christian",
     "D": "Cesar",
@@ -401,7 +393,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_christian-moreno.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ochoa",
     "B": "De la Hoz",
     "C": "José Sebastian",
     "D": "Cesar",
@@ -453,11 +444,11 @@
     "AQ": "https://www.lasillavacia.com/media/22_SebastianOchoa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -468,7 +459,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Padilla",
     "B": "Perez",
     "C": "Luis Fernando",
     "D": "Cesar",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Alvarez",
     "C": "Maryori de Jesús",
     "D": "Cesar",
@@ -557,7 +546,7 @@
     "AQ": "https://www.lasillavacia.com/media/31_Maryori-Perez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Pdet",
     "AX": "Sin datos",
@@ -572,7 +561,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Pineda",
     "B": "Ortiz",
     "C": "Alexandra",
     "D": "Cesar",
@@ -613,7 +601,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Portilla",
     "B": "Molina",
     "C": "Álvaro Ernesto",
     "D": "Cesar",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quintero",
     "B": "Ovalle",
     "C": "Carlos Felipe",
     "D": "Cesar",
@@ -713,11 +699,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0006_carlos-felipe-quintero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Romero",
     "B": "Ovalle",
     "C": "William Alfonso",
     "D": "Cesar",
@@ -765,11 +750,11 @@
     "AQ": "https://www.lasillavacia.com/media/30_William-Romero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -780,7 +765,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Salazar",
     "B": "Lopez",
     "C": "Eliécer",
     "D": "Cesar",
@@ -817,7 +801,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0002_eliecer-salazar.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Santana",
     "B": "Solano",
     "C": "Pedro Julio",
     "D": "Cesar",
@@ -869,11 +852,11 @@
     "AQ": "https://www.lasillavacia.com/media/pedro-santana.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sierra",
     "B": "Daza",
     "C": "David",
     "D": "Cesar",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tovar",
     "B": "Vélez",
     "C": "Jorge Rodrigo",
     "D": "Cesar",
@@ -973,7 +954,7 @@
     "AQ": "https://www.lasillavacia.com/media/34_JorgeTovar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",

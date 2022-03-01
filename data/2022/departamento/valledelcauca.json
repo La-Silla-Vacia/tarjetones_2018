@@ -1,6 +1,5 @@
 [
   {
-    "A": "Advincula",
     "B": "Mina",
     "C": "Yamile",
     "D": "Valle del Cauca",
@@ -37,11 +36,11 @@
     "AQ": "https://www.lasillavacia.com/media/28_YamileAdv¡ncula.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Memoria Histórica",
     "AX": "Mujeres",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -52,7 +51,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Angulo",
     "B": "Viveros",
     "C": "Milton Hugo",
     "D": "Valle del Cauca",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arias",
     "B": "Ceballos",
     "C": "Mildred Eliana",
     "D": "Valle del Cauca",
@@ -145,7 +142,7 @@
     "AV": "Lucha contra la corrupción",
     "AW": "Educación",
     "AX": "Movilidad",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arias",
     "B": "Castillo",
     "C": "Wilson",
     "D": "Valle del Cauca",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Arizabaleta",
     "B": "Corral",
     "C": "Gloria",
     "D": "Valle del Cauca",
@@ -249,7 +244,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Barreras",
     "B": "Montealegre",
     "C": "Roy",
     "D": "Valle del Cauca",
@@ -312,7 +306,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Barreto",
     "B": "de Gurisatti",
     "C": "Tulia",
     "D": "Valle del Cauca",
@@ -353,7 +346,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -364,7 +357,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Becerra",
     "B": "Díaz",
     "C": "Yitcy",
     "D": "Valle del Cauca",
@@ -405,7 +397,7 @@
     "AV": "Mipymes",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cabal",
     "B": "Molina",
     "C": "María Fernanda",
     "D": "Valle del Cauca",
@@ -468,7 +459,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Caicedo",
     "B": "Angulo",
     "C": "Cristóbal",
     "D": "Valle del Cauca",
@@ -509,7 +499,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carabalí",
     "B": "Playonero",
     "C": "Hooverth Eladio",
     "D": "Valle del Cauca",
@@ -557,7 +546,7 @@
     "AQ": "https://www.lasillavacia.com/media/27_HooverCarabal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Afros",
     "AW": "Medio ambiente",
     "AX": "Víctimas del conflicto",
@@ -572,7 +561,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Castillo",
     "B": "Advíncula",
     "C": "Orlando",
     "D": "Valle del Cauca",
@@ -609,11 +597,11 @@
     "AQ": "https://www.lasillavacia.com/media/29_OrlandoCastillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Afros",
     "AW": "Derechos humanos",
     "AX": "Víctimas del conflicto",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Cataño",
     "B": "Muñoz",
     "C": "Juana Eloisa",
     "D": "Valle del Cauca",
@@ -661,11 +648,11 @@
     "AQ": "https://www.lasillavacia.com/media/14_Juanita-Catano.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "David",
     "B": "Adarve",
     "C": "Álvaro Fernando",
     "D": "Valle del Cauca",
@@ -713,11 +699,11 @@
     "AQ": "https://www.lasillavacia.com/media/37_Alvaro-Adarve.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Delgado",
     "B": "Martínez",
     "C": "Edinson",
     "D": "Valle del Cauca",
@@ -769,7 +754,7 @@
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 25 y 40 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -780,7 +765,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Delgado",
     "B": "Blandón",
     "C": "Ubeimar",
     "D": "Valle del Cauca",
@@ -832,7 +816,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Gallego",
     "B": "González",
     "C": "Jesús Octavio",
     "D": "Valle del Cauca",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gallego",
     "B": "Arroyave",
     "C": "Leónardo de Jesús",
     "D": "Valle del Cauca",
@@ -921,11 +903,11 @@
     "AQ": "https://www.lasillavacia.com/media/8_Leonardo-de-Jesus.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garcés",
     "B": "Aljure",
     "C": "Christian",
     "D": "Valle del Cauca",
@@ -973,7 +954,7 @@
     "AQ": "https://www.lasillavacia.com/media/33_Christian-Munir-Garces-Aljure.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Seguridad",
     "AX": "Porte de armas",
@@ -988,7 +969,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garcés",
     "B": "Rojas",
     "C": "Juan Carlos",
     "D": "Valle del Cauca",
@@ -1040,7 +1020,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "García",
     "B": "Arizabaleta",
     "C": "Daniel",
     "D": "Valle del Cauca",
@@ -1081,7 +1060,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Ha sido destituido",
     "BG": "Ha trabajado en el Estado",
@@ -1092,7 +1071,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "García",
     "B": "Varela",
     "C": "Julio César",
     "D": "Valle del Cauca",
@@ -1129,11 +1107,11 @@
     "AQ": "https://www.lasillavacia.com/media/10_Julio-Cesar-Garcia.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1144,7 +1122,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garzón",
     "B": "Solis",
     "C": "José William",
     "D": "Valle del Cauca",
@@ -1181,7 +1158,7 @@
     "AQ": "https://www.lasillavacia.com/media/17_Jose_William_Garzon_Solis.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1196,7 +1173,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Millán",
     "C": "Adriana",
     "D": "Valle del Cauca",
@@ -1233,7 +1209,7 @@
     "AQ": "https://www.lasillavacia.com/media/40_Adriana-Gomez-Millan.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1248,7 +1224,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Díaz",
     "C": "Heyder Orlando",
     "D": "Valle del Cauca",
@@ -1300,7 +1275,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Guerrero",
     "C": "Luis Alfredo",
     "D": "Valle del Cauca",
@@ -1352,7 +1326,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hernández",
     "B": "Aguirre",
     "C": "Julián",
     "D": "Valle del Cauca",
@@ -1389,7 +1362,7 @@
     "AQ": "https://www.lasillavacia.com/media/12_Julian-Hernandez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1404,7 +1377,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hoyos",
     "B": "García",
     "C": "John Jairo",
     "D": "Valle del Cauca",
@@ -1441,11 +1413,11 @@
     "AQ": "https://www.lasillavacia.com/media/10-john-jairo-hoyos.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -1456,7 +1428,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Hurtado",
     "B": "Guerrero",
     "C": "José Harbey",
     "D": "Valle del Cauca",
@@ -1493,11 +1464,11 @@
     "AQ": "https://www.lasillavacia.com/media/19_Jose-Harbey-Hurtado-Guerrero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1508,7 +1479,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hurtado",
     "B": "Sánchez",
     "C": "Norma",
     "D": "Valle del Cauca",
@@ -1560,7 +1530,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Jiménez",
     "B": "López",
     "C": "Carlos Abraham",
     "D": "Valle del Cauca",
@@ -1597,7 +1566,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0006_JIMENEZ-LOPEZ.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Reincidencia como factor de agravación",
     "AW": "Regular las criptomonedas",
     "AX": "Después de pagar la pena, el sujeto debe presentarse cada mes ante un juez",
@@ -1612,7 +1581,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "López",
     "B": "Maya",
     "C": "Alexander",
     "D": "Valle del Cauca",
@@ -1653,7 +1621,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -1664,7 +1632,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "López",
     "B": "Tenorio",
     "C": "Julián David",
     "D": "Valle del Cauca",
@@ -1701,7 +1668,7 @@
     "AQ": "https://www.lasillavacia.com/media/11_Julian-Lopez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1716,7 +1683,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Maya",
     "B": "Bedoya",
     "C": "John Michel",
     "D": "Valle del Cauca",
@@ -1768,7 +1734,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Mondragón",
     "B": "Garzón",
     "C": "Alfredo",
     "D": "Valle del Cauca",
@@ -1809,7 +1774,7 @@
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1820,7 +1785,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Monedero",
     "B": "Rivera",
     "C": "Álvaro Henry",
     "D": "Valle del Cauca",
@@ -1857,7 +1821,7 @@
     "AQ": "https://www.lasillavacia.com/media/36_Alvaro-Henry-Monedero-Rivera.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1872,7 +1836,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Motoa",
     "B": "Daza",
     "C": "Carlos Fernando",
     "D": "Valle del Cauca",
@@ -1924,7 +1887,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Muñoz",
     "B": "Lerma",
     "C": "José Luis",
     "D": "Valle del Cauca",
@@ -1961,7 +1923,7 @@
     "AQ": "https://www.lasillavacia.com/media/18_Jose-Luis-Munoz-Lerma.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1976,7 +1938,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Murillo",
     "B": "Granados",
     "C": "Ana Cristina",
     "D": "Valle del Cauca",
@@ -2028,7 +1989,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Obando",
     "B": "Calvache",
     "C": "Aelin Michelle",
     "D": "Valle del Cauca",
@@ -2080,7 +2040,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ocampo",
     "B": "Giraldo",
     "C": "Alejandro",
     "D": "Valle del Cauca",
@@ -2121,7 +2080,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2132,7 +2091,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Orozco",
     "B": "Lince",
     "C": "Gustavo Alberto",
     "D": "Valle del Cauca",
@@ -2169,11 +2127,11 @@
     "AQ": "https://www.lasillavacia.com/media/28_Gustavo-Orozco.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Apoyo a la fuerza pública",
     "AW": "Aumentar penas",
     "AX": "Ayudas a población de bajos ingresos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2184,7 +2142,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peña",
     "B": "",
     "C": "Gloria",
     "D": "Valle del Cauca",
@@ -2225,7 +2182,7 @@
     "AV": "Madres comunitarias",
     "AW": "Liderazgo social",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2236,7 +2193,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pérez",
     "B": "Oyuela",
     "C": "José Luis",
     "D": "Valle del Cauca",
@@ -2273,7 +2229,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0007_JOSE-LUIS-PEREZ-OYUELA.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -2288,7 +2244,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Pimentel",
     "B": "Murillo",
     "C": "Jhon Fredy",
     "D": "Valle del Cauca",
@@ -2325,11 +2280,11 @@
     "AQ": "https://www.lasillavacia.com/media/23_Jhon-Fred-Pimentel-Murillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -2340,7 +2295,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rentería",
     "B": "Castillo",
     "C": "Jackeline",
     "D": "Valle del Cauca",
@@ -2377,7 +2331,7 @@
     "AQ": "https://www.lasillavacia.com/media/25_Jackeline-Renteria.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Deporte",
     "AW": "Educación",
     "AX": "Cultura",
@@ -2392,7 +2346,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Reyes",
     "B": "Kuri",
     "C": "Juan Fernando",
     "D": "Valle del Cauca",
@@ -2444,7 +2397,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rojas",
     "B": "Bautista",
     "C": "José Uriel",
     "D": "Valle del Cauca",
@@ -2481,11 +2433,11 @@
     "AQ": "https://www.lasillavacia.com/media/3_Jose-Uriel-Rojas.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2496,7 +2448,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Uribe",
     "C": "Juan Carlos",
     "D": "Valle del Cauca",
@@ -2533,7 +2484,7 @@
     "AQ": "https://www.lasillavacia.com/media/16_Juan-Carlos-Salazar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -2548,7 +2499,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salcedo",
     "B": "Guerrero",
     "C": "Victor Manuel",
     "D": "Valle del Cauca",
@@ -2585,11 +2535,11 @@
     "AQ": "https://www.lasillavacia.com/media/2_Victor-Manuel-Salcedo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -2600,7 +2550,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Arango",
     "C": "Duvalier",
     "D": "Valle del Cauca",
@@ -2637,7 +2586,7 @@
     "AQ": "https://www.lasillavacia.com/media/30_Duvalier-Sanchez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Animalismo",
     "AW": "Medio ambiente",
     "AX": "Corrupción",
@@ -2652,7 +2601,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Suárez",
     "B": "Vargas",
     "C": "John Harold",
     "D": "Valle del Cauca",
@@ -2693,7 +2641,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Deporte",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido alcalde",
@@ -2704,7 +2652,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Tamayo",
     "B": "Marulanda",
     "C": "Jorge Eliécer",
     "D": "Valle del Cauca",
@@ -2741,7 +2688,7 @@
     "AQ": "https://www.lasillavacia.com/media/21_Jorge-Eliecer-Tamayo.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -2756,7 +2703,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tejada",
     "B": "Echeverri",
     "C": "José Alberto",
     "D": "Valle del Cauca",
@@ -2797,7 +2743,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2808,7 +2754,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Toloza",
     "B": "Colorado",
     "C": "Fernando",
     "D": "Valle del Cauca",
@@ -2849,7 +2794,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2860,7 +2805,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Torres",
     "B": "Ortíz",
     "C": "Johnson",
     "D": "Valle del Cauca",
@@ -2901,7 +2845,7 @@
     "AV": "Producción",
     "AW": "Empleo",
     "AX": "Derechos Humanos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2912,7 +2856,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Torres",
     "B": "",
     "C": "Yonk Jairo",
     "D": "Valle del Cauca",
@@ -2949,7 +2892,7 @@
     "AQ": "https://www.lasillavacia.com/media/0_Yonk-Jairo-Torres.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -2964,7 +2907,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Velasco",
     "B": "Rivera",
     "C": "Claudia Liliana",
     "D": "Valle del Cauca",
@@ -3005,7 +2947,7 @@
     "AV": "Animalismo",
     "AW": "Medio ambiente",
     "AX": "Género",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3016,7 +2958,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Velasco",
     "B": "Ocampo",
     "C": "Gabriel",
     "D": "Valle del Cauca",
@@ -3057,7 +2998,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -3068,7 +3009,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Vélez",
     "B": "Román",
     "C": "Gustavo Adolfo",
     "D": "Valle del Cauca",
@@ -3105,11 +3045,11 @@
     "AQ": "https://www.lasillavacia.com/media/27_Gustavo-Velez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -3120,7 +3060,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Zapata",
     "B": "Agudelo",
     "C": "Julián Andrés",
     "D": "Valle del Cauca",
@@ -3161,7 +3100,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

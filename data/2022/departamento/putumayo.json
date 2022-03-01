@@ -1,6 +1,5 @@
 [
   {
-    "A": "Artunduaga",
     "B": "Trejo",
     "C": "Yuly Paola",
     "D": "Putumayo",
@@ -37,11 +36,11 @@
     "AQ": "https://www.lasillavacia.com/media/42_Yuly-Paola-Artunduaga.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -52,7 +51,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Chindoy",
     "B": "Chicunque",
     "C": "Marcelino",
     "D": "Putumayo",
@@ -104,7 +102,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Hurtado",
     "B": "Angulo",
     "C": "Aura Lilia",
     "D": "Putumayo",
@@ -141,11 +138,11 @@
     "AQ": "https://www.lasillavacia.com/media/44_Aura-Lilia-Hurtado.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Liderazgo social",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -156,7 +153,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Pantoja",
     "B": "Cabrera",
     "C": "Italo Ernesto",
     "D": "Putumayo",
@@ -197,7 +193,7 @@
     "AV": "Defensa de los Acuerdos de Paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",

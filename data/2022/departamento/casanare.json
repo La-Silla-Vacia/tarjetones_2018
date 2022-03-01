@@ -1,6 +1,5 @@
 [
   {
-    "A": "Barrera",
     "B": "Rodríguez",
     "C": "Alirio",
     "D": "Casanare",
@@ -41,7 +40,7 @@
     "AV": "Caballos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido gobernador",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "González",
     "B": "Rodríguez",
     "C": "Amanda",
     "D": "Casanare",
@@ -89,7 +87,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0017_GONZALEZ-RODRIGUEZ.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Reactivación del arte",
     "AW": "Turismo",
     "AX": "Sin datos",

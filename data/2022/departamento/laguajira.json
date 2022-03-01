@@ -1,6 +1,5 @@
 [
   {
-    "A": "Colmenares",
     "B": "Rodríguez",
     "C": "Luis Alonso",
     "D": "La Guajira",
@@ -37,11 +36,11 @@
     "AQ": "https://www.lasillavacia.com/media/19_Luis-Alonso-Colmenares.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Reducción del Estado",
     "AW": "Subsidios de gasolina",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Dangond",
     "B": "Baquero",
     "C": "Indalecio",
     "D": "La Guajira",
@@ -93,7 +91,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -104,7 +102,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Deluque",
     "B": "Zuleta",
     "C": "Alfredo Rafael",
     "D": "La Guajira",
@@ -141,7 +138,7 @@
     "AQ": "https://www.lasillavacia.com/media/8-alfredo-deluque.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Poder guajiro",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -156,7 +153,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Maestre",
     "B": "Bello",
     "C": "José Manuel",
     "D": "La Guajira",
@@ -193,11 +189,11 @@
     "AQ": "https://www.lasillavacia.com/media/candidato-nn-h.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -208,7 +204,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Peralta",
     "B": "Epieyu",
     "C": "Martha",
     "D": "La Guajira",
@@ -249,7 +244,7 @@
     "AV": "Indígenas",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

@@ -1,6 +1,5 @@
 [
   {
-    "A": "Amín",
     "B": "Saleme",
     "C": "Fabio",
     "D": "Córdoba",
@@ -37,7 +36,7 @@
     "AQ": "https://www.lasillavacia.com/media/04_FabioAmin.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Ayala",
     "B": "Durango",
     "C": "José Antonio",
     "D": "Córdoba",
@@ -89,11 +87,11 @@
     "AQ": "https://www.lasillavacia.com/media/10_Ayala-Durango.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Antiaborto",
     "AW": "Familia",
     "AX": "Fuerza pública",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Barguil",
     "B": "Cubillos",
     "C": "Nicolás",
     "D": "Córdoba",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Besaile",
     "B": "Fayad",
     "C": "John",
     "D": "Córdoba",
@@ -193,11 +189,11 @@
     "AQ": "https://www.lasillavacia.com/media/4-moises-besaile.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha sido alcalde",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Bitar",
     "B": "Castilla",
     "C": "Liliana",
     "D": "Córdoba",
@@ -249,7 +244,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -260,7 +255,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Burgos",
     "B": "Lugo",
     "C": "Jorge Enrique",
     "D": "Córdoba",
@@ -297,7 +291,7 @@
     "AQ": "https://www.lasillavacia.com/media/01_JORGE-ENRIQUE-BURGOS-LUGO.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cabeza",
     "B": "Del Toro",
     "C": "Yessica Marcela",
     "D": "Córdoba",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Calle",
     "B": "Aguas",
     "C": "Andrés David",
     "D": "Córdoba",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Casado",
     "B": "López",
     "C": "Arleth",
     "D": "Córdoba",
@@ -453,7 +444,7 @@
     "AQ": "https://www.lasillavacia.com/media/08_Casado-Lopez.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "De la Ossa",
     "B": "Vergara",
     "C": "Yolis",
     "D": "Córdoba",
@@ -505,7 +495,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0004_yolis-de-la-ossa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Representación indígena",
     "AW": "Derechos de mujeres cabeza de familia",
     "AX": "Derechos de población con discapacidades",
@@ -520,7 +510,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Elias",
     "B": "Vidal",
     "C": "Julio Alberto",
     "D": "Córdoba",
@@ -557,11 +546,11 @@
     "AQ": "https://www.lasillavacia.com/media/12-julio-alberto-elias.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -572,7 +561,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "García",
     "B": "Soto",
     "C": "Ana Paola",
     "D": "Córdoba",
@@ -609,11 +597,11 @@
     "AQ": "https://www.lasillavacia.com/media/02_Garcia-Soto.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Infraestructura vial",
     "AX": "Jóvenes",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "Reyes",
     "C": "Walter Hernán",
     "D": "Córdoba",
@@ -661,11 +648,11 @@
     "AQ": "https://www.lasillavacia.com/media/06_Gomez-Reyes.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Salud",
     "AW": "Deporte",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Guerra",
     "B": "López",
     "C": "María Angélica",
     "D": "Córdoba",
@@ -717,7 +703,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 25 y 40 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Manzur",
     "B": "Imbett",
     "C": "Wadith Alberto",
     "D": "Córdoba",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mercado",
     "B": "Echenique",
     "C": "William",
     "D": "Córdoba",
@@ -821,7 +805,7 @@
     "AV": "Economía",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -832,7 +816,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Moreno",
     "B": "Garavito",
     "C": "Rafael Emiro",
     "D": "Córdoba",
@@ -869,7 +852,7 @@
     "AQ": "https://www.lasillavacia.com/media/05_RafaelMoreno.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Control político",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -884,7 +867,6 @@
     "BL": "De Paz"
   },
   {
-    "A": "Ortega",
     "B": "Porto",
     "C": "Álvaro de Jesús",
     "D": "Córdoba",
@@ -921,11 +903,11 @@
     "AQ": "https://www.lasillavacia.com/media/09_Ortega-Porto.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Palencia",
     "B": "Vega",
     "C": "Leónor María",
     "D": "Córdoba",
@@ -973,11 +954,11 @@
     "AQ": "https://www.lasillavacia.com/media/24_LeonorPalenica.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -988,7 +969,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Pérez",
     "B": "Posada",
     "C": "Santiago Miguel",
     "D": "Córdoba",
@@ -1025,11 +1005,11 @@
     "AQ": "https://www.lasillavacia.com/media/00_Santiago-Perez-Posada.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Ha sido destituido",
     "BG": "Ha trabajado en el Estado",
@@ -1040,7 +1020,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Petro",
     "B": "Delgado",
     "C": "Eduard Enrique",
     "D": "Córdoba",
@@ -1092,7 +1071,6 @@
     "BL": "De Paz"
   },
   {
-    "A": "Pineda",
     "B": "García",
     "C": "Marcos Daniel",
     "D": "Córdoba",
@@ -1133,7 +1111,7 @@
     "AV": "Infraestructura",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha sido alcalde",
@@ -1144,7 +1122,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Robayo",
     "B": "Bechara",
     "C": "Saray Elena",
     "D": "Córdoba",
@@ -1181,7 +1158,7 @@
     "AQ": "https://www.lasillavacia.com/media/12_Robayo-Bechara.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Agro",
     "AW": "Emprendimiento para las mujeres",
     "AX": "Equidad de género en el deporte",
@@ -1196,7 +1173,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tous",
     "B": "De la Ossa",
     "C": "Eduardo José",
     "D": "Córdoba",
@@ -1233,7 +1209,7 @@
     "AQ": "https://www.lasillavacia.com/media/07_Tous-DelaOssa.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Niños",
     "AW": "Jóvenes",
     "AX": "Sin datos",
@@ -1248,7 +1224,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Urzola",
     "B": "De la Barrera",
     "C": "Ermes Rafael",
     "D": "Córdoba",
@@ -1300,7 +1275,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Zapata",
     "B": "Martínez",
     "C": "Arnobi de Jesús",
     "D": "Córdoba",
@@ -1337,11 +1311,11 @@
     "AQ": "https://www.lasillavacia.com/media/33_Arnobi-Zapata.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sustitución de cultivos",
     "AW": "Implementación de los Acuerdos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

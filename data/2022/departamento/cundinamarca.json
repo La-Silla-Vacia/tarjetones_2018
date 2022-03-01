@@ -1,6 +1,5 @@
 [
   {
-    "A": "Bolívar",
     "B": "Moreno",
     "C": "Gustavo",
     "D": "Cundinamarca",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Cleves",
     "B": "Rodríguez",
     "C": "Jorge Humberto",
     "D": "Cundinamarca",
@@ -104,7 +102,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Hernández",
     "B": "Silva",
     "C": "Yuly Esmeralda",
     "D": "Cundinamarca",
@@ -145,7 +142,7 @@
     "AV": "Animalista",
     "AW": "Medio ambiente",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha sido alcalde",
@@ -156,7 +153,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Molina",
     "B": "Triana",
     "C": "Alfredo Guillermo",
     "D": "Cundinamarca",
@@ -193,7 +189,7 @@
     "AQ": "https://www.lasillavacia.com/media/17-alfredo-guillermo-molina.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Mora",
     "B": "Godoy",
     "C": "Tarsicio",
     "D": "Cundinamarca",
@@ -260,7 +255,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Soto",
     "B": "Gelvez",
     "C": "Richard",
     "D": "Cundinamarca",
@@ -301,7 +295,7 @@
     "AV": "Seguridad",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -312,7 +306,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Tamayo",
     "B": "Tamayo",
     "C": "Soledad",
     "D": "Cundinamarca",
@@ -364,7 +357,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Forero",
     "B": "Obregón",
     "C": "Nicolás",
     "D": "Cundinamarca",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Zorro",
     "B": "Africano",
     "C": "Betty",
     "D": "Cundinamarca",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rozo",
     "B": "Rodríguez",
     "C": "Julián",
     "D": "Cundinamarca",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rico",
     "B": "Rico",
     "C": "Leonardo",
     "D": "Cundinamarca",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rodríguez",
     "B": "Valencia",
     "C": "Liliana",
     "D": "Cundinamarca",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Coronado",
     "B": "Coronado",
     "C": "Lina",
     "D": "Cundinamarca",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Caicedo",
     "B": "Navas",
     "C": "Diego",
     "D": "Cundinamarca",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Linares",
     "B": "Camberos",
     "C": "Jhon",
     "D": "Cundinamarca",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sarmiento",
     "B": "Hidalgo",
     "C": "Eduard",
     "D": "Cundinamarca",
@@ -791,7 +775,7 @@
     "N": "Cámara",
     "O": "Hombre",
     "Q": "Polo Democrático",
-    "R": 101,
+    "R": "Lista cerrada",
     "S": "Izquierda",
     "T": "Zipaquirá",
     "U": "Medicina General",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vásquez",
     "B": "Ochoa",
     "C": "Alexandra",
     "D": "Cundinamarca",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Espinel",
     "B": "Torres",
     "C": "Yeilor",
     "D": "Cundinamarca",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gutiérrez",
     "B": "Castañeda",
     "C": "Adriana",
     "D": "Cundinamarca",
@@ -977,7 +958,7 @@
     "AV": "Innovación rural del campesinado",
     "AW": "Tecnología para la educación",
     "AX": "Gestión territorial para mejorar productividad",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -988,7 +969,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quiroga",
     "B": "Moreno",
     "C": "Laurentino",
     "D": "Cundinamarca",
@@ -1040,7 +1020,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "León",
     "C": "Óscar",
     "D": "Cundinamarca",
@@ -1077,7 +1056,7 @@
     "AQ": "https://www.lasillavacia.com/media/oscar-sanchez(0).jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Integración de Bogotá con municipios de Cundinamarca",
     "AW": "Protección del adulto mayor",
     "AX": "",
@@ -1092,7 +1071,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rendón",
     "B": "Nerio",
     "C": "Daniel",
     "D": "Cundinamarca",
@@ -1133,7 +1111,7 @@
     "AV": "Defensa de los Derechos Humanos",
     "AW": "Defensa de las víctimas del conflicto",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1144,7 +1122,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Salazar",
     "B": "Perdomo",
     "C": "Julio Roberto",
     "D": "Cundinamarca",
@@ -1185,7 +1162,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1196,7 +1173,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mayorga",
     "B": "Mancera",
     "C": "Édgar",
     "D": "Cundinamarca",
@@ -1233,7 +1209,7 @@
     "AQ": "https://www.lasillavacia.com/media/edgar-mayorga.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Ley de la ruralidad para beneficiar al campo y al campesino en un sistema integral de producción.",
     "AW": "Ley del primer empleo",
     "AX": "Modificación a la ley de discapacidad del país.",
@@ -1248,7 +1224,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gómez",
     "B": "López",
     "C": "María Angélica",
     "D": "Cundinamarca",
@@ -1300,7 +1275,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Intriago",
     "B": "Bogotá",
     "C": "César",
     "D": "Cundinamarca",
@@ -1337,7 +1311,7 @@
     "AQ": "https://www.lasillavacia.com/media/cesar-intriago.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Llevar internet a todos los rincones de Cundinamarca",
     "AW": "Educación superior y media básica en todos los municipios",
     "AX": "Tecnificación del campo",
@@ -1352,7 +1326,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garzón",
     "B": "Plazas",
     "C": "Diego",
     "D": "Cundinamarca",
@@ -1404,7 +1377,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Arias",
     "B": "Quintana",
     "C": "Arnulfo",
     "D": "Cundinamarca",
@@ -1441,7 +1413,7 @@
     "AQ": "https://www.lasillavacia.com/media/arnulfo-arias.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Promover el deporte",
     "AW": "Oportunidades para los jóvenes",
     "AX": "Más participación de las mujeres en la política local",
@@ -1456,7 +1428,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Almansa",
     "B": "Varela",
     "C": "Elica",
     "D": "Cundinamarca",
@@ -1493,11 +1464,11 @@
     "AQ": "https://www.lasillavacia.com/media/elica-almansa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Desarrollo del campo",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -1508,7 +1479,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Bernal",
     "B": "Cheque",
     "C": "Jhon",
     "D": "Cundinamarca",
@@ -1545,7 +1515,7 @@
     "AQ": "https://www.lasillavacia.com/media/jhon-bernal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de la vida",
     "AW": "Defensa de la familia",
     "AX": "No pago de peajes en Cundinamarca",
@@ -1560,7 +1530,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Hernandez",
     "B": "Sandoval",
     "C": "Yisell",
     "D": "Cundinamarca",
@@ -1597,7 +1566,7 @@
     "AQ": "https://www.lasillavacia.com/media/yisell-hernandez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -1612,7 +1581,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Baracaldo",
     "B": "Vélez",
     "C": "David",
     "D": "Cundinamarca",
@@ -1649,7 +1617,7 @@
     "AQ": "https://www.lasillavacia.com/media/david-baracaldo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Congreso eficiente y eficaz",
     "AW": "Combatir corrupción",
     "AX": "Reforma laboral",
@@ -1664,7 +1632,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Molano",
     "B": "Piñeros",
     "C": "Rubén",
     "D": "Cundinamarca",
@@ -1716,7 +1683,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Garzón",
     "B": "Rodríguez",
     "C": "Hernán",
     "D": "Cundinamarca",
@@ -1768,7 +1734,6 @@
     "BL": "Normal"
   },
   {
-    "A": "López",
     "B": "Jerez",
     "C": "Carlos",
     "D": "Cundinamarca",
@@ -1813,6 +1778,57 @@
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
+    "BH": "No",
+    "BI": "Sin datos",
+    "BJ": "Cundinamarca",
+    "BK": "Sin datos",
+    "BL": "Normal"
+  },
+  {
+    "B": "Pérez",
+    "C": "Patricia",
+    "D": "Cundinamarca",
+    "G": "",
+    "H": "",
+    "K": 7058,
+    "L": "Asamblea de Cundinamarca 2019",
+    "N": "Cámara",
+    "O": "Mujer",
+    "Q": "Alianza Verde",
+    "R": 105,
+    "S": "Centro",
+    "T": "",
+    "U": "Ingeniería",
+    "V": "Especialización",
+    "W": "Público",
+    "X": "Política",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Ingeniera de sistemas  especialziada en gestión y desarrollo municipal. Ha trabajado con el exgobernador Jorge Rey como gerente del Instituto del Departamento de Cultura y Turismo. También fue contratista del actual mandatario de Cundinamarca, Nicolás García. Además fue secretaria del despacho de la Alcaldía de Tenjo. En 2019 se lanzó a la Cámara por el partido verde, pero se quemó con 7.058 votos.",
+    "AQ": "https://www.lasillavacia.com/media/patricia-trivino.jpg",
+    "AR": "No",
+    "AT": "Carlos Amaya",
+    "AU": "Centro Esperanza",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "No me importa la edad",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
     "BH": "No",
     "BI": "Sin datos",
     "BJ": "Cundinamarca",

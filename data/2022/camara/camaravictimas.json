@@ -1,6 +1,5 @@
 [
   {
-    "A": "Acosta",
     "B": "Piranga",
     "C": "Ada Luz",
     "D": "Caquetá",
@@ -37,7 +36,7 @@
     "AQ": "https://www.lasillavacia.com/media/36_AdaLuzAcosta.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -52,7 +51,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Advincula",
     "B": "Mina",
     "C": "Yamile",
     "D": "Valle del Cauca",
@@ -89,11 +87,11 @@
     "AQ": "https://www.lasillavacia.com/media/28_YamileAdv¡ncula.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Memoria Histórica",
     "AX": "Mujeres",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -104,7 +102,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Alarcon",
     "B": "Fernandez",
     "C": "Dionisio Rafael",
     "D": "Sucre",
@@ -156,7 +153,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Alarcón",
     "B": "Bohórquez",
     "C": "Isidro",
     "D": "Bolívar",
@@ -193,11 +189,11 @@
     "AQ": "https://www.lasillavacia.com/media/04_IsidroAlarconBohorquez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Derechos Humanos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -208,7 +204,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Aljure",
     "B": "Martinez",
     "C": "William Ferney",
     "D": "Meta",
@@ -245,11 +240,11 @@
     "AQ": "https://www.lasillavacia.com/media/39_William-Aljure.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Reconciliación",
     "AW": "Cambio climático",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -260,7 +255,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Álvarez",
     "B": "Vacca",
     "C": "Edward",
     "D": "Magdalena",
@@ -297,7 +291,7 @@
     "AQ": "https://www.lasillavacia.com/media/32_Edward-Alvarez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Pdet",
     "AX": "Turismo",
@@ -312,7 +306,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Angarita",
     "B": "Robles",
     "C": "Mayerlis",
     "D": "Sucre",
@@ -349,7 +342,7 @@
     "AQ": "https://www.lasillavacia.com/media/27_Mayerlis-Angarita.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -364,7 +357,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Arciniegas",
     "B": "Guevara",
     "C": "Rodulfo",
     "D": "Arauca",
@@ -401,11 +393,11 @@
     "AQ": "https://www.lasillavacia.com/media/12_RodulfoArciniegas.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Acceso a tierras",
     "AW": "Ampliar Pdet",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -416,7 +408,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Arévalo",
     "B": "Cañizares",
     "C": "Naun",
     "D": "Norte de Santander",
@@ -468,7 +459,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Artunduaga",
     "B": "Trejo",
     "C": "Yuly Paola",
     "D": "Putumayo",
@@ -505,11 +495,11 @@
     "AQ": "https://www.lasillavacia.com/media/42_Yuly-Paola-Artunduaga.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -520,7 +510,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Bazurto",
     "B": "Vargas",
     "C": "Juvenal",
     "D": "Caquetá",
@@ -557,7 +546,7 @@
     "AQ": "https://www.lasillavacia.com/media/21_Juvenal-Bazurto-Caqueta.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Campesinos",
     "AW": "Desarrollo rural",
     "AX": "Medio ambiente",
@@ -572,7 +561,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Blanco",
     "B": "Torres",
     "C": "Yessica Paola",
     "D": "Sucre",
@@ -613,7 +601,7 @@
     "AV": "Implementación de los Acuerdos",
     "AW": "Víctimas del conflicto",
     "AX": "Jóvenes",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Blandon",
     "B": "Palacios",
     "C": "Jazmir",
     "D": "Chocó",
@@ -661,11 +648,11 @@
     "AQ": "https://www.lasillavacia.com/media/18_JazmirBlandon.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -676,7 +663,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Bonilla",
     "B": "Bonilla",
     "C": "Levinson",
     "D": "Cauca",
@@ -713,11 +699,11 @@
     "AQ": "https://www.lasillavacia.com/media/46_LevinsonBonilla_Cauca.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Afros",
     "AW": "Desarrollo rural",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Bustillo",
     "B": "Gómez",
     "C": "Dairo José",
     "D": "Bolívar",
@@ -765,7 +750,7 @@
     "AQ": "https://www.lasillavacia.com/media/24_Dairo-Bustillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Agricultura",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -780,7 +765,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Carabalí",
     "B": "Charrupi",
     "C": "Hector Marino",
     "D": "Cauca",
@@ -817,7 +801,7 @@
     "AQ": "https://www.lasillavacia.com/media/09_Hectorcarabali.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Afros",
@@ -832,7 +816,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Carabalí",
     "B": "Playonero",
     "C": "Hooverth Eladio",
     "D": "Valle del Cauca",
@@ -869,7 +852,7 @@
     "AQ": "https://www.lasillavacia.com/media/27_HooverCarabal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Afros",
     "AW": "Medio ambiente",
     "AX": "Víctimas del conflicto",
@@ -884,7 +867,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Castillo",
     "B": "Advíncula",
     "C": "Orlando",
     "D": "Valle del Cauca",
@@ -921,11 +903,11 @@
     "AQ": "https://www.lasillavacia.com/media/29_OrlandoCastillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Afros",
     "AW": "Derechos humanos",
     "AX": "Víctimas del conflicto",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -936,7 +918,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Castro",
     "B": "Araujo",
     "C": "Pedro Norberto",
     "D": "Cesar",
@@ -973,7 +954,7 @@
     "AQ": "https://www.lasillavacia.com/media/23_PedroCastro.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Pdet",
     "AX": "Infraestructura",
@@ -988,7 +969,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Cortés",
     "B": "Lastra",
     "C": "Ernesto",
     "D": "Nariño",
@@ -1025,11 +1005,11 @@
     "AQ": "https://www.lasillavacia.com/media/16_Ernesto-Cortes-Narino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Afros",
     "AX": "Llevar servicios públicos al territorio",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1040,7 +1020,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Cortés",
     "B": "Arboleda",
     "C": "Hernán",
     "D": "Nariño",
@@ -1092,7 +1071,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Cortés",
     "B": "Quiñonez",
     "C": "Jairo Ernesto",
     "D": "Nariño",
@@ -1133,7 +1111,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "No ha trabajado en el Estado",
@@ -1144,7 +1122,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Delgado",
     "B": "Lezama",
     "C": "Anaidalyt",
     "D": "Antioquia",
@@ -1181,11 +1158,11 @@
     "AQ": "https://www.lasillavacia.com/media/15_AnaidalytDelgado.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1196,7 +1173,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Donado",
     "B": "Leal",
     "C": "Wilfredo",
     "D": "Arauca",
@@ -1233,11 +1209,11 @@
     "AQ": "https://www.lasillavacia.com/media/10_WilfredoDonadoLeal.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Agro",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1248,7 +1224,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Duque",
     "B": "Lenis",
     "C": "Jorge Ivan",
     "D": "Meta",
@@ -1285,11 +1260,11 @@
     "AQ": "https://www.lasillavacia.com/media/40_Jorge-Ivan-Duque-Lenis.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Ha sido destituido",
     "BG": "Ha sido alcalde",
@@ -1300,7 +1275,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Escobar",
     "B": "Mendoza",
     "C": "Dibia Estela",
     "D": "Antioquia",
@@ -1337,11 +1311,11 @@
     "AQ": "https://www.lasillavacia.com/media/32_DibiaEscobar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -1352,7 +1326,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Gómez",
     "B": "Rodríguez",
     "C": "Julián Enrique",
     "D": "Tolima",
@@ -1389,11 +1362,11 @@
     "AQ": "https://www.lasillavacia.com/media/38_Julian-Enrique-Gomez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Campesinos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -1404,7 +1377,6 @@
     "BL": "De paz"
   },
   {
-    "A": "González",
     "B": "Agudelo",
     "C": "John Jairo",
     "D": "Antioquia",
@@ -1441,11 +1413,11 @@
     "AQ": "https://www.lasillavacia.com/media/13_JohnJairoGonzalez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Implementación de los Acuerdos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1456,7 +1428,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Gutiérrez",
     "B": "Bravo",
     "C": "César Augusto",
     "D": "Cauca",
@@ -1508,7 +1479,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Gutiérrez",
     "B": "Alandete",
     "C": "Eder Felio",
     "D": "Sucre",
@@ -1545,11 +1515,11 @@
     "AQ": "https://www.lasillavacia.com/media/25_Eder-Gutierrez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Pdets",
     "AW": "Implementación de los Acuerdos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha sido alcalde",
@@ -1560,7 +1530,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Hernandez",
     "B": "Ocampo",
     "C": "Chenier Jesus",
     "D": "Tolima",
@@ -1601,7 +1570,7 @@
     "AV": "Campesinos",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1612,7 +1581,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Hernández",
     "B": "Calderón",
     "C": "Norbey",
     "D": "Arauca",
@@ -1649,11 +1617,11 @@
     "AQ": "https://www.lasillavacia.com/media/48_NorbeyHernandez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Juntas de acción comunal",
     "AX": "Reparación colectiva",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1664,7 +1632,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Hurtado",
     "B": "Angulo",
     "C": "Aura Lilia",
     "D": "Putumayo",
@@ -1701,11 +1668,11 @@
     "AQ": "https://www.lasillavacia.com/media/44_Aura-Lilia-Hurtado.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Liderazgo social",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1716,7 +1683,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Hurtado",
     "B": "Mosquera",
     "C": "Diana Marcela",
     "D": "Antioquia",
@@ -1753,7 +1719,7 @@
     "AQ": "https://www.lasillavacia.com/media/31_DianaHurtado.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Equidad de género",
     "AX": "Sin datos",
@@ -1768,7 +1734,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Hurtado",
     "B": "Pito",
     "C": "Ovidio",
     "D": "Cauca",
@@ -1805,11 +1770,11 @@
     "AQ": "https://www.lasillavacia.com/media/08_OvidioHurtado.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Indígenas",
     "AW": "Derechos Humanos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1820,7 +1785,6 @@
     "BL": "De paz"
   },
   {
-    "A": "López",
     "B": "Salazar",
     "C": "Karen Juliána",
     "D": "Antioquia",
@@ -1857,11 +1821,11 @@
     "AQ": "https://www.lasillavacia.com/media/33_KarenLopez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Campesinos",
     "AW": "Infraestructura",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -1872,7 +1836,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Mallorga",
     "B": "Ropero",
     "C": "Tania",
     "D": "Norte de Santander",
@@ -1909,11 +1872,11 @@
     "AQ": "https://www.lasillavacia.com/media/07_TaniaMallorga.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Educación rural",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1924,7 +1887,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Manrique",
     "B": "Olarte",
     "C": "Karen Astrith",
     "D": "Arauca",
@@ -1961,11 +1923,11 @@
     "AQ": "https://www.lasillavacia.com/media/45_KarenManrique.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Agro",
     "AW": "Asociatividad rural",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1976,7 +1938,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Márquez",
     "B": "Guerrero",
     "C": "Jhon Jairo",
     "D": "Norte de Santander",
@@ -2013,7 +1974,7 @@
     "AQ": "https://www.lasillavacia.com/media/05_JhonJairoMarquez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Catatumbo",
     "AX": "Sin datos",
@@ -2028,7 +1989,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Martínez",
     "B": "",
     "C": "Elda Yaneth",
     "D": "Caquetá",
@@ -2065,7 +2025,7 @@
     "AQ": "https://www.lasillavacia.com/media/20_Elda-Martinez-Caqueta.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Desarrollo rural",
     "AW": "Restitución de tierras",
     "AX": "Sin datos",
@@ -2080,7 +2040,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Medina",
     "B": "Rios",
     "C": "Edwin Humberto",
     "D": "Tolima",
@@ -2117,11 +2076,11 @@
     "AQ": "https://www.lasillavacia.com/media/candidato-nn-h.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2132,7 +2091,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Méndez",
     "B": "Zuluaga",
     "C": "Juan Pablo",
     "D": "Antioquia",
@@ -2173,7 +2131,7 @@
     "AV": "Desarrollo rural",
     "AW": "Campesinos",
     "AX": "Medio ambiente",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2184,7 +2142,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Molano",
     "B": "Carvajal",
     "C": "José Aldemar",
     "D": "Tolima",
@@ -2221,11 +2178,11 @@
     "AQ": "https://www.lasillavacia.com/media/35_Jose-Aldemar-Carvajar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2236,7 +2193,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Monroy",
     "B": "Barrera",
     "C": "Alicia",
     "D": "Bolívar",
@@ -2273,11 +2229,11 @@
     "AQ": "https://www.lasillavacia.com/media/01_AliciaMonroy.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Seguridad",
     "AW": "Desarrollo regional",
     "AX": "Infraestructura",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2288,7 +2244,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Montaño",
     "B": "Arizala",
     "C": "Jerson Lisímaco",
     "D": "Nariño",
@@ -2325,7 +2280,7 @@
     "AQ": "https://www.lasillavacia.com/media/06_GersonMontanoNarino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
@@ -2340,7 +2295,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Moreno",
     "B": "Espinosa",
     "C": "Pablo Oved",
     "D": "Antioquia",
@@ -2377,11 +2331,11 @@
     "AQ": "https://www.lasillavacia.com/media/49_PabloOvedMoreno.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Ecoturismo",
     "AW": "Infraestructura",
     "AX": "Educación superior",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -2392,7 +2346,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Moreno",
     "B": "Garavito",
     "C": "Rafael Emiro",
     "D": "Córdoba",
@@ -2429,7 +2382,7 @@
     "AQ": "https://www.lasillavacia.com/media/05_RafaelMoreno.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Control político",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -2444,7 +2397,6 @@
     "BL": "De Paz"
   },
   {
-    "A": "Mosquera",
     "B": "Palacios",
     "C": "Ana Rosalba",
     "D": "Chocó",
@@ -2481,11 +2433,11 @@
     "AQ": "https://www.lasillavacia.com/media/35_AnaRosalbaMosquera.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Equidad de género",
     "AW": "Víctimas del conflicto",
     "AX": "Jóvenes",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -2496,7 +2448,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Mosquera",
     "B": "Hurtado",
     "C": "Blasney",
     "D": "Chocó",
@@ -2533,7 +2484,7 @@
     "AQ": "https://www.lasillavacia.com/media/25_BlasneyMosquera.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Implementación de los Acuerdos",
     "AX": "Sin datos",
@@ -2548,7 +2499,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Mosquera",
     "B": "Torres",
     "C": "James Hemeregildo",
     "D": "Chocó",
@@ -2585,11 +2535,11 @@
     "AQ": "https://www.lasillavacia.com/media/01_JamesHemeregildoMosquera.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -2600,7 +2550,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Mosquera",
     "B": "Quinto",
     "C": "Menderson",
     "D": "Antioquia",
@@ -2637,11 +2586,11 @@
     "AQ": "https://www.lasillavacia.com/media/30_MendersonMosquera.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Defensa de los acuerdos de paz",
     "AX": "Implementación de los Pdet",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2652,7 +2601,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Murcia",
     "B": "Duarte",
     "C": "Guillermo",
     "D": "Arauca",
@@ -2689,7 +2637,7 @@
     "AQ": "https://www.lasillavacia.com/media/01-guillermo-murcia-duarte.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Derechos humanos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -2704,7 +2652,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Navarro",
     "B": "Arrieta",
     "C": "Edith Margoth",
     "D": "Antioquia",
@@ -2745,7 +2692,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -2756,7 +2703,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Nuñez",
     "B": "Ramos",
     "C": "Jhon Freddy",
     "D": "Caquetá",
@@ -2793,11 +2739,11 @@
     "AQ": "https://www.lasillavacia.com/media/22_Jhon-Fredy-Nunez-Caqueta.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Desarrollo rural",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2808,7 +2754,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Obando",
     "B": "Carabalí",
     "C": "Driseida",
     "D": "Cauca",
@@ -2849,7 +2794,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -2860,7 +2805,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Ochoa",
     "B": "De la Hoz",
     "C": "José Sebastian",
     "D": "Cesar",
@@ -2897,11 +2841,11 @@
     "AQ": "https://www.lasillavacia.com/media/22_SebastianOchoa.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -2912,7 +2856,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Olaya",
     "B": "Batalla",
     "C": "Carmen Elisa",
     "D": "Nariño",
@@ -2949,7 +2892,7 @@
     "AQ": "https://www.lasillavacia.com/media/17_Carmen-Olaya-Batalla-Narino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Derechos Humanos",
     "AX": "Educación",
@@ -2964,7 +2907,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Ortega",
     "B": "Buelvas",
     "C": "Ramiro Rafael",
     "D": "Bolívar",
@@ -3001,11 +2943,11 @@
     "AQ": "https://www.lasillavacia.com/media/21_RamiroOrtega.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -3016,7 +2958,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Ospina",
     "B": "Sanchez",
     "C": "Niyireth",
     "D": "Tolima",
@@ -3053,11 +2994,11 @@
     "AQ": "https://www.lasillavacia.com/media/34_Niyireth-Ospina.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "Ha trabajado en el Estado",
@@ -3068,7 +3009,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Palacios",
     "B": "Raigosa",
     "C": "Viviana",
     "D": "Meta",
@@ -3109,7 +3049,7 @@
     "AV": "Defensa de los Acuerdos de Paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3120,7 +3060,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Palencia",
     "B": "Vega",
     "C": "Leónor María",
     "D": "Córdoba",
@@ -3157,11 +3096,11 @@
     "AQ": "https://www.lasillavacia.com/media/24_LeonorPalenica.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -3172,7 +3111,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Panche",
     "B": "Chocue",
     "C": "Luz Mery",
     "D": "Caquetá",
@@ -3209,7 +3147,7 @@
     "AQ": "https://www.lasillavacia.com/media/23_Luz-Mery-Pachue-Caqueta.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa del territorio",
     "AW": "Defensa del medioambiente",
     "AX": "Vocería del pueblo indigena",
@@ -3224,7 +3162,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Pantoja",
     "B": "Cabrera",
     "C": "Italo Ernesto",
     "D": "Putumayo",
@@ -3265,7 +3202,7 @@
     "AV": "Defensa de los Acuerdos de Paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -3276,7 +3213,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Patiño",
     "B": "Huetio",
     "C": "Melany",
     "D": "Cauca",
@@ -3313,7 +3249,7 @@
     "AQ": "https://www.lasillavacia.com/media/10_MelanPatino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Indígenas",
     "AW": "Defensa de las mujeres",
     "AX": "Vocería de las víctimas",
@@ -3328,7 +3264,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Pérez",
     "B": "Alvarez",
     "C": "Maryori de Jesús",
     "D": "Cesar",
@@ -3365,7 +3300,7 @@
     "AQ": "https://www.lasillavacia.com/media/31_Maryori-Perez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Pdet",
     "AX": "Sin datos",
@@ -3380,7 +3315,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Petro",
     "B": "Delgado",
     "C": "Eduard Enrique",
     "D": "Córdoba",
@@ -3432,7 +3366,6 @@
     "BL": "De Paz"
   },
   {
-    "A": "Pizarro",
     "B": "Benitez",
     "C": "Tony Guillermo",
     "D": "Sucre",
@@ -3469,7 +3402,7 @@
     "AQ": "https://www.lasillavacia.com/media/29_Tony-Pizarro.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Agricultura",
     "AX": "Sin datos",
@@ -3484,7 +3417,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Quintero",
     "B": "Amaya",
     "C": "Diogenes",
     "D": "Norte de Santander",
@@ -3521,11 +3453,11 @@
     "AQ": "https://www.lasillavacia.com/media/03_DiogenesQuintero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -3536,7 +3468,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Quintero",
     "B": "Sierra",
     "C": "Juan Carlos",
     "D": "Norte de Santander",
@@ -3573,7 +3504,7 @@
     "AQ": "https://www.lasillavacia.com/media/06_JuanCarlosQuintero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Catatumbo",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -3588,7 +3519,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Quintero",
     "B": "Montejo",
     "C": "Pedro Elías",
     "D": "Norte de Santander",
@@ -3629,7 +3559,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Lucha contra la corrupción",
     "AX": "Derechos Humanos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -3640,7 +3570,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Rojas",
     "B": "Sotelo",
     "C": "Paula Marcela",
     "D": "Meta",
@@ -3677,11 +3606,11 @@
     "AQ": "https://www.lasillavacia.com/media/41_Paula-Marcela-Rojas-Sotelo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3692,7 +3621,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Romero",
     "B": "Ovalle",
     "C": "William Alfonso",
     "D": "Cesar",
@@ -3729,11 +3657,11 @@
     "AQ": "https://www.lasillavacia.com/media/30_William-Romero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -3744,7 +3672,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Sabigal",
     "B": "Robles",
     "C": "María Janeth",
     "D": "Tolima",
@@ -3781,11 +3708,11 @@
     "AQ": "https://www.lasillavacia.com/media/37_Janeth-Sabogal-Robles.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Hereda votos de personas condenadas",
     "BG": "Ha trabajado en el Estado",
@@ -3796,7 +3723,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Salazar",
     "B": "Rivera",
     "C": "Juan Pablo",
     "D": "Cauca",
@@ -3837,7 +3763,7 @@
     "AV": "Derechos Humanos",
     "AW": "Víctimas del conflicto",
     "AX": "Desarrollo rural",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3848,7 +3774,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Sierra",
     "B": "Díaz",
     "C": "Carmen Alicia",
     "D": "Sucre",
@@ -3885,11 +3810,11 @@
     "AQ": "https://www.lasillavacia.com/media/28_Carmen-Sierra.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Desarrollo rural",
     "AW": "Memoria histórica",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -3900,7 +3825,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Tovar",
     "B": "Vélez",
     "C": "Jorge Rodrigo",
     "D": "Cesar",
@@ -3937,7 +3861,7 @@
     "AQ": "https://www.lasillavacia.com/media/34_JorgeTovar.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -3952,7 +3876,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Utria",
     "B": "Marengo",
     "C": "Lidia Regina",
     "D": "Nariño",
@@ -3989,11 +3912,11 @@
     "AQ": "https://www.lasillavacia.com/media/11_LidiaUtria.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Defensa de los acuerdos de paz",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -4004,7 +3927,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Valderrama",
     "B": "Cárdenas",
     "C": "Yeniver",
     "D": "Caquetá",
@@ -4056,7 +3978,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Valencia",
     "B": "Cordoba",
     "C": "José de la Cruz",
     "D": "Chocó",
@@ -4093,11 +4014,11 @@
     "AQ": "https://www.lasillavacia.com/media/02_JoseDeLaCruzValencia.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -4108,7 +4029,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Valencia",
     "B": "Ocampo",
     "C": "Luis Antonio",
     "D": "Caquetá",
@@ -4145,11 +4065,11 @@
     "AQ": "https://www.lasillavacia.com/media/12_LuisValencia.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Amazonía",
     "AW": "Defensa de los Acuerdos",
     "AX": "Educación rural",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -4160,7 +4080,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Vargas",
     "B": "Soler",
     "C": "Juan Carlos",
     "D": "Bolívar",
@@ -4197,11 +4116,11 @@
     "AQ": "https://www.lasillavacia.com/media/8_JuanCarlosVargas.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Desarrollo rural",
     "AW": "Pdet",
     "AX": "Víctimas del conflicto",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -4212,7 +4131,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Vidal",
     "B": "Mina",
     "C": "Edgar Alberto",
     "D": "Nariño",
@@ -4249,7 +4167,7 @@
     "AQ": "https://www.lasillavacia.com/media/15_Edgar-Alberto-Vidal-Narino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Derechos Humanos",
     "AW": "Víctimas del conflicto",
     "AX": "Defensa de los Acuerdos",
@@ -4264,7 +4182,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Zapata",
     "B": "Martínez",
     "C": "Arnobi de Jesús",
     "D": "Córdoba",
@@ -4301,11 +4218,11 @@
     "AQ": "https://www.lasillavacia.com/media/33_Arnobi-Zapata.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sustitución de cultivos",
     "AW": "Implementación de los Acuerdos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

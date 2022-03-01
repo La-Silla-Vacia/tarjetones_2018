@@ -1,6 +1,5 @@
 [
   {
-    "A": "Arévalo",
     "B": "Cañizares",
     "C": "Naun",
     "D": "Norte de Santander",
@@ -52,7 +51,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Bolívar",
     "B": "Corredor",
     "C": "Carlos Alberto",
     "D": "Norte de Santander",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Capacho",
     "B": "Delgado",
     "C": "Juan Carlos",
     "D": "Norte de Santander",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carreño",
     "B": "Cortés",
     "C": "Jorge Alirio",
     "D": "Norte de Santander",
@@ -197,7 +193,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -208,7 +204,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Carrillo",
     "B": "Mendoza",
     "C": "Wilmer Ramiro",
     "D": "Norte de Santander",
@@ -245,7 +240,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0011_wilmer-carrillo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Castellanos",
     "B": "Serrano",
     "C": "Jairo Alberto",
     "D": "Norte de Santander",
@@ -312,7 +306,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Celis",
     "B": "Vergel",
     "C": "Juan Pablo",
     "D": "Norte de Santander",
@@ -353,7 +346,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -364,7 +357,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Chacón",
     "B": "Camargo",
     "C": "Alejandro Carlos",
     "D": "Norte de Santander",
@@ -416,7 +408,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Corzo",
     "B": "Álvarez",
     "C": "Juan Felipe",
     "D": "Norte de Santander",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cristo",
     "B": "Correa",
     "C": "Jairo Humberto",
     "D": "Norte de Santander",
@@ -505,7 +495,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0013_jairo-cristo-correa.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuadros",
     "B": "Castillo",
     "C": "Francisco Javier",
     "D": "Norte de Santander",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Díaz",
     "B": "Contreras",
     "C": "Edgar",
     "D": "Norte de Santander",
@@ -609,7 +597,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0012_DIAZ-CONTRERAS.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Generar más espacios para la recreación y el deporte",
     "AW": "La no explotación minera de los páramos",
     "AX": "Cuidado de los humedales",
@@ -624,7 +612,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Flórez",
     "B": "Portilla",
     "C": "Bayron Edilson",
     "D": "Norte de Santander",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "García",
     "B": "Gómez",
     "C": "Juan Carlos",
     "D": "Norte de Santander",
@@ -728,7 +714,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Guerrero",
     "B": "Avendaño",
     "C": "Wilmer Yesid",
     "D": "Norte de Santander",
@@ -765,7 +750,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0008_wilmer-guerrero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "León",
     "B": "Celis",
     "C": "Carlos Eduardo",
     "D": "Norte de Santander",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Luna",
     "B": "Conde",
     "C": "José Ramiro",
     "D": "Norte de Santander",
@@ -869,7 +852,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0012_jose-ramiro-luna-conde.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Mallorga",
     "B": "Ropero",
     "C": "Tania",
     "D": "Norte de Santander",
@@ -921,11 +903,11 @@
     "AQ": "https://www.lasillavacia.com/media/07_TaniaMallorga.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Educación rural",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -936,7 +918,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Márquez",
     "B": "Guerrero",
     "C": "Jhon Jairo",
     "D": "Norte de Santander",
@@ -973,7 +954,7 @@
     "AQ": "https://www.lasillavacia.com/media/05_JhonJairoMarquez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Catatumbo",
     "AX": "Sin datos",
@@ -988,7 +969,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Ojeda",
     "B": "Álvarez",
     "C": "Alix Marina",
     "D": "Norte de Santander",
@@ -1040,7 +1020,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Páez",
     "B": "Ortega",
     "C": "Ludy",
     "D": "Norte de Santander",
@@ -1077,7 +1056,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0000_ludy-paez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1092,7 +1071,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Peñaranda",
     "B": "Lozano",
     "C": "Marco Aurelio",
     "D": "Norte de Santander",
@@ -1144,7 +1122,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Quintero",
     "B": "Amaya",
     "C": "Diogenes",
     "D": "Norte de Santander",
@@ -1181,11 +1158,11 @@
     "AQ": "https://www.lasillavacia.com/media/03_DiogenesQuintero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1196,7 +1173,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Quintero",
     "B": "Sierra",
     "C": "Juan Carlos",
     "D": "Norte de Santander",
@@ -1233,7 +1209,7 @@
     "AQ": "https://www.lasillavacia.com/media/06_JuanCarlosQuintero.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Catatumbo",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1248,7 +1224,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Quintero",
     "B": "Montejo",
     "C": "Pedro Elías",
     "D": "Norte de Santander",
@@ -1289,7 +1264,7 @@
     "AV": "Víctimas del conflicto",
     "AW": "Lucha contra la corrupción",
     "AX": "Derechos Humanos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1300,7 +1275,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Ramírez París",
     "B": "Lobo",
     "C": "Donamaris",
     "D": "Norte de Santander",
@@ -1337,7 +1311,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0006_onamaris-ramirez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1352,7 +1326,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Reales",
     "B": "Rangel",
     "C": "Julio César",
     "D": "Norte de Santander",
@@ -1404,7 +1377,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Reyes",
     "B": "Rincón",
     "C": "Lina Margarita",
     "D": "Norte de Santander",
@@ -1441,11 +1413,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_lina-margarita-reyes-rincon.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -1456,7 +1428,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rodríguez",
     "B": "Pinzón",
     "C": "Ciro Antonio",
     "D": "Norte de Santander",
@@ -1508,7 +1479,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Romero",
     "B": "Soto",
     "C": "Milla",
     "D": "Norte de Santander",
@@ -1549,7 +1519,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -1560,7 +1530,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Ruiz",
     "B": "Paredes",
     "C": "Pepe",
     "D": "Norte de Santander",
@@ -1597,7 +1566,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0007_pepe-ruiz-paredes.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1612,7 +1581,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sanabria",
     "B": "Durán",
     "C": "Luis Emil",
     "D": "Norte de Santander",
@@ -1653,7 +1621,7 @@
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -1664,7 +1632,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Torres",
     "B": "Álvarez",
     "C": "Sara Inés",
     "D": "Norte de Santander",
@@ -1705,7 +1672,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

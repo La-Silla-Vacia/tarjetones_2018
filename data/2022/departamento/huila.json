@@ -1,6 +1,5 @@
 [
   {
-    "A": "Andrade",
     "B": "Serrano",
     "C": "Esperanza",
     "D": "Huila",
@@ -41,7 +40,7 @@
     "AV": "Antiaborto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 60 y 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "González",
     "B": "Villa",
     "C": "Carlos Julio",
     "D": "Huila",
@@ -89,7 +87,7 @@
     "AQ": "https://www.lasillavacia.com/media/20_Carlos-Julio-Gonzalez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Programas para enfrentar la farmacodependencia",
     "AW": "Ingresar temas como la inteligencia emocional a los programas educativos",
     "AX": "Humanización del sistema de salud",
@@ -104,7 +102,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Pareja",
     "B": "González",
     "C": "Franciso Alfonso",
     "D": "Huila",
@@ -141,11 +138,11 @@
     "AQ": "https://www.lasillavacia.com/media/06_FranciscoPareja.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Educación",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -156,7 +153,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Prada",
     "B": "Artunduaga",
     "C": "Alvaro Hernán",
     "D": "Huila",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Triana",
     "B": "Quintero",
     "C": "Julio Cesar",
     "D": "Huila",
@@ -225,7 +220,7 @@
     "U": "Abogado",
     "V": "Maestría",
     "W": "Político",
-    "X": "Constitucional",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Tovar",
     "B": "Trujillo",
     "C": "Víctor",
     "D": "Huila",
@@ -277,7 +271,7 @@
     "U": "Abogado",
     "V": "Maestría",
     "W": "Político",
-    "X": "Derecho",
+    "X": "",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Murcia",
     "B": "Tovar",
     "C": "Jorge Dilson",
     "D": "Huila",
@@ -353,7 +346,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -364,7 +357,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lozada",
     "B": "Polanco",
     "C": "Jaime Felipe",
     "D": "Huila",
@@ -381,7 +373,7 @@
     "U": "Sin datos",
     "V": "Sin datos",
     "W": "Político",
-    "X": "Víctimas",
+    "X": "Conflicto y paz",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -405,8 +397,8 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
-    "BE": "",
+    "BD": "No me importa la edad",
+    "BE": "No me importa",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha sido representante a la Cámara",
     "BH": "No",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cangrejo",
     "B": "Torres",
     "C": "David",
     "D": "Huila",
@@ -457,7 +448,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rivera",
     "B": "Montes",
     "C": "José Eustacio",
     "D": "Huila",
@@ -485,7 +475,7 @@
     "U": "Administrador de empresas",
     "V": "Especialización",
     "W": "Político",
-    "X": "Planeación",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -509,7 +499,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ortiz",
     "B": "Serrato",
     "C": "Cielo",
     "D": "Huila",
@@ -537,7 +526,7 @@
     "U": "Arquitecta",
     "V": "Especialización",
     "W": "Público",
-    "X": "Planeación",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -561,7 +550,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -572,7 +561,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Cuéllar",
     "B": "Rico",
     "C": "Henry",
     "D": "Huila",
@@ -589,7 +577,7 @@
     "U": "Comerciante",
     "V": "Bachillerato",
     "W": "Político",
-    "X": "Planeación",
+    "X": "Administración",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -613,7 +601,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Perdomo",
     "B": "Andrade",
     "C": "Flora",
     "D": "Huila",
@@ -665,7 +652,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",
@@ -676,7 +663,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Posada",
     "B": "Maya",
     "C": "Carlos",
     "D": "Huila",
@@ -693,7 +679,7 @@
     "U": "Comerciante",
     "V": "Bachillerato",
     "W": "Político",
-    "X": "Población con discapacidad",
+    "X": "",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -713,11 +699,11 @@
     "AQ": "https://www.lasillavacia.com/media/Carlos-Posada.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "",
+    "AU": "No me importa",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "Tiene investigaciones penales",
     "BG": "No ha trabajado en el Estado",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Rincón",
     "B": "Trujillo",
     "C": "Leyla",
     "D": "Huila",
@@ -769,7 +754,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Beltrán",
     "B": "Cuellar",
     "C": "Orlando",
     "D": "Huila",
@@ -797,7 +781,7 @@
     "U": "Ingeniero",
     "V": "Especialización",
     "W": "Cafetero",
-    "X": "Cafetero",
+    "X": "Temas rurales",
     "Y": "No",
     "AA": "No",
     "AB": "Sí",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Plazas",
     "B": "Bravo",
     "C": "María Fernanda",
     "D": "Huila",
@@ -873,7 +856,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Lozano",
     "B": "Ángel",
     "C": "Myriam",
     "D": "Huila",
@@ -901,7 +883,7 @@
     "U": "Contadora pública",
     "V": "Maestría",
     "W": "Academia",
-    "X": "Finanzas",
+    "X": "Economía",
     "Y": "No",
     "AA": "No",
     "AB": "No",
@@ -925,7 +907,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Sánchez",
     "B": "Peña",
     "C": "Joaquín",
     "D": "Huila",
@@ -977,7 +958,7 @@
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",

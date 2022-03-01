@@ -1,6 +1,5 @@
 [
   {
-    "A": "Aguirre",
     "B": "Juvinao",
     "C": "Ingrid Jhoana",
     "D": "Magdalena",
@@ -41,7 +40,7 @@
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -52,7 +51,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Álvarez",
     "B": "Vacca",
     "C": "Edward",
     "D": "Magdalena",
@@ -89,7 +87,7 @@
     "AQ": "https://www.lasillavacia.com/media/32_Edward-Alvarez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Medio ambiente",
     "AW": "Pdet",
     "AX": "Turismo",
@@ -104,7 +102,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Bolaño",
     "B": "Gómez",
     "C": "Carlos Vicente",
     "D": "Magdalena",
@@ -141,11 +138,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0009_carlos-bolanos.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -156,7 +153,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Castillo",
     "B": "Suarez",
     "C": "Fabián",
     "D": "Magdalena",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Dávila",
     "B": "Morales",
     "C": "Jose Domingo",
     "D": "Magdalena",
@@ -249,7 +244,7 @@
     "AV": "Crisis social y económica",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -260,7 +255,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Echeverria",
     "B": "De la Rosa",
     "C": "Olmes de Jesus",
     "D": "Magdalena",
@@ -297,11 +291,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0000_holmes-echeverria.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Educación",
     "AW": "Juventud",
     "AX": "Sector del Agro",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido alcalde",
@@ -312,7 +306,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Farelo",
     "B": "Daza",
     "C": "Carlos Mario",
     "D": "Magdalena",
@@ -349,7 +342,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0008_CARLOS-MARIO-FARELO-DAZA.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Disminución de los tiempos de transporte de los productos agrícolas.",
     "AW": "Mejoramiento de la conectividad del área rural con la urbana",
     "AX": "por más espacios para la recreación, actividad física y deporte",
@@ -364,7 +357,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Gonzalez",
     "B": "Duarte",
     "C": "Kelyn",
     "D": "Magdalena",
@@ -401,11 +393,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0004_kelyn-gonzalez.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Tiene ruidos",
     "BG": "Ha trabajado en el Estado",
@@ -416,7 +408,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Gonzalez",
     "B": "Tres Palacios",
     "C": "Yolinda Cecilia",
     "D": "Magdalena",
@@ -457,7 +448,7 @@
     "AV": "Emprendimiento juvenil",
     "AW": "Empleo",
     "AX": "Libertad religiosa",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -468,7 +459,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Guida",
     "B": "Ponce",
     "C": "Hernando",
     "D": "Magdalena",
@@ -505,7 +495,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0003_hernando-guida.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -520,7 +510,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Henríquez",
     "B": "Pinedo",
     "C": "Honorio",
     "D": "Magdalena",
@@ -561,7 +550,7 @@
     "AV": "Críticas al Acuerdo con las Farc",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -572,7 +561,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Katime",
     "B": "Orcasita",
     "C": "Abraham Antonio",
     "D": "Magdalena",
@@ -613,7 +601,7 @@
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -624,7 +612,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Martínez",
     "B": "",
     "C": "Rafael Alejando",
     "D": "Magdalena",
@@ -676,7 +663,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Moises",
     "B": "Garcia",
     "C": "Luis Miguel",
     "D": "Magdalena",
@@ -728,7 +714,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ortega",
     "B": "Aponte",
     "C": "Jose Luis",
     "D": "Magdalena",
@@ -780,7 +765,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Paternina",
     "B": "Espinoza",
     "C": "Hugo Alejandro",
     "D": "Magdalena",
@@ -817,11 +801,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0007_hugo-paternina.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Empleo con incentivos",
     "AW": "Apoyo a las pequeñas y medianas empresas",
     "AX": "Renta básica",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -832,7 +816,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Pinedo",
     "B": "Campo",
     "C": "Miguel Alfredo",
     "D": "Magdalena",
@@ -869,7 +852,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0001_miguel-pinedo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
@@ -884,7 +867,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Porto",
     "B": "Cantillo",
     "C": "Rafael Alfonso",
     "D": "Magdalena",
@@ -925,7 +907,7 @@
     "AV": "intangibilidad de la ley",
     "AW": "La moral en lo público",
     "AX": "reforma a la justicia",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -936,7 +918,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Ramírez",
     "B": "Caviedes",
     "C": "Sandra",
     "D": "Magdalena",
@@ -973,11 +954,11 @@
     "AQ": "https://www.lasillavacia.com/media/_0010_sandra-ramirez.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Tiene investigaciones penales",
     "BG": "Ha trabajado en el Estado",
@@ -988,7 +969,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Vives",
     "B": "Gonzalez",
     "C": "Luis Eduardo",
     "D": "Magdalena",
@@ -1029,7 +1009,7 @@
     "AV": "Infraestructura",
     "AW": "Educación",
     "AX": "Emprendimiento",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "Tiene ruidos",
     "BG": "Ha sido representante a la Cámara",
@@ -1040,7 +1020,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Zabarain",
     "B": "Guevara",
     "C": "Antonio",
     "D": "Magdalena",

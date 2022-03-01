@@ -1,6 +1,5 @@
 [
   {
-    "A": "Benavides",
     "B": "Mora",
     "C": "Carlos Alberto",
     "D": "Nariño",
@@ -41,7 +40,7 @@
     "AV": "Medio ambiente",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "Entre 40 y 60 años",
+    "BD": "No me importa la edad",
     "BE": "Maestría o más",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -52,7 +51,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Benavides",
     "B": "Solarte",
     "C": "Liliana",
     "D": "Nariño",
@@ -104,7 +102,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Cortés",
     "B": "Lastra",
     "C": "Ernesto",
     "D": "Nariño",
@@ -141,11 +138,11 @@
     "AQ": "https://www.lasillavacia.com/media/16_Ernesto-Cortes-Narino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Afros",
     "AX": "Llevar servicios públicos al territorio",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Menos de pregrado",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -156,7 +153,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Cortés",
     "B": "Arboleda",
     "C": "Hernán",
     "D": "Nariño",
@@ -208,7 +204,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Cortés",
     "B": "Quiñonez",
     "C": "Jairo Ernesto",
     "D": "Nariño",
@@ -249,7 +244,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Hereda votos de personas investigadas penalmente",
     "BG": "No ha trabajado en el Estado",
@@ -260,7 +255,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Daza",
     "B": "Guevara",
     "C": "Robert",
     "D": "Nariño",
@@ -301,7 +295,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Tiene ruidos",
     "BG": "No ha trabajado en el Estado",
@@ -312,7 +306,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "García",
     "B": "Figueroa",
     "C": "Gustavo",
     "D": "Nariño",
@@ -364,7 +357,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Montaño",
     "B": "Arizala",
     "C": "Jerson Lisímaco",
     "D": "Nariño",
@@ -401,7 +393,7 @@
     "AQ": "https://www.lasillavacia.com/media/06_GersonMontanoNarino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Defensa de los acuerdos de paz",
     "AW": "Víctimas del conflicto",
     "AX": "Sin datos",
@@ -416,7 +408,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Olaya",
     "B": "Batalla",
     "C": "Carmen Elisa",
     "D": "Nariño",
@@ -453,7 +444,7 @@
     "AQ": "https://www.lasillavacia.com/media/17_Carmen-Olaya-Batalla-Narino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Derechos Humanos",
     "AX": "Educación",
@@ -468,7 +459,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Rosales",
     "B": "Cadena",
     "C": "Polivio Leandro",
     "D": "Nariño",
@@ -505,7 +495,7 @@
     "AQ": "https://www.lasillavacia.com/media/_0008_polivio-leandro-rosales.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Transfromación del agro",
     "AW": "Medio ambiente con la propuesta de madre tierra",
     "AX": "Ordenamiento territorial",
@@ -520,7 +510,6 @@
     "BL": "Indígena"
   },
   {
-    "A": "Utria",
     "B": "Marengo",
     "C": "Lidia Regina",
     "D": "Nariño",
@@ -557,11 +546,11 @@
     "AQ": "https://www.lasillavacia.com/media/11_LidiaUtria.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Defensa de los acuerdos de paz",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -572,7 +561,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Vidal",
     "B": "Mina",
     "C": "Edgar Alberto",
     "D": "Nariño",
@@ -609,7 +597,7 @@
     "AQ": "https://www.lasillavacia.com/media/15_Edgar-Alberto-Vidal-Narino.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Derechos Humanos",
     "AW": "Víctimas del conflicto",
     "AX": "Defensa de los Acuerdos",
@@ -624,7 +612,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Zambrano",
     "B": "Eraso",
     "C": "Berner León",
     "D": "Nariño",
@@ -661,7 +648,7 @@
     "AQ": "https://www.lasillavacia.com/media/2-berner-leon-zambrano.jpg",
     "AR": "Sí",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",

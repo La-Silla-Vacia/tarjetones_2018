@@ -1,6 +1,5 @@
 [
   {
-    "A": "Aljure",
     "B": "Martinez",
     "C": "William Ferney",
     "D": "Meta",
@@ -37,11 +36,11 @@
     "AQ": "https://www.lasillavacia.com/media/39_William-Aljure.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Reconciliación",
     "AW": "Cambio climático",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "Hereda votos de personas condenadas",
     "BG": "No ha trabajado en el Estado",
@@ -52,7 +51,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Arana",
     "B": "Sánhez",
     "C": "Nilson",
     "D": "Meta",
@@ -93,7 +91,7 @@
     "AV": "Anticorrupción",
     "AW": "Víoa al llano",
     "AX": "Seguridad ciudadana",
-    "BD": "Mayor de 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -104,7 +102,6 @@
     "BL": "Normal"
   },
   {
-    "A": "Duque",
     "B": "Lenis",
     "C": "Jorge Ivan",
     "D": "Meta",
@@ -141,11 +138,11 @@
     "AQ": "https://www.lasillavacia.com/media/40_Jorge-Ivan-Duque-Lenis.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Víctimas del conflicto",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "Ha sido destituido",
     "BG": "Ha sido alcalde",
@@ -156,7 +153,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Gómez",
     "B": "Hernández",
     "C": "Arley Fernando",
     "D": "Meta",
@@ -208,7 +204,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Meza",
     "B": "Daza",
     "C": "Laureano Enrique",
     "D": "Meta",
@@ -249,7 +244,7 @@
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha trabajado en el Estado",
@@ -260,7 +255,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Palacios",
     "B": "Raigosa",
     "C": "Viviana",
     "D": "Meta",
@@ -301,7 +295,7 @@
     "AV": "Defensa de los Acuerdos de Paz",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -312,7 +306,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Rojas",
     "B": "Sotelo",
     "C": "Paula Marcela",
     "D": "Meta",
@@ -349,11 +342,11 @@
     "AQ": "https://www.lasillavacia.com/media/41_Paula-Marcela-Rojas-Sotelo.jpg",
     "AR": "No",
     "AT": "No me importa",
-    "AU": "No me importa",
+    "AU": "",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
-    "BD": "",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "No ha trabajado en el Estado",
@@ -364,7 +357,6 @@
     "BL": "De paz"
   },
   {
-    "A": "Tamayo",
     "B": "Pérez",
     "C": "Jonatan",
     "D": "Meta",
@@ -405,7 +397,7 @@
     "AV": "Música",
     "AW": "Drogas",
     "AX": "Sin datos",
-    "BD": "Entre 25 y 40 años",
+    "BD": "No me importa la edad",
     "BE": "No me importa",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido senador",
@@ -416,7 +408,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Vega",
     "B": "Pérez",
     "C": "Alejandro",
     "D": "Meta",
@@ -468,7 +459,6 @@
     "BL": "Nacional"
   },
   {
-    "A": "Velásquez",
     "B": "Jaramillo",
     "C": "Hugo",
     "D": "Meta",
@@ -509,7 +499,7 @@
     "AV": "Agro",
     "AW": "Defensa de los acuerdos de paz",
     "AX": "Sin datos",
-    "BD": "Entre 60 y 80 años",
+    "BD": "No me importa la edad",
     "BE": "Universitarios",
     "BF": "No tiene líos ni cuestionamientos",
     "BG": "Ha sido representante a la Cámara",

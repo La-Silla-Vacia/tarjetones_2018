@@ -7966,7 +7966,7 @@
     "L": "",
     "N": "Cámara",
     "O": "Hombre",
-    "Q": "Alianza Verde",
+    "Q": "Centro Esperanza",
     "R": 118,
     "S": "Centro",
     "T": "Bogotá",
@@ -39359,9 +39359,9 @@
     "BG": "",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
-    "BL": ""
+    "BJ": "Nacional",
+    "BK": "Sin datos",
+    "BL": "Nacional"
   },
   {
     "A": "Rivadeneira",
@@ -48557,15 +48557,15 @@
     "AV": "Ley de páramos",
     "AW": "Estatuto de motociclistas",
     "AX": "Reforma a justicia penal militar",
-    "BD": "",
-    "BE": "",
-    "BF": "",
-    "BG": "",
+    "BD": "Mayor de 80 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha sido senador",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
-    "BL": ""
+    "BJ": "Nacional",
+    "BK": "Sin datos",
+    "BL": "Normal"
   },
   {
     "A": "Viveros",

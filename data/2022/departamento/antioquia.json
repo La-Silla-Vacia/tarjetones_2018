@@ -1004,7 +1004,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Echeverry",
@@ -1537,6 +1537,59 @@
     "CH": ""
   },
   {
+    "A": "Giraldo",
+    "B": "Hernández",
+    "C": "Óscar",
+    "D": "Antioquia",
+    "G": "",
+    "H": "",
+    "K": "",
+    "L": "",
+    "N": "Senado",
+    "O": "Hombre",
+    "Q": "Conservador",
+    "R": 57,
+    "S": "Derecha",
+    "T": "",
+    "U": "Sin datosd",
+    "V": "Pregrado",
+    "W": "Privado",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Misionero del grupo de Lazos de Amor Mariano e integrante del el Centro de Pensamiento Conciudadanos, hizo campaña con una fuerte tendencia católico y lejos de las grandes estrcutras conservadoras.Ha trabajado en el sector privado, como gernete de emrpesas de construcción y de comercio exterior.",
+    "AQ": "https://www.lasillavacia.com/media/mauricio-giraldo-.jpg",
+    "AR": "No",
+    "AT": "David Barguil",
+    "AU": "Equipo por Colombia",
+    "AV": "Familia",
+    "AW": "",
+    "AX": "",
+    "BD": "",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "No aplica",
+    "BJ": "Nacional",
+    "BK": "Sin datos",
+    "BL": "Nacional",
+    "CH": "Sí"
+  },
+  {
     "A": "Gómez",
     "B": "Gallego",
     "C": "Jorge Alberto",
@@ -1905,7 +1958,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Hoyos",
@@ -3548,7 +3601,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Restrepo",
@@ -3760,7 +3813,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Saldarriaga",
@@ -3972,7 +4025,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Valencia",

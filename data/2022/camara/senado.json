@@ -421,7 +421,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Andrade",
@@ -792,7 +792,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Asprilla",
@@ -845,7 +845,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Avella",
@@ -951,7 +951,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Barberena",
@@ -1057,7 +1057,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Barreras",
@@ -1375,7 +1375,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Benavides",
@@ -1587,7 +1587,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Blanco",
@@ -1693,7 +1693,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Bolívar",
@@ -1905,7 +1905,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Cabrales",
@@ -1958,7 +1958,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Cárdenas",
@@ -2276,7 +2276,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Castellanos",
@@ -2647,7 +2647,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Chagüi",
@@ -3548,7 +3548,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Daza",
@@ -3654,7 +3654,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Delgado",
@@ -3866,7 +3866,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Díaz",
@@ -4078,7 +4078,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Durán",
@@ -4184,7 +4184,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Echeverri",
@@ -4237,7 +4237,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Echeverry",
@@ -4449,7 +4449,60 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
+  },
+  {
+    "A": "Espitia",
+    "B": "Jerez",
+    "C": "Carolina",
+    "D": "Boyacá",
+    "G": "",
+    "H": "",
+    "K": "",
+    "L": "",
+    "N": "Senado",
+    "O": "Mujer",
+    "Q": "Alianza Verde",
+    "R": "",
+    "S": "Centroizquierda",
+    "T": "",
+    "U": "Ingeniería",
+    "V": "Maestría",
+    "W": "Público",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "Sí",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "Sí",
+    "AP": "Una de las personas de confianza de Carlos Amaya, fue su secretaria general en la Gobernació. Ingeniera industrial con maestría en pensamiento estratégico y prospectiva, también fue su jefe de gabinete departamental, asesora en la Corporación Autónoma Regional de Boyacá y gerente para el covid del gobernador actual, Ramniro Barragán (ficha de Amaya).",
+    "AQ": "https://www.lasillavacia.com/media/carolina-nueva.jpg",
+    "AR": "No",
+    "AT": "Carlos Amaya",
+    "AU": "Centro Esperanza",
+    "AV": "",
+    "AW": "Sin datos",
+    "AX": "Sin datos",
+    "BD": "Mayor de 80 años",
+    "BE": "Maestría o más",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "Ha trabajado en el Estado",
+    "BH": "No",
+    "BI": "Sin datos",
+    "BJ": "Nacional",
+    "BK": "Sin datos",
+    "BL": "Nacional",
+    "CH": "Sí"
   },
   {
     "A": "Estrada",
@@ -4873,7 +4926,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Fortich",
@@ -5032,7 +5085,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Gallo",
@@ -5244,12 +5297,12 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "García",
     "B": "Turbay",
-    "C": "Lidio Arturo",
+    "C": "Lidio",
     "D": "Bolívar",
     "G": "https://www.lasillavacia.com/quien-es-quien/lidio-arturo-García-turbay",
     "H": "@Lidiosenado",
@@ -5297,7 +5350,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "García",
@@ -5512,6 +5565,59 @@
     "CH": ""
   },
   {
+    "A": "Giraldo",
+    "B": "Hernández",
+    "C": "Óscar",
+    "D": "Antioquia",
+    "G": "",
+    "H": "",
+    "K": "",
+    "L": "",
+    "N": "Senado",
+    "O": "Hombre",
+    "Q": "Conservador",
+    "R": 57,
+    "S": "Derecha",
+    "T": "",
+    "U": "Sin datosd",
+    "V": "Pregrado",
+    "W": "Privado",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Misionero del grupo de Lazos de Amor Mariano e integrante del el Centro de Pensamiento Conciudadanos, hizo campaña con una fuerte tendencia católico y lejos de las grandes estrcutras conservadoras.Ha trabajado en el sector privado, como gernete de emrpesas de construcción y de comercio exterior.",
+    "AQ": "https://www.lasillavacia.com/media/mauricio-giraldo-.jpg",
+    "AR": "No",
+    "AT": "David Barguil",
+    "AU": "Equipo por Colombia",
+    "AV": "Familia",
+    "AW": "",
+    "AX": "",
+    "BD": "",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "No aplica",
+    "BJ": "Nacional",
+    "BK": "Sin datos",
+    "BL": "Nacional",
+    "CH": "Sí"
+  },
+  {
     "A": "Gnecco",
     "B": "Zuleta",
     "C": "José Alfredo",
@@ -5721,7 +5827,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "González",
@@ -6198,7 +6304,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Holguín",
@@ -6251,7 +6357,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Hoyos",
@@ -7205,7 +7311,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Luna",
@@ -7788,7 +7894,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Meza",
@@ -8001,6 +8107,59 @@
     "BK": "Sin datos",
     "BL": "Nacional",
     "CH": ""
+  },
+  {
+    "A": "Moreno",
+    "B": "Hernández",
+    "C": "Gustavo",
+    "D": "Santander",
+    "G": "",
+    "H": "",
+    "K": "",
+    "L": "",
+    "N": "Senado",
+    "O": "Hombre",
+    "Q": "ASI",
+    "R": "",
+    "S": "Centro",
+    "T": "",
+    "U": "Ciencia política",
+    "V": "Maestría",
+    "W": "Público",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Politólogo del Rosario, creció en Barrancabermeja pues sus padres trabajaban en la industria del peróoleo. Caestría en seguridad de la universidad de Washington, se lanzó en llave con el exalcalde de Piedecuesta, Danny Ramírez. Fue director nacional de juventudes de Cambio Radical pero entró al centro con la fuerza del saliente senador liberal Horacio José Serpa, que salió de su partido y no bsuco reelegirse para buscar la Gobernación en 2023. ",
+    "AQ": "https://www.lasillavacia.com/media/gustavo-moreno-nuevo.jpg",
+    "AR": "No",
+    "AT": "Centro Esperanza",
+    "AU": "Centro Esperanza",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Entre 25 y 40 años",
+    "BE": "Maestría o más",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Nacional",
+    "BK": "Sin datos",
+    "BL": "Nacional",
+    "CH": "Sí"
   },
   {
     "A": "Moronbia",
@@ -9113,7 +9272,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Palma",
@@ -9484,7 +9643,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Pérez",
@@ -9643,7 +9802,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Pinto",
@@ -9696,7 +9855,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Pizarro",
@@ -9858,6 +10017,59 @@
     "CH": ""
   },
   {
+    "A": "Pulido",
+    "B": "Hernández",
+    "C": "Jonathan Ferley",
+    "D": "Santander",
+    "G": "",
+    "H": "@JotaPeHernandez",
+    "K": "",
+    "L": "",
+    "N": "Senado",
+    "O": "Hombre",
+    "Q": "Alianza Verde",
+    "R": 54,
+    "S": "Centroizquierda",
+    "T": "",
+    "U": "Ingeniería",
+    "V": "Pregrado",
+    "W": "Privado",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "El palo de la lista verde y de centro esperanza al Senado, tuvo apoyo del influencer santandereano El Profe Ferley y es, en si mismo, un exitoso youtuber: tiene más de 670 mil seguidores y hace videos de entre 5 y 15 minutos en los que, sobre todo, critica al uribismo. Pasan las 100 mil vistas y han alcanzado el millón. En Youtube tiene más de un millón de seguidores a los que les presenta los mismos videos. Como Fabián Díaz hace cuatro años, llegó a partirt de una fuerte campaña en redes sociales en Santender, y con un discursdo antipolítico.",
+    "AQ": "https://www.lasillavacia.com/media/jotaphernandez.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "Anticorrupción",
+    "AW": "",
+    "AX": "",
+    "BD": "Mayor de 80 años",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "",
+    "BJ": "Nacional",
+    "BK": "Sin datos",
+    "BL": "Normal",
+    "CH": "Sí"
+  },
+  {
     "A": "Quilcue",
     "B": "Vivas",
     "C": "Aida Marina",
@@ -9961,7 +10173,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Quiroga",
@@ -10597,7 +10809,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Romero",
@@ -11710,7 +11922,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Trujillo",
@@ -11869,7 +12081,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Valencia",
@@ -11975,7 +12187,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Valencia",
@@ -12187,7 +12399,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Vega",
@@ -12718,58 +12930,5 @@
     "BK": "Sin datos",
     "BL": "Nacional",
     "CH": "Sí"
-  },
-  {
-    "A": "Pulido",
-    "B": "Hernández",
-    "C": "Jonathan Ferley",
-    "D": "Santander",
-    "G": "",
-    "H": "@JotaPeHernandez",
-    "K": "",
-    "L": "",
-    "N": "Senado",
-    "O": "Hombre",
-    "Q": "Alianza Verde",
-    "R": 54,
-    "S": "Centroizquierda",
-    "T": "",
-    "U": "Ingeniería",
-    "V": "Pregrado",
-    "W": "Privado",
-    "X": "",
-    "Y": "No",
-    "AA": "No",
-    "AB": "No",
-    "AC": "",
-    "AD": "No",
-    "AE": "No",
-    "AF": "No",
-    "AG": "No",
-    "AI": "No",
-    "AJ": "No",
-    "AK": "No",
-    "AL": "No",
-    "AM": "No",
-    "AN": "No",
-    "AO": "No",
-    "AP": "El palo de la lista verde y de centro esperanza al Senado, tuvo apoyo del influencer santandereano El Profe Ferley y es, en si mismo, un exitoso youtuber: tiene más de 670 mil seguidores y hace videos de entre 5 y 15 minutos en los que, sobre todo, critica al uribismo. Pasan las 100 mil vistas y han alcanzado el millón. En Youtube tiene más de un millón de seguidores a los que les presenta los mismos videos. Como Fabián Díaz hace cuatro años, llegó a partirt de una fuerte campaña en redes sociales en Santender, y con un discursdo antipolítico.",
-    "AQ": "https://www.lasillavacia.com/media/jotaphernandez.jpg",
-    "AR": "No",
-    "AT": "",
-    "AU": "",
-    "AV": "Anticorrupción",
-    "AW": "",
-    "AX": "",
-    "BD": "Mayor de 80 años",
-    "BE": "Universitarios",
-    "BF": "No tiene líos ni cuestionamientos",
-    "BG": "No ha trabajado en el Estado",
-    "BH": "",
-    "BI": "",
-    "BJ": "Nacional",
-    "BK": "Sin datos",
-    "BL": "Normal",
-    "CH": ""
   }
 ]

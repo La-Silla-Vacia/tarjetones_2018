@@ -739,7 +739,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Correa",
@@ -1269,7 +1269,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Fonseca",
@@ -3707,7 +3707,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Normal",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Roldán",
@@ -4131,6 +4131,6 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   }
 ]

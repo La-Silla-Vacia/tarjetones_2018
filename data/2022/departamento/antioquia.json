@@ -580,7 +580,7 @@
     "BJ": "Antioquia",
     "BK": "Sin datos",
     "BL": "Normal",
-    "CH": "Sí"
+    "CH": ""
   },
   {
     "A": "Carrasquilla",
@@ -726,7 +726,7 @@
     "AQ": "https://www.lasillavacia.com/media/08-piedad-cordoba.jpg",
     "AR": "No",
     "AT": "Gustavo Petro",
-    "AU": "Pacto Histórico",
+    "AU": "Gustavo Petro",
     "AV": "Derechos humanos",
     "AW": "Equidad de género",
     "AX": "LGBTI",
@@ -991,7 +991,7 @@
     "AQ": "https://www.lasillavacia.com/media/11_JuanDiegoEchavarria.jpg",
     "AR": "No",
     "AT": "Gustavo Petro",
-    "AU": "Pacto Histórico",
+    "AU": "Gustavo Petro",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1057,7 +1057,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Escobar",
@@ -1203,7 +1203,7 @@
     "AQ": "https://www.lasillavacia.com/media/11-alex-florez.jpg",
     "AR": "No",
     "AT": "Gustavo Petro",
-    "AU": "Pacto Histórico",
+    "AU": "Gustavo Petro",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -1799,7 +1799,7 @@
     "BJ": "Nacional",
     "BK": "Sin datos",
     "BL": "Nacional",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Gutiérrez",
@@ -3005,7 +3005,7 @@
     "AQ": "https://www.lasillavacia.com/media/10_Munoz.jpg",
     "AR": "No",
     "AT": "Gustavo Petro",
-    "AU": "Pacto Histórico",
+    "AU": "Gustavo Petro",
     "AV": "Sin datos",
     "AW": "Sin datos",
     "AX": "Sin datos",
@@ -4224,7 +4224,7 @@
     "AQ": "https://www.lasillavacia.com/media/10-isabel-zulueta.jpg",
     "AR": "No",
     "AT": "Gustavo Petro",
-    "AU": "Pacto Histórico",
+    "AU": "Gustavo Petro",
     "AV": "Medio ambiente",
     "AW": "Derechos Humanos",
     "AX": "Sin datos",

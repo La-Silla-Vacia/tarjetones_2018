@@ -8726,7 +8726,7 @@
     "AN": "No",
     "AO": "No",
     "AP": "Administrador público con maestría en gestión pública de la Complutense, ha hecho carrera como funcionario en Bogotá. Entre otras fue subdirector de recursos públicos de la Secretaría de Hábitat, Personero Delegado para la Movilidad de Francisco Rojas Birry, contralor sectorial de Desarrollo Económico, Industria y Turismo, y asesor de la Contraloría.",
-    "AQ": "",
+    "AQ": "https://www.lasillavacia.com/media/heraclito-landinez.jpg",
     "AR": "No",
     "AT": "Gustavo Petro",
     "AU": "Gustavo Petro",
@@ -35438,7 +35438,7 @@
     "AN": "No",
     "AO": "No",
     "AP": "Cafetero y ex alcalde de Belén de Umbría, es economista  y administrador de empresas agropecuarias.",
-    "AQ": "",
+    "AQ": "https://www.lasillavacia.com/media/anibal-hoyos.jpg",
     "AR": "No",
     "AT": "",
     "AU": "",
@@ -38406,7 +38406,7 @@
     "AN": "No",
     "AO": "No",
     "AP": "Resultó elegida a pesar de no hacer campaña por la votación que arrastró Gustavo Petro. Quedó como única en su lista porque, tras haber presentado una lista provisional, la Colombia Huamana decidió unirse con otras fuerzas alternativas. Todos renunciaron menos Perdomo, que igual no hizo campaña y resultó elegida.",
-    "AQ": "",
+    "AQ": "https://www.lasillavacia.com/media/ruby-stella.jpg",
     "AR": "No",
     "AT": "Gustavo Petro",
     "AU": "Gustavo Petro",
@@ -44130,23 +44130,23 @@
     "AN": "No",
     "AO": "No",
     "AP": "Ingenmiero civil de la Unviersidad Distrital de Bogotá, vive en Mitú",
-    "AQ": "",
-    "AR": "",
+    "AQ": "https://www.lasillavacia.com/media/camilo-esteban-avila.jpg",
+    "AR": "No",
     "AT": "",
     "AU": "",
     "AV": "",
     "AW": "",
     "AX": "",
     "BD": "",
-    "BE": "",
-    "BF": "",
-    "BG": "",
+    "BE": "Universitarios",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
     "BH": "",
     "BI": "",
-    "BJ": "",
-    "BK": "",
-    "BL": "",
-    "CH": ""
+    "BJ": "Vaupés",
+    "BK": "Sin datos",
+    "BL": "Normal",
+    "CH": "Sí"
   },
   {
     "A": "Correal",
@@ -45577,7 +45577,7 @@
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Silva",
@@ -46001,7 +46001,7 @@
     "BJ": "Arauca (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Murcia",
@@ -46266,7 +46266,7 @@
     "BJ": "Bajo Cauca y nordeste antioqueño (víctimas)",
     "BK": "No",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Tamayo",
@@ -46849,7 +46849,7 @@
     "BJ": "Catatumbo (víctimas)",
     "BK": "No",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Quintero",
@@ -47114,7 +47114,7 @@
     "BJ": "Chocó (víctimas)",
     "BK": "No",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Torres",
@@ -47485,7 +47485,7 @@
     "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Panche",
@@ -47856,7 +47856,7 @@
     "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sí",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Uribe",
@@ -48442,6 +48442,59 @@
     "CH": ""
   },
   {
+    "A": "Ramírez",
+    "B": "Buelvas",
+    "C": "Luis Ricardo",
+    "D": "Sucre",
+    "G": "",
+    "H": "@LuisRamiroRB",
+    "K": "",
+    "L": "",
+    "N": "Cámara víctimas",
+    "O": "Hombre",
+    "Q": "Narrar para vivir",
+    "R": 502,
+    "S": "Centroizquierda",
+    "T": "",
+    "U": "Sin datos",
+    "V": "Sin datos",
+    "W": "Público",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Trabaja en el Sena desde 2014. Fue compañero de lista de la reconocida líder Mayerlis Angarita.",
+    "AQ": "https://www.lasillavacia.com/media/luis-ramiro-ricardo.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "",
+    "AW": "",
+    "AX": "",
+    "BD": "Mayor de 80 años",
+    "BE": "",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "Campesinos",
+    "BJ": "Montes de María (víctimas)",
+    "BK": "Sin datos",
+    "BL": "De paz",
+    "CH": "Sí"
+  },
+  {
     "A": "Sierra",
     "B": "Díaz",
     "C": "Carmen Alicia",
@@ -48863,7 +48916,7 @@
     "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Olaya",
@@ -49287,7 +49340,7 @@
     "BJ": "Pacífico Medio (víctimas)",
     "BK": "No",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Artunduaga",
@@ -49605,7 +49658,7 @@
     "BJ": "Putumayo (víctimas)",
     "BK": "Sin datos",
     "BL": "De Paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Álvarez",
@@ -50029,7 +50082,7 @@
     "BJ": "Sierra Nevada y Perijá (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Vélez",
@@ -50347,7 +50400,7 @@
     "BJ": "Sur de Bolívar (víctimas)",
     "BK": "Sí",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Moreno",
@@ -50559,7 +50612,7 @@
     "BJ": "Sur de Córdoba (víctimas)",
     "BK": "Sin datos",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Petro",
@@ -51051,7 +51104,7 @@
     "O": "Mujer",
     "Q": "Fundesoe",
     "R": 502,
-    "S": "derecha",
+    "S": "Derecha",
     "T": "Chaparral",
     "U": "Química",
     "V": "Técnico",
@@ -51090,6 +51143,59 @@
     "BK": "Sí",
     "BL": "De paz",
     "CH": ""
+  },
+  {
+    "A": "Rincón",
+    "B": "Gutiérrez",
+    "C": "Haiver",
+    "D": "Tolima",
+    "G": "",
+    "H": "",
+    "K": "",
+    "L": "",
+    "N": "Cámara víctimas",
+    "O": "Hombre",
+    "Q": "Asociación Víctimas Núcleo Santiago Pérez",
+    "R": 501,
+    "S": "Centroizquierda",
+    "T": "Ataco",
+    "U": "Sin datos",
+    "V": "Sin datos",
+    "W": "Social",
+    "X": "",
+    "Y": "No",
+    "AA": "No",
+    "AB": "No",
+    "AC": "",
+    "AD": "No",
+    "AE": "No",
+    "AF": "No",
+    "AG": "No",
+    "AI": "No",
+    "AJ": "No",
+    "AK": "No",
+    "AL": "No",
+    "AM": "No",
+    "AN": "No",
+    "AO": "No",
+    "AP": "Líder indígena de Santiago Pérez, en el municipio de Ataco, ha sido inspector de obras en la Federación Nacional de Cafeteros y gobernador indígena del resguardo Brisas de Atá de Santiago Pérez, elegido este mismo año.",
+    "AQ": "https://www.lasillavacia.com/media/haiver-rincon-gutierrez.jpg",
+    "AR": "No",
+    "AT": "",
+    "AU": "",
+    "AV": "víctimas del conflicto",
+    "AW": "",
+    "AX": "",
+    "BD": "",
+    "BE": "",
+    "BF": "No tiene líos ni cuestionamientos",
+    "BG": "No ha trabajado en el Estado",
+    "BH": "",
+    "BI": "Mujeres campesinas",
+    "BJ": "Sur del Tolima (víctimas)",
+    "BK": "Sí",
+    "BL": "De paz",
+    "CH": "Sí"
   },
   {
     "A": "Sabigal",
@@ -51354,7 +51460,7 @@
     "BJ": "Urabá (víctimas)",
     "BK": "No",
     "BL": "De paz",
-    "CH": ""
+    "CH": "Sí"
   },
   {
     "A": "Mosquera",

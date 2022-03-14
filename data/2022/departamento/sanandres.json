@@ -49,7 +49,8 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Bryan",
@@ -101,7 +102,8 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cantillo",
@@ -153,7 +155,8 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -205,7 +208,8 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Hogiste",
@@ -257,7 +261,8 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Jay-pang",
@@ -309,7 +314,8 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Méndez",
@@ -361,7 +367,8 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Outten",
@@ -413,7 +420,8 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rojas",
@@ -465,6 +473,7 @@
     "BI": "",
     "BJ": "San Andrés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

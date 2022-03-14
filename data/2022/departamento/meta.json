@@ -49,7 +49,8 @@
     "BI": "Campesinos",
     "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sí",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Arana",
@@ -101,7 +102,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Castellanos",
@@ -153,7 +155,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Contento",
@@ -205,7 +208,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cruz",
@@ -257,7 +261,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Duque",
@@ -309,7 +314,8 @@
     "BI": "Campesinos",
     "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Gaitán",
@@ -361,7 +367,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "García",
@@ -413,7 +420,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -465,7 +473,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "González",
@@ -517,7 +526,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Meza",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Muñoz",
@@ -621,7 +632,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Niño",
@@ -673,7 +685,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Palacios",
@@ -725,7 +738,8 @@
     "BI": "Campesinos",
     "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Parrado",
@@ -777,7 +791,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rodríguez",
@@ -829,7 +844,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rojas",
@@ -881,7 +897,8 @@
     "BI": "Campesinos",
     "BJ": "Macarena - Guaviare (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Tamayo",
@@ -933,7 +950,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Tamayo",
@@ -985,7 +1003,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Vallejo",
@@ -1037,7 +1056,8 @@
     "BI": "",
     "BJ": "Meta",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Vega",
@@ -1089,7 +1109,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Velásquez",
@@ -1141,6 +1162,7 @@
     "BI": "Viejo Nuevo Liberalismo",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   }
 ]

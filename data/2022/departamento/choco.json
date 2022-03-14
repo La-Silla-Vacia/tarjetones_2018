@@ -49,7 +49,8 @@
     "BI": "Afro",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Bantu",
@@ -101,7 +102,8 @@
     "BI": "Movimiento estudiantil, defensores de Derechos Humanos",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Blandon",
@@ -153,7 +155,8 @@
     "BI": "Afros",
     "BJ": "Chocó (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Córdoba",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Cuesta",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Flórez",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ibargüen",
@@ -361,7 +367,8 @@
     "BI": "",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Lagarejo",
@@ -413,7 +420,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Mendoza",
@@ -465,7 +473,8 @@
     "BI": "Afros",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Minotta",
@@ -517,7 +526,8 @@
     "BI": "Raciales y palenqueras",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Moreno",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Mosquera",
@@ -621,7 +632,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Mosquera",
@@ -673,7 +685,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Chocó (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Mosquera",
@@ -725,7 +738,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Chocó (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Mosquera",
@@ -777,7 +791,8 @@
     "BI": "Afros",
     "BJ": "Chocó (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Olave",
@@ -829,7 +844,8 @@
     "BI": "Afro, juventudes, tercera edad",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Palacios",
@@ -881,7 +897,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Palacios",
@@ -933,7 +950,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Perea",
@@ -985,7 +1003,8 @@
     "BI": "Víctimas de las Farc",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Rentería",
@@ -1037,7 +1056,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Sánchez",
@@ -1089,7 +1109,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Serna",
@@ -1141,7 +1162,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Torres",
@@ -1193,7 +1215,8 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Valencia",
@@ -1245,7 +1268,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Chocó (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Vidal",
@@ -1297,6 +1321,7 @@
     "BI": "Sin datos",
     "BJ": "Chocó",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

@@ -49,7 +49,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Alfonso",
@@ -101,7 +102,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Arbeláez",
@@ -153,7 +155,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Barreto",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Barreto",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Beltrán",
@@ -309,7 +314,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Castañeda",
@@ -361,7 +367,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cediel",
@@ -413,7 +420,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cuero",
@@ -465,7 +473,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Delgado",
@@ -517,7 +526,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ferro",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Gaitan",
@@ -621,7 +632,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -673,7 +685,8 @@
     "BI": "Jóvenes",
     "BJ": "Sur del Tolima (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -725,7 +738,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -777,7 +791,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "González",
@@ -829,7 +844,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Hernandez",
@@ -881,7 +897,8 @@
     "BI": "Campesinos",
     "BJ": "Sur del Tolima (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Ibarra",
@@ -933,7 +950,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Isaza",
@@ -985,7 +1003,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Martínez",
@@ -1037,7 +1056,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Medina",
@@ -1089,7 +1109,8 @@
     "BI": "Indígenas",
     "BJ": "Sur del Tolima (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Medina",
@@ -1141,7 +1162,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Molano",
@@ -1193,7 +1215,8 @@
     "BI": "Indígenas",
     "BJ": "Sur del Tolima (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Ortiz",
@@ -1245,7 +1268,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Osorio",
@@ -1297,7 +1321,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ospina",
@@ -1349,7 +1374,8 @@
     "BI": "",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Ospina",
@@ -1401,7 +1427,8 @@
     "BI": "Mujeres campesinas",
     "BJ": "Sur del Tolima (víctimas)",
     "BK": "Sí",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Pérez",
@@ -1453,7 +1480,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Pinto",
@@ -1505,7 +1533,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Quiroga",
@@ -1557,7 +1586,8 @@
     "BI": "Desplazados",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Restrepo",
@@ -1609,7 +1639,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rivas",
@@ -1661,7 +1692,8 @@
     "BI": "Maestros",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Rojas",
@@ -1713,7 +1745,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Sabigal",
@@ -1765,7 +1798,8 @@
     "BI": "Sin datos",
     "BJ": "Sur del Tolima (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Salazar",
@@ -1817,7 +1851,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Suárez",
@@ -1869,7 +1904,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Valencia",
@@ -1921,7 +1957,8 @@
     "BI": "Militares",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Villada",
@@ -1973,7 +2010,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Yepes",
@@ -2025,7 +2063,8 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Yepes",
@@ -2077,6 +2116,7 @@
     "BI": "",
     "BJ": "Tolima",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

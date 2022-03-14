@@ -49,7 +49,8 @@
     "BI": "Indígenas",
     "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Bazurto",
@@ -101,7 +102,8 @@
     "BI": "Campesinos",
     "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Chilatra",
@@ -153,7 +155,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cuéllar",
@@ -205,7 +208,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cuéllar",
@@ -257,7 +261,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Díaz",
@@ -309,7 +314,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Farfan",
@@ -361,7 +367,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Figueroa",
@@ -413,7 +420,8 @@
     "BI": "Indígenas",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Guarnizo",
@@ -465,7 +473,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "López",
@@ -517,7 +526,8 @@
     "BI": "Sin datos",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Martínez",
@@ -569,7 +579,8 @@
     "BI": "Campesinos",
     "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Mayorga",
@@ -621,7 +632,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Nuñez",
@@ -673,7 +685,8 @@
     "BI": "Sin datos",
     "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Panche",
@@ -725,7 +738,8 @@
     "BI": "Indígenas",
     "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Prieto",
@@ -777,7 +791,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Valderrama",
@@ -829,7 +844,8 @@
     "BI": "Campesinos",
     "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Valdés",
@@ -881,7 +897,8 @@
     "BI": "",
     "BJ": "Caquetá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Valencia",
@@ -933,6 +950,7 @@
     "BI": "Campesinos",
     "BJ": "Cuenca del Caguán (víctimas)",
     "BK": "Sí",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   }
 ]

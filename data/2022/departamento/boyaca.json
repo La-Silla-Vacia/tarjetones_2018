@@ -49,7 +49,8 @@
     "BI": "Maestros",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Avella",
@@ -101,7 +102,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Beltrán",
@@ -153,7 +155,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Bohórquez",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Castiblanco",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cepeda",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Chivata",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Condía",
@@ -413,7 +420,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Córdoba",
@@ -465,7 +473,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Espíndola",
@@ -517,7 +526,8 @@
     "BI": "Cristianos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Londoño",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Neisa",
@@ -621,7 +632,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Ortiz",
@@ -673,7 +685,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ortiz",
@@ -725,7 +738,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Ostos",
@@ -777,7 +791,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Pachón",
@@ -829,7 +844,8 @@
     "BI": "",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Pinzón",
@@ -881,7 +897,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ramírez",
@@ -933,7 +950,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Rivera",
@@ -985,7 +1003,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Roa",
@@ -1037,7 +1056,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Salamanca",
@@ -1089,7 +1109,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Sánchez",
@@ -1141,7 +1162,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Sánchez",
@@ -1193,7 +1215,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Suárez",
@@ -1245,7 +1268,8 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Velásquez",
@@ -1297,6 +1321,7 @@
     "BI": "Sin datos",
     "BJ": "Boyacá",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

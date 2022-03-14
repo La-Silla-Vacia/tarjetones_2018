@@ -49,7 +49,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Álvarez",
@@ -101,7 +102,8 @@
     "BI": "Indígenas",
     "BJ": "Sierra Nevada y Perijá (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Bolaño",
@@ -153,7 +155,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Castillo",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Dávila",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Echeverria",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Farelo",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Fernández",
@@ -413,7 +420,8 @@
     "BI": "Afro, campesinos afro",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gonzalez",
@@ -465,7 +473,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gonzalez",
@@ -517,7 +526,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Guida",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Henríquez",
@@ -621,7 +632,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Katime",
@@ -673,7 +685,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Martínez",
@@ -725,7 +738,8 @@
     "BI": "No aplica",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Moises",
@@ -777,7 +791,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ortega",
@@ -829,7 +844,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Paternina",
@@ -881,7 +897,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pinedo",
@@ -933,7 +950,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Porto",
@@ -985,7 +1003,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ramírez",
@@ -1037,7 +1056,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Vives",
@@ -1089,7 +1109,8 @@
     "BI": "Sin datos",
     "BJ": "Magdalena",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Zabarain",
@@ -1141,6 +1162,7 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   }
 ]

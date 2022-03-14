@@ -49,7 +49,8 @@
     "BI": "Indígenas",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Betancourth",
@@ -101,7 +102,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cardona",
@@ -153,7 +155,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Castaño",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Chica",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Correa",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "De la Calle",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Echeverri",
@@ -413,7 +420,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Escobar",
@@ -465,7 +473,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Galeano",
@@ -517,7 +526,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Giraldo",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -621,7 +632,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -673,7 +685,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Henao",
@@ -725,7 +738,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Londoño",
@@ -777,7 +791,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Murillo",
@@ -829,7 +844,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Osorio",
@@ -881,7 +897,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ospina",
@@ -933,7 +950,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pineda",
@@ -985,7 +1003,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pinilla",
@@ -1037,7 +1056,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Tibaduiza",
@@ -1089,7 +1109,8 @@
     "BI": "Cristianos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Yepes",
@@ -1141,7 +1162,8 @@
     "BI": "Sin datos",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Yepes",
@@ -1193,7 +1215,8 @@
     "BI": "Animalistas",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Álvarez",
@@ -1245,6 +1268,7 @@
     "BI": "",
     "BJ": "Caldas",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

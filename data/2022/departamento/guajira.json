@@ -49,7 +49,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cerchiario",
@@ -101,7 +102,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Colmenares",
@@ -153,7 +155,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Dangond",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Deluque",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Diaz",
@@ -309,7 +314,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Garrido",
@@ -361,7 +367,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -413,7 +420,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Iguaran",
@@ -465,7 +473,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Lobo",
@@ -517,7 +526,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Maestre",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Martelo",
@@ -621,7 +632,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Medina",
@@ -673,7 +685,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Peralta",
@@ -725,7 +738,8 @@
     "BI": "Indígenas",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Pitre",
@@ -777,7 +791,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rutto",
@@ -829,7 +844,8 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Solano",
@@ -881,6 +897,7 @@
     "BI": "",
     "BJ": "La Guajira",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

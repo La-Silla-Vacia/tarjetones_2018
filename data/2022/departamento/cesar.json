@@ -49,7 +49,8 @@
     "BI": "Social",
     "BJ": "Sierra Nevada y Perijá (víctimas)",
     "BK": "Sí",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Correa",
@@ -101,7 +102,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Cruz",
@@ -153,7 +155,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cuello",
@@ -205,7 +208,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Daza",
@@ -257,7 +261,8 @@
     "BI": "",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gnecco",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Lobo",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Morales",
@@ -413,7 +420,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Moreno",
@@ -465,7 +473,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ochoa",
@@ -517,7 +526,8 @@
     "BI": "Social",
     "BJ": "Sierra Nevada y Perijá (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Padilla",
@@ -569,7 +579,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pérez",
@@ -621,7 +632,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Sierra Nevada y Perijá (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Pineda",
@@ -673,7 +685,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Portilla",
@@ -725,7 +738,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Quintero",
@@ -777,7 +791,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Romero",
@@ -829,7 +844,8 @@
     "BI": "Social y político",
     "BJ": "Sierra Nevada y Perijá (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Salazar",
@@ -881,7 +897,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Santana",
@@ -933,7 +950,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Sierra",
@@ -985,7 +1003,8 @@
     "BI": "Político",
     "BJ": "Cesar",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Tovar",
@@ -1037,6 +1056,7 @@
     "BI": "Social",
     "BJ": "Sierra Nevada y Perijá (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   }
 ]

@@ -49,7 +49,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Beltrán",
@@ -101,7 +102,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cangrejo",
@@ -153,7 +155,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cuéllar",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "González",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Lozada",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Lozano",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Murcia",
@@ -413,7 +420,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ortiz",
@@ -465,7 +473,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pareja",
@@ -517,7 +526,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Perdomo",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Plazas",
@@ -621,7 +632,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Posada",
@@ -673,7 +685,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Prada",
@@ -725,7 +738,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Rincón",
@@ -777,7 +791,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rivera",
@@ -829,7 +844,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Saavedra",
@@ -881,7 +897,8 @@
     "BI": "",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Sánchez",
@@ -933,7 +950,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Tello",
@@ -985,7 +1003,8 @@
     "BI": "",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Tovar",
@@ -1037,7 +1056,8 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Triana",
@@ -1089,6 +1109,7 @@
     "BI": "Sin datos",
     "BJ": "Huila",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

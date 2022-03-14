@@ -49,7 +49,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Álvarez",
@@ -101,7 +102,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Arango",
@@ -153,7 +155,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cotes",
@@ -205,7 +208,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Galindo",
@@ -257,7 +261,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Hernández",
@@ -309,7 +314,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Jiménez",
@@ -361,7 +367,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Londoño",
@@ -413,7 +420,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Londoño",
@@ -465,7 +473,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pérez",
@@ -517,7 +526,8 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Sánchez",
@@ -569,6 +579,7 @@
     "BI": "",
     "BJ": "Vichada",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

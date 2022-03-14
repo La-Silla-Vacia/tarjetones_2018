@@ -49,7 +49,8 @@
     "BI": "Campesinos",
     "BJ": "Montes de María (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Angarita",
@@ -101,7 +102,8 @@
     "BI": "Mujeres víctimas",
     "BJ": "Montes de María (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Arias",
@@ -153,7 +155,8 @@
     "BI": "",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Beltrán",
@@ -205,7 +208,8 @@
     "BI": "Político",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Blanco",
@@ -257,7 +261,8 @@
     "BI": "Mujeres víctimas",
     "BJ": "Montes de María (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Castañeda",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Chagüi",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Cotes",
@@ -413,7 +420,8 @@
     "BI": "Político",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Díaz",
@@ -465,7 +473,8 @@
     "BI": "Víctimas",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Espinosa",
@@ -517,7 +526,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Gómez Casseres",
@@ -569,7 +579,8 @@
     "BI": "",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Guerrero",
@@ -621,7 +632,8 @@
     "BI": "Político",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gutiérrez",
@@ -673,7 +685,8 @@
     "BI": "Político",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gutiérrez",
@@ -725,7 +738,8 @@
     "BI": "Campesinos",
     "BJ": "Montes de María (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Jarava",
@@ -777,7 +791,8 @@
     "BI": "Político",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pérez",
@@ -829,7 +844,8 @@
     "BI": "",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pérez",
@@ -881,7 +897,8 @@
     "BI": "Campesinos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Pizarro",
@@ -933,7 +950,8 @@
     "BI": "Campesinos",
     "BJ": "Montes de María (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Polo",
@@ -985,7 +1003,8 @@
     "BI": "Afros",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rodríguez",
@@ -1037,7 +1056,8 @@
     "BI": "Político",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ruiz",
@@ -1089,7 +1109,8 @@
     "BI": "Sin datos",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Sierra",
@@ -1141,7 +1162,8 @@
     "BI": "Mujeres víctimas",
     "BJ": "Montes de María (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Suárez",
@@ -1193,7 +1215,8 @@
     "BI": "Político",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Suárez",
@@ -1245,7 +1268,8 @@
     "BI": "Trabajadoras sexuales",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Vergara",
@@ -1297,7 +1321,8 @@
     "BI": "Político",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Zuñiga",
@@ -1349,6 +1374,7 @@
     "BI": "",
     "BJ": "Sucre",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

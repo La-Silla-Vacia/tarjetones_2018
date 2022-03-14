@@ -49,7 +49,8 @@
     "BI": "LGBTI",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Almeida",
@@ -101,7 +102,8 @@
     "BI": "Comerciantes y emprendedores.",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Benavides",
@@ -153,7 +155,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Benavides",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Betancourt",
@@ -257,7 +261,8 @@
     "BI": "No",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cañizares",
@@ -309,7 +314,8 @@
     "BI": "Campesinos",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Caycedo",
@@ -361,7 +367,8 @@
     "BI": "No",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cerón",
@@ -413,7 +420,8 @@
     "BI": "Ninguno",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cortés",
@@ -465,7 +473,8 @@
     "BI": "Afros",
     "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Cortés",
@@ -517,7 +526,8 @@
     "BI": "Afros",
     "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Cortés",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Daza",
@@ -621,7 +632,8 @@
     "BI": "Campesinos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Delgado",
@@ -673,7 +685,8 @@
     "BI": "Emprendedores y juventudes",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Enríquez",
@@ -725,7 +738,8 @@
     "BI": "Ninguno",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Erazo",
@@ -777,7 +791,8 @@
     "BI": "Empresarios",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Escruceria",
@@ -829,7 +844,8 @@
     "BI": "Ninguno",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "García",
@@ -881,7 +897,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Jiménez",
@@ -933,7 +950,8 @@
     "BI": "Afros",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Mera",
@@ -985,7 +1003,8 @@
     "BI": "Ninguno",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Miranda",
@@ -1037,7 +1056,8 @@
     "BI": "Campesinos",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Monge",
@@ -1089,7 +1109,8 @@
     "BI": "Ninguno",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Montaño",
@@ -1141,7 +1162,8 @@
     "BI": "Afros",
     "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Muñoz",
@@ -1193,7 +1215,8 @@
     "BI": "No",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Narváez",
@@ -1245,7 +1268,8 @@
     "BI": "No",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Obando",
@@ -1297,7 +1321,8 @@
     "BI": "Afros",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Olaya",
@@ -1349,7 +1374,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Otero",
@@ -1401,7 +1427,8 @@
     "BI": "No",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Padilla",
@@ -1453,7 +1480,8 @@
     "BI": "Ninguno",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Palacios",
@@ -1505,7 +1533,8 @@
     "BI": "No",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Peñuela",
@@ -1557,7 +1586,8 @@
     "BI": "No",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Riascos",
@@ -1609,7 +1639,8 @@
     "BI": "Víctimas",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rivadeneira",
@@ -1661,7 +1692,8 @@
     "BI": "Mujeres cabeza de familia",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rojas",
@@ -1713,7 +1745,8 @@
     "BI": "Empresarios",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rosales",
@@ -1765,7 +1798,8 @@
     "BI": "Jóvenes indígenas",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Tulcán",
@@ -1817,7 +1851,8 @@
     "BI": "Campesinos",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Utria",
@@ -1869,7 +1904,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Pacífico - Frontera Nariñense (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Velasco",
@@ -1921,7 +1957,8 @@
     "BI": "Ninguno",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Vidal",
@@ -1973,7 +2010,8 @@
     "BI": "Afros",
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sí",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Zambrano",
@@ -2025,7 +2063,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Zúñiga",
@@ -2077,6 +2116,7 @@
     "BI": "",
     "BJ": "Nariño",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

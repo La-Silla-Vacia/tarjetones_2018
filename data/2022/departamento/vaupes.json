@@ -49,7 +49,8 @@
     "BI": "",
     "BJ": "Vaupés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Correal",
@@ -101,7 +102,8 @@
     "BI": "",
     "BJ": "Vaupés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Estrada",
@@ -153,7 +155,8 @@
     "BI": "Indígenas",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Lozano",
@@ -205,7 +208,8 @@
     "BI": "",
     "BJ": "Vaupés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Moreno",
@@ -257,7 +261,8 @@
     "BI": "Indígenas",
     "BJ": "Vaupés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Peña",
@@ -309,7 +314,8 @@
     "BI": "",
     "BJ": "Vaupés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Santacruz",
@@ -361,7 +367,8 @@
     "BI": "",
     "BJ": "Vaupés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Valencia",
@@ -413,7 +420,8 @@
     "BI": "Indígenas",
     "BJ": "Vaupés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Vásquez",
@@ -465,6 +473,7 @@
     "BI": "",
     "BJ": "Vaupés",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

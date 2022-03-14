@@ -49,7 +49,8 @@
     "BI": "Indígenas",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Arteaga",
@@ -101,7 +102,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Banguero",
@@ -153,7 +155,8 @@
     "BI": "Afros",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Bastidas",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Bonilla",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Bonilla",
@@ -309,7 +314,8 @@
     "BI": "Afros",
     "BJ": "Pacífico Medio (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Bustamante",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Campo",
@@ -413,7 +420,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Carabalí",
@@ -465,7 +473,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Cárdenas",
@@ -517,7 +526,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Golu",
@@ -569,7 +579,8 @@
     "BI": "Afros",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -621,7 +632,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -673,7 +685,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -725,7 +738,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "González",
@@ -777,7 +791,8 @@
     "BI": "Afro, jóvenes",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gutiérrez",
@@ -829,7 +844,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sí",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Hurtado",
@@ -881,7 +897,8 @@
     "BI": "Indígenas",
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Lara",
@@ -933,7 +950,8 @@
     "BI": "Afros",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "López",
@@ -985,7 +1003,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Martínez",
@@ -1037,7 +1056,8 @@
     "BI": "Sin datos",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Muñoz",
@@ -1089,7 +1109,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "SIn datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Negret",
@@ -1141,7 +1162,8 @@
     "BI": "Víctimas del conflicto",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Obando",
@@ -1193,7 +1215,8 @@
     "BI": "Sin datos",
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Ortega",
@@ -1245,7 +1268,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Osorio",
@@ -1297,7 +1321,8 @@
     "BI": "Caficultores",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Palacios",
@@ -1349,7 +1374,8 @@
     "BI": "Afros, jóvenes",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Patiño",
@@ -1401,7 +1427,8 @@
     "BI": "Indígenas",
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "No",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Pete",
@@ -1453,7 +1480,8 @@
     "BI": "Indígenas",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Quilcue",
@@ -1505,7 +1533,8 @@
     "BI": "Sin datos",
     "BJ": "Indígena",
     "BK": "Sin datos",
-    "BL": "Indígena"
+    "BL": "Indígena",
+    "CH": ""
   },
   {
     "A": "Riascos",
@@ -1557,7 +1586,8 @@
     "BI": "Afros",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Salazar",
@@ -1609,7 +1639,8 @@
     "BI": "Campesinos",
     "BJ": "Alto Patía - Norte del Cauca (víctimas)",
     "BK": "Sin datos",
-    "BL": "De paz"
+    "BL": "De paz",
+    "CH": ""
   },
   {
     "A": "Salazar",
@@ -1661,7 +1692,8 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Samboni",
@@ -1713,7 +1745,8 @@
     "BI": "Cristianos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Silva",
@@ -1765,7 +1798,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Valencia",
@@ -1817,6 +1851,7 @@
     "BI": "Sin datos",
     "BJ": "Cauca",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

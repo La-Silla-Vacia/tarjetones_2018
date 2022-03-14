@@ -49,7 +49,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Aguilar",
@@ -101,7 +102,8 @@
     "BI": "Afros, campesinos, madres cabeza de hogar, indígenas, tercera edad",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Aguilera",
@@ -153,7 +155,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Amar",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Amín",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Barraza",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Barraza",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Blanco",
@@ -413,7 +420,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cepeda",
@@ -465,7 +473,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Char",
@@ -517,7 +526,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Corredor",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Escaf",
@@ -621,7 +632,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Flórez",
@@ -673,7 +685,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Fortich",
@@ -725,7 +738,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Godoy",
@@ -777,7 +791,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -829,7 +844,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -881,7 +897,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Gómez",
@@ -933,7 +950,8 @@
     "BI": "",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Leventhal",
@@ -985,7 +1003,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Lorduy",
@@ -1037,7 +1056,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Macías",
@@ -1089,7 +1109,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Massa",
@@ -1141,7 +1162,8 @@
     "BI": "Afros",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Meisel",
@@ -1193,7 +1215,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Monsalve",
@@ -1245,7 +1268,8 @@
     "BI": "Afros",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Motta",
@@ -1297,7 +1321,8 @@
     "BI": "No aplica",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Name",
@@ -1349,7 +1374,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Pérez",
@@ -1401,7 +1427,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pérez",
@@ -1453,7 +1480,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Pérez",
@@ -1505,7 +1533,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Rojano",
@@ -1557,7 +1586,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Soto",
@@ -1609,7 +1639,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sí",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Torres",
@@ -1661,7 +1692,8 @@
     "BI": "Afros, palenqueros y cristianos",
     "BJ": "Afros",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Torres",
@@ -1713,7 +1745,8 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Vargas",
@@ -1765,7 +1798,8 @@
     "BI": "Víctimas de violencia de género",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Zabaraín",
@@ -1817,6 +1851,7 @@
     "BI": "Sin datos",
     "BJ": "Atlántico",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

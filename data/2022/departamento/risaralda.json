@@ -49,7 +49,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Botero",
@@ -101,7 +102,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Corrales",
@@ -153,7 +155,8 @@
     "BI": "Caficultores",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Franco",
@@ -205,7 +208,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Gallo",
@@ -257,7 +261,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "García",
@@ -309,7 +314,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Giraldo",
@@ -361,7 +367,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Hoyos",
@@ -413,7 +420,8 @@
     "BI": "Corteros de caña",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Londoño",
@@ -465,7 +473,8 @@
     "BI": "Cristianos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Londoño",
@@ -517,7 +526,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "López",
@@ -569,7 +579,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Manyoma",
@@ -621,7 +632,8 @@
     "BI": "Afros",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Merheg",
@@ -673,7 +685,8 @@
     "BI": "Sin datos",
     "BJ": "Nacional",
     "BK": "Sin datos",
-    "BL": "Nacional"
+    "BL": "Nacional",
+    "CH": ""
   },
   {
     "A": "Noreña",
@@ -725,7 +738,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ospina",
@@ -777,7 +791,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Patiño",
@@ -829,7 +844,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Reinales",
@@ -881,7 +897,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Rivera",
@@ -933,7 +950,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Salazar",
@@ -985,7 +1003,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Valencia",
@@ -1037,7 +1056,8 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Vallejo",
@@ -1089,6 +1109,7 @@
     "BI": "Sin datos",
     "BJ": "Risaralda",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

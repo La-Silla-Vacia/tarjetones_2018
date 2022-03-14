@@ -49,7 +49,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Bahamon",
@@ -101,7 +102,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Barrera",
@@ -153,7 +155,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Barreto",
@@ -205,7 +208,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Bonilla",
@@ -257,7 +261,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Cano",
@@ -309,7 +314,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Garvin",
@@ -361,7 +367,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Mancera",
@@ -413,7 +420,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Munevar",
@@ -465,7 +473,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Peñaloza",
@@ -517,7 +526,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Ramírez",
@@ -569,7 +579,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Sarmiento",
@@ -621,7 +632,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Valencia",
@@ -673,7 +685,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Vélez",
@@ -725,7 +738,8 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   },
   {
     "A": "Viveros",
@@ -777,6 +791,7 @@
     "BI": "Migrantes colombianos",
     "BJ": "Exterior",
     "BK": "Sin datos",
-    "BL": "Normal"
+    "BL": "Normal",
+    "CH": ""
   }
 ]

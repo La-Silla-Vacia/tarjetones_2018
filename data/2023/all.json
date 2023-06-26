@@ -18,7 +18,8 @@
     "V": "Especialización",
     "W": "Política",
     "X": "Salud",
-    "Y": "B"
+    "Y": "B",
+    "Z": 1
   },
   {
     "A": "Bocanegra",
@@ -39,7 +40,8 @@
     "V": "Especialización",
     "W": "Política",
     "X": "Salud",
-    "Y": "B"
+    "Y": "B",
+    "Z": 1
   },
   {
     "A": "Benjumea",
@@ -60,7 +62,8 @@
     "V": "Técnico",
     "W": "Medios",
     "X": "Comunicaciones y tecnología",
-    "Y": "A"
+    "Y": "A",
+    "Z": 1
   },
   {
     "A": "Cañas",
@@ -81,7 +84,8 @@
     "V": "Especialización",
     "W": "Social",
     "X": "Salud",
-    "Y": "A"
+    "Y": "A",
+    "Z": 2
   },
   {
     "A": "Fucker",
@@ -102,7 +106,8 @@
     "V": "Especialización",
     "W": "Política",
     "X": "",
-    "Y": "B"
+    "Y": "B",
+    "Z": 2
   },
   {
     "A": "García",
@@ -123,6 +128,7 @@
     "V": "Pregrado",
     "W": "Público",
     "X": "Derecho",
-    "Y": "D"
+    "Y": "D",
+    "Z": 3
   }
 ]

@@ -18,7 +18,8 @@
       "U": "Odontóloga",
       "V": "Especialización",
       "W": "Política",
-      "X": "Salud"
+      "X": "Salud",
+      "Y": "A"
     },
     {
       "A": "Bocanegra",
@@ -38,7 +39,8 @@
       "U": "Administración pública",
       "V": "Especialización",
       "W": "Política",
-      "X": "Salud"
+      "X": "Salud",
+      "Y": "B"
     },
     {
       "A": "Benjumea",
@@ -58,7 +60,8 @@
       "U": "Periodismo",
       "V": "Técnico",
       "W": "Medios",
-      "X": "Comunicaciones y tecnología"
+      "X": "Comunicaciones y tecnología",
+      "Y": "A"
     },
     {
       "A": "Cañas",
@@ -78,7 +81,8 @@
       "U": "Antropólogo",
       "V": "Especialización",
       "W": "Social",
-      "X": "Salud"
+      "X": "Salud",
+      "Y": "A"
     },
     {
       "A": "Fucker",
@@ -98,7 +102,8 @@
       "U": "Administración de empresas",
       "V": "Especialización",
       "W": "Política",
-      "X": ""
+      "X": "",
+      "Y": "B"
     },
     {
       "A": "García",
@@ -118,7 +123,8 @@
       "U": "Derecho",
       "V": "Pregrado",
       "W": "Público",
-      "X": "Derecho"
+      "X": "Derecho",
+      "Y": "D"
     }
   ]
 }
